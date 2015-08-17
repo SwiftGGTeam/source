@@ -515,7 +515,7 @@ Swift 不需要在你代码中的每一句表达式之后添加分号。只有�
 
 ```
 let swift = "not a scripting language"
-``
+```
 不推荐做法：
 
 ```

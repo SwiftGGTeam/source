@@ -616,5 +616,5 @@ let colour = "red"
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html)
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html)
 
-
+<center>![给译者打赏](/img/QRCode/shanksyang.jpg)</center>
 

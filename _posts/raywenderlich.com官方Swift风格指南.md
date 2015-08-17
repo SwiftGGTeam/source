@@ -15,7 +15,8 @@ permalink: raywenderlich-swift-style-guide
 
 <!--more-->
 
-##命名(Naming)
+
+## 命名(Naming)
 使用驼峰式的描述性命名方式，为类，方法，变量等命名。类名的首字母应该大写，而方法和变量的首字母使用小写字符。
 
 推荐做法：
@@ -62,7 +63,7 @@ class Guideline {
 }
 ```
 
-###枚举(Enumerations)
+### 枚举(Enumerations)
 使用首字母大写的驼峰命名规则来命名枚举值：
 
 ```
@@ -74,7 +75,8 @@ enum Shape {
 }
 ```
 
-###文章（Prose）
+### 文章（Prose）
+
 当我们在文章中（教程，图书，注释等）需要引用到函数时，需要从调用者的视角考虑，包含必要的参数命名，或者使用`_`表示不需要命名的参数。
 
 >从你自身实现的`init`中调用`convertPointAt(column:row:) `。
@@ -89,7 +91,7 @@ enum Shape {
 
 [![Methods in Xcode jump bar](https://github.com/raywenderlich/swift-style-guide/raw/master/screens/xcode-jump-bar.png "Methods in Xcode jump bar")](https://github.com/raywenderlich/swift-style-guide/raw/master/screens/xcode-jump-bar.png)
 
-###类的前缀(Class Prefixes)
+### 类的前缀(Class Prefixes)
 
 Swift类型自动被模块名设置了名称空间，所以你不需要加一个类的前缀。如果两个来自不同模块的命名冲突了，你可以附加一个模块名到类型命名的前面来消除冲突。
 
@@ -99,7 +101,7 @@ import SomeModule
 let myClass = MyModule.UsefulClass()
 ```
 
-##空格（Spacing）
+## 空格（Spacing）
 
 * 使用2个空格的缩进比使用tabs更好，可以减少占用空间和帮助防止多次换行。确保在Xcode进行了下图的偏好设置：
 
@@ -133,15 +135,15 @@ else {
 
 * 应该在方法之间空出一行，从视觉上有更好的区分和组织。方法内的空白行隔开不同的功能，但是当一个方法中有很多段落时，也意味着你应该将该方法重构成几个方法。
 
-##注释（Comments）
+## 注释（Comments）
 
 当你需要时，使用注释来解释一段特定的代码段的作用。注释必须保证更新或者及时删除。
 
 避免在代码中使用块注释，代码尽可能自己能表达含义。以下情况除外：当使用注释来生成文档时。
 
-##Classes and Structures
+## Classes and Structures
 
-###选择使用谁？（Which one to use?）
+### 选择使用谁？（Which one to use?）
 
 请记住，结构体是[值类型](https://developer.apple.com/library/mac/documentation/Swift/Conceptual/Swift_Programming_Language/ClassesAndStructures.html#//apple_ref/doc/uid/TP40014097-CH13-XID_144)。使用结构体并没有一个标识。一个数组包含`[a, b, c]`和另外一个数组同样包含`[a, b, c]`是完全一样的，它们完全可以交换使用。使用第一个还是使用第二个无关紧要，因为它们代表的是同一个东西。这就是为什么数组是结构体。
 
@@ -149,7 +151,7 @@ else {
 
 有时，一些事物应该定义为结构体，但是需要兼容AnyObject或者已经在以前的历史版本中定义为类（`NSDate`，`NSSet`）。尽可能的尝试遵守这些规则。
 
-###定义的案例（Example definition）
+### 定义的案例（Example definition）
 
 以下是一个风格很好的类定义:
 
@@ -197,7 +199,7 @@ class Circle: Shape {
 * 缩进getter，setter的定义和属性观察器的定义。
 * 不需要添加`internal`这样的默认的修饰符。同样的，不需要在重写一个方法时添加访问修饰符。
 
-###Self的使用（Use of Self）
+### Self的使用（Use of Self）
 
 为了保持简洁，避免使用 self 关键词，Swift  不需要使用 `self` 来访问对象属性和调用对象方法。
 
@@ -250,7 +252,7 @@ class MyViewcontroller: UIViewController, UITableViewDataSource, UIScrollViewDel
 }
 ```
 
-###计算属性（Computed Properties）
+### 计算属性（Computed Properties）
 
 为了保持简洁，如果一个计算属性是只读的，请忽略掉get语句。只有在需要定义set语句的时候，才提供get语句。
 
@@ -272,7 +274,7 @@ var diameter: Double {
 }
 ```
 
-##函数定义（Function Declarations）
+## 函数定义（Function Declarations）
 
 保证短的函数定义在同一行中，并且包含左大括号：
 
@@ -291,7 +293,7 @@ func reticulateSplines(spline: [Double], adjustmentFactor: Double,
 }
 ```
 
-##闭包表达式（Closure Expressions）
+## 闭包表达式（Closure Expressions）
 
 如果闭包表达式参数在参数列表中的最后一个时，使用尾部闭包表达式。给定闭包参数一个描述性的命名。
 
@@ -335,7 +337,7 @@ attendeeList.sort { a, b in
 }
 ```
 
-##类型（Types）
+## 类型（Types）
 
 尽可能使用 Swift 原生类型。Swift 提供到 Objective-C 类型的桥接，所以你仍然可以使用许多需要的方法。
 
@@ -354,13 +356,13 @@ let widthString: NSString = width.stringValue        // NSString
 
 在 Sprite Kit 代码中，使用 CGFloat 可以使得代码更加简明，避免很多转换。
 
-###常量（Constants）
+### 常量（Constants）
 
 常量定义使用 `let` 关键字，变量定义使用 `var` 关键字，如果变量的值不需要改变，请尽量使用 `let` 关键字。
 
 提示：一个好的技巧是，使用 `let` 定义任何东西，只有在编译器告诉我们值需要改变的时候才改成 `var` 定义。
 
-###可选类型（Optionals）
+### 可选类型（Optionals）
 
 当nil值是可以接受的时候时，定义变量和函数返回值为可选类型(?)。
 
@@ -409,7 +411,7 @@ if let unwrappedSubview = optionalSubview {
 }
 ```
 
-###结构体构造器（Struct Initializers）
+### 结构体构造器（Struct Initializers）
 
 使用原生的 Swift 结构体构造器，比老式的几何类（CGGeometry）的构造器要好。
 
@@ -428,7 +430,7 @@ let centerPoint = CGPointMake(96, 42)
 ```
 推荐使用结构体限定的常量`CGRect.infiniteRect`,`CGRect.nullRect`等，来替代全局常量`CGRectInfinite`,`CGRectNull `等。对于已经存在的变量，可以直接简写成 `.zeroRect`。
 
-###类型推断（Type Inference）
+### 类型推断（Type Inference）
 
 推荐使用更加紧凑的代码，让编译器能够推断出常量和变量的类型。除非你需要定义一个特定的类型(比如`CGFloat`和`Int16`)，而不是默认的类型。
 
@@ -452,7 +454,7 @@ var names: [String] = []
 注意：遵守这条规则意味选择描述性命名比之前变得更加重要。
 
 
-###语法糖（Syntactic Sugar）
+### 语法糖（Syntactic Sugar）
 
 推荐使用类型定义简洁的版本，而不是全称通用语法。
 
@@ -472,7 +474,7 @@ var employees: Dictionary<Int, String>
 var faxNumber: Optional<Int>
 ```
 
-##控制流（Control Flow）
+## 控制流（Control Flow）
 
 推荐循环使用`for-in`表达式，而不使用`for-condition-increment`表达式。
 
@@ -501,7 +503,7 @@ for var i = 0; i < attendeeList.count; i++ {
 }
 ```
 
-##分号（Semicolons）
+## 分号（Semicolons）
 
 Swift 不需要在你代码中的每一句表达式之后添加分号。只有在你需要在一行中连接多个表达式中，使用分号来区隔。
 
@@ -579,7 +581,7 @@ let colour = "red"
 :)
 ```
 
-##声誉（Credits）
+## 声誉（Credits）
 
 这篇风格指南是所有raywenderlich.com团队成员共同的努力：
 

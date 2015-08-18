@@ -1,4 +1,4 @@
-title: "raywenderlich.com官方Swift风格指南"
+title: "RayWenderlich.com官方Swift风格指南"
 date: 2015-8-11
 tags: [Swift]
 categories: [Swift]

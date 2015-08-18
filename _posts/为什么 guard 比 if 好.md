@@ -172,4 +172,4 @@ do {
 
 guard 还有什么重要的特性呢，请在评论中告诉我！
 
-<center>![给译者打赏](/img/QRCode/SergioChan.jpg)</center>
+<center>![给译者打赏](/img/QRCode/DianQK.jpg)</center>

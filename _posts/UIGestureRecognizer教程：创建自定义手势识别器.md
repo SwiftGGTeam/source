@@ -588,5 +588,4 @@ if c.state == .Changed {
 
 如果你对本教程有任何疑问和评论，请在论坛下方的评论区自由发言！
 
-	
-
+<center>![给译者打赏](/img/QRCode/mmoaay.jpg)</center>

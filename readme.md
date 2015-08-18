@@ -2,7 +2,7 @@
 * md文件头部：
 
 ```
-title: "为什么 guard 比 if 好” --文章标题
+title: "为什么 guard 比 if 好" --文章标题
 date: 2015-8-6 --文章翻译定稿时间
 tags: [Swift] --标签
 categories: [Swift] —网站归类

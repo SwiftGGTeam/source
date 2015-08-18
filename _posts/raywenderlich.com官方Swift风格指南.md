@@ -1,4 +1,4 @@
-title: "raywenderlich.com官方Swift风格指南"
+title: "RayWenderlich 官方 Swift 风格指南"
 date: 2015-8-11
 tags: [Swift]
 categories: [Swift]
@@ -515,7 +515,7 @@ Swift 不需要在你代码中的每一句表达式之后添加分号。只有�
 
 ```
 let swift = "not a scripting language"
-``
+```
 不推荐做法：
 
 ```
@@ -524,7 +524,7 @@ let swift = "not a scripting language";
 
 注意：Swift与JavaScript有很大的不同，JavaScript认为忽略分号通常认为是[不安全](http://stackoverflow.com/questions/444080/do-you-recommend-using-semicolons-after-every-statement-in-javascript)的。
 
-##语言（Language）
+## 语言（Language）
 
 使用美式英语拼音符合Apple API的标准。
 
@@ -539,7 +539,7 @@ let color = "red"
 let colour = "red"
 ```
 
-##版权声明（Copyright Statement）
+## 版权声明（Copyright Statement）
 
 以下的版权声明应该被包含在所有源文件的顶部：
 
@@ -565,7 +565,7 @@ let colour = "red"
  * THE SOFTWARE.
  */
 
-##笑脸（Smiley Face）
+## 笑脸（Smiley Face）
 
 笑脸是raywenderlich.com网站非常重要的风格特性!拥有一个正确的笑脸，表达代码文章中开心和激动，是非常重要的。使用`]`来代表笑脸，因为这代表ASCII中最大的笑脸。`)`只能创建半个心型笑脸，所以不推荐使用。
 
@@ -616,5 +616,5 @@ let colour = "red"
 * [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html)
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html)
 
-
+<center>![给译者打赏](/img/QRCode/shanksyang.jpg)</center>
 

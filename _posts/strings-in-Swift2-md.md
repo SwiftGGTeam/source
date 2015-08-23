@@ -1,5 +1,5 @@
 title: "苹果官方博客：Swift 2.0 中的字符串"
-date: 2015-05-08 14:08:02
+date: 2015-08-24 07:04:02
 tags: [Swift]
 categories: [Swift]
 permalink: strings-in-Swift2

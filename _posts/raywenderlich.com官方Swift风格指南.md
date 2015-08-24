@@ -1,7 +1,7 @@
 title: "RayWenderlich 官方 Swift 风格指南"
 date: 2015-8-11
 tags: [Swift]
-categories: [Swift]
+categories: [Ray Wenderlich]
 permalink: raywenderlich-swift-style-guide
 
 ---

@@ -91,3 +91,4 @@ decomposed == precomposed // true
 
 如果想了解更多 Swift 中关于的字符和字符串的信息，可以阅读[The Swift Programming Language](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/StringsAndCharacters.html#//apple_ref/doc/uid/TP40014097-CH7-ID285) 和 [the Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios//documentation/Swift/Reference/Swift_String_Structure/index.html#//apple_ref/swift/struct/s:SS).
 
+<center>![给译者打赏](/img/QRCode/buginux.jpg)</center>

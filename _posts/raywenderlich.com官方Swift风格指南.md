@@ -141,7 +141,7 @@ else {
 
 避免在代码中使用块注释，代码尽可能自己能表达含义。以下情况除外：当使用注释来生成文档时。
 
-## Classes and Structures
+## 类和结构体（Classes and Structures）
 
 ### 选择使用谁？（Which one to use?）
 
@@ -274,7 +274,7 @@ var diameter: Double {
 }
 ```
 
-## 函数定义（Function Declarations）
+## 函数声明（Function Declarations）
 
 保证短的函数定义在同一行中，并且包含左大括号：
 
@@ -581,7 +581,7 @@ let colour = "red"
 :)
 ```
 
-## 声誉（Credits）
+## 作者（Credits）
 
 这篇风格指南是所有raywenderlich.com团队成员共同的努力：
 

@@ -1,7 +1,7 @@
 title: "Swift 2.0: 理解 flatMap"
 date: 2015-8-6
 tags: [Swift]
-categories: [Swift]
+categories: [Natasha The Robot]
 permalink: swift-2-flatmap
 
 ---

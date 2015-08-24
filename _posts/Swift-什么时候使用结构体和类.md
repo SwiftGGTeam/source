@@ -1,7 +1,7 @@
 title: "Swift:什么时候使用结构体和类"
 date: 2015-8-14
 tags: [Swift]
-categories: [Swift]
+categories: [Mike Ash]
 permalink: friday-qa-2015-07-17-when-to-use-swift-structs-and-classes
 
 ---

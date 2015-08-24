@@ -1,7 +1,7 @@
 title: "UIGestureRecognizer教程：创建自定义手势识别器"
 date: 2015-8-11
 tags: [Swift]
-categories: [Swift]
+categories: [Ray Wenderlich]
 permalink: uigesturerecognizer-tutorial-creating-custom-recognizers
 
 ---

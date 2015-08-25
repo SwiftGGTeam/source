@@ -68,7 +68,7 @@ let precomposed = "\u{AC00}" // 가
 decomposed == precomposed // true
 ```
 
-这个行为与 Swift 中其它的集合类型差别很大。试想，如果向一个数组当中添加 ![](http://img.blog.csdn.net/20150812124230927) 和 ![](http://img.blog.csdn.net/20150812124254804) 两个元素，最后却得到一个 ![](http://img.blog.csdn.net/20150812124307442)，想必写这段代码的程序员也会很惊讶吧。
+这个行为与 Swift 中其它的集合类型差别很大。试想，如果向一个数组当中添加 ![](/img/articles/strings-in-Swift2/20150812124230927) 和 ![](/img/articles/strings-in-Swift2/20150812124254804) 两个元素，最后却得到一个 ![](/img/articles/strings-in-Swift2/20150812124307442)，想必写这段代码的程序员也会很惊讶吧。
 
 ## 取决于你的视角
 
@@ -81,7 +81,7 @@ decomposed == precomposed // true
 
 如果以前面示例中的单词 “café” 为例，将它分解成 [c, a, f, e] 和 [ ´ ] 的字符序列，下面以不同的视角来对这些字符序列进行表示：
 
-![café字符序列视角](http://img.blog.csdn.net/20150812123950088)
+![café字符序列视角](/img/articles/strings-in-Swift2/20150812123950088)
 
 - `characters` 属性将文本分割为 *扩展字形集群(extended grapheme clusters)*，即与用户所直接看到相一致的字符序列(在此处即为 c, a, f 和 é)。取得这个属性的时间复杂度是线性的 `O(n)`, 因为字符串必须对整个字符串文本中的每一个位置(这里的位置被称为码位(code point))进行迭代以确定字符的边界。只要涉及到对人类可读(human-readable)文本，或者本地化(locale-sensitive)有关的 Unicode 算法时，比如 `localizedStandardCompare(_:)` 处理的字符串，或者 `localizedLowercaseString` 属性，都需要对字符串中的字符进行逐字的处理。 
 - `unicodeScalars` 属性表示出了字符串底层所保存的标量值。如果原本的字符串是由预组合字符 `é` 而非分解的字符 `e` + `´` 所组成，则 `é` 会被以 Unicode标量的形式表示出来。当需要对字符串底层的字符数据进行处理的时候，我们可以使用这个 API。

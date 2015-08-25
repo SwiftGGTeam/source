@@ -89,7 +89,7 @@ enum Shape {
 
 当你遇到疑问时，可以看看Xcode在`jump bar`中是如何列出方法名的 —— 我们的风格与此匹配。
 
-[![Methods in Xcode jump bar](https://github.com/raywenderlich/swift-style-guide/raw/master/screens/xcode-jump-bar.png "Methods in Xcode jump bar")](https://github.com/raywenderlich/swift-style-guide/raw/master/screens/xcode-jump-bar.png)
+![Methods in Xcode jump bar](/img/articles/raywenderlich-swift-style-guide/xcode-jump-bar.png)
 
 ### 类的前缀(Class Prefixes)
 
@@ -105,7 +105,7 @@ let myClass = MyModule.UsefulClass()
 
 * 使用2个空格的缩进比使用tabs更好，可以减少占用空间和帮助防止多次换行。确保在Xcode进行了下图的偏好设置：
 
-[![Xcode indent settings](https://github.com/raywenderlich/swift-style-guide/raw/master/screens/indentation.png "Xcode indent settings")](https://github.com/raywenderlich/swift-style-guide/raw/master/screens/indentation.png)
+![Xcode indent settings](/img/articles/raywenderlich-swift-style-guide/indentation.png)
 
 * 方法定义的大括号或者其他大括号（if/else/switch/while等）—— 般都放在定义名称的同一行，并且使用一个新的行来结束。
 

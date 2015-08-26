@@ -10,6 +10,8 @@ permalink: efficient-json-in-swift-with-functional-concepts-and-generics
 
 就在几个月前，苹果推出了一门全新的编程语言，其名为`Swift`, 这让我们对未来 iOS 和 OS X 开发充满了期待与兴奋。人们纷纷开始使用 Xcode Beta1 版本来进行 Swift 开发，但是很快就发现解析 JSON 这一常见的操作在 Swift 中并不如在 Objectitve-C 中那样快捷和方便。Swift 是一门[静态类型](http://en.wikipedia.org/wiki/Type_system)的语言，这意味我们不能简单地将对象赋值给一个特定类型的变量，并且让编译器相信这些对象就是我们所声明的那种类型。在 Swift 当中，编译器会进行检查，以确保我们不会意外地触发运行时错误。这使得我们可以依赖编译器来写出一些无 bug 的代码，同时我们必须做许多额外的工作来使编译器不报错。在这篇文章当中，我将使用函数式思想和[泛型](http://en.wikipedia.org/wiki/Generic_programming)来探讨如何编写易读高效的 JSON 解析代码。
 
+<!--more-->
+
 ## 请求用户(User)模型
 
 我们要做的事就是将网络请求获得的数据解析成 JSON。之前我们一直使用的是 `NSJSONSerialization.JSONObjectWithData(NSData, Int, &NSError)`方法，这个方法返回一个可选的 JSON 数据类型，如果解析过程出错会得到 NSError 类型的数据。在 Objective-C 当中，JSON 的数据类型是一个可以包含任何其它数据类型的 `NSDictionary`类型。 而在 Swift 当中， 新的字典类型要求我们必须显式指定它所包含的数据的类型。JSON 数据被指定为`Dictionary<String, AnyObject>`类型。这里使用 `AnyObject`的原因是 JSON 的值有可能为 `String`、`Double`、 `Bool`、 `Array`、 `Dictionary` 或者 `null`。当我们使用 JSON 来生成模型数据时，必须对每一个从 JSON 字典中获取到的值进行判断，以确保这个值与我们模型中属性的类型一致。

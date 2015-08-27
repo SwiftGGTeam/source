@@ -10,6 +10,8 @@ permalink: nscoding_and_swift_structs
 
 正如大家所知，Swift 中的结构体不遵守 `NSCoding` 协议。`NSCoding` 只适用于继承自 `NSObject` 的类。 可是结构体在 Swift 中的地位与使用频率都非常高，因此，我们需要一个能将结构体的实例归档和解档的方法。
 
+<!--more-->
+
 [Janie](https://twitter.com/redqueencoder) 写过在 Sonoplot 工作时，他们团队对此的[解决方法](http://redqueencoder.com/property-lists-and-user-defaults-in-swift/)。
 
 简而言之，他们定义了一个拥有两个方法的协议：一个方法可以从结构体当中获得一个 `NSDictionary`，另一个方法可以使用 `NSDictionary` 来初始化一个结构体。接着，再使用 `NSKeyedArchiver` 对这个 `NSDictionary` 进行序列化。这个方案的优雅之处在于，只要遵守了这个协议的结构体都可以进行序列化。

@@ -105,4 +105,4 @@ lastNameLabel.text = myClone?.lastName
 
 如果你觉得这篇文章不错，请[猛戳这里](http://swiftandpainless.com/feed)对我的博客进行订阅。
 
-<center>![给译者打赏](/img/QRCode/mmoaay.jpg)</center>
+<center>![给译者打赏](/img/QRCode/buginux.jpg)</center>

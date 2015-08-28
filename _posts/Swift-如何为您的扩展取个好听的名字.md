@@ -5,7 +5,8 @@ categories: [Natasha The Robot]
 permalink: swift-how-to-name-your-extensions
 
 ---
-原文链接：[Swift: How To Name Your Extensions](http://natashatherobot.com/swift-how-to-name-your-extensions/)
+> 原文链接：[Swift: How To Name Your Extensions](http://natashatherobot.com/swift-how-to-name-your-extensions/)
+> 译者：[SergioChan](https://github.com/SergioChan)
 
 发布于 2015 年 7 月 26 日
 
@@ -15,7 +16,7 @@ permalink: swift-how-to-name-your-extensions
 
 <!--more-->
 
-```Swift
+```swift
 
 import UIKit
 

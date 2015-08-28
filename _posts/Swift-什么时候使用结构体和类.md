@@ -5,7 +5,8 @@ categories: [Mike Ash]
 permalink: friday-qa-2015-07-17-when-to-use-swift-structs-and-classes
 
 ---
-[原文链接](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
+> 原文链接：[Friday Q&A 2015-07-17: When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
+> 译者：[Yake](http://blog.csdn.net/yake_099)
 
 世界上对 swift 持续不断的讨论话题中有一个就是什么时候使用结构体什么时候使用类。我想我今天要贡献一些自己的想法。
 <!--more-->

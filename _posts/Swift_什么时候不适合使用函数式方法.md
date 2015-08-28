@@ -5,13 +5,12 @@ categories: [Natasha The Robot]
 permalink: swift_when_the_functional_approach_is_not_right
 
 ---
-
- > 原文链接：[Swift: When the Functional Approach is NOT Right](http://natashatherobot.com/swift-when-the-functional-approach-is-not-right/)
- > 译者：[天才175](http://weibo.com/u/2916092907)
+> 原文链接：[Swift: When the Functional Approach is NOT Right](http://natashatherobot.com/swift-when-the-functional-approach-is-not-right/)
+> 译者：[天才175](http://weibo.com/u/2916092907)
 
 昨天，我在代码库中找到一段我所认为的极具 Swift 风格的代码。
 
-```
+```swift
 var minionImages = [UIImage]()
 for i in 1...7 {
     if let minionImage = UIImage(named: "minionIcon-\(i)") {
@@ -26,7 +25,7 @@ for i in 1...7 {
 
 那么，明显的解决方案是在这儿使用 map：
 
-```
+```swift
 let minionImagesMapped = (1...7)
     .map { UIImage(named: "minionIcon-\($0)") }
 ```
@@ -35,7 +34,7 @@ let minionImagesMapped = (1...7)
 
 所以我 google 了下，为了得到非可选类型的`UIImages`数组，可以使用如下方法：
 
-```
+```swift
 let minionImagesFiltered = (1...7)
     .map { UIImage(named: "minionIcon-\($0)") }
     .filter { $0 != nil}
@@ -44,7 +43,7 @@ let minionImagesFiltered = (1...7)
 
 这样的确有用，但是我并不开森。这段代码又长又拙笨，而且我讨厌强制解包可选类型，虽然这里不会出错。不过这都是小事，主要的原因是这样看起来并不像原生for循环那样简单有效。如下图所示：
 
-![](http://natashatherobot.com/wp-content/uploads/MyPlayground_playground1.png)
+![](/img/articles/swift_when_the_functional_approach_is_not_right/MyPlayground_playground1.png)
 
 可能这样做是错的，但是我最后还是选择了`for`循环。我的结论是：在 Swift 中偶尔使用`for`循环是可以的。当然我可能遗漏了一些东西，如果有，请在评论中告诉我！
 
@@ -52,7 +51,7 @@ let minionImagesFiltered = (1...7)
 
 由于有些童鞋在下面的评论中以及[Twitter](https://twitter.com/NatashaTheRobot/status/624609007043391488)上指出，可以在这里使用 Swift 2.0 的`flatMap`，我进行了修改：
 
-```
+```swift
 let minionImagesFlattened = (1...7).flatMap { UIImage(named: "minionIcon-\($0)") }
 ```
 

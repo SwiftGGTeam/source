@@ -5,8 +5,8 @@ categories: [Swift and Painless]
 permalink: nscoding_and_swift_structs
 
 ---
-
-原文连接：[NSCoding And Swift Structs](http://swiftandpainless.com/nscoding-and-swift-structs/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_3)
+> 原文连接：[NSCoding And Swift Structs](http://swiftandpainless.com/nscoding-and-swift-structs/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_3)
+> 译者：[小锅](http://www.swiftyper.com)
 
 正如大家所知，Swift 中的结构体不遵守 `NSCoding` 协议。`NSCoding` 只适用于继承自 `NSObject` 的类。 可是结构体在 Swift 中的地位与使用频率都非常高，因此，我们需要一个能将结构体的实例归档和解档的方法。
 

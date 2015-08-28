@@ -5,7 +5,8 @@ categories: [Ray Wenderlich]
 permalink: raywenderlich-swift-style-guide
 
 ---
-原文链接：[The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
+> 原文链接：[The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide)
+> 译者：[shanks](http://codebuild.me)
 
 这篇Swift风格指南与你看到的其他的指南有所不同，此篇指南主要焦点集中在打印和web展示的可读写上。我们创建此篇风格指南的目的，是为了让我们的图书，教程以及初学者套件中的代码保持优美和一致，即使我们有很多不同的作者共同编写这些图书。
 
@@ -21,7 +22,7 @@ permalink: raywenderlich-swift-style-guide
 
 推荐做法：
 
-```
+```swift
 private let maximumWidgetCount = 100
 
 class WidgetContainer {
@@ -32,7 +33,7 @@ class WidgetContainer {
 
 不推荐做法：
 
-```
+```swift
 let MAX_WIDGET_COUNT = 100
 
 class app_widgetContainer {
@@ -43,7 +44,7 @@ class app_widgetContainer {
 
 对于函数和初始化方法，推荐对所有的参数进行有意义的命名，除非上下文已经非常清楚。如果外部参数命名可以使得函数调用更加可读，也应该把外部参数命名包含在内。
 
-```
+```swift
 func dateFromString(dateString: String) -> NSDate
 func convertPointAt(#column: Int, #row: Int) -> CGPoint
 func timedAction(#delay: NSTimeInterval, perform action: SKAction) -> SKAction!
@@ -56,7 +57,7 @@ timedAction(delay: 1.0, perform: someOtherAction)
 
 对于方法来说，参照标准的苹果惯例，方法命名含义要引用到第一个参数：
 
-```
+```swift
 class Guideline {
   func combineWithString(incoming: String, options: Dictionary?) { ... }
   func upvoteBy(amount: Int) { ... }
@@ -66,7 +67,7 @@ class Guideline {
 ### 枚举(Enumerations)
 使用首字母大写的驼峰命名规则来命名枚举值：
 
-```
+```swift
 enum Shape {
   case Rectangle
   case Square
@@ -95,7 +96,7 @@ enum Shape {
 
 Swift类型自动被模块名设置了名称空间，所以你不需要加一个类的前缀。如果两个来自不同模块的命名冲突了，你可以附加一个模块名到类型命名的前面来消除冲突。
 
-```
+```swift
 import SomeModule
 
 let myClass = MyModule.UsefulClass()
@@ -113,7 +114,7 @@ let myClass = MyModule.UsefulClass()
 
 推荐做法：
 
-```
+```swift
 if user.isHappy {
   // Do something
 } else {
@@ -123,7 +124,7 @@ if user.isHappy {
 
 不推荐做法：
 
-```
+```swift
 if user.isHappy
 {
     // Do something
@@ -155,7 +156,7 @@ else {
 
 以下是一个风格很好的类定义:
 
-```
+```swift
 class Circle: Shape {
   var x: Int, y: Int
   var radius: Double
@@ -205,7 +206,7 @@ class Circle: Shape {
 
 必须使用 `self` 来区分构造器中属性命名和参数命名，还有在闭包表达式中引用属性值(编译器需要区分):
 
-```
+```swift
 class BoardLocation {
   let row: Int, column: Int
 
@@ -228,7 +229,7 @@ class BoardLocation {
 
 推荐做法：
 
-```
+```swift
 class MyViewcontroller: UIViewController {
   // class stuff here
 }
@@ -246,7 +247,7 @@ extension MyViewcontroller: UIScrollViewDelegate {
 
 不推荐做法：
 
-```
+```swift
 class MyViewcontroller: UIViewController, UITableViewDataSource, UIScrollViewDelegate {
   // all methods
 }
@@ -258,7 +259,7 @@ class MyViewcontroller: UIViewController, UITableViewDataSource, UIScrollViewDel
 
 推荐做法：
 
-```
+```swift
 var diameter: Double {
   return radius * 2
 }
@@ -266,7 +267,7 @@ var diameter: Double {
 
 不推荐做法：
 
-```
+```swift
 var diameter: Double {
   get {
     return radius * 2
@@ -278,7 +279,7 @@ var diameter: Double {
 
 保证短的函数定义在同一行中，并且包含左大括号：
 
-```
+```swift
 func reticulateSplines(spline: [Double]) -> Bool {
   // reticulate code goes here
 }
@@ -286,7 +287,7 @@ func reticulateSplines(spline: [Double]) -> Bool {
 
 在一个长的函数定义时，在适当的地方进行换行，同时在下一行中添加一个额外的缩进：
 
-```
+```swift
 func reticulateSplines(spline: [Double], adjustmentFactor: Double,
     translateConstant: Int, comment: String) -> Bool {
   // reticulate code goes here
@@ -299,7 +300,7 @@ func reticulateSplines(spline: [Double], adjustmentFactor: Double,
 
 推荐做法：
 
-```
+```swift
 UIView.animateWithDuration(1.0) {
   self.myView.alpha = 0
 }
@@ -316,7 +317,7 @@ UIView.animateWithDuration(1.0,
 
 不推荐做法：
 
-```
+```swift
 UIView.animateWithDuration(1.0, animations: {
   self.myView.alpha = 0
 })
@@ -331,7 +332,7 @@ UIView.animateWithDuration(1.0,
 
 当单个闭包表达式上下文清晰时，使用隐式的返回值：
 
-```
+```swift
 attendeeList.sort { a, b in
   a > b
 }
@@ -343,13 +344,13 @@ attendeeList.sort { a, b in
 
 推荐做法：
 
-```
+```swift
 let width = 120.0                                    // Double
 let widthString = (width as NSNumber).stringValue    // String
 ```
 不推荐做法：
 
-```
+```swift
 let width: NSNumber = 120.0                          // NSNumber
 let widthString: NSString = width.stringValue        // NSString
 ```
@@ -370,13 +371,13 @@ let widthString: NSString = width.stringValue        // NSString
 
 当你访问一个可选值时，如果只需要访问一次或者在可选值链中有多个可选值时，请使用可选值链：
 
-```
+```swift
 self.textContainer?.textLabel?.setNeedsDisplay()
 ```
 
 当需要很方便的一次性拆包或者添加附加的操作时，请使用可选值绑定：
 
-```
+```swift
 if let textContainer = self.textContainer {
   // do many things with textContainer
 }
@@ -388,7 +389,7 @@ if let textContainer = self.textContainer {
 
 推荐做法：
 
-```
+```swift
 var subview: UIView?
 var volume: Double?
 
@@ -400,7 +401,7 @@ if let subview = subview, volume = volume {
 
 不推荐做法：
 
-```
+```swift
 var optionalSubview: UIView?
 var volume: Double?
 
@@ -417,14 +418,14 @@ if let unwrappedSubview = optionalSubview {
 
 推荐做法：
 
-```
+```swift
 let bounds = CGRect(x: 40, y: 20, width: 120, height: 80)
 let centerPoint = CGPoint(x: 96, y: 42)
 
 ```
 不推荐做法：
 
-```
+```swift
 let bounds = CGRectMake(40, 20, 120, 80)
 let centerPoint = CGPointMake(96, 42)
 ```
@@ -436,7 +437,7 @@ let centerPoint = CGPointMake(96, 42)
 
 推荐做法：
 
-```
+```swift
 let message = "Click the button"
 let currentBounds = computeViewBounds()
 var names = [String]()
@@ -445,7 +446,7 @@ let maximumWidth: CGFloat = 106.5
 
 不推荐做法：
 
-```
+```swift
 let message: String = "Click the button"
 let currentBounds: CGRect = computeViewBounds()
 var names: [String] = []
@@ -460,7 +461,7 @@ var names: [String] = []
 
 推荐做法：
 
-```
+```swift
 var deviceModels: [String]
 var employees: [Int: String]
 var faxNumber: Int?
@@ -468,7 +469,7 @@ var faxNumber: Int?
 
 不推荐做法：
 
-```
+```swift
 var deviceModels: Array<String>
 var employees: Dictionary<Int, String>
 var faxNumber: Optional<Int>
@@ -480,7 +481,7 @@ var faxNumber: Optional<Int>
 
 推荐做法：
 
-```
+```swift
 for _ in 0..<3 {
   println("Hello three times")
 }
@@ -492,7 +493,7 @@ for (index, person) in enumerate(attendeeList) {
 
 不推荐做法：
 
-```
+```swift
 for var i = 0; i < 3; i++ {
   println("Hello three times")
 }
@@ -513,12 +514,12 @@ Swift 不需要在你代码中的每一句表达式之后添加分号。只有�
 
 推荐做法：
 
-```
+```swift
 let swift = "not a scripting language"
 ```
 不推荐做法：
 
-```
+```swift
 let swift = "not a scripting language";
 ```
 
@@ -530,12 +531,12 @@ let swift = "not a scripting language";
 
 推荐做法：
 
-```
+```swift
 let color = "red"
 ```
 不推荐做法：
 
-```
+```swift
 let colour = "red"
 ```
 
@@ -572,12 +573,12 @@ let colour = "red"
 
 推荐做法：
 
-```
+```swift
 :]
 ```
 不推荐做法：
 
-```
+```swift
 :)
 ```
 

@@ -5,7 +5,8 @@ categories: [Ray Wenderlich]
 permalink: uigesturerecognizer-tutorial-creating-custom-recognizers
 
 ---
-原文链接：[UIGestureRecognizer Tutorial: Creating Custom Recognizers](http://www.raywenderlich.com/104744/uigesturerecognizer-tutorial-creating-custom-recognizers)
+> 原文链接：[UIGestureRecognizer Tutorial: Creating Custom Recognizers](http://www.raywenderlich.com/104744/uigesturerecognizer-tutorial-creating-custom-recognizers)
+> 译者：[mmoaay](http://blog.csdn.net/mmoaay)
 
 > 如果是首次访问，可以订阅我的[RSS feed](http://www.raywenderlich.com/feed/)或者在[Twitter](http://twitter.com/rwenderlich)上粉我。热烈欢迎！
 

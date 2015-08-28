@@ -5,7 +5,8 @@ categories: [Natasha The Robot]
 permalink: swift-guard-better-than-if
 
 ---
-原文链接：[Swift 2.0: Why Guard is Better than If](http://natashatherobot.com/swift-guard-better-than-if/)
+> 原文链接：[Swift 2.0: Why Guard is Better than If](http://natashatherobot.com/swift-guard-better-than-if/)
+> 译者：[靛青K](http://www.dianqk.org)
 
 
 Swift 2.0 带来了令人激动的`guard`语句。但很多人还是不太理解`guard`的意义，特别是和 Swift 2.0 之前的简单`if`语句相比较。    
@@ -20,7 +21,7 @@ Swift 2.0 带来了令人激动的`guard`语句。但很多人还是不太理解
 
 这次我们要关注`viewModel`部分，特别是`createPerson()`方法：    
 
-```Swift
+```swift
 struct Person {
     let name: String
     var age: Int
@@ -56,7 +57,7 @@ struct PersonViewModel {
 
 下面是一个很经典的例子－－让人想鞭尸的 Swift 金字塔。这个是使用`if`语句写出来的`createPerson()`方法：    
 
-```Swift
+```swift
     func createPersonNoGuard() -> Person? {
         if let age = age, let name = name
             where name.characters.count > 0 && age.characters.count > 0
@@ -82,7 +83,7 @@ struct PersonViewModel {
 
 我的理解是需要返回一个 **optional Person** （这个 Person 实例可能有也可能没有）。在调用这个方法的时候就要加上一层鞭尸金字塔来处理返回的结果：    
 
-```Swift
+```swift
 let personViewModel = PersonViewModel(name: "Taylor Swift", age: "25")
 
 if let person = personViewModel.createPersonNoGuard() {
@@ -92,7 +93,7 @@ if let person = personViewModel.createPersonNoGuard() {
 
 但如果你想让这个方法更完善一些，就需要加入错误提示，返回错误时告诉使用者表格信息不完整。这时，你需要将代码改成这样：    
 
-```Swift
+```swift
     enum PersonResult {
         case Success(Person)
         case Failure(errorText: String)
@@ -116,7 +117,7 @@ if let person = personViewModel.createPersonNoGuard() {
 
 这种 Haskell 形式的返回枚举值的解决方法还不错，但这里**返回了一个 PersonResult，而不是 Person**，这就意味着你可以忽视返回的错误结果。    
 
-```Swift
+```swift
 if case .Success(let person) = personResult {
     print("Success! Person created")
 }
@@ -131,7 +132,7 @@ if case .Success(let person) = personResult {
 
 所以在使用 guard 的时候，需要用这样的语法捕捉错误信息：     
 
-```Swift
+```swift
 do {
     let person = try personViewModel.createPerson()
     print("Success! Person created. \(person)")
@@ -154,7 +155,7 @@ do {
 
 你会持续编写正确的代码，程序一旦运行出错就会提前退出。这是一种非常优美的处理代码的方式，没有任何复杂的函数语法。看下面这段代码，你能立即发现 happy-path ：     
 
-```Swift
+```swift
     func createPerson() throws -> Person {
         guard let age = age, let name = name
             where name.characters.count > 0 && age.characters.count > 0

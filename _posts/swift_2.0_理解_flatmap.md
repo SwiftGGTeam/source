@@ -5,7 +5,8 @@ categories: [Natasha The Robot]
 permalink: swift-2-flatmap
 
 ---
-原文链接：[Swift 2.0: Understanding flatMap](http://natashatherobot.com/swift-2-flatmap/)
+> 原文链接：[Swift 2.0: Understanding flatMap](http://natashatherobot.com/swift-2-flatmap/)\
+> 译者：[SergioChan](https://github.com/SergioChan)
 
 发布于 2015 年 7 月 26 日
 
@@ -17,7 +18,7 @@ permalink: swift-2-flatmap
 
 之后，在[博文的评论](http://natashatherobot.com/swift-when-the-functional-approach-is-not-right/)和[Twitter](https://twitter.com/NatashaTheRobot/status/624609007043391488)上发生了激烈讨论，我发现其实使用`flatMap`可以轻松地解决问题：
 
-```Swift
+```swift
 let minionImagesFlattened = (1...7).flatMap { UIImage(named: "minionIcon-\($0)") }
 ```
 
@@ -27,7 +28,7 @@ let minionImagesFlattened = (1...7).flatMap { UIImage(named: "minionIcon-\($0)")
 
 我对`flatMap`的理解十分基础，这是我最初的想法：
 
-```Swift
+```swift
 let nestedArray = [[1,2,3], [4,5,6]]
 
 let flattenedArray = nestedArray.flatMap { $0 }
@@ -44,7 +45,7 @@ flattenedArray // [1, 2, 3, 4, 5, 6]
 
 下面我要介绍文章中最关键的部分：在`flatMap`中 $0 指的是数组中的数组！我竟然没想到！所以如果你想把数组中的元素全部乘以某个数字，需要再深入一层使用`map`：
 
-```Swift
+```swift
 let nestedArray = [[1,2,3], [4,5,6]]
 
 let multipliedFlattenedArray = nestedArray.flatMap { $0.map { $0 * 2 } }
@@ -53,7 +54,7 @@ multipliedFlattenedArray // [2, 4, 6, 8, 10, 12]
 
 这是用名称替代 $0 的写法，更容易理解：
 
-```Swift
+```swift
 let nestedArray = [[1,2,3], [4,5,6]]
 
 let multipliedFlattenedArray = nestedArray.flatMap { array in
@@ -67,7 +68,7 @@ multipliedFlattenedArray // [2, 4, 6, 8, 10, 12]
 
 因为我想用`flatMap`来处理嵌套数组，所以花了很大功夫学习如何在最初的问题中使用它：
 
-```Swift
+```swift
 let minionImagesFlattened = (1...7).flatMap { UIImage(named: "minionIcon-\($0)") }
 ```
 
@@ -79,7 +80,7 @@ let minionImagesFlattened = (1...7).flatMap { UIImage(named: "minionIcon-\($0)")
 
 当我看到`flatMap`的方法定义时，一切真相大白：
 
-```Swift
+```swift
 extension SequenceType {
 
     /// Return an `Array` containing concatenated results of mapping `transform`
@@ -97,7 +98,7 @@ extension SequenceType {
 
 换句话说，为了处理可选类型，`flatMap`被重载过。它会接受一个可选类型的数组并返回一个拆包过的且没有`nil`值的可选类型组成的数组。
 
-```Swift
+```swift
 let optionalInts: [Int?] = [1, 2, nil, 4, nil, 5]
 
 let ints = optionalInts.flatMap { $0 }

@@ -1,5 +1,5 @@
 title: "Swift面试题及答案"
-date: 2015-8-6
+date: 2015-8-29
 tags: [Swift]
 categories: [Ray Wenderlich]
 permalink: swift_interview_questions_and_answers
@@ -905,4 +905,4 @@ To get to know Swift or build upon what you already know, be sure to check out o
 ***
 第一次翻译这么长的文章，也许会有翻译错误的地方，大家可以在评论中帮忙指出。
 
-<center>![给译者打赏](/img/QRCode/buginux.jpg)</center>
+<center>![给译者打赏](/img/QRCode/lfb-CD.jpg)</center>

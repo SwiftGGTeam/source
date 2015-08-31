@@ -7,7 +7,7 @@ permalink: swift-2-lets-try
 
 ---
 > 原文链接：[Swift 2.0: Let's try?](http://natashatherobot.com/swift-2-0-try/)
-> 译者：[小锅](http://www.swiftyper.com)
+> 译者：[小铁匠Linus](http://weibo.com/linusling)
 
 Xcode 7 Beta 6 发布时，我一下子就被下面这三个特性迷住了：
 

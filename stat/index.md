@@ -39,15 +39,11 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [小锅](http://www.swiftyper.com) | 1 |
-| [小铁匠Linus](http://weibo.com/linusling) | 1 |
+| [numbbbbb](https://github.com/numbbbbb) | 5 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 4 |
+| [lfb_CD](http://weibo.com/lfbWb) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
-| [SergioChan](https://github.com/SergioChan) | 1 |
-| [天才175](http://weibo.com/u/2916092907) | 1 |
-| [lfb_CD](http://weibo.com/lfbWb) | 1 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 1 |
-| [靛青K](http://www.dianqk.org) | 1 |
-| [shanks](http://codebuild.me) | 1 |
+| [小锅](http://www.swiftyper.com) | 1 |
 
 
 # 定稿篇数统计

@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [shanks](http://codebuild.me) | 24038 |
+| [lfb_CD](http://weibo.com/lfbWb) | 17383 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 16629 |
 | [小锅](http://www.swiftyper.com) | 6583 |
 | [Yake](http://blog.csdn.net/yake_099) | 6296 |
@@ -29,5 +30,6 @@
 | [SergioChan](https://github.com/SergioChan) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [天才175](http://weibo.com/u/2916092907) | 1 |
+| [lfb_CD](http://weibo.com/lfbWb) | 1 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 1 |
 | [靛青K](http://www.dianqk.org) | 1 |

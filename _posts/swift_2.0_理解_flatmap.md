@@ -5,8 +5,12 @@ categories: [Natasha The Robot]
 permalink: swift-2-flatmap
 
 ---
-> 原文链接：[Swift 2.0: Understanding flatMap](http://natashatherobot.com/swift-2-flatmap/)\
+> 原文链接：[Swift 2.0: Understanding flatMap](http://natashatherobot.com/swift-2-flatmap/)
+> 原文日期：2015/07/26
+
 > 译者：[SergioChan](https://github.com/SergioChan)
+> 校对：[numbbbbb](https://github.com/numbbbbb)
+> 定稿：[numbbbbb](https://github.com/numbbbbb)
 
 发布于 2015 年 7 月 26 日
 

@@ -9,15 +9,15 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [shanks](http://codebuild.me) | 24038 |
-| [lfb_CD](http://weibo.com/lfbWb) | 17383 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 16629 |
-| [小锅](http://www.swiftyper.com) | 6583 |
-| [Yake](http://blog.csdn.net/yake_099) | 6296 |
-| [小铁匠Linus](http://weibo.com/linusling) | 5772 |
-| [SergioChan](https://github.com/SergioChan) | 4500 |
-| [靛青K](http://www.dianqk.org) | 3430 |
-| [天才175](http://weibo.com/u/2916092907) | 1446 |
+| [shanks](http://codebuild.me) | 24224 |
+| [lfb_CD](http://weibo.com/lfbWb) | 17471 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 16726 |
+| [小锅](http://www.swiftyper.com) | 6778 |
+| [Yake](http://blog.csdn.net/yake_099) | 6393 |
+| [小铁匠Linus](http://weibo.com/linusling) | 5964 |
+| [SergioChan](https://github.com/SergioChan) | 4703 |
+| [靛青K](http://www.dianqk.org) | 3532 |
+| [天才175](http://weibo.com/u/2916092907) | 1548 |
 
 
 # 翻译篇数统计
@@ -33,3 +33,28 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 1 |
 | [靛青K](http://www.dianqk.org) | 1 |
+
+
+# 校对篇数统计
+
+| 校对者 | 篇数 |
+| :------------: | :------------: |
+| [小锅](http://www.swiftyper.com) | 1 |
+| [小铁匠Linus](http://weibo.com/linusling) | 1 |
+| [Yake](http://blog.csdn.net/yake_099) | 1 |
+| [SergioChan](https://github.com/SergioChan) | 1 |
+| [天才175](http://weibo.com/u/2916092907) | 1 |
+| [lfb_CD](http://weibo.com/lfbWb) | 1 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 1 |
+| [靛青K](http://www.dianqk.org) | 1 |
+| [shanks](http://codebuild.me) | 1 |
+
+
+# 定稿篇数统计
+
+| 定稿者 | 篇数 |
+| :------------: | :------------: |
+| [numbbbbb](https://github.com/numbbbbb) | 10 |
+| [Yake](http://blog.csdn.net/yake_099) | 1 |
+| [小锅](http://www.swiftyper.com) | 1 |
+| [lfb_CD](http://weibo.com/lfbWb) | 1 |

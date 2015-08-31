@@ -5,7 +5,7 @@ categories: [Swift and Painless]
 permalink: nscoding_and_swift_structs
 
 ---
-> 原文连接：[NSCoding And Swift Structs](http://swiftandpainless.com/nscoding-and-swift-structs/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_3)
+> 原文链接：[NSCoding And Swift Structs](http://swiftandpainless.com/nscoding-and-swift-structs/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_3)
 > 原文日期：2015/08/19
 
 > 译者：[小锅](http://www.swiftyper.com)

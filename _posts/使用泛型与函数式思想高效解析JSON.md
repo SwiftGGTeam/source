@@ -5,7 +5,7 @@ categories: [thoughtbot]
 permalink: efficient-json-in-swift-with-functional-concepts-and-generics
 
 ---
-> 原文连接：[Efficient JSON in Swift with Functional Concepts and Generics](https://robots.thoughtbot.com/efficient-json-in-swift-with-functional-concepts-and-generics)
+> 原文链接：[Efficient JSON in Swift with Functional Concepts and Generics](https://robots.thoughtbot.com/efficient-json-in-swift-with-functional-concepts-and-generics)
 > 原文日期：2014/08/06
 
 > 译者：[shanks](http://codebuild.me)

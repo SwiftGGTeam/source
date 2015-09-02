@@ -5,7 +5,7 @@ categories: [Ray Wenderlich]
 permalink: introducting_protocol_oriented_programming_in_swift_2
 
 ---
-> 原文链接：[whats-new-in-swift-2][2]
+> 原文链接：[introducting_protocol_oriented_programming_in_swift_2][2]
 > 原文日期：2015/06/25
 
 > 译者：[小锅](http://www.swiftyper.com/)

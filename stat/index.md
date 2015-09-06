@@ -14,7 +14,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 17471 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 16726 |
 | [Yake](http://blog.csdn.net/yake_099) | 16530 |
-| [小铁匠Linus](http://weibo.com/linusling) | 5964 |
+| [小铁匠Linus](http://weibo.com/linusling) | 14672 |
 | [SergioChan](https://github.com/SergioChan) | 4703 |
 | [天才175](http://weibo.com/u/2916092907) | 4321 |
 | [靛青K](http://www.dianqk.org) | 3532 |
@@ -26,8 +26,8 @@
 | :------------: | :------------: |
 | [小锅](http://www.swiftyper.com) | 4 |
 | [shanks](http://codebuild.me) | 3 |
+| [小铁匠Linus](http://weibo.com/linusling) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
-| [小铁匠Linus](http://weibo.com/linusling) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
 | [SergioChan](https://github.com/SergioChan) | 2 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |
@@ -39,7 +39,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 10 |
+| [numbbbbb](https://github.com/numbbbbb) | 11 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 4 |
 | [lfb_CD](http://weibo.com/lfbWb) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
@@ -50,7 +50,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 10 |
+| [numbbbbb](https://github.com/numbbbbb) | 11 |
 | [小锅](http://www.swiftyper.com) | 3 |
 | [shanksyang](http://codebuild.me) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |

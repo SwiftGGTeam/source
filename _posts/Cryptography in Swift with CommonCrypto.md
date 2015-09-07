@@ -8,10 +8,8 @@ permalink: commoncrypto-in-swift
 > 原文连接：[Cryptography in Swift with CommonCrypto](http://digitalleaves.com/blog/2015/08/commoncrypto-in-swift)
 > 原文日期：2015/08/10
 
-> 译者：[CMB](#)
-> 
+> 译者：[CMB](https://github.com/chenmingbiao)
 > 校对：[numbbbbb](https://github.com/numbbbbb)
-> 
 > 定稿：[shanks](http://codebuild.me)
 
 
@@ -117,3 +115,5 @@ CommonCrypto 提供了多种算法和设置，不过我只想解决最常见的�
 ![](/img/articles/commoncrypto-in-swift/36052539.jpg)
 
 我会继续介绍非对称加密技术和公私密钥对，如果感兴趣请继续关注我。
+
+<center>![给译者打赏](/img/QRCode/CMB.jpg)</center>

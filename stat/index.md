@@ -15,9 +15,10 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 17471 |
 | [Yake](http://blog.csdn.net/yake_099) | 16530 |
 | [小铁匠Linus](http://weibo.com/linusling) | 14672 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 4762 |
 | [SergioChan](https://github.com/SergioChan) | 4703 |
+| [CMB](https://github.com/chenmingbiao) | 4373 |
 | [天才175](http://weibo.com/u/2916092907) | 4321 |
-| [CMB](#) | 4299 |
 | [靛青K](http://www.dianqk.org) | 3532 |
 
 
@@ -26,15 +27,16 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [小锅](http://www.swiftyper.com) | 4 |
-| [shanks](http://codebuild.me) | 3 |
 | [小铁匠Linus](http://weibo.com/linusling) | 3 |
-| [天才175](http://weibo.com/u/2916092907) | 2 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 2 |
-| [Yake](http://blog.csdn.net/yake_099) | 2 |
+| [shanks](http://codebuild.me) | 3 |
 | [SergioChan](https://github.com/SergioChan) | 2 |
-| [CMB](#) | 1 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 2 |
+| [天才175](http://weibo.com/u/2916092907) | 2 |
+| [Yake](http://blog.csdn.net/yake_099) | 2 |
+| [CMB](https://github.com/chenmingbiao) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |
 | [靛青K](http://www.dianqk.org) | 1 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 1 |
 
 
 # 校对篇数统计
@@ -46,13 +48,14 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [小锅](http://www.swiftyper.com) | 1 |
+| [shanks](http://codebuild.me) | 1 |
 
 
 # 定稿篇数统计
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 11 |
+| [numbbbbb](https://github.com/numbbbbb) | 12 |
 | [小锅](http://www.swiftyper.com) | 3 |
 | [shanks](http://codebuild.me) | 2 |
 | [shanksyang](http://codebuild.me) | 2 |

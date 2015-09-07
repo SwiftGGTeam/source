@@ -1,4 +1,4 @@
-title: "浅谈Swift2中的Objective-C指针"
+title: "浅谈 Swift 2 中的 Objective-C 指针"
 date: 2015-09-07
 tags: [Swift]
 categories: [Jameson Quave]

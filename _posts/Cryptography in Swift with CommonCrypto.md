@@ -15,7 +15,7 @@ permalink: commoncrypto-in-swift
 > 定稿：[shanks](http://codebuild.me)
 
 
-![](http://img-storage.qiniudn.com/15-8-23/34909577.jpg)
+![](/img/articles/commoncrypto-in-swift/34909577.jpg)
 
 现在，许多开发者已经不需要在 App 中进行加密处理。即使你在远程服务器上使用了 REST API，通常情况下使用 HTTPS 就可以解决大多数的安全通信问题，剩下的问题可以使用苹果提供的“保护模式”和硬件/软件加密组合方式来解决。然而在很多情况下，你还是需要对通信或文件进行加密。也许你正在把一个现有的涉及到文件/信息加密的方案移植到 iOS 上，也许你在制作一个保密性要求极高的App，或者你只是想提高数据的安全级别（这是一件好事）。
 
@@ -114,6 +114,6 @@ CommonCrypto 提供了多种算法和设置，不过我只想解决最常见的�
 
 在 SymmetricCryptor 的 [GitHub 页面](https://github.com/DigitalLeaves/CommonCrypto-in-Swift)中，你可以看到一个对称加密/解密示例，它展示了如何简单地实现对称加密/解密。
 
-![](http://img-storage.qiniudn.com/15-8-23/36052539.jpg)
+![](/img/articles/commoncrypto-in-swift/36052539.jpg)
 
 我会继续介绍非对称加密技术和公私密钥对，如果感兴趣请继续关注我。

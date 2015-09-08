@@ -1,4 +1,4 @@
-title: iBeacons iOS 和 Swift 教程
+title: "iBeacons iOS 和 Swift 教程"
 date: 2015-09-08
 tags: [Swift]
 categories: [Ray Wenderlich]
@@ -6,13 +6,10 @@ permalink: ibeacons-tutorial-ios-swift
 
 ---
 > 原文链接：[iBeacons Tutorial with iOS and Swift](http://www.raywenderlich.com/101891/ibeacons-tutorial-ios-swift)
-> 
 > 原文日期：2015/08/07
 > 
 > 译者：[SergioChan](https://github.com/SergioChan)
-> 
 > 校对：[numbbbbb](https://github.com/numbbbbb)
-> 
 > 定稿：[shanks](http://codebuild.me)
 
 
@@ -26,7 +23,7 @@ permalink: ibeacons-tutorial-ios-swift
 
 <!--more-->
 
-![使用 Core Location 和 iBeacons 追踪手机位置！](http://cdn3.raywenderlich.com/wp-content/uploads/2014/03/iBeacons-250x250.png)
+![使用 Core Location 和 iBeacons 追踪手机位置！](/img/articles/ibeacons-tutorial-ios-swift/iBeacons-250x250.png)
 
 来看看 [iBeacon](http://en.wikipedia.org/wiki/IBeacon) 吧！在本教程中你将会创建一个应用程序，它可以关联 `iBeacon` 发射器并且在你的手机离开发射器范围的时候收到通知。在实际使用中，你可以将 `iBeacon` 发射器放置在任何你觉得重要的东西上—手提电脑包，钱包，甚至你猫咪的项圈上，通过这个应用程序来追踪。一旦你的设备离开了这些发射器的有效范围，应用程序就能检测到变化并通知你。
 
@@ -57,15 +54,15 @@ permalink: ibeacons-tutorial-ios-swift
 
 编译和运行应用程序，你会看到一个空的列表，什么也没有。点击右上方的 + 按钮来添加一个物品，如下图所示：
 
-![初次运行](http://cdn5.raywenderlich.com/wp-content/uploads/2015/04/firstlaunch.png)
+![初次运行](/img/articles/ibeacons-tutorial-ios-swift/firstlaunch.png)
 
 要添加一个物品，只需要输入物品的名称和`iBeacon`所对应的值。你可以在`iBeacon`的文档中找到它的`UUID`，尝试添加一下，或者随意输入一些占位值：
 
-![添加一个物品](http://cdn3.raywenderlich.com/wp-content/uploads/2015/04/additem.png)
+![添加一个物品](/img/articles/ibeacons-tutorial-ios-swift/additem.png)
 
 点击 `Save` 回到物品列表，你会看到一个位置未知的物品：
 
-![已添加物品的列表](http://cdn4.raywenderlich.com/wp-content/uploads/2015/04/itemadded.png)
+![已添加物品的列表](/img/articles/ibeacons-tutorial-ios-swift/itemadded.png)
 
 你可以根据自己的需要来添加更多的物品，也可以滑动删除已经添加的物品。`NSUserDefaults`会持久化存储列表中的物品，所以重新打开应用程序也不会丢失这些数据。
 
@@ -147,15 +144,15 @@ iOS 8 要求你在 `Info.plist` 中设置一个字符串作为获取用户位置
 
 打开 `Info.plist` 并点击 `Information Property List` 这一行上的 + 来添加一项。
 
-![image](http://cdn1.raywenderlich.com/wp-content/uploads/2015/04/plistwithoutentry.png)
+![image](/img/articles/ibeacons-tutorial-ios-swift/plistwithoutentry.png)
 
 不幸的是，你需要添加的键并不在预先定义好的下拉列表里，所以需要手动输入键的名称。将这个键命名为 `NSLocationAlwaysUsageDescription` 并且保证它的类型是 `String`。接着，写上你需要从用户那里获取位置信息的原因，比方说： “ForgetMeNot would like to teach you how to use iBeacons!”。
 
-![image](http://cdn3.raywenderlich.com/wp-content/uploads/2015/04/plistwithentry.png)
+![image](/img/articles/ibeacons-tutorial-ios-swift/plistwithentry.png)
 
 编译运行你的应用程序，你将会看到一个获取位置信息的提示信息：
 
-![允许获取位置信息](http://cdn1.raywenderlich.com/wp-content/uploads/2015/04/allowlocation-281x500.jpg)
+![允许获取位置信息](/img/articles/ibeacons-tutorial-ios-swift/allowlocation-281x500.jpg)
 
 选择同意，这样程序就可以追踪你的 `iBeacon` 的位置啦。
 
@@ -417,7 +414,7 @@ context: UnsafeMutablePointer<Void>) {
 
 现在确保你的 `iBeacon` 设备已经添加到程序中，移动设备来改变他们之间的距离。你会看到标签的内容会随着你的移动更新，就像下面这样：
 
-![image](http://cdn1.raywenderlich.com/wp-content/uploads/2015/04/itemnear.jpg)
+![image](/img/articles/ibeacons-tutorial-ios-swift/itemnear.jpg)
 
 你可能会发现这个感知距离和精度完全受 `iBeacon` 所在的物理位置影响。如果 `iBeacon` 被放在包或是一个盒子里， 它的信号可能就被屏蔽了 —— 因为它是一个非常低功率的设备，信号很容易被削弱。
 
@@ -427,7 +424,7 @@ context: UnsafeMutablePointer<Void>) {
 
 到这里看起来我们已经做得足够好了：你有了一个 `iBeacon` 设备列表并且可以实时监听它们和你的距离。但这并不是终极目标。应用程序没有运行时，你仍然需要时刻准备着通知用户，以防他们忘了自己的电脑包或者一不留神丢了猫，甚至更糟——猫带着电脑包跑了！:]
 
-![image](http://cdn4.raywenderlich.com/wp-content/uploads/2014/03/zorro-ibeacon.jpg)
+![image](/img/articles/ibeacons-tutorial-ios-swift/zorro-ibeacon.jpg)
 
 他们看起来很天真对不对？
 
@@ -498,7 +495,7 @@ registerUserNotificationSettings(notificationSettings)
 
 编译运行你的程序，确保程序里有至少一个已注册的 `iBeacon` 设备，然后按下 `Home` 键让程序在后台运行。这是一个现实生活中的场景，特别是当你正在使用其他程序（比如 Ray Wenderlich 的教学应用 :]）或者做其他事情时，你需要应用程序主动提醒你。现在拿走你的 `iBeacon`，一旦离得足够远，你就会看到弹出来的通知：
 
-![image](http://cdn3.raywenderlich.com/wp-content/uploads/2015/04/notification.jpg)
+![image](/img/articles/ibeacons-tutorial-ios-swift/notification.jpg)
 
 > 小贴士：文档中并没有说，但是苹果会延迟离开区域的通知。这也许是故意的，这样你的应用程序就不会收到一大堆推送，特别是当你正在区域的边缘来回移动或者 `iBeacon` 设备的信号时断时续的时候。根据我的经验来看，离开区域的通知通常会在 `iBeacon` 设备离开区域差不多一分钟之后出现。
 

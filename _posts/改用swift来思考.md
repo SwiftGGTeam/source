@@ -29,7 +29,7 @@ permalink: switching-your-brain-to-swift
 
 将来 Swift 的牛逼程度还会继续增加，一定会成为大众首选的、有最完善的技术支持的、写 OSX 和 iOS 代码最方便的一种语言。
 
-![Swift awesomeness over time](http://gregheo.com/images/blog/objs-swift-awesomeness.png)
+![Swift awesomeness over time](/img/articles/switching-your-brain-to-swift/objs-swift-awesomeness.png)
 
 Swift 代表着未来，就这么简单。那怎么做才能开始用 Swift 的方式去思考呢？
 
@@ -51,7 +51,7 @@ Swift 中类型安全是头等要事。一个 String 就是一个String，根本
 
 你也可以不做检查：强制将这个可选类型变量拆包。或者将它换成一个隐式解析可选类型（implicitly unwrapped optional），这意味着它更难理解，但可以像非可选类型一样使用 - 如果它是 nil，app 就崩溃了。
 
-![(所有的都拆包!)](http://gregheo.com/images/blog/objs-unwrap.png)
+![(所有的都拆包!)](/img/articles/switching-your-brain-to-swift/objs-unwrap.png)
 
 Cocoa 里有太多可选类型，这意味着你每次使用它们，都需要检查里面是什么。
 
@@ -61,7 +61,7 @@ Cocoa 里有太多可选类型，这意味着你每次使用它们，都需要�
 
 把可选类型想成是一个盒子：这个盒子要么没有值（nil），要么就有值。但是你在强制拆包它之前总要先去检查一下。
 
-![(你得问：可选类型的盒子里面是啥?)](http://gregheo.com/images/blog/objs-box.jpg)
+![(你得问：可选类型的盒子里面是啥?)](/img/articles/switching-your-brain-to-swift/objs-box.jpg)
 
 还有很多展示 Swift 安全性的例子：构造器、更少的未定义行为（less undefined behavior）、内存安全。nil 安全性是最常见的一种。
 
@@ -90,7 +90,7 @@ Swift 理所当然能与 Objective-C 协同工作。这基本上是一个无需�
 Swift 中任何东西在 Objective-C 中默认都是不可见的。
 如果你给 class 和 protocol 标记 @objc，那它们就可以在 Objective-C 中使用。动态调节器（dynamic modifier）也使用了 @objc 标注，让被标记的东西在 Objective-C 中可用。此外，那些标记了 dynamic 的属性或者方法会应用 Objective-C 的动态分发（dynamic dispatch）。
 
-![(Swift&Objective-C)](http://gregheo.com/images/blog/objs-objc-dynamic.png)
+![(Swift&Objective-C)](/img/articles/switching-your-brain-to-swift/objs-objc-dynamic.png)
 
 如果你想应用动态特性，就需要 dynamic；仅仅标识 @objc 还不足以保证 objc_msgSend() 能被使用，因为方法有可能被去虚拟化（devirtualized）或者被内联。
 
@@ -138,7 +138,7 @@ NSArray<NSString *> * _Nonnull
 
 如果你想向现有的代码库中引入 Swift，那最好从 Objective-C 桥接到 Swift。举个例子，视图控制器和视图实例在 Swift 中就可以正常工作。它们继承自 NSObject，如果需要的话你可以从 Objective-C 中访问它们。
 
-![(金门大桥)](http://gregheo.com/images/blog/objs-bridge.jpg)
+![(金门大桥)](/img/articles/switching-your-brain-to-swift/objs-bridge.jpg)
 
 但是反过来则不同：如果要使用纯 Swift 泛型、非整型类型的枚举、嵌套类型、结构体等等新内容，就必须身处纯 Swift 世界。别掉队，这一天会比你想的来得更快。
 

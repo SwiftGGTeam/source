@@ -1,4 +1,4 @@
-title: iBeacons iOS 和 Swift 教程
+title: "iBeacons iOS 和 Swift 教程"
 date: 2015-09-08
 tags: [Swift]
 categories: [Ray Wenderlich]
@@ -6,13 +6,10 @@ permalink: ibeacons-tutorial-ios-swift
 
 ---
 > 原文链接：[iBeacons Tutorial with iOS and Swift](http://www.raywenderlich.com/101891/ibeacons-tutorial-ios-swift)
-> 
 > 原文日期：2015/08/07
 > 
 > 译者：[SergioChan](https://github.com/SergioChan)
-> 
 > 校对：[numbbbbb](https://github.com/numbbbbb)
-> 
 > 定稿：[shanks](http://codebuild.me)
 
 

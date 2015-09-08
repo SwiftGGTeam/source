@@ -10,14 +10,14 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [shanks](http://codebuild.me) | 34411 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 20756 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 20753 |
 | [小锅](http://www.swiftyper.com) | 19504 |
-| [SergioChan](https://github.com/SergioChan) | 19457 |
+| [SergioChan](https://github.com/SergioChan) | 19307 |
 | [lfb_CD](http://weibo.com/lfbWb) | 17471 |
 | [Yake](http://blog.csdn.net/yake_099) | 16530 |
 | [小铁匠Linus](http://weibo.com/linusling) | 14672 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 4827 |
-| [CMB](https://github.com/chenmingbiao) | 4373 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 4909 |
+| [CMB](https://github.com/chenmingbiao) | 4485 |
 | [天才175](http://weibo.com/u/2916092907) | 4321 |
 | [靛青K](http://www.dianqk.org) | 3532 |
 

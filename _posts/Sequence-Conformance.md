@@ -1,4 +1,4 @@
-title: Swift 中序列的实现方式  
+title: "Swift 中序列的实现方式"
 date: 2015-09-08 20:00:00  
 tags: [Swift]  
 categories: [Big O Note-Taking]  
@@ -363,5 +363,5 @@ extension LazyRandomAccessCollection  : LazySequenceType {}
 然后在 `LazySequenceType` 中定义一次方法就可以了。
 
 
-
+<center>![给译者打赏](/img/QRCode/Prayer.jpg)</center>
 

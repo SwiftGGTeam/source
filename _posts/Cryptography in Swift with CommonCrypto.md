@@ -5,12 +5,15 @@ categories: [digitalleaves]
 permalink: commoncrypto-in-swift
 
 ---
-> 原文连接：[Cryptography in Swift with CommonCrypto](http://digitalleaves.com/blog/2015/08/commoncrypto-in-swift)
-> 原文日期：2015/08/10
+> 作者：Ignacio Nieto Carvajal，[原文链接](http://digitalleaves.com/blog/2015/08/commoncrypto-in-swift)，原文日期：2015/08/10
+> 译者：[CMB](https://github.com/chenmingbiao)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[shanks](http://codebuild.me/)
+  
 
-> 译者：[CMB](https://github.com/chenmingbiao)
-> 校对：[numbbbbb](https://github.com/numbbbbb)
-> 定稿：[shanks](http://codebuild.me)
+
+
+
+
+
 
 
 ![](/img/articles/commoncrypto-in-swift/34909577.jpg)

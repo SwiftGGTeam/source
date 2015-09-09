@@ -5,14 +5,15 @@ categories: [Big O Note-Taking]
 permalink: Sequence-Conformance  
 
 ---
-原文链接：[Sequence Conformance](https://bigonotetaking.wordpress.com/2015/08/20/sequence-conformance/?utm_campaign=Swift%2BSandbox&utm_medium=web&utm_source=Swift_Sandbox_3)
-> 原文日期：2015/08/22
+> 作者：bigonotetaker，[原文链接](https://bigonotetaking.wordpress.com/2015/08/20/sequence-conformance/)，原文日期：2015/08/22
+> 译者：[Prayer](undefined)；校对：[shanksyang](undefined)；定稿：[numbbbbb](https://github.com/numbbbbb)
+  
 
-> 译者：[Prayer](http://www.futantan.com)  
-> 校对：[shanksyang](http://codebuild.me)  
-> 定稿：[numbbbbb](https://github.com/numbbbbb)  
 
----
+
+
+
+
 
 
 想要遵循 `SequenceType`协议？还想要遵循 `CollectionType`，`MutableSliceable`，`RangeReplaceableCollectionType`？——需要做些什么呢？

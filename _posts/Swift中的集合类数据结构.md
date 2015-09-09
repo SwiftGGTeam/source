@@ -5,12 +5,15 @@ categories: [Ray Wenderlich]
 permalink: collection-data-structures-swift
 
 ---
-> 原文链接：[Collection Data Structures In Swift](http://www.raywenderlich.com/79850/collection-data-structures-swift)
-> 原文日期：2015/04/21
+> 作者：Ellen Shapiro，[原文链接](http://www.raywenderlich.com/79850/collection-data-structures-swift)，原文日期：2015/04/21
+> 译者：[Yake](http://blog.csdn.net/yake_099)；校对：[shanks](http://codebuild.me/)；定稿：[numbbbbb](https://github.com/numbbbbb)
+  
 
-> 译者：[Yake](http://blog.csdn.net/yake_099)
-> 校对：[shanks](http://codebuild.me)
-> 定稿：[numbbbbb](https://github.com/numbbbbb)
+
+
+
+
+
 
 
 假设你有一个需要处理许多数据的应用。你会把数据放在哪儿？如何高效地组织并处理数据呢？

@@ -6,7 +6,7 @@ permalink: Sequence-Conformance
 
 ---
 > 作者：bigonotetaker，[原文链接](https://bigonotetaking.wordpress.com/2015/08/20/sequence-conformance/)，原文日期：2015/08/22
-> 译者：[Prayer](undefined)；校对：[shanksyang](undefined)；定稿：[numbbbbb](https://github.com/numbbbbb)
+> 译者：[Prayer](http://www.futantan.com))；校对：[shanksyang](undefined)；定稿：[numbbbbb](https://github.com/numbbbbb)
   
 
 
@@ -363,6 +363,4 @@ extension LazyRandomAccessCollection  : LazySequenceType {}
 
 然后在 `LazySequenceType` 中定义一次方法就可以了。
 
-
 <center>![给译者打赏](/img/QRCode/Prayer.jpg)</center>
-

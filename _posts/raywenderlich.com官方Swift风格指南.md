@@ -625,4 +625,3 @@ let colour = "red"
 * [Swift Standard Library Reference](https://developer.apple.com/library/prerelease/ios/documentation/General/Reference/SwiftStandardLibraryReference/index.html)
 
 <center>![给译者打赏](/img/QRCode/shanksyang.jpg)</center>
-

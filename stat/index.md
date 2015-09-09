@@ -9,59 +9,59 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [shanks](http://codebuild.me) | 34411 |
-| [Yake](http://blog.csdn.net/yake_099) | 31910 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 20753 |
-| [小锅](http://www.swiftyper.com) | 19504 |
-| [SergioChan](https://github.com/SergioChan) | 19307 |
-| [lfb_CD](http://weibo.com/lfbWb) | 17471 |
-| [小铁匠Linus](http://weibo.com/linusling) | 14672 |
-| [Prayer](http://www.futantan.com) | 10824 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 4909 |
-| [CMB](https://github.com/chenmingbiao) | 4485 |
-| [天才175](http://weibo.com/u/2916092907) | 4321 |
-| [靛青K](http://www.dianqk.org) | 3532 |
+| shanks | 33883 |
+| Yake | 31368 |
+| mmoaay | 20392 |
+| SergioChan | 18790 |
+| 小锅 | 18764 |
+| lfb_CD | 17317 |
+| 小铁匠Linus | 14045 |
+| Prayer | 10609 |
+| ray16897188 | 4769 |
+| CMB | 4329 |
+| 天才175 | 4009 |
+| 靛青K | 3366 |
 
 
 # 翻译篇数统计
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [小锅](http://www.swiftyper.com) | 4 |
-| [shanks](http://codebuild.me) | 3 |
-| [Yake](http://blog.csdn.net/yake_099) | 3 |
-| [SergioChan](https://github.com/SergioChan) | 3 |
-| [小铁匠Linus](http://weibo.com/linusling) | 3 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 2 |
-| [天才175](http://weibo.com/u/2916092907) | 2 |
-| [Prayer](http://www.futantan.com) | 1 |
-| [CMB](https://github.com/chenmingbiao) | 1 |
-| [lfb_CD](http://weibo.com/lfbWb) | 1 |
-| [靛青K](http://www.dianqk.org) | 1 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 1 |
+| 小锅 | 4 |
+| shanks | 3 |
+| Yake | 3 |
+| SergioChan | 3 |
+| 小铁匠Linus | 3 |
+| mmoaay | 2 |
+| 天才175 | 2 |
+| Prayer | 1 |
+| CMB | 1 |
+| lfb_CD | 1 |
+| 靛青K | 1 |
+| ray16897188 | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 14 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 4 |
-| [lfb_CD](http://weibo.com/lfbWb) | 2 |
-| [shanks](http://codebuild.me) | 2 |
-| [Yake](http://blog.csdn.net/yake_099) | 1 |
-| [小锅](http://www.swiftyper.com) | 1 |
-| [shanksyang](http://codebuild.me) | 1 |
+| numbbbbb | 14 |
+| 千叶知风 | 4 |
+| lfb_CD | 2 |
+| shanks | 2 |
+| Yake | 1 |
+| 小锅 | 1 |
+| shanksyang | 1 |
 
 
 # 定稿篇数统计
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 14 |
-| [小锅](http://www.swiftyper.com) | 3 |
-| [shanks](http://codebuild.me) | 3 |
-| [shanksyang](http://codebuild.me) | 2 |
-| [Yake](http://blog.csdn.net/yake_099) | 1 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 1 |
-| [lfb_CD](http://weibo.com/lfbWb) | 1 |
+| numbbbbb | 14 |
+| 小锅 | 3 |
+| shanks | 3 |
+| shanksyang | 2 |
+| Yake | 1 |
+| mmoaay | 1 |
+| lfb_CD | 1 |

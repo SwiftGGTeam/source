@@ -28,17 +28,17 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | 小锅 | 4 |
+| 小铁匠Linus | 3 |
 | shanks | 3 |
 | Yake | 3 |
 | SergioChan | 3 |
-| 小铁匠Linus | 3 |
-| mmoaay | 2 |
 | 天才175 | 2 |
-| Prayer | 1 |
+| mmoaay | 2 |
 | CMB | 1 |
+| ray16897188 | 1 |
 | lfb_CD | 1 |
 | 靛青K | 1 |
-| ray16897188 | 1 |
+| Prayer | 1 |
 
 
 # 校对篇数统计
@@ -50,8 +50,8 @@
 | lfb_CD | 2 |
 | shanks | 2 |
 | Yake | 1 |
-| 小锅 | 1 |
 | shanksyang | 1 |
+| 小锅 | 1 |
 
 
 # 定稿篇数统计

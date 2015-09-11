@@ -5,8 +5,15 @@ categories: [Swift and Painless]
 permalink: where-to-put-the-auto-layout-code
 
 ---
-> 作者：dom，原文链接：[Where To Put The Auto Layout Code](http://swiftandpainless.com/where-to-put-the-auto-layout-code)，原文日期：2015/08/12
-> 译者：[SergioChan](https://github.com/SergioChan)；校对：[Shanks](http://codebuild.me)；定稿：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)
+> 作者：Dominik Hauser，[原文链接](http://swiftandpainless.com/where-to-put-the-auto-layout-code)，原文日期：2015/08/12
+> 译者：[SergioChan](https://github.com/SergioChan)；校对：[shanks](http://codebuild.me/)；定稿：[小锅](http://www.swiftyper.com/)
+  
+
+
+
+
+
+
 
 
 Auto Layout是一件很神奇的事情。像一个巫师一样告诉元素应该去什么位置并且让他们守规矩。你并不需要亲自将元素放到那些位置去。感觉像是天地因为你的咒语而将他们移动了。
@@ -46,8 +53,3 @@ Auto Layout是一件很神奇的事情。像一个巫师一样告诉元素应该
 对了，如果你喜欢这篇文章，请关注我的 [feed](http://swiftandpainless.com/feed)。
 
 更新：Ole Begemann 在他的博客中写了一篇 [When should you implement updateConstraints](http://oleb.net/blog/2015/08/how-to-use-updateconstraints/)。
-
-<center>![给译者打赏](/img/QRCode/SergioChan.jpg)</center>
-
-
-

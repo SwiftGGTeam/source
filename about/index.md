@@ -6,10 +6,34 @@
 
 我们翻译的文章来源于国外的优秀 Swift 网站和博客，我们会挑选最新的高质量文章为大家进行翻译。
 
+我们翻译的所有文章都是**作者已经授权翻译**的文章，转载请务必联系我们。
+
+授权作者和网站列表：
+
+| 作者 | 网站 |
+| :----: | :----: |
+| Natasha | [Natasha the Robot](http://natashatherobot.com/) |
+| Erica Sadun | [Erica Sadun](http://ericasadun.com/) |
+| Mike Ash | [mikeash.com](https://www.mikeash.com/) |
+| Dominik Hauser | [Swift and Painless](http://swiftandpainless.com/) |
+| AppCoda | [AppCoda](http://www.appcoda.com/) |
+| Radek Pietruszewski | [radex.io](radex.io) |
+| Wooji Juice | [Wooji Juice](http://www.wooji-juice.com/blog/) |
+| Arthur Knopper | [IOSCREATOR](http://www.ioscreator.com/) |
+| Benedikt Terhechte | [APPVENTURE](http://appventure.me/) |
+| Thomas Hanning | [Thomas Hanning](http://www.thomashanning.com) |
+| Weston Hanners | […alloc] init];](http://www.alloc-init.com/) |
+| Tomasz Szulc | [Tomasz Szulc](http://szulctomasz.com/) |
+| Ole Begemann | [Ole Begemann](http://oleb.net/blog/) |
+| Raj Kandathi | [Raj Kandathi](http://rajkandathi.com/) |
+| Olivier Halligon | [Crunchy Development](http://alisoftware.github.io/) |
+| Jameson Quave | [JamesonQuave.com](http://jamesonquave.com/) |
+| Jacob Bandes-Storch  | [Jacob Bandes-Storch](http://bandes-stor.ch/archive/) |
+
 ## 加入我们
 
-如果你也想为技术发展贡献自己的一份力量，请加入我们，发送邮件到 lj925184928@gmail.com，我收到后会和你联系。
+如果你也想为技术发展贡献自己的一份力量，请加入我们，发送邮件到`lj925184928@gmail.com`，我收到后会和你联系。
 
-## 打赏
+## 建议&反馈
 
-文章的翻译是一件耗时耗力的时，如果你觉得我们做的事有意义，请扫文章结尾的二维码，直接给文章对应的译者打赏，谢谢！
+我们刚刚起步，很多地方还做得不够完善。如果你有任何建议和意见，请发送邮件到`lj925184928@gmail.com`，谢谢！

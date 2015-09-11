@@ -5,7 +5,6 @@
 
 你的付出，全世界都看得到:]。
 
-<a class="ggstat">
 # 翻译字数统计
 
 | 译者 | 字数 |
@@ -14,12 +13,13 @@
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 28128 |
 | [小铁匠Linus](http://weibo.com/linusling) | 25342 |
+| [lfb_CD](http://weibo.com/lfbWb) | 23999 |
 | [小锅](http://www.swiftyper.com/) | 22355 |
-| [lfb_CD](http://weibo.com/lfbWb) | 21370 |
+| [靛青K](http://www.dianqk.org/) | 20857 |
 | [SergioChan](https://github.com/SergioChan) | 20171 |
-| [靛青K](http://www.dianqk.org/) | 19755 |
+| [saitjr](http://www.brighttj.com) | 18614 |
 | [Prayer](http://www.futantan.com) | 10609 |
-| [pmst](http://blog.csdn.net/colouful987) | 6188 |
+| [pmst](http://blog.csdn.net/colouful987) | 6185 |
 | [ray16897188](undefined) | 4769 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
@@ -33,14 +33,15 @@
 | [小铁匠Linus](http://weibo.com/linusling) | 5 |
 | [小锅](http://www.swiftyper.com/) | 4 |
 | [SergioChan](https://github.com/SergioChan) | 4 |
+| [lfb_CD](http://weibo.com/lfbWb) | 4 |
+| [靛青K](http://www.dianqk.org/) | 4 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
-| [靛青K](http://www.dianqk.org/) | 3 |
-| [lfb_CD](http://weibo.com/lfbWb) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
-| [Channe](undefined) | 1 |
 | [pmst](http://blog.csdn.net/colouful987) | 1 |
+| [Channe](undefined) | 1 |
+| [saitjr](http://www.brighttj.com) | 1 |
 | [Prayer](http://www.futantan.com) | 1 |
 | [ray16897188](undefined) | 1 |
 | [CMB](https://github.com/chenmingbiao) | 1 |
@@ -50,15 +51,15 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 18 |
+| [numbbbbb](https://github.com/numbbbbb) | 20 |
 | [shanks](http://codebuild.me/) | 5 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 4 |
 | [Prayer](http://www.futantan.com) | 2 |
+| [小锅](http://www.swiftyper.com/) | 2 |
 | [lfb_CD](http://weibo.com/lfbWb) | 2 |
 | [Channe](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [shanksyang](undefined) | 1 |
-| [小锅](http://www.swiftyper.com/) | 1 |
 
 
 # 定稿篇数统计
@@ -66,7 +67,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 16 |
-| [shanks](http://codebuild.me/) | 8 |
+| [shanks](http://codebuild.me/) | 11 |
 | [小锅](http://www.swiftyper.com/) | 6 |
 | [shanksyang](undefined) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |

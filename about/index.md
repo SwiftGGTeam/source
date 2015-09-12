@@ -30,10 +30,6 @@
 | Jameson Quave | [JamesonQuave.com](http://jamesonquave.com/) |
 | Jacob Bandes-Storch  | [Jacob Bandes-Storch](http://bandes-stor.ch/archive/) |
 
-## 加入我们
-
-如果你也想为技术发展贡献自己的一份力量，请加入我们，发送邮件到`lj925184928@gmail.com`，我收到后会和你联系。
-
 ## 建议&反馈
 
 我们刚刚起步，很多地方还做得不够完善。如果你有任何建议和意见，请发送邮件到`lj925184928@gmail.com`，谢谢！

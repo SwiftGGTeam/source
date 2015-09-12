@@ -12,11 +12,11 @@
 | [shanks](http://codebuild.me/) | 33883 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 28128 |
-| [小铁匠Linus](http://weibo.com/linusling) | 25360 |
-| [lfb_CD](http://weibo.com/lfbWb) | 24029 |
-| [靛青K](http://www.dianqk.org/) | 20857 |
+| [小铁匠Linus](http://weibo.com/linusling) | 25423 |
+| [lfb_CD](http://weibo.com/lfbWb) | 24124 |
+| [靛青K](http://www.dianqk.org/) | 20855 |
 | [SergioChan](https://github.com/SergioChan) | 20171 |
-| [小锅](http://www.swiftyper.com/) | 18623 |
+| [小锅](http://www.swiftyper.com/) | 18650 |
 | [saitjr](http://www.brighttj.com) | 18614 |
 | [Prayer](http://www.futantan.com) | 10609 |
 | [pmst](http://blog.csdn.net/colouful987) | 6185 |

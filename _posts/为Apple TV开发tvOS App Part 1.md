@@ -45,7 +45,7 @@ TVML 是"TV Markup Language"（TV 标记语言）的缩写，基本上是一些 
 
 ### *Hello World*
 
-我们从一个基本的 hello world 程序开始。就 Apple TV 而言，我们可以只把`"Hello World"`输出到控制台上。这也许是个不错的开始，但更好的选择是使用 Apple TV 的一些 TVMLKit 元素在屏幕上创建一个模板。
+我们从一个基本的 hello world 程序开始。就 Apple TV 而言，我们可以只把`"Hello World"`输出到主机上。这也许是个不错的开始，但更好的选择是使用 Apple TV 的一些 TVMLKit 元素在屏幕上创建一个模板。
 
 首先，打开 Xcode 7.1 并创建一个新项目。你可以看到一个模板列表，我们在左侧选择*CHANGE tvOS*，然后再选*Single View Application*模板。
 
@@ -162,6 +162,7 @@ python -m SimpleHTTPServer 8000
 ### 允许直接加载（Allows Arbitrary Loads）
 
 选择`Info.plist`文件然后按加号(+)来创建一条新记录。在列表中选择"App Transport Security Settings"并按 return 建。这将创建一个新的字典条目，展开它，在这行上按加号(+)添加一个子行。接着选中"Allows Arbitrary Loads"并将其设为`true`。都设好了之后我们就能用模拟器运行应用了。
+
 
 ### 添加按钮
 

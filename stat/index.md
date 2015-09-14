@@ -19,8 +19,8 @@
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [saitjr](http://www.brighttj.com) | 18614 |
 | [Prayer](http://www.futantan.com) | 10609 |
+| [ray16897188](http://swift.gg) | 9691 |
 | [pmst](http://blog.csdn.net/colouful987) | 6185 |
-| [ray16897188](undefined) | 4769 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
 | [Channe](undefined) | 1484 |
@@ -36,22 +36,22 @@
 | [靛青K](http://www.dianqk.org/) | 4 |
 | [小锅](http://www.swiftyper.com/) | 3 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 3 |
-| [shanks](http://codebuild.me/) | 3 |
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
+| [shanks](http://codebuild.me/) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
-| [pmst](http://blog.csdn.net/colouful987) | 1 |
-| [Channe](undefined) | 1 |
-| [saitjr](http://www.brighttj.com) | 1 |
+| [ray16897188](http://swift.gg) | 2 |
 | [Prayer](http://www.futantan.com) | 1 |
-| [ray16897188](undefined) | 1 |
 | [CMB](https://github.com/chenmingbiao) | 1 |
+| [saitjr](http://www.brighttj.com) | 1 |
+| [Channe](undefined) | 1 |
+| [pmst](http://blog.csdn.net/colouful987) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 20 |
+| [numbbbbb](https://github.com/numbbbbb) | 21 |
 | [shanks](http://codebuild.me/) | 5 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 3 |
 | [Prayer](http://www.futantan.com) | 2 |
@@ -67,7 +67,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 15 |
-| [shanks](http://codebuild.me/) | 11 |
+| [shanks](http://codebuild.me/) | 12 |
 | [小锅](http://www.swiftyper.com/) | 6 |
 | [shanksyang](undefined) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |

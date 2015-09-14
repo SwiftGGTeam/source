@@ -6,7 +6,7 @@ permalink: developing-tvos-apps-for-apple-tv-with-swift
 
 ---
 > 作者：Jameson Quave，[原文链接](http://jamesonquave.com/blog/developing-tvos-apps-for-apple-tv-with-swift/)，原文日期：2015/09/09
-> 译者：[ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[shanks](http://codebuild.me/)
+> 译者：[ray16897188](http://swift.gg)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[shanks](http://codebuild.me/)
   
 
 
@@ -16,12 +16,12 @@ permalink: developing-tvos-apps-for-apple-tv-with-swift
 
 
 
-![](http://jamesonquave.com/blog/wp-content/uploads/tvOS.png)
+![](/img/articles/developing-tvos-apps-for-apple-tv-with-swift/tvOS.png)
 
 <!--more-->
 
 教程结束时，我们会做出这样一个应用：
-![你更喜欢哪个艺术家？](http://jamesonquave.com/tutImg/tvOSArtists.png)
+![你更喜欢哪个艺术家？](/img/articles/developing-tvos-apps-for-apple-tv-with-swift/tvOSArtists.png)
 
 ## 开始
 

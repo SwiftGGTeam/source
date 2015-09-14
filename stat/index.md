@@ -19,7 +19,7 @@
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [saitjr](http://www.brighttj.com) | 18614 |
 | [Prayer](http://www.futantan.com) | 10609 |
-| [ray16897188](http://swift.gg) | 9691 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 9691 |
 | [pmst](http://blog.csdn.net/colouful987) | 6185 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
@@ -39,7 +39,7 @@
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
-| [ray16897188](http://swift.gg) | 2 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 2 |
 | [Prayer](http://www.futantan.com) | 1 |
 | [CMB](https://github.com/chenmingbiao) | 1 |
 | [saitjr](http://www.brighttj.com) | 1 |

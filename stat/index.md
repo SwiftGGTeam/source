@@ -36,15 +36,15 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
 | [靛青K](http://www.dianqk.org/) | 4 |
 | [小锅](http://www.swiftyper.com/) | 3 |
-| [shanks](http://codebuild.me/) | 3 |
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 3 |
+| [shanks](http://codebuild.me/) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
-| [pmst](http://blog.csdn.net/colouful987) | 1 |
-| [Channe](undefined) | 1 |
-| [saitjr](http://www.brighttj.com) | 1 |
 | [Prayer](http://www.futantan.com) | 1 |
 | [CMB](https://github.com/chenmingbiao) | 1 |
+| [saitjr](http://www.brighttj.com) | 1 |
+| [Channe](undefined) | 1 |
+| [pmst](http://blog.csdn.net/colouful987) | 1 |
 
 
 # 校对篇数统计

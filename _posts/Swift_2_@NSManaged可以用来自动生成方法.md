@@ -14,7 +14,7 @@ permalink: swift-2-nsmanaged-for-methods
 
 
 
-发布时间=2015-09-14T19:50:00
+
 
 > Xcode 7 beta 5 中的 Swift 2 拥有另外一个特性：当使用一对多关系时我们可以用 `@NSManaged` 来声明自动生成方法。
 

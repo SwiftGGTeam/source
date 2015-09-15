@@ -18,8 +18,8 @@
 | [SergioChan](https://github.com/SergioChan) | 20171 |
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [saitjr](http://www.brighttj.com) | 18614 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13652 |
 | [Prayer](http://www.futantan.com) | 10609 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 9744 |
 | [pmst](http://blog.csdn.net/colouful987) | 6185 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
@@ -38,8 +38,8 @@
 | [小锅](http://www.swiftyper.com/) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 2 |
 | [pmst](http://blog.csdn.net/colouful987) | 1 |
 | [Channe](undefined) | 1 |
 | [saitjr](http://www.brighttj.com) | 1 |
@@ -53,7 +53,7 @@
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 22 |
 | [shanks](http://codebuild.me/) | 5 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 3 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 4 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [小锅](http://www.swiftyper.com/) | 2 |
 | [lfb_CD](http://weibo.com/lfbWb) | 2 |
@@ -67,7 +67,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 15 |
-| [shanks](http://codebuild.me/) | 13 |
+| [shanks](http://codebuild.me/) | 14 |
 | [小锅](http://www.swiftyper.com/) | 6 |
 | [shanksyang](undefined) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |

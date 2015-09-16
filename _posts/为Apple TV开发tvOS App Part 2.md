@@ -1,7 +1,7 @@
 title: "为 Apple TV 开发 tvOS App Part 2"
 date: 2015-09-15 09:30:00
 tags: [Jameson Quave]
-categories: [Swift 入门]
+categories: [Swift 入门,Apple TV 开发]
 permalink: developing-tvos-apps-for-apple-tv-part-2
 ---
 > 作者：Jameson Quave，[原文链接](http://jamesonquave.com/blog/developing-tvos-apps-for-apple-tv-part-2/)，原文日期：2015/09/10
@@ -72,7 +72,7 @@ App.onLaunch = function(options) {
 }
 ```
 
-![Hello 警告](http://jamesonquave.com/tutImg/tvOShelloAlert.png)
+![Hello 警告](/img/articles/developing-tvos-apps-for-apple-tv-part-2/tvOShelloAlert.png)
 
 运行应用，你会看到一个炫酷的"Hello!" tvOS 警告。但是点击 OK 没有任何反应。我们该怎么处理像触摸之类的事件呢？
 
@@ -159,6 +159,6 @@ App.onLaunch = function(options) {
 
 这基本上就是`stackTemplate`的布局方式，`banner`是顶部的横幅内容，`collectionList`包含许多`shelf`对象，而`shelf`对象则包含许多`section`对象，`section`对象又包含许多`lockup`对象，最后这个才真正包含我们的图片和标题。在本例中我向目录中添加了一些图片，它们是`nina.png`和`coltrane.png`。
 
-![你更喜欢哪个艺术家？](http://jamesonquave.com/tutImg/tvOSArtists.png)
+![你更喜欢哪个艺术家？](/img/articles/developing-tvos-apps-for-apple-tv-part-2/tvOSArtists.png)
 
 [在Twitter上follow原作者](http://twitter.com/jquave)

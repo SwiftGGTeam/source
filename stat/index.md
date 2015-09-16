@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 33883 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 32711 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 32715 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
 | [靛青K](http://www.dianqk.org/) | 25968 |
 | [小铁匠Linus](http://weibo.com/linusling) | 25423 |

@@ -140,6 +140,8 @@ func imagePickerControllerDidCancel(picker: UIImagePickerController) {
 
 当用户点击`Cancel`按钮时，`View Controller`视图就会消失掉。如果模拟器没有视频文件，请在真实的设备上编译并运行这个项目。选择”Take Video“拍摄一段视频并选择”Use Video“，接着选择”View Library“，视频就会保存到手机相册中了。
 
+
 ![](/img/articles/take_video_tutorial_in_ios8_with_swift/TakeVideo-Device.pngformat=750w)
+
 
 你可以在[Github](https://github.com/ioscreator/ioscreator)上下载`IOS8SwiftTakeVideoPlayerTutorial`的代码

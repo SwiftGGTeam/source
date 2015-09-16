@@ -9,22 +9,18 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [小铁匠Linus](http://weibo.com/linusling) | 35029 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 32711 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
 | [靛青K](http://www.dianqk.org/) | 25968 |
-<<<<<<< HEAD
 | [小铁匠Linus](http://weibo.com/linusling) | 25423 |
-=======
->>>>>>> 564c9e94234129fdb062541b64cc04e9c6e98c8e
 | [lfb_CD](http://weibo.com/lfbWb) | 24124 |
 | [SergioChan](https://github.com/SergioChan) | 20171 |
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [saitjr](http://www.brighttj.com) | 18614 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13652 |
 | [Prayer](http://www.futantan.com) | 10609 |
-| [pmst](http://blog.csdn.net/colouful987) | 8678 |
+| [pmst](http://blog.csdn.net/colouful987) | 8689 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
 | [Channe](undefined) | 1484 |
@@ -34,30 +30,17 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-<<<<<<< HEAD
 | [小铁匠Linus](http://weibo.com/linusling) | 5 |
-=======
-| [小铁匠Linus](http://weibo.com/linusling) | 6 |
->>>>>>> 564c9e94234129fdb062541b64cc04e9c6e98c8e
 | [靛青K](http://www.dianqk.org/) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 4 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 4 |
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
-<<<<<<< HEAD
 | [小锅](http://www.swiftyper.com/) | 3 |
-=======
->>>>>>> 564c9e94234129fdb062541b64cc04e9c6e98c8e
 | [shanks](http://codebuild.me/) | 3 |
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
-| [小锅](http://www.swiftyper.com/) | 3 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 3 |
-<<<<<<< HEAD
+| [天才175](http://weibo.com/u/2916092907) | 2 |
 | [pmst](http://blog.csdn.net/colouful987) | 2 |
-| [天才175](http://weibo.com/u/2916092907) | 2 |
-=======
-| [天才175](http://weibo.com/u/2916092907) | 2 |
-| [pmst](http://blog.csdn.net/colouful987) | 1 |
->>>>>>> 564c9e94234129fdb062541b64cc04e9c6e98c8e
 | [Channe](undefined) | 1 |
 | [saitjr](http://www.brighttj.com) | 1 |
 | [Prayer](http://www.futantan.com) | 1 |
@@ -68,13 +51,8 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-<<<<<<< HEAD
 | [numbbbbb](https://github.com/numbbbbb) | 24 |
 | [shanks](http://codebuild.me/) | 5 |
-=======
-| [numbbbbb](https://github.com/numbbbbb) | 23 |
-| [shanks](http://codebuild.me/) | 6 |
->>>>>>> 564c9e94234129fdb062541b64cc04e9c6e98c8e
 | [千叶知风](http://weibo.com/xiaoxxiao) | 4 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [小锅](http://www.swiftyper.com/) | 2 |

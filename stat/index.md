@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [小铁匠Linus](http://weibo.com/linusling) | 37715 |
+| [小铁匠Linus](http://weibo.com/linusling) | 37889 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 32715 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |

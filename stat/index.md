@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [小铁匠Linus](http://weibo.com/linusling) | 37715 |
+| [小铁匠Linus](http://weibo.com/linusling) | 44206 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 32715 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
@@ -23,6 +23,7 @@
 | [pmst](http://blog.csdn.net/colouful987) | 10592 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
+| [BridgeQ](undefined) | 2882 |
 | [Channe](undefined) | 1484 |
 
 
@@ -30,20 +31,21 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [小铁匠Linus](http://weibo.com/linusling) | 6 |
+| [小铁匠Linus](http://weibo.com/linusling) | 7 |
 | [靛青K](http://www.dianqk.org/) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 4 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 4 |
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
-| [shanks](http://codebuild.me/) | 3 |
 | [小锅](http://www.swiftyper.com/) | 3 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 3 |
 | [pmst](http://blog.csdn.net/colouful987) | 3 |
+| [shanks](http://codebuild.me/) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
 | [Channe](undefined) | 1 |
-| [saitjr](http://www.brighttj.com) | 1 |
 | [Prayer](http://www.futantan.com) | 1 |
+| [saitjr](http://www.brighttj.com) | 1 |
+| [BridgeQ](undefined) | 1 |
 | [CMB](https://github.com/chenmingbiao) | 1 |
 
 
@@ -52,11 +54,12 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 24 |
-| [shanks](http://codebuild.me/) | 6 |
+| [shanks](http://codebuild.me/) | 7 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 5 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [小锅](http://www.swiftyper.com/) | 2 |
 | [lfb_CD](http://weibo.com/lfbWb) | 2 |
+| [lfb-CD](undefined) | 1 |
 | [Channe](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [shanksyang](undefined) | 1 |
@@ -66,8 +69,8 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [shanks](http://codebuild.me/) | 17 |
-| [numbbbbb](https://github.com/numbbbbb) | 16 |
+| [shanks](http://codebuild.me/) | 18 |
+| [numbbbbb](https://github.com/numbbbbb) | 17 |
 | [小锅](http://www.swiftyper.com/) | 6 |
 | [shanksyang](undefined) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |

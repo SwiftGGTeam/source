@@ -16,12 +16,12 @@ permalink: developing-tvos-apps-for-apple-tv-with-swift
 
 
 
-![](/img/articles/developing-tvos-apps-for-apple-tv-with-swift/tvOS.png)
+![](http://jamesonquave.com/blog/wp-content/uploads/tvOS.png)
 
 <!--more-->
 
 教程结束时，我们会做出这样一个应用：
-![你更喜欢哪个艺术家？](/img/articles/developing-tvos-apps-for-apple-tv-with-swift/tvOSArtists.png)
+![你更喜欢哪个艺术家？](http://jamesonquave.com/tutImg/tvOSArtists.png)
 
 ## 开始
 

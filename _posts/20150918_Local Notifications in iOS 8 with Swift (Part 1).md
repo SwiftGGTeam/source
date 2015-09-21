@@ -35,7 +35,6 @@ permalink: local-notifications-in-ios-8-with-swift-part-1
 
 <div style="max-width:300px;">
 ![](/img/articles/local-notifications-in-ios-8-with-swift-part-1/iOS-Simulator-Screen-Shot-Feb-4-2015-10.26.58-PM.png)![](/img/articles/local-notifications-in-ios-8-with-swift-part-1/iOS-Simulator-Screen-Shot-Feb-1-2015-11.43.36-PM.png)
-</div>
 
 ## 创建视图控制器
 
@@ -79,7 +78,9 @@ Ctrl+左键或直接右键点击“Add”按钮，按住“action”并拖拽到
 
 我们的视图和导航已经布局完毕，现在需要将前面提到的三个控件以 IBOutlet 的形式与`TodoSchedulingViewController.swift`连接起来。这样我们就能在代码中访问这些控件以及控件的属性值。有很多方法可以实现，下面介绍比较简单的一种：点击 Xcode 右上角的 Assistant editor，接着 Ctrl+左键或直接右键点击需要联结的控件，拖拽“New Referencing Outlet”圆圈到`TodoSchedulingViewController`类中，如图。
 
+
 ![](/img/articles/local-notifications-in-ios-8-with-swift-part-1/Screen-Shot-2015-01-31-at-12.45.14-AM.png)
+
 
 用相同的方法处理文本框和日期选择器，分别命名为`titleField`和`deadlinePicker`。
 
@@ -88,7 +89,9 @@ Ctrl+左键或直接右键点击“Add”按钮，按住“action”并拖拽到
 @IBOutlet weak var deadlinePicker: UIDatePicker!
 ```
 
+
 最后，将按钮联结为 IBAction，而不是 IBOutlet。Ctrl+左键或直接右键点击按钮，拖拽“Touch Up Inside”圆圈到代码中去，将`action`命名为“savePressed”并设置`sender`类型为`UIButton`（为了明确只由当前按钮触发 action，我特别指定类型为`UIButton`）。
+
 
 ```swift
 @IBAction func savePressed(sender: UIButton) {
@@ -113,6 +116,7 @@ application.registerUserNotificationSettings(UIUserNotificationSettings(forTypes
 
 <div style="max-width:300px;">
 ![](/img/articles/local-notifications-in-ios-8-with-swift-part-1/iOS-Simulator-Screen-Shot-Feb-3-2015-2.56.37-PM.png)
+
 </div>
 
 ## 对应用建模

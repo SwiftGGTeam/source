@@ -23,7 +23,7 @@
 | [pmst](http://blog.csdn.net/colouful987) | 10592 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
-| [BridgeQ](undefined) | 2884 |
+| [BridgeQ](undefined) | 2882 |
 | [Channe](undefined) | 1484 |
 
 

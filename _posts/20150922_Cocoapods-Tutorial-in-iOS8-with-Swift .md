@@ -6,7 +6,7 @@ permalink: Cocoapods-Tutorial-in-iOS8-with-Swift
 
 ---
 > 作者：Arthur Knopper，[原文链接](http://www.ioscreator.com/tutorials/cocoapods-tutorial-ios8-swift)，原文日期：2015/07/07
-> 译者：[Prayer](http://www.futantan.com)；校对：[shanks](http://codebuild.me/)；定稿：[shanks](http://codebuild.me/)
+> 译者：[Prayer](http://www.futantan.com)；校对：[shanks](http://codebuild.me/)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

@@ -10,8 +10,8 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [小铁匠Linus](http://weibo.com/linusling) | 44206 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 35125 |
 | [shanks](http://codebuild.me/) | 33883 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 32715 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
 | [靛青K](http://www.dianqk.org/) | 25968 |
 | [lfb_CD](http://weibo.com/lfbWb) | 24124 |
@@ -19,7 +19,7 @@
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [saitjr](http://www.brighttj.com) | 18614 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13652 |
-| [Prayer](http://www.futantan.com) | 13107 |
+| [Prayer](http://www.futantan.com) | 13105 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 10592 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
@@ -32,15 +32,15 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [小铁匠Linus](http://weibo.com/linusling) | 7 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 5 |
 | [靛青K](http://www.dianqk.org/) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 4 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 4 |
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 3 |
-| [小锅](http://www.swiftyper.com/) | 3 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 3 |
+| [小锅](http://www.swiftyper.com/) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [Channe](undefined) | 1 |
@@ -54,7 +54,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 24 |
-| [shanks](http://codebuild.me/) | 8 |
+| [shanks](http://codebuild.me/) | 9 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 5 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [小锅](http://www.swiftyper.com/) | 2 |
@@ -73,6 +73,7 @@
 | [numbbbbb](https://github.com/numbbbbb) | 17 |
 | [小锅](http://www.swiftyper.com/) | 6 |
 | [shanksyang](undefined) | 2 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |

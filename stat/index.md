@@ -20,7 +20,7 @@
 | [saitjr](http://www.brighttj.com) | 18614 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13652 |
 | [Prayer](http://www.futantan.com) | 13107 |
-| [pmst](http://blog.csdn.net/colouful987) | 10592 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 10592 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2882 |
@@ -40,7 +40,7 @@
 | [shanks](http://codebuild.me/) | 3 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 3 |
 | [小锅](http://www.swiftyper.com/) | 3 |
-| [pmst](http://blog.csdn.net/colouful987) | 3 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [Channe](undefined) | 1 |

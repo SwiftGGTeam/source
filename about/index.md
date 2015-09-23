@@ -20,6 +20,7 @@
 | Radek Pietruszewski | [radex.io](radex.io) |
 | Wooji Juice | [Wooji Juice](http://www.wooji-juice.com/blog/) |
 | Arthur Knopper | [IOSCREATOR](http://www.ioscreator.com/) |
+| Nick Hanan | [Coding Explorer Blog](http://www.codingexplorer.com/) |
 | Benedikt Terhechte | [APPVENTURE](http://appventure.me/) |
 | Thomas Hanning | [Thomas Hanning](http://www.thomashanning.com) |
 | Weston Hanners | […alloc] init];](http://www.alloc-init.com/) |

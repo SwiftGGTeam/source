@@ -22,6 +22,7 @@
 | [Prayer](http://www.futantan.com) | 13105 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 10592 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
+| [lfb-CD](undefined) | 4175 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2882 |
 | [Channe](undefined) | 1484 |
@@ -34,16 +35,17 @@
 | [小铁匠Linus](http://weibo.com/linusling) | 7 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 5 |
 | [靛青K](http://www.dianqk.org/) | 5 |
-| [SergioChan](https://github.com/SergioChan) | 4 |
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
-| [Yake](http://blog.csdn.net/yake_099) | 3 |
+| [SergioChan](https://github.com/SergioChan) | 4 |
 | [shanks](http://codebuild.me/) | 3 |
+| [小锅](http://www.swiftyper.com/) | 3 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 3 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 3 |
-| [小锅](http://www.swiftyper.com/) | 3 |
+| [Yake](http://blog.csdn.net/yake_099) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [Channe](undefined) | 1 |
+| [lfb-CD](undefined) | 1 |
 | [saitjr](http://www.brighttj.com) | 1 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
 | [CMB](https://github.com/chenmingbiao) | 1 |
@@ -55,7 +57,7 @@
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 24 |
 | [shanks](http://codebuild.me/) | 9 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 5 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 6 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [小锅](http://www.swiftyper.com/) | 2 |
 | [lfb_CD](http://weibo.com/lfbWb) | 2 |
@@ -69,7 +71,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [shanks](http://codebuild.me/) | 19 |
+| [shanks](http://codebuild.me/) | 20 |
 | [numbbbbb](https://github.com/numbbbbb) | 17 |
 | [小锅](http://www.swiftyper.com/) | 6 |
 | [shanksyang](undefined) | 2 |

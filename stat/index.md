@@ -20,7 +20,7 @@
 | [saitjr](http://www.brighttj.com) | 18614 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13652 |
 | [Prayer](http://www.futantan.com) | 13105 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 10592 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 12885 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [lfb-CD](undefined) | 4175 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
@@ -33,22 +33,22 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [小铁匠Linus](http://weibo.com/linusling) | 8 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 5 |
 | [靛青K](http://www.dianqk.org/) | 5 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 4 |
 | [SergioChan](https://github.com/SergioChan) | 4 |
-| [shanks](http://codebuild.me/) | 3 |
 | [小锅](http://www.swiftyper.com/) | 3 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 3 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 3 |
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
-| [天才175](http://weibo.com/u/2916092907) | 2 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 3 |
+| [shanks](http://codebuild.me/) | 3 |
 | [Prayer](http://www.futantan.com) | 2 |
-| [Channe](undefined) | 1 |
-| [lfb-CD](undefined) | 1 |
-| [saitjr](http://www.brighttj.com) | 1 |
+| [天才175](http://weibo.com/u/2916092907) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
 | [CMB](https://github.com/chenmingbiao) | 1 |
+| [saitjr](http://www.brighttj.com) | 1 |
+| [lfb-CD](undefined) | 1 |
+| [Channe](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -56,7 +56,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 24 |
-| [shanks](http://codebuild.me/) | 9 |
+| [shanks](http://codebuild.me/) | 10 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 7 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [小锅](http://www.swiftyper.com/) | 2 |
@@ -71,7 +71,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [shanks](http://codebuild.me/) | 21 |
+| [shanks](http://codebuild.me/) | 22 |
 | [numbbbbb](https://github.com/numbbbbb) | 17 |
 | [小锅](http://www.swiftyper.com/) | 6 |
 | [shanksyang](undefined) | 2 |

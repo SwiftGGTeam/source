@@ -26,6 +26,7 @@
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2882 |
 | [Channe](undefined) | 1484 |
+| [小袋子](undefined) | 1434 |
 
 
 # 翻译篇数统计
@@ -39,15 +40,16 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 4 |
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 4 |
-| [小锅](http://www.swiftyper.com/) | 3 |
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
+| [小锅](http://www.swiftyper.com/) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
-| [Prayer](http://www.futantan.com) | 2 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
-| [lfb-CD](undefined) | 1 |
+| [Prayer](http://www.futantan.com) | 2 |
+| [小袋子](undefined) | 1 |
 | [Channe](undefined) | 1 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
 | [saitjr](http://www.brighttj.com) | 1 |
+| [lfb-CD](undefined) | 1 |
 | [CMB](https://github.com/chenmingbiao) | 1 |
 
 
@@ -56,7 +58,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 24 |
-| [shanks](http://codebuild.me/) | 11 |
+| [shanks](http://codebuild.me/) | 12 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 7 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [小锅](http://www.swiftyper.com/) | 2 |
@@ -71,7 +73,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [shanks](http://codebuild.me/) | 22 |
+| [shanks](http://codebuild.me/) | 23 |
 | [numbbbbb](https://github.com/numbbbbb) | 17 |
 | [小锅](http://www.swiftyper.com/) | 6 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 2 |

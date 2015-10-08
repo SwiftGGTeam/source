@@ -9,22 +9,22 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [小铁匠Linus](http://weibo.com/linusling) | 48429 |
+| [小铁匠Linus](http://weibo.com/linusling) | 48680 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 35136 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
 | [靛青K](http://www.dianqk.org/) | 25968 |
-| [lfb_CD](http://weibo.com/lfbWb) | 24124 |
+| [lfb_CD](http://weibo.com/lfbWb) | 23914 |
 | [SergioChan](https://github.com/SergioChan) | 20171 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 19366 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 19536 |
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [saitjr](http://www.brighttj.com) | 18614 |
-| [Prayer](http://www.futantan.com) | 13105 |
+| [Prayer](http://www.futantan.com) | 13228 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 12885 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
-| [lfb-CD](undefined) | 4175 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2882 |
+| [lfb-CD](undefined) | 3959 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
 | [Channe](undefined) | 1484 |
 | [小袋子](http://daizi.me) | 1434 |
 

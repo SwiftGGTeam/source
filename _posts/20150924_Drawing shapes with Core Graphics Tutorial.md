@@ -143,5 +143,4 @@ func drawCircle() {
 编译并运行程序，点击不同的按钮来绘制不同的图形。
 ![](/img/articles/drawing-shapes-core-graphics-tutorial/format=750w1444269942.683713)
 
-
 你可以在[Github](https://github.com/ioscreator/ioscreator)上下载**`IOS9DrawShapesTutorial`**的代码。

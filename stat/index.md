@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [小铁匠Linus](http://weibo.com/linusling) | 45921 |
+| [小铁匠Linus](http://weibo.com/linusling) | 48429 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 35136 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
@@ -26,14 +26,14 @@
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2882 |
 | [Channe](undefined) | 1484 |
-| [小袋子](undefined) | 1434 |
+| [小袋子](http://daizi.me) | 1434 |
 
 
 # 翻译篇数统计
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [小铁匠Linus](http://weibo.com/linusling) | 8 |
+| [小铁匠Linus](http://weibo.com/linusling) | 9 |
 | [靛青K](http://www.dianqk.org/) | 5 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 4 |
@@ -45,7 +45,7 @@
 | [shanks](http://codebuild.me/) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
-| [小袋子](undefined) | 1 |
+| [小袋子](http://daizi.me) | 1 |
 | [Channe](undefined) | 1 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
 | [saitjr](http://www.brighttj.com) | 1 |
@@ -57,7 +57,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 24 |
+| [numbbbbb](https://github.com/numbbbbb) | 25 |
 | [shanks](http://codebuild.me/) | 12 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 7 |
 | [Prayer](http://www.futantan.com) | 2 |
@@ -75,7 +75,7 @@
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 23 |
 | [numbbbbb](https://github.com/numbbbbb) | 17 |
-| [小锅](http://www.swiftyper.com/) | 6 |
+| [小锅](http://www.swiftyper.com/) | 7 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 2 |
 | [shanksyang](undefined) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |

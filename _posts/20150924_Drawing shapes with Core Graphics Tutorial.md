@@ -1,11 +1,12 @@
 title: "使用 Core Graphics 绘制基本形状"
 date: 2015-09-24 09:00:00
 tags: [IOSCREATOR]
-categories: [Swift 入门, iOS9]
+categories: [iOS9,Swift 入门]
 permalink: drawing-shapes-core-graphics-tutorial
+
 ---
 > 作者：Arthur Knopper，[原文链接](http://www.ioscreator.com/tutorials/drawing-shapes-core-graphics-tutorial)，原文日期：2015/08/31
-> 译者：[lfb-CD](undefined)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[shanks](http://codebuild.me/)
+> 译者：[lfb_CD](http://weibo.com/lfbWb)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[shanks](http://codebuild.me/)
   
 
 
@@ -141,5 +142,6 @@ func drawCircle() {
 ```
 编译并运行程序，点击不同的按钮来绘制不同的图形。
 ![](/img/articles/drawing-shapes-core-graphics-tutorial/format=750w1444269942.683713)
+
 
 你可以在[Github](https://github.com/ioscreator/ioscreator)上下载**`IOS9DrawShapesTutorial`**的代码。

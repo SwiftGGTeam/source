@@ -23,6 +23,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 12885 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
+| [我偏笑](undefined) | 3922 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
 | [Channe](undefined) | 1484 |
 | [小袋子](http://daizi.me) | 1434 |
@@ -44,6 +45,7 @@
 | [shanks](http://codebuild.me/) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
+| [我偏笑](undefined) | 1 |
 | [小袋子](http://daizi.me) | 1 |
 | [Channe](undefined) | 1 |
 | [saitjr](http://www.brighttj.com) | 1 |
@@ -61,6 +63,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 3 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [小锅](http://www.swiftyper.com/) | 2 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 1 |
 | [Channe](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [shanksyang](undefined) | 1 |
@@ -70,7 +73,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [shanks](http://codebuild.me/) | 23 |
+| [shanks](http://codebuild.me/) | 24 |
 | [numbbbbb](https://github.com/numbbbbb) | 17 |
 | [小锅](http://www.swiftyper.com/) | 7 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 2 |

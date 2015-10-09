@@ -6,7 +6,7 @@ permalink: thinking-in-swift-2
 
 ---
 > 作者：Olivier Halligon，[原文链接](http://alisoftware.github.io/swift/2015/09/20/thinking-in-swift-2/)，原文日期：2015-09-20
-> 译者：[我偏笑](undefined)；校对：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；定稿：[shanks](http://codebuild.me/)
+> 译者：[我偏笑](http://blog.csdn.net/nsnirvana)；校对：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；定稿：[shanks](http://codebuild.me/)
   
 
 

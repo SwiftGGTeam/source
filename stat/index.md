@@ -23,7 +23,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 12885 |
 | [CMB](https://github.com/chenmingbiao) | 4329 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
-| [我偏笑](undefined) | 3922 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 3922 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
 | [Channe](undefined) | 1484 |
 | [小袋子](http://daizi.me) | 1434 |
@@ -45,7 +45,7 @@
 | [shanks](http://codebuild.me/) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
-| [我偏笑](undefined) | 1 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 1 |
 | [小袋子](http://daizi.me) | 1 |
 | [Channe](undefined) | 1 |
 | [saitjr](http://www.brighttj.com) | 1 |

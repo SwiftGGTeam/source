@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [小铁匠Linus](http://weibo.com/linusling) | 48680 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 35136 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 42881 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
@@ -34,8 +34,8 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [小铁匠Linus](http://weibo.com/linusling) | 9 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 6 |
 | [靛青K](http://www.dianqk.org/) | 5 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 4 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 4 |
@@ -60,7 +60,7 @@
 | [numbbbbb](https://github.com/numbbbbb) | 25 |
 | [shanks](http://codebuild.me/) | 12 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 7 |
-| [lfb_CD](http://weibo.com/lfbWb) | 3 |
+| [lfb_CD](http://weibo.com/lfbWb) | 4 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [小锅](http://www.swiftyper.com/) | 2 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 1 |
@@ -74,7 +74,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 24 |
-| [numbbbbb](https://github.com/numbbbbb) | 17 |
+| [numbbbbb](https://github.com/numbbbbb) | 18 |
 | [小锅](http://www.swiftyper.com/) | 7 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 2 |
 | [shanksyang](undefined) | 2 |

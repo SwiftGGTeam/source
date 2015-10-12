@@ -78,8 +78,7 @@ class TestingAlertExperimentTests: XCTestCase {
     super.tearDown()
   }
 }
-```    
-
+```
 我们需要设置 sut 为根视图控制器，否则视图控制器不能弹出这个弹窗视图控制器。
 
 添加 UIAlertController 测试标题的代码如下：
@@ -146,7 +145,6 @@ class ViewController: UIViewController {
     presentViewController(alertViewController, animated: true, completion: nil)
   }
 }
-
 ```
 
 我们添加了一个类变量`Action`，并设置为`UIAlertAction.self`。这个变量我们会在初始化弹窗动作时使用。这就能让我们在测试时可以重写它。像这样：

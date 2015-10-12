@@ -7,7 +7,7 @@ permalink: tuples-swift-advanced-usage-best-practices
 ---
 > 作者：terhechte，[原文链接](http://appventure.me/2015/07/19/tuples-swift-advanced-usage-best-practices/)，原文日期：2015/07/19
 > 译者：[mmoaay](http://blog.csdn.net/mmoaay)；校对：[lfb_CD](http://weibo.com/lfbWb)；定稿：[numbbbbb](https://github.com/numbbbbb)
-  ---
+  
 
 
 
@@ -431,4 +431,3 @@ addPoint((x: 10, y: 20)) // 不可用。
 
 **08/12/2015** 更新**用元组做函数参数**章节，加入更多的例子和信息
 
-**08/13/2015** 修复了一些bug…

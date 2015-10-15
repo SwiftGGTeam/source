@@ -21,12 +21,12 @@
 | [saitjr](http://www.brighttj.com) | 18614 |
 | [Prayer](http://www.futantan.com) | 13228 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 12885 |
-| [我偏笑](http://blog.csdn.net/nsnirvana) | 6966 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 6984 |
 | [CMB](https://github.com/chenmingbiao) | 5865 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
 | [DianQK](undefined) | 3702 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
-| [小袋子](http://daizi.me) | 2594 |
+| [小袋子](http://daizi.me) | 2593 |
 | [Channe](undefined) | 1484 |
 
 

@@ -21,6 +21,7 @@
 | [saitjr](http://www.brighttj.com) | 18614 |
 | [Prayer](http://www.futantan.com) | 13228 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 12885 |
+| [王亚珂](undefined) | 7497 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [lfb-CD](undefined) | 6846 |
 | [CMB](https://github.com/chenmingbiao) | 5865 |
@@ -45,16 +46,17 @@
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
 | [小锅](http://www.swiftyper.com/) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
+| [Prayer](http://www.futantan.com) | 2 |
+| [CMB](https://github.com/chenmingbiao) | 2 |
+| [天才175](http://weibo.com/u/2916092907) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [小袋子](http://daizi.me) | 2 |
-| [Prayer](http://www.futantan.com) | 2 |
-| [天才175](http://weibo.com/u/2916092907) | 2 |
-| [CMB](https://github.com/chenmingbiao) | 2 |
-| [DianQK](undefined) | 1 |
 | [lfb-CD](undefined) | 1 |
+| [王亚珂](undefined) | 1 |
 | [Channe](undefined) | 1 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
 | [saitjr](http://www.brighttj.com) | 1 |
+| [DianQK](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -62,7 +64,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 25 |
-| [shanks](http://codebuild.me/) | 14 |
+| [shanks](http://codebuild.me/) | 15 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
 | [小锅](http://www.swiftyper.com/) | 3 |
@@ -80,7 +82,7 @@
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 25 |
 | [numbbbbb](https://github.com/numbbbbb) | 19 |
-| [小锅](http://www.swiftyper.com/) | 9 |
+| [小锅](http://www.swiftyper.com/) | 10 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 3 |
 | [shanksyang](undefined) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |

@@ -14,8 +14,8 @@
 | [shanks](http://codebuild.me/) | 33883 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 27165 |
 | [靛青K](http://www.dianqk.org/) | 25968 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 23339 |
 | [SergioChan](https://github.com/SergioChan) | 20171 |
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [saitjr](http://www.brighttj.com) | 18614 |

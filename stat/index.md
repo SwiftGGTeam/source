@@ -15,8 +15,8 @@
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
 | [靛青K](http://www.dianqk.org/) | 25968 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 23339 |
 | [SergioChan](https://github.com/SergioChan) | 20171 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 19536 |
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [saitjr](http://www.brighttj.com) | 18614 |
 | [Prayer](http://www.futantan.com) | 13228 |
@@ -40,8 +40,8 @@
 | [mmoaay](http://blog.csdn.net/mmoaay) | 6 |
 | [靛青K](http://www.dianqk.org/) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 5 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 4 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 4 |
 | [SergioChan](https://github.com/SergioChan) | 4 |
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
 | [小锅](http://www.swiftyper.com/) | 3 |
@@ -67,8 +67,8 @@
 | [shanks](http://codebuild.me/) | 15 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 3 |
 | [小锅](http://www.swiftyper.com/) | 3 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
 | [Channe](undefined) | 1 |
 | [shanksyang](undefined) | 1 |
@@ -82,7 +82,7 @@
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 25 |
 | [numbbbbb](https://github.com/numbbbbb) | 19 |
-| [小锅](http://www.swiftyper.com/) | 10 |
+| [小锅](http://www.swiftyper.com/) | 11 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 3 |
 | [shanksyang](undefined) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |

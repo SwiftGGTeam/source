@@ -19,8 +19,8 @@
 | [SergioChan](https://github.com/SergioChan) | 20171 |
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [saitjr](http://www.brighttj.com) | 18614 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 17855 |
 | [Prayer](http://www.futantan.com) | 13228 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 12885 |
 | [王亚珂](undefined) | 7497 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [lfb-CD](undefined) | 6846 |
@@ -38,10 +38,10 @@
 | :------------: | :------------: |
 | [小铁匠Linus](http://weibo.com/linusling) | 9 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 6 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [靛青K](http://www.dianqk.org/) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 5 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 4 |
 | [SergioChan](https://github.com/SergioChan) | 4 |
 | [Yake](http://blog.csdn.net/yake_099) | 3 |
 | [小锅](http://www.swiftyper.com/) | 3 |
@@ -70,10 +70,11 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 3 |
 | [小锅](http://www.swiftyper.com/) | 3 |
 | [Prayer](http://www.futantan.com) | 2 |
-| [Channe](undefined) | 1 |
-| [shanksyang](undefined) | 1 |
-| [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
+| [靛青K](http://www.dianqk.org/) | 1 |
+| [Channe](undefined) | 1 |
+| [Yake](http://blog.csdn.net/yake_099) | 1 |
+| [shanksyang](undefined) | 1 |
 
 
 # 定稿篇数统计
@@ -83,7 +84,7 @@
 | [shanks](http://codebuild.me/) | 25 |
 | [numbbbbb](https://github.com/numbbbbb) | 19 |
 | [小锅](http://www.swiftyper.com/) | 11 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 3 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 4 |
 | [shanksyang](undefined) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 1 |

@@ -14,16 +14,16 @@
 | [shanks](http://codebuild.me/) | 33883 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 27165 |
 | [靛青K](http://www.dianqk.org/) | 25968 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 23503 |
 | [SergioChan](https://github.com/SergioChan) | 20171 |
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [saitjr](http://www.brighttj.com) | 18614 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 17855 |
 | [Prayer](http://www.futantan.com) | 13228 |
 | [王亚珂](undefined) | 7497 |
+| [lfb-CD](undefined) | 7101 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
-| [lfb-CD](undefined) | 6846 |
 | [CMB](https://github.com/chenmingbiao) | 5865 |
 | [天才175](http://weibo.com/u/2916092907) | 4009 |
 | [DianQK](undefined) | 3702 |
@@ -81,10 +81,10 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [shanks](http://codebuild.me/) | 25 |
+| [shanks](http://codebuild.me/) | 24 |
 | [numbbbbb](https://github.com/numbbbbb) | 19 |
 | [小锅](http://www.swiftyper.com/) | 11 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 4 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 5 |
 | [shanksyang](undefined) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 1 |

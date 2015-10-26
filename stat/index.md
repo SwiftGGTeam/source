@@ -12,7 +12,7 @@
 | [小铁匠Linus](http://weibo.com/linusling) | 48680 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 42855 |
 | [shanks](http://codebuild.me/) | 33883 |
-| [靛青K](http://www.dianqk.org/) | 32861 |
+| [靛青K](http://www.dianqk.org/) | 32862 |
 | [Yake](http://blog.csdn.net/yake_099) | 31368 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 28550 |
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |

@@ -1,4 +1,4 @@
-title: Xcode6 中模版的介绍
+title: "Xcode6 中模版的介绍"
 date: 2015-10-14 09:00:00
 tags: [Thomas Hanning]
 categories: [Swift 入门]

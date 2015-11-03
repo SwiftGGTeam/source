@@ -21,7 +21,7 @@
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 17855 |
 | [Prayer](http://www.futantan.com) | 13224 |
-| [小袋子](http://daizi.me) | 8007 |
+| [小袋子](http://daizi.me) | 10384 |
 | [lfb-CD](undefined) | 7101 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [CMB](https://github.com/chenmingbiao) | 5865 |
@@ -43,10 +43,10 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 4 |
+| [小袋子](http://daizi.me) | 4 |
 | [Yake](http://blog.csdn.net/yake_099) | 4 |
 | [小锅](http://www.swiftyper.com/) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
-| [小袋子](http://daizi.me) | 3 |
 | [saitjr](http://www.brighttj.com) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
@@ -63,7 +63,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 29 |
+| [numbbbbb](https://github.com/numbbbbb) | 30 |
 | [shanks](http://codebuild.me/) | 16 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
@@ -82,7 +82,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 26 |
-| [numbbbbb](https://github.com/numbbbbb) | 21 |
+| [numbbbbb](https://github.com/numbbbbb) | 22 |
 | [小锅](http://www.swiftyper.com/) | 13 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 8 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |

@@ -1,7 +1,7 @@
 title: "WatchConnectivity 介绍：告别加载等待"
 date: 2015-11-03 09:00:00
 tags: [Natasha The Robot]
-categories: [Swift 入门，WatchOS 2]
+categories: [Swift 入门, WatchOS 2]
 permalink: watchconnectivity-introduction-say-goodbye-to-the-spinner
 
 ---
@@ -57,7 +57,7 @@ permalink: watchconnectivity-introduction-say-goodbye-to-the-spinner
 
 使用交互式消息能够实时地在你的 iOS 和 Watch 应用之间传输数据！一个绝佳的示例就是愤怒的小鸟应用的 Watch 版本和 iPhone 版本-用户点击 Watch，但是小鸟在手机上飞。按钮点击通过交互式消息被传输到手机上了。
 
-![这里写图片描述](/img/articles/watchconnectivity-introduction-say-goodbye-to-the-spinner/flappybirdwatch.gif1446514267.121279)
+![这里写图片描述](/img/articles/watchconnectivity-introduction-say-goodbye-to-the-spinner/flappybirdwatch.gif1446514271.8482146)
 
 一个需要注意的地方是，交互式消息需要 iPhone 开启`"reachable"`状态。Apple 文档解释道：
 
@@ -67,6 +67,6 @@ permalink: watchconnectivity-introduction-say-goodbye-to-the-spinner
 
 我爱死[Kristina Thai’s WatchConnectivity post](http://www.kristinathai.com/watchos-2-how-to-communicate-between-devices-using-watch-connectivity/) 里面区别传输的图解了：
 
-![这里写图片描述](/img/articles/watchconnectivity-introduction-say-goodbye-to-the-spinner/Screen-Shot-2015-09-21-at-8.17.29-AM.png1446514271.90717)
+![这里写图片描述](/img/articles/watchconnectivity-introduction-say-goodbye-to-the-spinner/Screen-Shot-2015-09-21-at-8.17.29-AM.png1446514277.5708654)
 
 同时，本文参考了 Curtis Herbert 的文章 [Getting Data to Your WatchOS 2 App](http://blog.curtisherbert.com/data-synchronization-with-watchos/) 中最后的 Watch OS 2 observations 部分。

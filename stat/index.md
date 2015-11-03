@@ -21,7 +21,7 @@
 | [小锅](http://www.swiftyper.com/) | 18650 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 17855 |
 | [Prayer](http://www.futantan.com) | 13224 |
-| [小袋子](http://daizi.me) | 10384 |
+| [小袋子](http://daizi.me) | 10387 |
 | [lfb-CD](undefined) | 7101 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [CMB](https://github.com/chenmingbiao) | 5865 |

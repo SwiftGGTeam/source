@@ -81,7 +81,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [shanks](http://codebuild.me/) | 25 |
+| [shanks](http://codebuild.me/) | 26 |
 | [numbbbbb](https://github.com/numbbbbb) | 21 |
 | [小锅](http://www.swiftyper.com/) | 13 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 8 |
@@ -89,4 +89,3 @@
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |
-| [shanksyang](undefined) | 1 |

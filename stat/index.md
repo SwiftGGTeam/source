@@ -17,8 +17,8 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 32126 |
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
 | [saitjr](http://www.brighttj.com) | 20425 |
+| [小锅](http://www.swiftyper.com/) | 20397 |
 | [SergioChan](https://github.com/SergioChan) | 20171 |
-| [小锅](http://www.swiftyper.com/) | 18650 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 17855 |
 | [Prayer](http://www.futantan.com) | 13224 |
 | [小袋子](http://daizi.me) | 10387 |
@@ -43,9 +43,9 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 4 |
+| [小锅](http://www.swiftyper.com/) | 4 |
 | [小袋子](http://daizi.me) | 4 |
 | [Yake](http://blog.csdn.net/yake_099) | 4 |
-| [小锅](http://www.swiftyper.com/) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
 | [saitjr](http://www.brighttj.com) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
@@ -65,7 +65,7 @@
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 30 |
 | [shanks](http://codebuild.me/) | 16 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 7 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
 | [Prayer](http://www.futantan.com) | 3 |
@@ -84,7 +84,7 @@
 | [shanks](http://codebuild.me/) | 26 |
 | [numbbbbb](https://github.com/numbbbbb) | 22 |
 | [小锅](http://www.swiftyper.com/) | 13 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 8 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 9 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 1 |

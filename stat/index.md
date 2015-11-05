@@ -16,9 +16,9 @@
 | [靛青K](http://www.dianqk.org/) | 32862 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 32126 |
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
+| [SergioChan](https://github.com/SergioChan) | 21925 |
 | [saitjr](http://www.brighttj.com) | 20425 |
 | [小锅](http://www.swiftyper.com/) | 20397 |
-| [SergioChan](https://github.com/SergioChan) | 20171 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 17855 |
 | [Prayer](http://www.futantan.com) | 13224 |
 | [小袋子](http://daizi.me) | 10387 |
@@ -41,8 +41,8 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 7 |
 | [靛青K](http://www.dianqk.org/) | 6 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
+| [SergioChan](https://github.com/SergioChan) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
-| [SergioChan](https://github.com/SergioChan) | 4 |
 | [小锅](http://www.swiftyper.com/) | 4 |
 | [小袋子](http://daizi.me) | 4 |
 | [Yake](http://blog.csdn.net/yake_099) | 4 |
@@ -63,7 +63,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 30 |
+| [numbbbbb](https://github.com/numbbbbb) | 31 |
 | [shanks](http://codebuild.me/) | 16 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
@@ -82,7 +82,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 26 |
-| [numbbbbb](https://github.com/numbbbbb) | 22 |
+| [numbbbbb](https://github.com/numbbbbb) | 23 |
 | [小锅](http://www.swiftyper.com/) | 13 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 9 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |

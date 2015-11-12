@@ -11,7 +11,7 @@
 | :------------: | :------------: |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 59757 |
 | [小铁匠Linus](http://weibo.com/linusling) | 51427 |
-| [Yake](http://blog.csdn.net/yake_099) | 45523 |
+| [Yake](http://blog.csdn.net/yake_099) | 45561 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [靛青K](http://www.dianqk.org/) | 32862 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 32126 |
@@ -24,8 +24,8 @@
 | [小袋子](http://daizi.me) | 10387 |
 | [lfb-CD](undefined) | 7101 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
+| [天才175](http://weibo.com/u/2916092907) | 5942 |
 | [CMB](https://github.com/chenmingbiao) | 5865 |
-| [天才175](http://weibo.com/u/2916092907) | 4009 |
 | [DianQK](undefined) | 3702 |
 | [riven](http://weibo.com/riven0951) | 3118 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
@@ -42,15 +42,15 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 6 |
 | [靛青K](http://www.dianqk.org/) | 6 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
-| [小锅](http://www.swiftyper.com/) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
+| [小锅](http://www.swiftyper.com/) | 5 |
 | [Yake](http://blog.csdn.net/yake_099) | 5 |
 | [小袋子](http://daizi.me) | 4 |
+| [天才175](http://weibo.com/u/2916092907) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
 | [saitjr](http://www.brighttj.com) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
-| [天才175](http://weibo.com/u/2916092907) | 2 |
 | [CMB](https://github.com/chenmingbiao) | 2 |
 | [lfb-CD](undefined) | 1 |
 | [DianQK](undefined) | 1 |
@@ -63,7 +63,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 32 |
+| [numbbbbb](https://github.com/numbbbbb) | 33 |
 | [shanks](http://codebuild.me/) | 17 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 10 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
@@ -82,7 +82,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 27 |
-| [numbbbbb](https://github.com/numbbbbb) | 23 |
+| [numbbbbb](https://github.com/numbbbbb) | 24 |
 | [小锅](http://www.swiftyper.com/) | 13 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 11 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |

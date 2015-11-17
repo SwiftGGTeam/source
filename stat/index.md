@@ -21,11 +21,11 @@
 | [saitjr](http://www.brighttj.com) | 20425 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 19248 |
 | [Prayer](http://www.futantan.com) | 13224 |
-| [小袋子](http://daizi.me) | 10387 |
+| [小袋子](http://daizi.me) | 12129 |
+| [CMB](https://github.com/chenmingbiao) | 8017 |
 | [lfb-CD](undefined) | 7101 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [天才175](http://weibo.com/u/2916092907) | 5942 |
-| [CMB](https://github.com/chenmingbiao) | 5865 |
 | [DianQK](undefined) | 3702 |
 | [riven](http://weibo.com/riven0951) | 3118 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
@@ -43,15 +43,15 @@
 | [靛青K](http://www.dianqk.org/) | 6 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
+| [小袋子](http://daizi.me) | 5 |
 | [小锅](http://www.swiftyper.com/) | 5 |
 | [Yake](http://blog.csdn.net/yake_099) | 5 |
-| [小袋子](http://daizi.me) | 4 |
 | [天才175](http://weibo.com/u/2916092907) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
+| [CMB](https://github.com/chenmingbiao) | 3 |
 | [saitjr](http://www.brighttj.com) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
-| [CMB](https://github.com/chenmingbiao) | 2 |
 | [lfb-CD](undefined) | 1 |
 | [DianQK](undefined) | 1 |
 | [riven](http://weibo.com/riven0951) | 1 |
@@ -63,7 +63,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 33 |
+| [numbbbbb](https://github.com/numbbbbb) | 35 |
 | [shanks](http://codebuild.me/) | 17 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 11 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
@@ -83,10 +83,9 @@
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 27 |
 | [numbbbbb](https://github.com/numbbbbb) | 25 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 13 |
 | [小锅](http://www.swiftyper.com/) | 13 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 11 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
-| [](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |

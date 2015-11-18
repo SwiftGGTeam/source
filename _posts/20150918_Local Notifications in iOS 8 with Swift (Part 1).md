@@ -379,3 +379,5 @@ override func tableView(tableView: UITableView, commitEditingStyle editingStyle:
 下集教程内容会在这一集的基础上添加以下功能：应用图标角标显示、通知动作和不开启应用触发通知的新特性。
 
 欲知详情如何，请看下回分解。
+
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

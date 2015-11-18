@@ -187,3 +187,5 @@ struct FamilyMember {
 ```
 
 在我的下一篇文章中，我将简单分析枚举的其他例子，并将重点放在如何将 Objective-C 中的枚举重构为 Swift 的枚举。
+
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

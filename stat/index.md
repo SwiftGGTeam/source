@@ -19,9 +19,9 @@
 | [小锅](http://www.swiftyper.com/) | 27663 |
 | [SergioChan](https://github.com/SergioChan) | 21925 |
 | [saitjr](http://www.brighttj.com) | 20425 |
+| [小袋子](http://daizi.me) | 20302 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 19248 |
 | [Prayer](http://www.futantan.com) | 13224 |
-| [小袋子](http://daizi.me) | 12129 |
 | [CMB](https://github.com/chenmingbiao) | 8017 |
 | [lfb-CD](undefined) | 7101 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
@@ -40,10 +40,10 @@
 | [mmoaay](http://blog.csdn.net/mmoaay) | 7 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 6 |
+| [小袋子](http://daizi.me) | 6 |
 | [靛青K](http://www.dianqk.org/) | 6 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
-| [小袋子](http://daizi.me) | 5 |
 | [小锅](http://www.swiftyper.com/) | 5 |
 | [Yake](http://blog.csdn.net/yake_099) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 3 |
@@ -65,7 +65,7 @@
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 35 |
 | [shanks](http://codebuild.me/) | 17 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 11 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 12 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
 | [Prayer](http://www.futantan.com) | 3 |
@@ -82,7 +82,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 27 |
-| [numbbbbb](https://github.com/numbbbbb) | 25 |
+| [numbbbbb](https://github.com/numbbbbb) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 13 |
 | [小锅](http://www.swiftyper.com/) | 13 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |

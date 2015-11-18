@@ -111,3 +111,5 @@ lastNameLabel.text = myClone?.lastName
 你可以在 [github](https://github.com/dasdom/EncodeExperiments) 上找到完整的代码。
 
 如果你觉得这篇文章不错，请[猛戳这里](http://swiftandpainless.com/feed)对我的博客进行订阅。
+
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

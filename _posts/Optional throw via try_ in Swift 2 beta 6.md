@@ -94,3 +94,4 @@ if let uid = loggedInUser(),
 2. 也有不用`try?`的方法来改进这里的代码，但这段代码是一个很好的例子
 3. 值得一提的是，我这里使用的是原生的 `NSRegularExpression` 而非第三方库
 4. 此外，你总是需要将相关依赖添加到工程中。
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

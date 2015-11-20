@@ -37,9 +37,9 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [小铁匠Linus](http://weibo.com/linusling) | 12 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 7 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 7 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 6 |
 | [小袋子](http://daizi.me) | 6 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 6 |
 | [靛青K](http://www.dianqk.org/) | 6 |

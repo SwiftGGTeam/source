@@ -11,7 +11,8 @@
 | :------------: | :------------: |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 59757 |
 | [小铁匠Linus](http://weibo.com/linusling) | 58117 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 56819 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 56824 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 48409 |
 | [Yake](http://blog.csdn.net/yake_099) | 45561 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [靛青K](http://www.dianqk.org/) | 32862 |
@@ -20,7 +21,6 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
 | [SergioChan](https://github.com/SergioChan) | 21925 |
 | [小袋子](http://daizi.me) | 20302 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 19248 |
 | [Prayer](http://www.futantan.com) | 13224 |
 | [CMB](https://github.com/chenmingbiao) | 8017 |
 | [lfb-CD](undefined) | 7101 |
@@ -37,7 +37,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [小铁匠Linus](http://weibo.com/linusling) | 12 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 7 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 7 |
 | [小袋子](http://daizi.me) | 6 |

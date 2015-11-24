@@ -6,7 +6,7 @@ permalink: thinking-in-swift-3
 
 ---
 > 作者：Olivier Halligon，[原文链接](http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3/)，原文日期：2015-10-03
-> 译者：[ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles)；校对：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；定稿：[小锅](http://www.swiftyper.com/)
+> 译者：[ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles)；校对：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；定稿：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)
   
 
 
@@ -128,3 +128,4 @@ struct ListItem {
 1. 没错，上篇文章中你确实做了一些函数式编程...你自己可能甚至都没有意识到。
 
 2. `NSURL!`一直纠缠我到现在已经有段时间了，其实我就是太懒了，没去为`ListItem`类写一个正确的`init`方法。因为知道我迟早会把它弄掉，所以处理它之前我没想收拾那段代码样本。我们拯救最后一匹小马仅仅是时间问题。
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

@@ -6,7 +6,7 @@ permalink: how-to-test-uialertcontroller-in-swift
 
 ---
 > 作者：dom，[原文链接](http://swiftandpainless.com/how-to-test-uialertcontroller-in-swift/)，原文日期：2015-09-18
-> 译者：[DianQK](undefined)；校对：[小铁匠Linus](http://weibo.com/linusling)；定稿：[小锅](http://www.swiftyper.com/)
+> 译者：[DianQK](undefined)；校对：[小铁匠Linus](http://weibo.com/linusling)；定稿：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)
   
 
 
@@ -167,3 +167,4 @@ func testAlert_FirstActionStoresCancel() {
 就是这样，一种很简单的又不使用 swizzling 来测试 UIAlertViewController 的方式。
 
 文章中的代码已经放到 [github](https://github.com/dasdom/TestingAlertExperiment) 。 
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

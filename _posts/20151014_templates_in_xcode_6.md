@@ -6,7 +6,7 @@ permalink: templates-in-xcode-6
 
 ---
 > 作者：Thomas Hanning，[原文链接](http://www.thomashanning.com/templates-in-xcode-6/)，原文日期：2015-08-27
-> 译者：[CMB](https://github.com/chenmingbiao)；校对：[shanks](http://codebuild.me/)；定稿：[小锅](http://www.swiftyper.com/)
+> 译者：[CMB](https://github.com/chenmingbiao)；校对：[shanks](http://codebuild.me/)；定稿：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)
   
 
 
@@ -72,3 +72,4 @@ permalink: templates-in-xcode-6
 # 总结
 
 模版是学习关于 iOS 开发基础知识最好的一种方式。然而对于实际的项目你应该更多的使用 “单视图应用程序(`Single View Application`)” 模版，因为使用这种模版最容易搭建你的项目架构。
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

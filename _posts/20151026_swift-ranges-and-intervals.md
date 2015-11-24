@@ -5,7 +5,7 @@ categories: [Swift 进阶]
 permalink: swift-ranges-and-intervals
 ---
 > 作者：Ole Begemann，[原文链接](http://oleb.net/blog/2015/09/swift-ranges-and-intervals/)，原文日期：2015-09-24
-> 译者：[靛青K](http://www.dianqk.org/)；校对：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；定稿：[小锅](http://www.swiftyper.com/)
+> 译者：[靛青K](http://www.dianqk.org/)；校对：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；定稿：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)
   
 
 
@@ -289,3 +289,4 @@ Swift 中范围和区间都有相似的目的，但有着不同的实现和泛�
 即便如此，我还是认为在这个特定的例子中，使用自定义操作符来替代标准的 Swift 句法（case _ where x > 0）所得到的好处是很小的，因此在实战代码中还是不值得使用。把这个方法暂时视为思考上的实践，而非推荐使用。
 
 如果你喜欢这篇文章，你可能也会喜欢 Chris Eidhof 和 Airspeed Velocity 的即将出版的书，[Swift 进阶](https://www.objc.io/books/advanced-swift/)。他们对于相同的在区间下标上下文中的开闭区间主题讨论了很多其它的东西。我是这本书的技术审校，所以我的意见偏向的，但是如果你对 Swift 很感兴趣，我还是非常推荐这本书给你。这本书当前是 beta 状态，但是现在已经可以买到它的早期预览版了。
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

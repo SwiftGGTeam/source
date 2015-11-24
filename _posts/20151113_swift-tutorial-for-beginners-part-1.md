@@ -39,6 +39,7 @@ Swift 是苹果官方新推出的编程语言，它可以为 iOS、 watchOS、 t
 
 将会有更多内容出现在“写给初学者的 Swift 教程”系列中。
 
+本教程源码下载: [来自小铁匠的代码](https://github.com/kevin833752/MyTranslationPlaygrounds/tree/master/Swift_Tutorial_For_Beginners_Part_1.playground)
 ## 下载 Xcode
 
 成为 Swift 大牛的第一步当然是下载 Xcode 啦。你可以直接从 App Store 里下载。Xcode 是苹果官方的 IDE 工具，它可以为 iOS、 watchOS、 tvOS 和 Mac OS 这些平台开发应用。
@@ -63,7 +64,7 @@ print("Hello World!")
 
 输完这行代码，你就可以在 playground 的右边看到输出的结果。
 
-![](/img/articles/swift-tutorial-for-beginners-part-1/Screen-Shot-2015-10-03-at-18.26.55-1024x636.png1447376594.7122128)
+![](/img/articles/swift-tutorial-for-beginners-part-1/Screen-Shot-2015-10-03-at-18.26.55-1024x636.png1447379896.6408916)
 
 恭喜，你已经成功编写了第一个 Swift 程序！
 
@@ -398,3 +399,4 @@ maxOfNumbers(5, number2: 10)
 * [Swift 中的可选类型](http://www.thomashanning.com/optionals-in-swift/)
 
 在本系列的后续部分，我们会讨论更多关于 Swift 的新特性。请继续关注!
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

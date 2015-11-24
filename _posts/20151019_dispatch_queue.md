@@ -6,7 +6,7 @@ permalink: friday-qa-2015-09-04-lets-build-dispatch_queue
 
 ---
 > 作者：Mike Ash，[原文链接](https://www.mikeash.com/pyblog/friday-qa-2015-09-04-lets-build-dispatch_queue.html)，原文日期：2015-09-04
-> 译者：[Yake](http://blog.csdn.net/yake_099)；校对：[shanks](http://codebuild.me/)；定稿：[小锅](http://www.swiftyper.com/)
+> 译者：[Yake](http://blog.csdn.net/yake_099)；校对：[shanks](http://codebuild.me/)；定稿：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)
   
 
 
@@ -386,3 +386,5 @@ block 执行完之后，需要减少活跃线程数的数量。这个操作需�
 
 
 
+
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

@@ -6,7 +6,7 @@ permalink: fun_with_functions
 
 ---
 > 作者：Olivier Halligon，[原文链接](http://alisoftware.github.io/swift/function/operator/2015/08/28/fun-with-functions/)，原文日期：2015/08/28
-> 译者：[小锅](http://www.swiftyper.com/)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[shanks](http://codebuild.me/)
+> 译者：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[shanks](http://codebuild.me/)
   
 
 
@@ -181,3 +181,4 @@ let isOdd = !isEven
 函数还有很多有乐趣值得我们去挖掘。我们可以使 `&&`, `||` 和 `!` 的重载更加泛型化，以使它们可以接受 `T -> Bool` 类型的函数，这里的 `T` 可以是任何类型。我甚至还可以全面地讲解柯里化的知识，解开它的封印，深入探索下函数式编程(不过目前已经有很多其它的博客对这些进行了讲解，因此我觉得不需要再增加我的一篇了)，不过我觉得今天这些知识已经足够你充实一整天了！
 
 继续快乐地 Swift 吧！
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

@@ -1,12 +1,12 @@
 title: "WatchOS 2: Hello, World"
 date: 2015-10-15 09:00:00
-tags: [Natasha the Robot]
-ctegories: [WatchOS 2,Swift 入门]
+tags: [Natasha The Robot]
+categories: [WatchOS 2,Swift 入门]
 permalink: watchos-2-hello-world
 
 ---
 > 作者：Natasha The Robot，[原文链接](http://natashatherobot.com/watchos-2-hello-world/)，原文日期：2015-09-21
-> 译者：[小袋子](http://daizi.me)；校对：[小锅](http://www.swiftyper.com/)；定稿：[numbbbbb](https://github.com/numbbbbb)
+> 译者：[小袋子](http://daizi.me)；校对：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)；定稿：[numbbbbb](https://github.com/numbbbbb)
   
 
 
@@ -42,3 +42,5 @@ permalink: watchos-2-hello-world
 ![](/img/articles/watchos-2-hello-world/Menubar_and_ItsAWatchWorld_xcodeproj_and_MyPlayground_6_36_06_PM_playground.png1444874964.5578082)
 
 开心地编程吧！！
+
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

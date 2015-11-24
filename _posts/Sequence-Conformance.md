@@ -362,3 +362,5 @@ extension LazyRandomAccessCollection  : LazySequenceType {}
 ```
 
 然后在 `LazySequenceType` 中定义一次方法就可以了。
+
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

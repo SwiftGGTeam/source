@@ -6,7 +6,7 @@ permalink: nscoding_and_swift_structs
 
 ---
 > 作者：Dominik Hauser，[原文链接](http://swiftandpainless.com/nscoding-and-swift-structs/)，原文日期：2015/08/19
-> 译者：[小锅](http://www.swiftyper.com/)；校对：[Yake](http://blog.csdn.net/yake_099)；定稿：[Yake](http://blog.csdn.net/yake_099)
+> 译者：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)；校对：[Yake](http://blog.csdn.net/yake_099)；定稿：[Yake](http://blog.csdn.net/yake_099)
   
 
 
@@ -111,3 +111,5 @@ lastNameLabel.text = myClone?.lastName
 你可以在 [github](https://github.com/dasdom/EncodeExperiments) 上找到完整的代码。
 
 如果你觉得这篇文章不错，请[猛戳这里](http://swiftandpainless.com/feed)对我的博客进行订阅。
+
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

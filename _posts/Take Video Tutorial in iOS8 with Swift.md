@@ -143,3 +143,5 @@ func imagePickerControllerDidCancel(picker: UIImagePickerController) {
 ![](/img/articles/take_video_tutorial_in_ios8_with_swift/TakeVideo-Device.pngformat=750w1444269946.386972)
 
 你可以在[Github](https://github.com/ioscreator/ioscreator)上下载`IOS8SwiftTakeVideoPlayerTutorial`的代码
+
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

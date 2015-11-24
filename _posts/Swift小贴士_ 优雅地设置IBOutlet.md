@@ -6,7 +6,7 @@ permalink: ios-a-beautiful-way-of-styling-iboutlets-in-swift
 
 ---
 > 作者：Natasha，[原文链接](http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift/)，原文日期：2015/07/29
-> 译者：[Channe](undefined)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[小锅](http://www.swiftyper.com/)
+> 译者：[Channe](undefined)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)
   
 
 
@@ -85,3 +85,5 @@ class ViewController: UIViewController {
 ```
 
 是时候去重构代码了!
+
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

@@ -6,7 +6,7 @@ permalink: five-myths-about-swift
 
 ---
 > 作者：Thomas Hanning，[原文链接](http://www.thomashanning.com/five-myths-about-swift/)，原文日期：2015-10-19
-> 译者：[小铁匠Linus](http://weibo.com/linusling)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[小锅](http://www.swiftyper.com/)
+> 译者：[小铁匠Linus](http://weibo.com/linusling)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)
   
 
 
@@ -70,3 +70,5 @@ Swift 1.2 和 Swift 2.0 的引进都有对语言的语法进行修改。因此�
 ## 接下来做什么
 
 如果你想学习更多有关 Swift 的知识，学习[苹果的Swift文档](https://itunes.apple.com/us/book/the-swift-programming-language/id881256329?mt=11)是一个非常好的开始。如果想了解其它的资源，可以关注一下我的博客[ “How To Stay Up-To-Date On iOS Development”](http://www.thomashanning.com/how-to-stay-up-to-date-on-ios-development/)。
+
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

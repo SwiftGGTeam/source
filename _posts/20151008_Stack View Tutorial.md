@@ -6,7 +6,7 @@ permalink: stack-view-tutorial
 
 ---
 > 作者：Arthur Knopper，[原文链接](http://www.ioscreator.com/tutorials/stack-view-tutorial/)，原文日期：2015-09-14
-> 译者：[小铁匠Linus](http://weibo.com/linusling)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[小锅](http://www.swiftyper.com/)
+> 译者：[小铁匠Linus](http://weibo.com/linusling)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)
   
 
 
@@ -59,3 +59,4 @@ permalink: stack-view-tutorial
 ![](/img/articles/stack-view-tutorial/format=1500w1444269944.038442)
 
 你可以在 [Github](https://github.com/ioscreator/ioscreator) 下载 **IO9StackViewTutorial** 工程的源代码。
+> 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

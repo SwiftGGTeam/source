@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 59757 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 71237 |
 | [小铁匠Linus](http://weibo.com/linusling) | 58117 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 56824 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 48409 |
@@ -29,6 +29,7 @@
 | [DianQK](undefined) | 3702 |
 | [riven](http://weibo.com/riven0951) | 3118 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
+| [JackAlan](undefined) | 1752 |
 | [Channe](undefined) | 1484 |
 
 
@@ -38,7 +39,7 @@
 | :------------: | :------------: |
 | [小铁匠Linus](http://weibo.com/linusling) | 12 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 7 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 8 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 7 |
 | [小袋子](http://daizi.me) | 6 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 6 |
@@ -46,17 +47,18 @@
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
 | [Yake](http://blog.csdn.net/yake_099) | 5 |
-| [天才175](http://weibo.com/u/2916092907) | 3 |
-| [saitjr](http://www.brighttj.com) | 3 |
-| [shanks](http://codebuild.me/) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
+| [天才175](http://weibo.com/u/2916092907) | 3 |
+| [shanks](http://codebuild.me/) | 3 |
+| [saitjr](http://www.brighttj.com) | 3 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
-| [lfb-CD](undefined) | 1 |
 | [DianQK](undefined) | 1 |
 | [riven](http://weibo.com/riven0951) | 1 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
+| [JackAlan](undefined) | 1 |
 | [Channe](undefined) | 1 |
+| [lfb-CD](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -65,13 +67,13 @@
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 36 |
 | [shanks](http://codebuild.me/) | 18 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 12 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 13 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 4 |
 | [Prayer](http://www.futantan.com) | 3 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
+| [小铁匠Linus](http://weibo.com/linusling) | 2 |
 | [靛青K](http://www.dianqk.org/) | 1 |
-| [小铁匠Linus](http://weibo.com/linusling) | 1 |
 | [小袋子](http://daizi.me) | 1 |
 | [Channe](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
@@ -83,7 +85,7 @@
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 28 |
 | [numbbbbb](https://github.com/numbbbbb) | 27 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 13 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 15 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |

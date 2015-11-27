@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 71237 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 64805 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 64745 |
 | [小铁匠Linus](http://weibo.com/linusling) | 58117 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 56824 |
 | [Yake](http://blog.csdn.net/yake_099) | 45561 |

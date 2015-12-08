@@ -28,6 +28,7 @@
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [天才175](http://weibo.com/u/2916092907) | 5942 |
 | [DianQK](undefined) | 3702 |
+| [Cee](https://github.com/Cee) | 3496 |
 | [riven](http://weibo.com/riven0951) | 3118 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
 | [JackAlan](undefined) | 1752 |
@@ -46,21 +47,22 @@
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 6 |
 | [靛青K](http://www.dianqk.org/) | 6 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
-| [SergioChan](https://github.com/SergioChan) | 5 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
+| [SergioChan](https://github.com/SergioChan) | 5 |
+| [shanks](http://codebuild.me/) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 3 |
-| [shanks](http://codebuild.me/) | 3 |
 | [saitjr](http://www.brighttj.com) | 3 |
-| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Prayer](http://www.futantan.com) | 2 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [DianQK](undefined) | 1 |
 | [riven](http://weibo.com/riven0951) | 1 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
+| [lfb-CD](undefined) | 1 |
 | [JackAlan](undefined) | 1 |
 | [Lou](undefined) | 1 |
+| [Cee](https://github.com/Cee) | 1 |
 | [Channe](undefined) | 1 |
-| [lfb-CD](undefined) | 1 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
 
 
 # 校对篇数统计
@@ -69,7 +71,7 @@
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 38 |
 | [shanks](http://codebuild.me/) | 19 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 17 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 18 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [Prayer](http://www.futantan.com) | 3 |
@@ -88,7 +90,7 @@
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 30 |
 | [numbbbbb](https://github.com/numbbbbb) | 30 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 18 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 19 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
 | [Cee](https://github.com/Cee) | 1 |

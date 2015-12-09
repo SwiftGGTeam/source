@@ -18,17 +18,17 @@
 | [靛青K](http://www.dianqk.org/) | 32862 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 32126 |
 | [saitjr](http://www.brighttj.com) | 28475 |
+| [Prayer](http://www.futantan.com) | 28173 |
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
 | [小袋子](http://daizi.me) | 24023 |
 | [SergioChan](https://github.com/SergioChan) | 21925 |
-| [Prayer](http://www.futantan.com) | 13224 |
 | [Lou](undefined) | 9588 |
 | [CMB](https://github.com/chenmingbiao) | 8017 |
 | [lfb-CD](undefined) | 7101 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [天才175](http://weibo.com/u/2916092907) | 5942 |
 | [DianQK](undefined) | 3702 |
-| [Cee](https://github.com/Cee) | 3473 |
+| [Cee](https://github.com/Cee) | 3472 |
 | [riven](http://weibo.com/riven0951) | 3118 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
 | [JackAlan](undefined) | 1752 |
@@ -53,7 +53,7 @@
 | [CMB](https://github.com/chenmingbiao) | 3 |
 | [天才175](http://weibo.com/u/2916092907) | 3 |
 | [saitjr](http://www.brighttj.com) | 3 |
-| [Prayer](http://www.futantan.com) | 2 |
+| [Prayer](http://www.futantan.com) | 3 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [DianQK](undefined) | 1 |
 | [riven](http://weibo.com/riven0951) | 1 |
@@ -77,9 +77,9 @@
 | [Prayer](http://www.futantan.com) | 3 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
 | [小铁匠Linus](http://weibo.com/linusling) | 2 |
+| [Cee](https://github.com/Cee) | 2 |
 | [靛青K](http://www.dianqk.org/) | 1 |
 | [小袋子](http://daizi.me) | 1 |
-| [Cee](https://github.com/Cee) | 1 |
 | [Channe](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 
@@ -90,7 +90,7 @@
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 30 |
 | [numbbbbb](https://github.com/numbbbbb) | 30 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 19 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 20 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
 | [Cee](https://github.com/Cee) | 1 |

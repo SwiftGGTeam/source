@@ -22,6 +22,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
 | [小袋子](http://daizi.me) | 24023 |
 | [SergioChan](https://github.com/SergioChan) | 21925 |
+| [PMST](undefined) | 11285 |
 | [Lou](undefined) | 9588 |
 | [CMB](https://github.com/chenmingbiao) | 8017 |
 | [lfb-CD](undefined) | 7101 |
@@ -61,6 +62,7 @@
 | [JackAlan](undefined) | 1 |
 | [Lou](undefined) | 1 |
 | [Cee](https://github.com/Cee) | 1 |
+| [PMST](undefined) | 1 |
 | [Channe](undefined) | 1 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
 
@@ -74,10 +76,10 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 18 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
-| [Prayer](http://www.futantan.com) | 3 |
+| [Cee](https://github.com/Cee) | 3 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
+| [Prayer](http://www.futantan.com) | 3 |
 | [小铁匠Linus](http://weibo.com/linusling) | 2 |
-| [Cee](https://github.com/Cee) | 2 |
 | [靛青K](http://www.dianqk.org/) | 1 |
 | [小袋子](http://daizi.me) | 1 |
 | [Channe](undefined) | 1 |
@@ -90,7 +92,7 @@
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 30 |
 | [numbbbbb](https://github.com/numbbbbb) | 30 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 20 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 21 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
 | [Cee](https://github.com/Cee) | 1 |

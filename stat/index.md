@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 88273 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 99553 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 74123 |
 | [小铁匠Linus](http://weibo.com/linusling) | 58117 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 56824 |
@@ -22,7 +22,6 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
 | [小袋子](http://daizi.me) | 24023 |
 | [SergioChan](https://github.com/SergioChan) | 21925 |
-| [PMST](undefined) | 11285 |
 | [Lou](undefined) | 9588 |
 | [CMB](https://github.com/chenmingbiao) | 8017 |
 | [lfb-CD](undefined) | 7101 |
@@ -40,7 +39,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 13 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 14 |
 | [小铁匠Linus](http://weibo.com/linusling) | 12 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 9 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 7 |
@@ -62,7 +61,6 @@
 | [JackAlan](undefined) | 1 |
 | [Lou](undefined) | 1 |
 | [Cee](https://github.com/Cee) | 1 |
-| [PMST](undefined) | 1 |
 | [Channe](undefined) | 1 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
 

@@ -13,7 +13,7 @@
 | [mmoaay](http://blog.csdn.net/mmoaay) | 74123 |
 | [小铁匠Linus](http://weibo.com/linusling) | 58117 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 56824 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 52290 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 52035 |
 | [Yake](http://blog.csdn.net/yake_099) | 46830 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [靛青K](http://www.dianqk.org/) | 32862 |

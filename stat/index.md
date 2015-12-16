@@ -24,9 +24,9 @@
 | [SergioChan](https://github.com/SergioChan) | 21925 |
 | [Lou](undefined) | 9588 |
 | [CMB](https://github.com/chenmingbiao) | 8017 |
+| [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [lfb-CD](undefined) | 7101 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
-| [天才175](http://weibo.com/u/2916092907) | 5942 |
 | [DianQK](undefined) | 3702 |
 | [Cee](https://github.com/Cee) | 3472 |
 | [riven](http://weibo.com/riven0951) | 3118 |
@@ -49,9 +49,9 @@
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [lfb_CD](http://weibo.com/lfbWb) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
+| [天才175](http://weibo.com/u/2916092907) | 4 |
 | [shanks](http://codebuild.me/) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
-| [天才175](http://weibo.com/u/2916092907) | 3 |
 | [saitjr](http://www.brighttj.com) | 3 |
 | [Prayer](http://www.futantan.com) | 3 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
@@ -69,7 +69,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 39 |
+| [numbbbbb](https://github.com/numbbbbb) | 40 |
 | [shanks](http://codebuild.me/) | 19 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 18 |
 | [lfb_CD](http://weibo.com/lfbWb) | 6 |
@@ -88,8 +88,8 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
+| [numbbbbb](https://github.com/numbbbbb) | 31 |
 | [shanks](http://codebuild.me/) | 30 |
-| [numbbbbb](https://github.com/numbbbbb) | 30 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 23 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |
 | [Cee](https://github.com/Cee) | 2 |

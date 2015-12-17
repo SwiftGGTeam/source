@@ -33,6 +33,7 @@
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
 | [JackAlan](undefined) | 1752 |
 | [Channe](undefined) | 1484 |
+| [littledogboy](undefined) | 1054 |
 
 
 # 翻译篇数统计
@@ -61,6 +62,7 @@
 | [JackAlan](undefined) | 1 |
 | [Lou](undefined) | 1 |
 | [Cee](https://github.com/Cee) | 1 |
+| [littledogboy](undefined) | 1 |
 | [Channe](undefined) | 1 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
 
@@ -69,7 +71,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 40 |
+| [numbbbbb](https://github.com/numbbbbb) | 41 |
 | [shanks](http://codebuild.me/) | 19 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 18 |
 | [lfb_CD](http://weibo.com/lfbWb) | 6 |
@@ -90,7 +92,7 @@
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 31 |
 | [shanks](http://codebuild.me/) | 30 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 23 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 24 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |
 | [Cee](https://github.com/Cee) | 2 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |

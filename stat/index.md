@@ -17,10 +17,10 @@
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [靛青K](http://www.dianqk.org/) | 32862 |
+| [小袋子](http://daizi.me) | 28524 |
 | [saitjr](http://www.brighttj.com) | 28475 |
 | [Prayer](http://www.futantan.com) | 28173 |
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
-| [小袋子](http://daizi.me) | 26151 |
 | [SergioChan](https://github.com/SergioChan) | 21925 |
 | [Cee](https://github.com/Cee) | 10039 |
 | [Lou](undefined) | 9541 |
@@ -44,7 +44,7 @@
 | [小铁匠Linus](http://weibo.com/linusling) | 14 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 9 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 9 |
-| [小袋子](http://daizi.me) | 8 |
+| [小袋子](http://daizi.me) | 9 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 6 |
 | [靛青K](http://www.dianqk.org/) | 6 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
@@ -74,7 +74,7 @@
 | [numbbbbb](https://github.com/numbbbbb) | 41 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 19 |
 | [shanks](http://codebuild.me/) | 19 |
-| [Cee](https://github.com/Cee) | 8 |
+| [Cee](https://github.com/Cee) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 6 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
@@ -90,7 +90,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 34 |
+| [numbbbbb](https://github.com/numbbbbb) | 35 |
 | [shanks](http://codebuild.me/) | 30 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |

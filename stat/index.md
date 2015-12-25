@@ -22,7 +22,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 27873 |
 | [小袋子](http://daizi.me) | 26151 |
 | [SergioChan](https://github.com/SergioChan) | 21925 |
-| [Cee](https://github.com/Cee) | 10029 |
+| [Cee](https://github.com/Cee) | 10039 |
 | [Lou](undefined) | 9541 |
 | [CMB](https://github.com/chenmingbiao) | 8017 |
 | [天才175](http://weibo.com/u/2916092907) | 7552 |

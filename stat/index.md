@@ -32,7 +32,7 @@
 | [Channe](undefined) | 3201 |
 | [riven](http://weibo.com/riven0951) | 3118 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
-| [JackAlan](undefined) | 1752 |
+| [JackAlan](http://ijack.pw/) | 1752 |
 | [littledogboy](undefined) | 1054 |
 
 
@@ -59,7 +59,7 @@
 | [Channe](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [DianQK](undefined) | 1 |
-| [JackAlan](undefined) | 1 |
+| [JackAlan](http://ijack.pw/) | 1 |
 | [Lou](undefined) | 1 |
 | [riven](http://weibo.com/riven0951) | 1 |
 | [littledogboy](undefined) | 1 |

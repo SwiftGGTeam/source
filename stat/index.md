@@ -9,8 +9,8 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [小铁匠Linus](http://weibo.com/linusling) | 111569 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 100361 |
-| [小铁匠Linus](http://weibo.com/linusling) | 75515 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 74123 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 61375 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 56824 |
@@ -41,7 +41,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 15 |
-| [小铁匠Linus](http://weibo.com/linusling) | 14 |
+| [小铁匠Linus](http://weibo.com/linusling) | 15 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 9 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 9 |
 | [小袋子](http://daizi.me) | 9 |
@@ -80,17 +80,18 @@
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
 | [Prayer](http://www.futantan.com) | 3 |
 | [小铁匠Linus](http://weibo.com/linusling) | 2 |
-| [靛青K](http://www.dianqk.org/) | 1 |
 | [小袋子](http://daizi.me) | 1 |
-| [Channe](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
+| [saitjr](http://www.brighttj.com) | 1 |
+| [Channe](undefined) | 1 |
+| [靛青K](http://www.dianqk.org/) | 1 |
 
 
 # 定稿篇数统计
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 35 |
+| [numbbbbb](https://github.com/numbbbbb) | 36 |
 | [shanks](http://codebuild.me/) | 30 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 26 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |

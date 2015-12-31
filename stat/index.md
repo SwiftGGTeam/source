@@ -32,7 +32,7 @@
 | [DianQK](undefined) | 3702 |
 | [Channe](undefined) | 3201 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
-| [JackAlan](http://ijack.pw/) | 1752 |
+| [JackAlan](http://ijack.pw/) | 2709 |
 | [littledogboy](undefined) | 1054 |
 
 
@@ -59,7 +59,7 @@
 | [Cee](https://github.com/Cee) | 2 |
 | [Channe](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [JackAlan](http://ijack.pw/) | 1 |
+| [JackAlan](http://ijack.pw/) | 2 |
 | [Lou](undefined) | 1 |
 | [DianQK](undefined) | 1 |
 | [littledogboy](undefined) | 1 |
@@ -74,7 +74,7 @@
 | [numbbbbb](https://github.com/numbbbbb) | 42 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 19 |
 | [shanks](http://codebuild.me/) | 19 |
-| [Cee](https://github.com/Cee) | 10 |
+| [Cee](https://github.com/Cee) | 11 |
 | [lfb_CD](http://weibo.com/lfbWb) | 6 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
@@ -94,7 +94,7 @@
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 37 |
 | [shanks](http://codebuild.me/) | 30 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 26 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 27 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |
 | [Cee](https://github.com/Cee) | 3 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |

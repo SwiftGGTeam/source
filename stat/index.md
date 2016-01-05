@@ -15,7 +15,7 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 61375 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 56824 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
-| [靛青K](http://www.dianqk.org/) | 35491 |
+| [靛青K](http://www.dianqk.org/) | 35502 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [小袋子](http://daizi.me) | 28524 |
 | [saitjr](http://www.brighttj.com) | 28475 |

@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [小铁匠Linus](http://weibo.com/linusling) | 111569 |
+| [小铁匠Linus](http://weibo.com/linusling) | 115371 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 108625 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 74123 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 61375 |
@@ -41,7 +41,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 18 |
-| [小铁匠Linus](http://weibo.com/linusling) | 15 |
+| [小铁匠Linus](http://weibo.com/linusling) | 16 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 9 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 9 |
 | [小袋子](http://daizi.me) | 9 |
@@ -80,11 +80,11 @@
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
 | [Prayer](http://www.futantan.com) | 3 |
 | [小铁匠Linus](http://weibo.com/linusling) | 2 |
+| [saitjr](http://www.brighttj.com) | 2 |
 | [Channe](undefined) | 2 |
-| [Yake](http://blog.csdn.net/yake_099) | 1 |
-| [saitjr](http://www.brighttj.com) | 1 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 | [小袋子](http://daizi.me) | 1 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
+| [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [靛青K](http://www.dianqk.org/) | 1 |
 
 
@@ -92,7 +92,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 37 |
+| [numbbbbb](https://github.com/numbbbbb) | 38 |
 | [shanks](http://codebuild.me/) | 30 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |

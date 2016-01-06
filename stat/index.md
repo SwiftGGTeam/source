@@ -16,18 +16,17 @@
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 59885 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
 | [靛青K](http://www.dianqk.org/) | 35502 |
+| [lfb_CD](http://weibo.com/lfbWb) | 34974 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [小袋子](http://daizi.me) | 28524 |
 | [saitjr](http://www.brighttj.com) | 28475 |
 | [Prayer](http://www.futantan.com) | 28173 |
-| [lfb_CD](http://weibo.com/lfbWb) | 27873 |
 | [SergioChan](https://github.com/SergioChan) | 21925 |
 | [riven](http://weibo.com/riven0951) | 17174 |
 | [Cee](https://github.com/Cee) | 10039 |
 | [Lou](undefined) | 9541 |
 | [CMB](https://github.com/chenmingbiao) | 8017 |
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
-| [lfb-CD](undefined) | 7101 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [DianQK](undefined) | 3702 |
 | [Channe](undefined) | 3201 |
@@ -43,28 +42,27 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 20 |
 | [小铁匠Linus](http://weibo.com/linusling) | 16 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 9 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 9 |
 | [小袋子](http://daizi.me) | 9 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 9 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 7 |
 | [靛青K](http://www.dianqk.org/) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
-| [lfb_CD](http://weibo.com/lfbWb) | 5 |
+| [lfb_CD](http://weibo.com/lfbWb) | 6 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 4 |
 | [shanks](http://codebuild.me/) | 3 |
+| [Prayer](http://www.futantan.com) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
 | [saitjr](http://www.brighttj.com) | 3 |
-| [Prayer](http://www.futantan.com) | 3 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [Cee](https://github.com/Cee) | 2 |
-| [Channe](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [JackAlan](http://ijack.pw/) | 2 |
-| [Lou](undefined) | 1 |
+| [Cee](https://github.com/Cee) | 2 |
+| [Channe](undefined) | 2 |
 | [DianQK](undefined) | 1 |
-| [littledogboy](undefined) | 1 |
-| [lfb-CD](undefined) | 1 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
+| [Lou](undefined) | 1 |
+| [littledogboy](undefined) | 1 |
 
 
 # 校对篇数统计

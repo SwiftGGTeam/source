@@ -25,13 +25,13 @@
 | [riven](http://weibo.com/riven0951) | 17174 |
 | [Cee](https://github.com/Cee) | 10039 |
 | [Lou](undefined) | 9541 |
+| [JackAlan](http://ijack.pw/) | 8645 |
 | [CMB](https://github.com/chenmingbiao) | 8017 |
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [DianQK](undefined) | 3702 |
 | [Channe](undefined) | 3201 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
-| [JackAlan](http://ijack.pw/) | 2709 |
 | [littledogboy](undefined) | 1054 |
 
 
@@ -41,9 +41,9 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 20 |
 | [小铁匠Linus](http://weibo.com/linusling) | 16 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 9 |
-| [小袋子](http://daizi.me) | 9 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 9 |
+| [小袋子](http://daizi.me) | 9 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 9 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 7 |
 | [靛青K](http://www.dianqk.org/) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
@@ -51,12 +51,12 @@
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 4 |
 | [shanks](http://codebuild.me/) | 3 |
+| [JackAlan](http://ijack.pw/) | 3 |
 | [Prayer](http://www.futantan.com) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
 | [saitjr](http://www.brighttj.com) | 3 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [JackAlan](http://ijack.pw/) | 2 |
 | [Cee](https://github.com/Cee) | 2 |
 | [Channe](undefined) | 2 |
 | [DianQK](undefined) | 1 |
@@ -73,7 +73,7 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 19 |
 | [shanks](http://codebuild.me/) | 19 |
 | [Cee](https://github.com/Cee) | 12 |
-| [lfb_CD](http://weibo.com/lfbWb) | 6 |
+| [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
 | [Prayer](http://www.futantan.com) | 3 |
@@ -90,7 +90,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 41 |
+| [numbbbbb](https://github.com/numbbbbb) | 42 |
 | [shanks](http://codebuild.me/) | 30 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |

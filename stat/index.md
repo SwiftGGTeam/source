@@ -11,8 +11,8 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 116273 |
 | [小铁匠Linus](http://weibo.com/linusling) | 115382 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 75732 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 74123 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 61375 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 59885 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
 | [靛青K](http://www.dianqk.org/) | 35502 |
@@ -41,7 +41,7 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 20 |
 | [小铁匠Linus](http://weibo.com/linusling) | 16 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 9 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 10 |
 | [小袋子](http://daizi.me) | 9 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 9 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 7 |
@@ -75,11 +75,11 @@
 | [Cee](https://github.com/Cee) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
+| [Channe](undefined) | 3 |
 | [Prayer](http://www.futantan.com) | 3 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
 | [小铁匠Linus](http://weibo.com/linusling) | 2 |
 | [saitjr](http://www.brighttj.com) | 2 |
-| [Channe](undefined) | 2 |
 | [小袋子](http://daizi.me) | 1 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
@@ -92,7 +92,7 @@
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 42 |
 | [shanks](http://codebuild.me/) | 30 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 29 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |
 | [Cee](https://github.com/Cee) | 4 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |

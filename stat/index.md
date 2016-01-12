@@ -18,6 +18,7 @@
 | [靛青K](http://www.dianqk.org/) | 35502 |
 | [lfb_CD](http://weibo.com/lfbWb) | 34974 |
 | [shanks](http://codebuild.me/) | 33883 |
+| [BridgeQ、星夜暮晨](undefined) | 32507 |
 | [小袋子](http://daizi.me) | 30106 |
 | [saitjr](http://www.brighttj.com) | 28475 |
 | [Prayer](http://www.futantan.com) | 28173 |
@@ -63,6 +64,7 @@
 | [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
 | [Lou](undefined) | 1 |
 | [littledogboy](undefined) | 1 |
+| [BridgeQ、星夜暮晨](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -75,10 +77,10 @@
 | [Cee](https://github.com/Cee) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
-| [Channe](undefined) | 3 |
+| [小铁匠Linus](http://weibo.com/linusling) | 3 |
 | [Prayer](http://www.futantan.com) | 3 |
+| [Channe](undefined) | 3 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
-| [小铁匠Linus](http://weibo.com/linusling) | 2 |
 | [saitjr](http://www.brighttj.com) | 2 |
 | [小袋子](http://daizi.me) | 1 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |

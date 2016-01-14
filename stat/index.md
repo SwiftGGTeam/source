@@ -30,7 +30,7 @@
 | [CMB](https://github.com/chenmingbiao) | 8017 |
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
-| [walkingway](undefined) | 3915 |
+| [walkingway](undefined) | 3926 |
 | [DianQK](undefined) | 3702 |
 | [Channe](undefined) | 3201 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |

@@ -15,10 +15,11 @@
 | [mmoaay](http://blog.csdn.net/mmoaay) | 74123 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 67269 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 35521 |
 | [靛青K](http://www.dianqk.org/) | 35502 |
 | [lfb_CD](http://weibo.com/lfbWb) | 34974 |
 | [shanks](http://codebuild.me/) | 33883 |
-| [BridgeQ、星夜暮晨](undefined) | 32643 |
+| [ 星夜暮晨](undefined) | 32643 |
 | [小袋子](http://daizi.me) | 30106 |
 | [saitjr](http://www.brighttj.com) | 28475 |
 | [Prayer](http://www.futantan.com) | 28173 |
@@ -30,10 +31,9 @@
 | [CMB](https://github.com/chenmingbiao) | 8017 |
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
-| [walkingway](undefined) | 3926 |
+| [walkingway](http://chengway.in/) | 3926 |
 | [DianQK](undefined) | 3702 |
 | [Channe](undefined) | 3201 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
 | [littledogboy](undefined) | 1054 |
 
 
@@ -57,16 +57,16 @@
 | [Prayer](http://www.futantan.com) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
-| [Cee](https://github.com/Cee) | 2 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [Channe](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
+| [Cee](https://github.com/Cee) | 2 |
 | [Lou](undefined) | 1 |
 | [littledogboy](undefined) | 1 |
 | [DianQK](undefined) | 1 |
-| [BridgeQ、星夜暮晨](undefined) | 1 |
-| [walkingway](undefined) | 1 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
+| [ 星夜暮晨](undefined) | 1 |
+| [walkingway](http://chengway.in/) | 1 |
 
 
 # 校对篇数统计

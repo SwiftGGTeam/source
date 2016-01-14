@@ -30,6 +30,7 @@
 | [CMB](https://github.com/chenmingbiao) | 8017 |
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
+| [walkingway](undefined) | 3915 |
 | [DianQK](undefined) | 3702 |
 | [Channe](undefined) | 3201 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2878 |
@@ -42,29 +43,30 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 20 |
 | [小铁匠Linus](http://weibo.com/linusling) | 16 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 10 |
 | [小袋子](http://daizi.me) | 10 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 10 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 9 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 8 |
 | [靛青K](http://www.dianqk.org/) | 7 |
-| [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [lfb_CD](http://weibo.com/lfbWb) | 6 |
+| [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 4 |
-| [shanks](http://codebuild.me/) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
+| [saitjr](http://www.brighttj.com) | 3 |
 | [Prayer](http://www.futantan.com) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
-| [saitjr](http://www.brighttj.com) | 3 |
-| [riven](http://weibo.com/riven0951) | 2 |
-| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
+| [shanks](http://codebuild.me/) | 3 |
 | [Cee](https://github.com/Cee) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
 | [Channe](undefined) | 2 |
-| [DianQK](undefined) | 1 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Lou](undefined) | 1 |
 | [littledogboy](undefined) | 1 |
+| [DianQK](undefined) | 1 |
 | [BridgeQ、星夜暮晨](undefined) | 1 |
+| [walkingway](undefined) | 1 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 1 |
 
 
 # 校对篇数统计
@@ -80,8 +82,8 @@
 | [Prayer](http://www.futantan.com) | 4 |
 | [Channe](undefined) | 3 |
 | [小铁匠Linus](http://weibo.com/linusling) | 3 |
+| [saitjr](http://www.brighttj.com) | 3 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
-| [saitjr](http://www.brighttj.com) | 2 |
 | [小袋子](http://daizi.me) | 1 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
@@ -93,7 +95,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 42 |
-| [shanks](http://codebuild.me/) | 30 |
+| [shanks](http://codebuild.me/) | 31 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 29 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |
 | [Cee](https://github.com/Cee) | 5 |

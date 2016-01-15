@@ -11,8 +11,8 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 116273 |
 | [小铁匠Linus](http://weibo.com/linusling) | 115382 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 84154 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 75732 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 74123 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 67269 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35521 |
@@ -43,9 +43,9 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 20 |
 | [小铁匠Linus](http://weibo.com/linusling) | 16 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 10 |
 | [小袋子](http://daizi.me) | 10 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 10 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 9 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 8 |
 | [靛青K](http://www.dianqk.org/) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 6 |
@@ -74,7 +74,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 45 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 19 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 20 |
 | [shanks](http://codebuild.me/) | 19 |
 | [Cee](https://github.com/Cee) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
@@ -95,7 +95,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 42 |
-| [shanks](http://codebuild.me/) | 31 |
+| [shanks](http://codebuild.me/) | 32 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 29 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |
 | [Cee](https://github.com/Cee) | 5 |

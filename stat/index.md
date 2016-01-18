@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 116273 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 118389 |
 | [小铁匠Linus](http://weibo.com/linusling) | 115382 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 84169 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 75732 |
@@ -41,7 +41,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 20 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 21 |
 | [小铁匠Linus](http://weibo.com/linusling) | 16 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 10 |
 | [小袋子](http://daizi.me) | 10 |
@@ -73,7 +73,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 45 |
+| [numbbbbb](https://github.com/numbbbbb) | 46 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 20 |
 | [shanks](http://codebuild.me/) | 19 |
 | [Cee](https://github.com/Cee) | 12 |
@@ -94,7 +94,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 42 |
+| [numbbbbb](https://github.com/numbbbbb) | 43 |
 | [shanks](http://codebuild.me/) | 32 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 29 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |

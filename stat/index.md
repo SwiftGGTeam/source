@@ -23,7 +23,7 @@
 | [小袋子](http://daizi.me) | 30106 |
 | [saitjr](http://www.brighttj.com) | 28475 |
 | [Prayer](http://www.futantan.com) | 28173 |
-| [SergioChan](https://github.com/SergioChan) | 21925 |
+| [SergioChan](https://github.com/SergioChan) | 21952 |
 | [riven](http://weibo.com/riven0951) | 17174 |
 | [Cee](https://github.com/Cee) | 10039 |
 | [Lou](undefined) | 9541 |

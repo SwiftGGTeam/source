@@ -11,7 +11,7 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 118389 |
 | [小铁匠Linus](http://weibo.com/linusling) | 115382 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 84169 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 88613 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 75732 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 67269 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
@@ -43,7 +43,7 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 21 |
 | [小铁匠Linus](http://weibo.com/linusling) | 16 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 10 |
+| [mmoaay](http://blog.csdn.net/mmoaay) | 11 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 10 |
 | [小袋子](http://daizi.me) | 10 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 8 |
@@ -74,7 +74,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 47 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 20 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 21 |
 | [shanks](http://codebuild.me/) | 19 |
 | [Cee](https://github.com/Cee) | 13 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
@@ -94,7 +94,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 43 |
+| [numbbbbb](https://github.com/numbbbbb) | 44 |
 | [shanks](http://codebuild.me/) | 32 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 30 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |

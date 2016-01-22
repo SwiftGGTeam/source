@@ -19,7 +19,7 @@
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35521 |
 | [靛青K](http://www.dianqk.org/) | 35502 |
 | [shanks](http://codebuild.me/) | 33883 |
-| [小袋子](http://daizi.me) | 32996 |
+| [小袋子](http://daizi.me) | 33002 |
 | [ 星夜暮晨](undefined) | 32643 |
 | [saitjr](http://www.brighttj.com) | 28475 |
 | [Prayer](http://www.futantan.com) | 28173 |

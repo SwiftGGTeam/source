@@ -19,8 +19,8 @@
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35521 |
 | [靛青K](http://www.dianqk.org/) | 35502 |
 | [shanks](http://codebuild.me/) | 33883 |
+| [小袋子](http://daizi.me) | 32996 |
 | [ 星夜暮晨](undefined) | 32643 |
-| [小袋子](http://daizi.me) | 30106 |
 | [saitjr](http://www.brighttj.com) | 28475 |
 | [Prayer](http://www.futantan.com) | 28173 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |
@@ -44,8 +44,8 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 21 |
 | [小铁匠Linus](http://weibo.com/linusling) | 16 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 11 |
+| [小袋子](http://daizi.me) | 11 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 10 |
-| [小袋子](http://daizi.me) | 10 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 8 |
 | [靛青K](http://www.dianqk.org/) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
@@ -74,7 +74,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 47 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 21 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 22 |
 | [shanks](http://codebuild.me/) | 19 |
 | [Cee](https://github.com/Cee) | 13 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
@@ -94,7 +94,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 44 |
+| [numbbbbb](https://github.com/numbbbbb) | 45 |
 | [shanks](http://codebuild.me/) | 32 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 30 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |

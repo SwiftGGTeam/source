@@ -25,7 +25,7 @@
 | [Prayer](http://www.futantan.com) | 28173 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |
 | [riven](http://weibo.com/riven0951) | 17174 |
-| [CMB](https://github.com/chenmingbiao) | 12587 |
+| [CMB](https://github.com/chenmingbiao) | 12588 |
 | [Cee](https://github.com/Cee) | 10039 |
 | [Lou](undefined) | 9541 |
 | [JackAlan](http://ijack.pw/) | 8645 |

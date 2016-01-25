@@ -23,10 +23,10 @@
 | [ 星夜暮晨](undefined) | 32643 |
 | [saitjr](http://www.brighttj.com) | 28475 |
 | [Prayer](http://www.futantan.com) | 28173 |
+| [Cee](https://github.com/Cee) | 23628 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |
 | [riven](http://weibo.com/riven0951) | 17174 |
 | [CMB](https://github.com/chenmingbiao) | 12588 |
-| [Cee](https://github.com/Cee) | 10039 |
 | [Lou](undefined) | 9541 |
 | [JackAlan](http://ijack.pw/) | 8645 |
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
@@ -55,11 +55,11 @@
 | [CMB](https://github.com/chenmingbiao) | 4 |
 | [saitjr](http://www.brighttj.com) | 3 |
 | [Prayer](http://www.futantan.com) | 3 |
+| [Cee](https://github.com/Cee) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [Cee](https://github.com/Cee) | 2 |
 | [Channe](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [DianQK](undefined) | 1 |
@@ -73,7 +73,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 47 |
+| [numbbbbb](https://github.com/numbbbbb) | 48 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 22 |
 | [shanks](http://codebuild.me/) | 19 |
 | [Cee](https://github.com/Cee) | 13 |
@@ -94,7 +94,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 45 |
+| [numbbbbb](https://github.com/numbbbbb) | 46 |
 | [shanks](http://codebuild.me/) | 32 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 30 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |

@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 118389 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 122483 |
 | [小铁匠Linus](http://weibo.com/linusling) | 115382 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 88613 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 75732 |
@@ -41,7 +41,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 21 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 22 |
 | [小铁匠Linus](http://weibo.com/linusling) | 16 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 11 |
 | [小袋子](http://daizi.me) | 11 |
@@ -76,7 +76,7 @@
 | [numbbbbb](https://github.com/numbbbbb) | 48 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 22 |
 | [shanks](http://codebuild.me/) | 19 |
-| [Cee](https://github.com/Cee) | 13 |
+| [Cee](https://github.com/Cee) | 14 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [Prayer](http://www.futantan.com) | 4 |
@@ -97,7 +97,7 @@
 | [numbbbbb](https://github.com/numbbbbb) | 46 |
 | [shanks](http://codebuild.me/) | 32 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 30 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 13 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 14 |
 | [Cee](https://github.com/Cee) | 6 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |

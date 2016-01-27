@@ -27,11 +27,11 @@
 | [SergioChan](https://github.com/SergioChan) | 21952 |
 | [riven](http://weibo.com/riven0951) | 17174 |
 | [CMB](https://github.com/chenmingbiao) | 12588 |
+| [walkingway](http://chengway.in/) | 9926 |
 | [Lou](undefined) | 9541 |
 | [JackAlan](http://ijack.pw/) | 8645 |
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
-| [walkingway](http://chengway.in/) | 3926 |
 | [DianQK](undefined) | 3702 |
 | [Channe](undefined) | 3201 |
 | [littledogboy](undefined) | 1054 |
@@ -61,12 +61,12 @@
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [Channe](undefined) | 2 |
+| [walkingway](http://chengway.in/) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [DianQK](undefined) | 1 |
 | [Lou](undefined) | 1 |
 | [littledogboy](undefined) | 1 |
 | [ 星夜暮晨](undefined) | 1 |
-| [walkingway](http://chengway.in/) | 1 |
 
 
 # 校对篇数统计
@@ -79,11 +79,11 @@
 | [Cee](https://github.com/Cee) | 14 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
-| [Channe](undefined) | 3 |
 | [小铁匠Linus](http://weibo.com/linusling) | 3 |
 | [saitjr](http://www.brighttj.com) | 3 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 3 |
+| [Channe](undefined) | 3 |
 | [小袋子](http://daizi.me) | 1 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
@@ -94,7 +94,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 46 |
+| [numbbbbb](https://github.com/numbbbbb) | 47 |
 | [shanks](http://codebuild.me/) | 32 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 30 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 14 |

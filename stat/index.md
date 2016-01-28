@@ -21,7 +21,7 @@
 | [shanks](http://codebuild.me/) | 33883 |
 | [小袋子](http://daizi.me) | 33002 |
 | [ 星夜暮晨](undefined) | 32643 |
-| [saitjr](http://www.brighttj.com) | 29565 |
+| [saitjr](http://www.brighttj.com) | 30917 |
 | [Prayer](http://www.futantan.com) | 28173 |
 | [Cee](https://github.com/Cee) | 23628 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |
@@ -50,10 +50,10 @@
 | [靛青K](http://www.dianqk.org/) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
+| [saitjr](http://www.brighttj.com) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 4 |
 | [CMB](https://github.com/chenmingbiao) | 4 |
-| [saitjr](http://www.brighttj.com) | 4 |
 | [Prayer](http://www.futantan.com) | 3 |
 | [Cee](https://github.com/Cee) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
@@ -74,7 +74,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 48 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 22 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 23 |
 | [shanks](http://codebuild.me/) | 19 |
 | [Cee](https://github.com/Cee) | 14 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
@@ -98,7 +98,7 @@
 | [shanks](http://codebuild.me/) | 32 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 31 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 14 |
-| [Cee](https://github.com/Cee) | 6 |
+| [Cee](https://github.com/Cee) | 7 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 1 |

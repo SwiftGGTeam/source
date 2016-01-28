@@ -7,6 +7,7 @@ keywords: swift getter,swift setter
 custom_title: 
 description: 在Swift中有属性需要在外部读并只能在内部进行的话，只需公开Getter同时隐藏Setter就可以了。
 
+
 ---
 > 作者：Gabriel Theodoropoulos，[原文链接](https://www.natashatherobot.com/swift-magic-public-getter-private-setter/)，原文日期：2016-1-11
 > 译者：[saitjr](http://www.brighttj.com)；校对：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)

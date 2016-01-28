@@ -21,7 +21,7 @@
 | [shanks](http://codebuild.me/) | 33883 |
 | [小袋子](http://daizi.me) | 33002 |
 | [ 星夜暮晨](undefined) | 32643 |
-| [saitjr](http://www.brighttj.com) | 28475 |
+| [saitjr](http://www.brighttj.com) | 29565 |
 | [Prayer](http://www.futantan.com) | 28173 |
 | [Cee](https://github.com/Cee) | 23628 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |
@@ -53,7 +53,7 @@
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 4 |
 | [CMB](https://github.com/chenmingbiao) | 4 |
-| [saitjr](http://www.brighttj.com) | 3 |
+| [saitjr](http://www.brighttj.com) | 4 |
 | [Prayer](http://www.futantan.com) | 3 |
 | [Cee](https://github.com/Cee) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
@@ -79,7 +79,7 @@
 | [Cee](https://github.com/Cee) | 14 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 4 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 5 |
 | [Prayer](http://www.futantan.com) | 4 |
 | [小铁匠Linus](http://weibo.com/linusling) | 3 |
 | [saitjr](http://www.brighttj.com) | 3 |
@@ -96,7 +96,7 @@
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 47 |
 | [shanks](http://codebuild.me/) | 32 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 30 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 31 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 14 |
 | [Cee](https://github.com/Cee) | 6 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |

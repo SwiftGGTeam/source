@@ -25,8 +25,8 @@
 | [Prayer](http://www.futantan.com) | 28173 |
 | [Cee](https://github.com/Cee) | 23628 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |
+| [CMB](https://github.com/chenmingbiao) | 17925 |
 | [riven](http://weibo.com/riven0951) | 17174 |
-| [CMB](https://github.com/chenmingbiao) | 12588 |
 | [walkingway](http://chengway.in/) | 9926 |
 | [Lou](undefined) | 9541 |
 | [JackAlan](http://ijack.pw/) | 8645 |
@@ -50,10 +50,10 @@
 | [靛青K](http://www.dianqk.org/) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
+| [CMB](https://github.com/chenmingbiao) | 5 |
 | [saitjr](http://www.brighttj.com) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 4 |
-| [CMB](https://github.com/chenmingbiao) | 4 |
 | [Prayer](http://www.futantan.com) | 3 |
 | [Cee](https://github.com/Cee) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
@@ -76,7 +76,7 @@
 | [numbbbbb](https://github.com/numbbbbb) | 50 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 23 |
 | [shanks](http://codebuild.me/) | 19 |
-| [Cee](https://github.com/Cee) | 14 |
+| [Cee](https://github.com/Cee) | 15 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 5 |
@@ -96,8 +96,8 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 49 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 33 |
 | [shanks](http://codebuild.me/) | 32 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 32 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 14 |
 | [Cee](https://github.com/Cee) | 7 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |

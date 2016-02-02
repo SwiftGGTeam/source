@@ -21,7 +21,7 @@
 | [shanks](http://codebuild.me/) | 33883 |
 | [小袋子](http://daizi.me) | 33002 |
 | [ 星夜暮晨](undefined) | 32643 |
-| [saitjr](http://www.brighttj.com) | 30917 |
+| [saitjr](http://www.brighttj.com) | 30903 |
 | [Prayer](http://www.futantan.com) | 28173 |
 | [Cee](https://github.com/Cee) | 23628 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |

@@ -27,6 +27,7 @@
 | [SergioChan](https://github.com/SergioChan) | 21952 |
 | [CMB](https://github.com/chenmingbiao) | 17925 |
 | [riven](http://weibo.com/riven0951) | 17174 |
+| [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [walkingway](http://chengway.in/) | 9926 |
 | [Lou](undefined) | 9541 |
 | [JackAlan](http://ijack.pw/) | 8645 |
@@ -67,6 +68,7 @@
 | [Lou](undefined) | 1 |
 | [littledogboy](undefined) | 1 |
 | [ 星夜暮晨](undefined) | 1 |
+| [&nbsp](https://github.com/initiOSJava) | 1 |
 
 
 # 校对篇数统计
@@ -76,7 +78,7 @@
 | [numbbbbb](https://github.com/numbbbbb) | 50 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 24 |
 | [shanks](http://codebuild.me/) | 19 |
-| [Cee](https://github.com/Cee) | 15 |
+| [Cee](https://github.com/Cee) | 16 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 5 |
@@ -101,6 +103,7 @@
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 15 |
 | [Cee](https://github.com/Cee) | 7 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
+| [Channe](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |

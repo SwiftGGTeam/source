@@ -35,7 +35,7 @@
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [DianQK](undefined) | 3702 |
 | [Channe](undefined) | 3201 |
-| [littledogboy](undefined) | 1054 |
+| [littledogboy](undefined) | 2727 |
 
 
 # 翻译篇数统计
@@ -61,12 +61,12 @@
 | [shanks](http://codebuild.me/) | 3 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
+| [littledogboy](undefined) | 2 |
 | [Channe](undefined) | 2 |
 | [walkingway](http://chengway.in/) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [DianQK](undefined) | 1 |
 | [Lou](undefined) | 1 |
-| [littledogboy](undefined) | 1 |
 | [ 星夜暮晨](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 
@@ -76,7 +76,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](https://github.com/numbbbbb) | 50 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 24 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 19 |
 | [Cee](https://github.com/Cee) | 16 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
@@ -97,7 +97,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 49 |
+| [numbbbbb](https://github.com/numbbbbb) | 50 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 33 |
 | [shanks](http://codebuild.me/) | 32 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 15 |

@@ -12,7 +12,7 @@
 | [小铁匠Linus](http://weibo.com/linusling) | 133864 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 131132 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 88613 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 79036 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 79000 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 71841 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36581 |

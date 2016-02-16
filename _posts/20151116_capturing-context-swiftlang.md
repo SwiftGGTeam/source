@@ -6,7 +6,7 @@ permalink: capturing-context-swiftlang
 
 ---
 > 作者：Erica Sadun，[原文链接](http://ericasadun.com/2015/08/27/capturing-context-swiftlang/)，原文日期：2015-08-27
-> 译者：[CMB](https://github.com/chenmingbiao)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
+> 译者：[CMB](https://github.com/chenmingbiao)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

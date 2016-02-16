@@ -5,7 +5,7 @@ categories: [iOS 开发]
 permalink: an-easy-way-to-stub-nsurlsession
 ---
 > 作者：dom，[原文链接](http://swiftandpainless.com/an-easy-way-to-stub-nsurlsession/)，原文日期：2016/01/09
-> 译者：[小袋子](http://daizi.me)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[numbbbbb](https://github.com/numbbbbb)
+> 译者：[小袋子](http://daizi.me)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

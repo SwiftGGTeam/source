@@ -6,7 +6,7 @@ permalink: expandable-table-view
 
 ---
 > 作者：AppCoda，[原文链接](http://www.appcoda.com/expandable-table-view/)，原文日期：2015-11-16
-> 译者：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[numbbbbb](https://github.com/numbbbbb)
+> 译者：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

@@ -6,7 +6,7 @@ permalink: lets-talk-about-monads
 
 ---
 > 作者：Olivier Halligon，[原文链接](http://alisoftware.github.io/swift/2015/10/17/lets-talk-about-monads/)，原文日期：2015-10-17
-> 译者：[ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles)；校对：[小袋子](http://daizi.me)；定稿：[numbbbbb](https://github.com/numbbbbb)
+> 译者：[ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles)；校对：[小袋子](http://daizi.me)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

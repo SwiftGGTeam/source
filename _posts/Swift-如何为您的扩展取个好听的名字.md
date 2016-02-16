@@ -6,7 +6,7 @@ permalink: swift-how-to-name-your-extensions
 
 ---
 > 作者：Natasha，[原文链接](http://natashatherobot.com/swift-how-to-name-your-extensions/)，原文日期：2015/07/26
-> 译者：[SergioChan](https://github.com/SergioChan)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[numbbbbb](https://github.com/numbbbbb)
+> 译者：[SergioChan](https://github.com/SergioChan)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

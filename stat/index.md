@@ -12,7 +12,7 @@
 | [小铁匠Linus](http://weibo.com/linusling) | 133864 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 131132 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 88613 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 87456 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 87393 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 71841 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36581 |
@@ -75,7 +75,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 50 |
+| [numbbbbb](http://numbbbbb.com/) | 50 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 19 |
 | [Cee](https://github.com/Cee) | 17 |
@@ -97,7 +97,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 53 |
+| [numbbbbb](http://numbbbbb.com/) | 53 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 33 |
 | [shanks](http://codebuild.me/) | 32 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 16 |

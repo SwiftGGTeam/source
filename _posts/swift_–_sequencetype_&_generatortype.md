@@ -6,7 +6,7 @@ permalink: sequencetype_and_generatortype
 
 ---
 > 作者：Raj Kandathi，[原文链接](http://rajkandathi.com/swift-sequencetype-generatortype/)，原文日期：2015/08/15
-> 译者：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[shanks](http://codebuild.me/)
+> 译者：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[shanks](http://codebuild.me/)
   
 
 

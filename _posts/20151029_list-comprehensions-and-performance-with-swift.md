@@ -5,7 +5,7 @@ categories: [Swift 进阶]
 permalink: list-comprehensions-and-performance-with-swift
 ---
 > 作者：Veronica Ray，[原文链接](http://jamesonquave.com/blog/list-comprehensions-and-performance-with-swift/)，原文日期：2015-08-15
-> 译者：[riven](http://weibo.com/riven0951)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[小铁匠Linus](http://weibo.com/linusling)
+> 译者：[riven](http://weibo.com/riven0951)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[小铁匠Linus](http://weibo.com/linusling)
   
 
 

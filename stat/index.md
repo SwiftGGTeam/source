@@ -12,7 +12,7 @@
 | [小铁匠Linus](http://weibo.com/linusling) | 133864 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 131132 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 88613 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 79000 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 87456 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 71841 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36581 |
@@ -44,8 +44,8 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 24 |
 | [小铁匠Linus](http://weibo.com/linusling) | 17 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 12 |
 | [mmoaay](http://blog.csdn.net/mmoaay) | 11 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 11 |
 | [小袋子](http://daizi.me) | 11 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 9 |
 | [靛青K](http://www.dianqk.org/) | 7 |
@@ -80,8 +80,8 @@
 | [shanks](http://codebuild.me/) | 19 |
 | [Cee](https://github.com/Cee) | 17 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 6 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 5 |
 | [Channe](undefined) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
 | [saitjr](http://www.brighttj.com) | 3 |
@@ -97,7 +97,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 52 |
+| [numbbbbb](https://github.com/numbbbbb) | 53 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 33 |
 | [shanks](http://codebuild.me/) | 32 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 16 |

@@ -24,7 +24,7 @@
 | [ 星夜暮晨](undefined) | 32643 |
 | [saitjr](http://www.brighttj.com) | 30903 |
 | [Cee](https://github.com/Cee) | 23628 |
-| [walkingway](http://chengway.in/) | 22477 |
+| [walkingway](http://chengway.in/) | 22478 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |
 | [CMB](https://github.com/chenmingbiao) | 17925 |
 | [riven](http://weibo.com/riven0951) | 17174 |

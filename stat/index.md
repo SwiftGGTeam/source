@@ -24,11 +24,11 @@
 | [ 星夜暮晨](undefined) | 32643 |
 | [saitjr](http://www.brighttj.com) | 30903 |
 | [Cee](https://github.com/Cee) | 23628 |
+| [walkingway](http://chengway.in/) | 22477 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |
 | [CMB](https://github.com/chenmingbiao) | 17925 |
 | [riven](http://weibo.com/riven0951) | 17174 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
-| [walkingway](http://chengway.in/) | 12512 |
 | [Lou](undefined) | 9541 |
 | [JackAlan](http://ijack.pw/) | 8645 |
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
@@ -56,7 +56,7 @@
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
-| [walkingway](http://chengway.in/) | 3 |
+| [walkingway](http://chengway.in/) | 4 |
 | [Cee](https://github.com/Cee) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
@@ -78,7 +78,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 50 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 19 |
-| [Cee](https://github.com/Cee) | 17 |
+| [Cee](https://github.com/Cee) | 18 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 6 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
@@ -100,7 +100,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 53 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 33 |
 | [shanks](http://codebuild.me/) | 32 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 16 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 17 |
 | [Cee](https://github.com/Cee) | 7 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
 | [Channe](undefined) | 1 |

@@ -6,7 +6,7 @@ permalink: swift-reflection-api-what-you-can-do
 
 ---
 > 作者：Benedikt Terhechte，[原文链接](http://appventure.me/2015/10/24/swift-reflection-api-what-you-can-do/)，原文日期：2015-10-24
-> 译者：[mmoaay](http://blog.csdn.net/mmoaay)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
+> 译者：[mmoaay](http://mmoaay.photo/)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

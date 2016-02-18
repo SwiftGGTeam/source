@@ -23,7 +23,7 @@
 | [小袋子](http://daizi.me) | 33002 |
 | [ 星夜暮晨](undefined) | 32643 |
 | [saitjr](http://www.brighttj.com) | 30903 |
-| [Cee](https://github.com/Cee) | 23628 |
+| [Cee](https://github.com/Cee) | 24759 |
 | [walkingway](http://chengway.in/) | 22478 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |
 | [CMB](https://github.com/chenmingbiao) | 17925 |
@@ -57,7 +57,7 @@
 | [天才175](http://weibo.com/u/2916092907) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
 | [walkingway](http://chengway.in/) | 4 |
-| [Cee](https://github.com/Cee) | 3 |
+| [Cee](https://github.com/Cee) | 4 |
 | [shanks](http://codebuild.me/) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
@@ -80,7 +80,7 @@
 | [shanks](http://codebuild.me/) | 19 |
 | [Cee](https://github.com/Cee) | 18 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 6 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [Channe](undefined) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
@@ -98,7 +98,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 53 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 33 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 34 |
 | [shanks](http://codebuild.me/) | 32 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 17 |
 | [Cee](https://github.com/Cee) | 7 |

@@ -1,7 +1,7 @@
 title: "如何在 iOS 中实现一个可展开的 Table View"
 date: 2015-12-03
 tags: [AppCoda]
-categories: [Swift 入门] 
+categories: [Swift 入门]
 permalink: expandable-table-view
 
 ---

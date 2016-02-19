@@ -6,7 +6,7 @@ permalink: ios-contacts-framework
 
 ---
 > 作者：gabriel theodoropoulos，[原文链接](http://www.appcoda.com/ios-contacts-framework/)，原文日期：2015-09-29
-> 译者：[BridgeQ](http://wxgbridgeq.github.io/)，[ 星夜暮晨](undefined)；校对：[小铁匠Linus](http://weibo.com/linusling)；定稿：[](undefined)
+> 译者：[BridgeQ](http://wxgbridgeq.github.io/)，[ 星夜暮晨](undefined)；校对：[小铁匠Linus](http://weibo.com/linusling)；定稿：[]()
   
 
 

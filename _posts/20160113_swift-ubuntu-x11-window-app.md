@@ -6,7 +6,7 @@ permalink: swift-ubuntu-x11-window-app
 
 ---
 > 作者：Benedikt Terhechte，[原文链接](http://appventure.me/2015/12/08/swift-ubuntu-x11-window-app/)，原文日期：2015-12-08
-> 译者：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)；校对：[Prayer](http://www.futantan.com)；定稿：[](undefined)
+> 译者：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)；校对：[Prayer](http://www.futantan.com)；定稿：[]()
   
 
 

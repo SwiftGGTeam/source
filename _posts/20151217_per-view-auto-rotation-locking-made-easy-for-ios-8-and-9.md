@@ -1,5 +1,5 @@
 title: "在 iOS8 和 iOS9 中锁定视图自动旋转"
-date: 2015-12-17  
+date: 2015-12-17
 tags: [Swift 入门]
 categories: [alloc-init]
 permalink: per-view-auto-rotation-locking-made-easy-for-ios-8-and-9

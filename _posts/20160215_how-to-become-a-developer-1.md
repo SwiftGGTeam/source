@@ -4,7 +4,7 @@ tags: [alloc-init]
 categories: [Swift 入门]
 permalink: how-to-become-a-developer-1
 keywords: iOS开发
-custom_title:
+custom_title: 
 description: 想成为一名iOS开发者吗，要么首先要如何入门呢，下面就来说下怎么入门iOS开发吧。
 
 ---

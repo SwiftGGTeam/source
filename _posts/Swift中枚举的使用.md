@@ -1,7 +1,7 @@
-title: "Swift 中枚举的使用"  
+title: "Swift 中枚举的使用"
 date: 2015-09-11
-tags: [Raj Kandathi]  
-categories: [Swift 入门]  
+tags: [Raj Kandathi]
+categories: [Swift 入门]
 permalink: understanding-enums-using-swift
 
 ---

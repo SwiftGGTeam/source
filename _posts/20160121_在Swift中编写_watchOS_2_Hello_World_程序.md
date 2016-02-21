@@ -6,7 +6,7 @@ permalink: watchos-2-hello-world-app-in-swift
 
 ---
 > 作者：codingexplorer，[原文链接](http://www.codingexplorer.com/watchos-2-hello-world-app-in-swift/)，原文日期：2015-12-08
-> 译者：[mmoaay](http://blog.csdn.net/mmoaay)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[numbbbbb](https://github.com/numbbbbb)
+> 译者：[mmoaay](http://mmoaay.photo/)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

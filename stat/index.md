@@ -9,97 +9,103 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 122483 |
-| [小铁匠Linus](http://weibo.com/linusling) | 115382 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 88613 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 75732 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 67269 |
+| [小铁匠Linus](http://weibo.com/linusling) | 133864 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 131132 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 97880 |
+| [mmoaay](http://mmoaay.photo/) | 95782 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 87393 |
+| [Prayer](http://www.futantan.com) | 62007 |
+| [靛青K](http://www.dianqk.org/) | 60426 |
+| [CMB](https://github.com/chenmingbiao) | 56805 |
+| [saitjr](http://www.brighttj.com) | 49525 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 46129 |
+| [Cee](https://github.com/Cee) | 44290 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36581 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35521 |
-| [靛青K](http://www.dianqk.org/) | 35502 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [小袋子](http://daizi.me) | 33002 |
-| [ 星夜暮晨](undefined) | 32643 |
-| [saitjr](http://www.brighttj.com) | 30917 |
-| [Prayer](http://www.futantan.com) | 28173 |
-| [Cee](https://github.com/Cee) | 23628 |
+| [walkingway](http://chengway.in/) | 22478 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |
 | [riven](http://weibo.com/riven0951) | 17174 |
-| [CMB](https://github.com/chenmingbiao) | 12588 |
-| [walkingway](http://chengway.in/) | 9926 |
+| [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Lou](undefined) | 9541 |
 | [JackAlan](http://ijack.pw/) | 8645 |
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [DianQK](undefined) | 3702 |
 | [Channe](undefined) | 3201 |
-| [littledogboy](undefined) | 1054 |
+| [ahfepj](undefined) | 2828 |
+| [littledogboy](undefined) | 2818 |
 
 
 # 翻译篇数统计
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 22 |
-| [小铁匠Linus](http://weibo.com/linusling) | 16 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 11 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 24 |
+| [小铁匠Linus](http://weibo.com/linusling) | 17 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 12 |
+| [mmoaay](http://mmoaay.photo/) | 11 |
 | [小袋子](http://daizi.me) | 11 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 10 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 8 |
-| [靛青K](http://www.dianqk.org/) | 7 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
+| [靛青K](http://www.dianqk.org/) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
+| [CMB](https://github.com/chenmingbiao) | 5 |
 | [saitjr](http://www.brighttj.com) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
+| [walkingway](http://chengway.in/) | 4 |
+| [Cee](https://github.com/Cee) | 4 |
+| [Prayer](http://www.futantan.com) | 4 |
 | [天才175](http://weibo.com/u/2916092907) | 4 |
-| [CMB](https://github.com/chenmingbiao) | 4 |
-| [Prayer](http://www.futantan.com) | 3 |
-| [Cee](https://github.com/Cee) | 3 |
-| [JackAlan](http://ijack.pw/) | 3 |
 | [shanks](http://codebuild.me/) | 3 |
+| [JackAlan](http://ijack.pw/) | 3 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
+| [littledogboy](undefined) | 2 |
+| [Channe](undefined) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [Channe](undefined) | 2 |
-| [walkingway](http://chengway.in/) | 2 |
-| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [DianQK](undefined) | 1 |
 | [Lou](undefined) | 1 |
-| [littledogboy](undefined) | 1 |
-| [ 星夜暮晨](undefined) | 1 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
+| [&nbsp](https://github.com/initiOSJava) | 1 |
+| [ahfepj](undefined) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 48 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 23 |
+| [numbbbbb](http://numbbbbb.com/) | 51 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 19 |
-| [Cee](https://github.com/Cee) | 14 |
+| [Cee](https://github.com/Cee) | 18 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 5 |
+| [Channe](undefined) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
-| [小铁匠Linus](http://weibo.com/linusling) | 3 |
 | [saitjr](http://www.brighttj.com) | 3 |
-| [Channe](undefined) | 3 |
+| [小铁匠Linus](http://weibo.com/linusling) | 3 |
+| [&nbsp](https://github.com/initiOSJava) | 2 |
 | [小袋子](http://daizi.me) | 1 |
+| [靛青K](http://www.dianqk.org/) | 1 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
-| [靛青K](http://www.dianqk.org/) | 1 |
 
 
 # 定稿篇数统计
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](https://github.com/numbbbbb) | 47 |
+| [numbbbbb](http://numbbbbb.com/) | 53 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 34 |
 | [shanks](http://codebuild.me/) | 32 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 31 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 14 |
-| [Cee](https://github.com/Cee) | 7 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 17 |
+| [Cee](https://github.com/Cee) | 8 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
+| [Channe](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
-| [mmoaay](http://blog.csdn.net/mmoaay) | 1 |
+| [mmoaay](http://mmoaay.photo/) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |

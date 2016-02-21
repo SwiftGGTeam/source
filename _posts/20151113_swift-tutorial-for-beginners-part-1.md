@@ -6,7 +6,7 @@ permalink: swift-tutorial-for-beginners-part-1
 
 ---
 > 作者：Thomas Hanning，[原文链接](http://www.thomashanning.com/swift-tutorial-for-beginners-part-1/)，原文日期：2015-10-29
-> 译者：[小铁匠Linus](http://weibo.com/linusling)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[numbbbbb](https://github.com/numbbbbb)
+> 译者：[小铁匠Linus](http://weibo.com/linusling)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

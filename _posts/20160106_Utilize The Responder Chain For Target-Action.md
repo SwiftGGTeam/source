@@ -5,7 +5,7 @@ categories: [Swift 入门]
 permalink: utilize-the-responder-chain-for-target-action
 ---
 > 作者：dom，[原文链接](http://swiftandpainless.com/utilize-the-responder-chain-for-target-action/)，原文日期：2016/1/1
-> 译者：[小铁匠Linus](http://weibo.com/linusling)；校对：[saitjr](http://www.brighttj.com)；定稿：[numbbbbb](https://github.com/numbbbbb)
+> 译者：[小铁匠Linus](http://weibo.com/linusling)；校对：[saitjr](http://www.brighttj.com)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

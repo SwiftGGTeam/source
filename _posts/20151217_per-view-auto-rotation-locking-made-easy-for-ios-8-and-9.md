@@ -1,12 +1,12 @@
 title: "在 iOS8 和 iOS9 中锁定视图自动旋转"
-date: 2015-12-17  
+date: 2015-12-17
 tags: [Swift 入门]
 categories: [alloc-init]
 permalink: per-view-auto-rotation-locking-made-easy-for-ios-8-and-9
 
 ---
 > 作者：Weston Hanners，[原文链接](http://www.alloc-init.com/2015/11/per-view-auto-rotation-locking-made-easy-for-ios-8-and-9/)，原文日期：2015-11-18
-> 译者：[littledogboy](undefined)；校对：[numbbbbb](https://github.com/numbbbbb)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
+> 译者：[littledogboy](undefined)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

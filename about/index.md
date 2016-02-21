@@ -30,6 +30,8 @@
 | Olivier Halligon | [Crunchy Development](http://alisoftware.github.io/) |
 | Jameson Quave | [JamesonQuave.com](http://jamesonquave.com/) |
 | Jacob Bandes-Storch  | [Jacob Bandes-Storch](http://bandes-stor.ch/archive/) |
+| iAchieved.it | [iAchieved.it](http://dev.iachieved.it/iachievedit/) |
+| uraimo | [uraimo](https://www.uraimo.com/) |
 
 ## 建议&反馈
 

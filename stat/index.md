@@ -19,16 +19,15 @@
 | [CMB](https://github.com/chenmingbiao) | 56805 |
 | [saitjr](http://www.brighttj.com) | 49525 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 46129 |
 | [Cee](https://github.com/Cee) | 44290 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36581 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35521 |
 | [shanks](http://codebuild.me/) | 33883 |
 | [小袋子](http://daizi.me) | 33002 |
-| [ 星夜暮晨](undefined) | 32643 |
 | [walkingway](http://chengway.in/) | 22478 |
 | [SergioChan](https://github.com/SergioChan) | 21952 |
 | [riven](http://weibo.com/riven0951) | 17174 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 13486 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Lou](undefined) | 9541 |
 | [JackAlan](http://ijack.pw/) | 8645 |
@@ -53,26 +52,25 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [靛青K](http://www.dianqk.org/) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
-| [SergioChan](https://github.com/SergioChan) | 5 |
 | [CMB](https://github.com/chenmingbiao) | 5 |
 | [saitjr](http://www.brighttj.com) | 5 |
-| [Prayer](http://www.futantan.com) | 4 |
-| [天才175](http://weibo.com/u/2916092907) | 4 |
+| [SergioChan](https://github.com/SergioChan) | 5 |
 | [walkingway](http://chengway.in/) | 4 |
 | [Cee](https://github.com/Cee) | 4 |
+| [Prayer](http://www.futantan.com) | 4 |
+| [天才175](http://weibo.com/u/2916092907) | 4 |
 | [shanks](http://codebuild.me/) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [littledogboy](undefined) | 2 |
 | [Channe](undefined) | 2 |
-| [ 星夜暮晨](undefined) | 1 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
+| [DianQK](undefined) | 1 |
 | [Lou](undefined) | 1 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ahfepj](undefined) | 1 |
-| [DianQK](undefined) | 1 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 0 |
 
 
 # 校对篇数统计

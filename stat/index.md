@@ -14,7 +14,7 @@
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 97880 |
 | [mmoaay](http://mmoaay.photo/) | 95782 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 87393 |
-| [Prayer](http://www.futantan.com) | 61995 |
+| [Prayer](http://www.futantan.com) | 62007 |
 | [靛青K](http://www.dianqk.org/) | 60426 |
 | [CMB](https://github.com/chenmingbiao) | 56805 |
 | [saitjr](http://www.brighttj.com) | 49525 |

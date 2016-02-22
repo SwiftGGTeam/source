@@ -1,7 +1,7 @@
 title: "如何成为一名入门级 iOS 开发者"
 date: 2016-02-15
 tags: [Swift 入门]
-categories: […alloc] init];]
+categories: [alloc init]
 permalink: how-to-become-a-developer-1
 keywords: iOS开发
 custom_title: 
@@ -91,4 +91,5 @@ description: 想成为一名iOS开发者吗，要么首先要如何入门呢，�
 
 * 2016-01-26 更新：添加内存管理，UI/UX，MVC。添加工具小节。
 * 2016-01-27 更新：布局调整。
+
 > 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

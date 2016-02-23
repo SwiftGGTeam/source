@@ -26,7 +26,7 @@
 | [shanks](http://codebuild.me/) | 33883 |
 | [小袋子](http://daizi.me) | 33002 |
 | [walkingway](http://chengway.in/) | 22478 |
-| [SergioChan](https://github.com/SergioChan) | 21952 |
+| [SergioChan](https://github.com/SergioChan) | 21996 |
 | [riven](http://weibo.com/riven0951) | 17174 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Lou](undefined) | 9541 |
@@ -34,7 +34,7 @@
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [DianQK](undefined) | 5264 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3502 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3499 |
 | [Channe](undefined) | 3201 |
 | [ahfepj](undefined) | 2828 |
 | [littledogboy](undefined) | 2818 |

@@ -13,7 +13,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 131132 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 97880 |
 | [mmoaay](http://mmoaay.photo/) | 95782 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 87393 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 87392 |
 | [Prayer](http://www.futantan.com) | 62007 |
 | [靛青K](http://www.dianqk.org/) | 60426 |
 | [CMB](https://github.com/chenmingbiao) | 56805 |

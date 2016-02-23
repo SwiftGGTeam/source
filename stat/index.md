@@ -34,7 +34,7 @@
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [DianQK](undefined) | 5264 |
-| [aaaron7](undefined) | 3502 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3502 |
 | [Channe](undefined) | 3201 |
 | [ahfepj](undefined) | 2828 |
 | [littledogboy](undefined) | 2818 |
@@ -71,7 +71,7 @@
 | [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ahfepj](undefined) | 1 |
-| [aaaron7](undefined) | 1 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 
 

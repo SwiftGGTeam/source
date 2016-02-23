@@ -34,6 +34,7 @@
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [DianQK](undefined) | 5264 |
+| [aaaron7](undefined) | 3555 |
 | [Channe](undefined) | 3201 |
 | [ahfepj](undefined) | 2828 |
 | [littledogboy](undefined) | 2818 |
@@ -62,22 +63,23 @@
 | [shanks](http://codebuild.me/) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
 | [DianQK](undefined) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [littledogboy](undefined) | 2 |
 | [Channe](undefined) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
 | [Lou](undefined) | 1 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ahfepj](undefined) | 1 |
+| [aaaron7](undefined) | 1 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 51 |
+| [numbbbbb](http://numbbbbb.com/) | 52 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Cee](https://github.com/Cee) | 19 |
 | [shanks](http://codebuild.me/) | 19 |
@@ -103,7 +105,7 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 34 |
 | [shanks](http://codebuild.me/) | 32 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 17 |
-| [Cee](https://github.com/Cee) | 8 |
+| [Cee](https://github.com/Cee) | 9 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
 | [Channe](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |

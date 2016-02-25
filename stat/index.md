@@ -18,9 +18,9 @@
 | [靛青K](http://www.dianqk.org/) | 60426 |
 | [CMB](https://github.com/chenmingbiao) | 56805 |
 | [saitjr](http://www.brighttj.com) | 49525 |
+| [Cee](https://github.com/Cee) | 48590 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 46129 |
-| [Cee](https://github.com/Cee) | 44290 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36581 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35521 |
 | [shanks](http://codebuild.me/) | 33883 |
@@ -53,11 +53,11 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [靛青K](http://www.dianqk.org/) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
-| [CMB](https://github.com/chenmingbiao) | 5 |
-| [saitjr](http://www.brighttj.com) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
+| [saitjr](http://www.brighttj.com) | 5 |
+| [Cee](https://github.com/Cee) | 5 |
+| [CMB](https://github.com/chenmingbiao) | 5 |
 | [walkingway](http://chengway.in/) | 4 |
-| [Cee](https://github.com/Cee) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
 | [天才175](http://weibo.com/u/2916092907) | 4 |
 | [shanks](http://codebuild.me/) | 3 |
@@ -79,7 +79,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 53 |
+| [numbbbbb](http://numbbbbb.com/) | 54 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Cee](https://github.com/Cee) | 19 |
 | [shanks](http://codebuild.me/) | 19 |
@@ -104,7 +104,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 54 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 34 |
 | [shanks](http://codebuild.me/) | 32 |
-| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 17 |
+| [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 18 |
 | [Cee](https://github.com/Cee) | 10 |
 | [小铁匠Linus](http://weibo.com/linusling) | 1 |
 | [Channe](undefined) | 1 |

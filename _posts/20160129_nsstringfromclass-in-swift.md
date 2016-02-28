@@ -1,14 +1,14 @@
 title: "优雅的 NSStringFromClass 替代方案"
 date: 2016-01-29
-tags: [Natasha The Robot]
-categories: [Swift 进阶]
+tags: [Swift 进阶]
+categories: [Natasha The Robot]
 permalink: nsstringfromclass-in-swift
 keywords: nsstringfromcolor
 custom_title: 
 description: 本文教你Swift中NSStringFromClass的替代方案，再也不用写extension通过NSStringFromClass来获得identifier。
 
 ---
-> 作者：Natasha The Robot，[原文链接](https://www.natashatherobot.com/nsstringfromclass-in-swift/)，原文日期：2016-01-14
+> 作者：Natasha，[原文链接](https://www.natashatherobot.com/nsstringfromclass-in-swift/)，原文日期：2016-01-14
 > 译者：[saitjr](http://www.brighttj.com)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[Cee](https://github.com/Cee)
   
 

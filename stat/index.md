@@ -9,22 +9,22 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [小铁匠Linus](http://weibo.com/linusling) | 133864 |
+| [小铁匠Linus](http://weibo.com/linusling) | 133874 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 131132 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 102808 |
-| [mmoaay](http://mmoaay.photo/) | 95782 |
+| [mmoaay](http://mmoaay.photo/) | 95777 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 87392 |
 | [Prayer](http://www.futantan.com) | 62007 |
 | [靛青K](http://www.dianqk.org/) | 60426 |
 | [CMB](https://github.com/chenmingbiao) | 56805 |
-| [saitjr](http://www.brighttj.com) | 49525 |
+| [saitjr](http://www.brighttj.com) | 49517 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 48695 |
 | [Cee](https://github.com/Cee) | 48590 |
 | [Yake](http://blog.csdn.net/yake_099) | 46925 |
-| [lfb_CD](http://weibo.com/lfbWb) | 36581 |
+| [lfb_CD](http://weibo.com/lfbWb) | 36573 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35521 |
 | [shanks](http://codebuild.me/) | 33883 |
-| [小袋子](http://daizi.me) | 33002 |
+| [小袋子](http://daizi.me) | 33012 |
 | [walkingway](http://chengway.in/) | 22478 |
 | [SergioChan](https://github.com/SergioChan) | 21996 |
 | [riven](http://weibo.com/riven0951) | 17174 |

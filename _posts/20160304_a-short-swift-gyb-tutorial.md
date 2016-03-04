@@ -1,5 +1,5 @@
 title: "Swift GYB 简易教程"
-date：2016-03-04 09:00:00
+date: 2016-03-04 09:00:00
 tags: [GYB]
 categoris: [uraimo] 
 permalink: a-short-swift-gyb-tutorial
@@ -70,6 +70,7 @@ ${sign}Int${intType} {
 }
     %end
 %end
+
 ```
 
 有了 Python 代码块，我们就可以在 Swift 中建立一个固定长度整型数组，然后遍历它并使用内部循环来处理有符号和无符号整数。然后，我们可以根据`符号`变量的值输出两个不同的代码片段。如果标识变量为空（有符号整数）就输出第一个代码段，如果不为空（无符号整数），就输出第二个代码段。
@@ -99,6 +100,7 @@ chmod +x gyb
 若 ```--line-directive ''```参数为缺省，GYB 输出会增加调试信息，在原始模板中每一部分的输出描述元素会被执行。
 
 当你在调试自己写的模板时，调试信息会很有用。一旦模板完成之后，可以禁用调试的注释，让输出清爽一些。
+
 
 要评论？在 [Twitter](https://twitter.com/uraimo) 上戳我。
 > 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

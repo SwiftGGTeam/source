@@ -34,9 +34,9 @@
 | [DianQK](undefined) | 8310 |
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
+| [ahfepj](undefined) | 5171 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3499 |
 | [Channe](undefined) | 3201 |
-| [ahfepj](undefined) | 2828 |
 | [littledogboy](undefined) | 2818 |
 | [bestswifter](http://bestswifter.com) | 977 |
 
@@ -69,11 +69,11 @@
 | [Channe](undefined) | 2 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [ahfepj](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [&nbsp](https://github.com/initiOSJava) | 1 |
-| [ahfepj](undefined) | 1 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
 | [Lou](undefined) | 1 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
+| [&nbsp](https://github.com/initiOSJava) | 1 |
 | [bestswifter](http://bestswifter.com) | 1 |
 
 
@@ -81,7 +81,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 60 |
+| [numbbbbb](http://numbbbbb.com/) | 61 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Cee](https://github.com/Cee) | 19 |
 | [shanks](http://codebuild.me/) | 19 |
@@ -108,7 +108,7 @@
 | [shanks](http://codebuild.me/) | 32 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 18 |
 | [Cee](https://github.com/Cee) | 15 |
-| [小铁匠Linus](http://weibo.com/linusling) | 1 |
+| [小铁匠Linus](http://weibo.com/linusling) | 2 |
 | [Channe](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |

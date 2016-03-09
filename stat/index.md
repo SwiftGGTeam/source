@@ -14,7 +14,7 @@
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 102808 |
 | [mmoaay](http://mmoaay.photo/) | 95777 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 87392 |
-| [靛青K](http://www.dianqk.org/) | 63247 |
+| [靛青K](http://www.dianqk.org/) | 63246 |
 | [Prayer](http://www.futantan.com) | 62007 |
 | [CMB](https://github.com/chenmingbiao) | 56805 |
 | [saitjr](http://www.brighttj.com) | 51099 |
@@ -35,10 +35,9 @@
 | [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [ahfepj](undefined) | 5171 |
+| [littledogboy](undefined) | 4859 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3499 |
 | [Channe](undefined) | 3201 |
-| [littledogboy](undefined) | 2818 |
-| [littltedogboy](undefined) | 2042 |
 | [bestswifter](http://bestswifter.com) | 977 |
 
 
@@ -57,26 +56,25 @@
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [saitjr](http://www.brighttj.com) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 5 |
-| [Cee](https://github.com/Cee) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
+| [Cee](https://github.com/Cee) | 5 |
 | [shanks](http://codebuild.me/) | 4 |
 | [walkingway](http://chengway.in/) | 4 |
 | [天才175](http://weibo.com/u/2916092907) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
-| [DianQK](undefined) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
-| [littledogboy](undefined) | 2 |
+| [littledogboy](undefined) | 3 |
+| [DianQK](undefined) | 3 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [Channe](undefined) | 2 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [ahfepj](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
+| [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
-| [Lou](undefined) | 1 |
 | [bestswifter](http://bestswifter.com) | 1 |
-| [littltedogboy](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -98,7 +96,7 @@
 | [小袋子](http://daizi.me) | 1 |
 | [靛青K](http://www.dianqk.org/) | 1 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
-| [littltedogboy](undefined) | 1 |
+| [littledogboy](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 
 

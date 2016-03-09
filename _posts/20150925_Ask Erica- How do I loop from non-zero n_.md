@@ -5,7 +5,7 @@ categories: [Swift 进阶]
 permalink: ask-erica-how-do-i-loop-from-non-zero-n-swiftlang
 ---
 > 作者：Erica Sadun，[原文链接](http://ericasadun.com/2015/09/01/ask-erica-how-do-i-loop-from-non-zero-n-swiftlang/)，原文日期：2015/09/01
-> 译者：[小铁匠Linus](http://weibo.com/linusling)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[shanks](http://codebuild.me/)
+> 译者：[小铁匠Linus](http://linusling.com)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[shanks](http://codebuild.me/)
   
 
 

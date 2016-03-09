@@ -10,12 +10,12 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 135825 |
-| [小铁匠Linus](http://weibo.com/linusling) | 133874 |
+| [小铁匠Linus](http://linusling.com) | 133874 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 102808 |
 | [mmoaay](http://mmoaay.photo/) | 95777 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 87392 |
+| [靛青K](http://www.dianqk.org/) | 63257 |
 | [Prayer](http://www.futantan.com) | 62007 |
-| [靛青K](http://www.dianqk.org/) | 60426 |
 | [CMB](https://github.com/chenmingbiao) | 56805 |
 | [saitjr](http://www.brighttj.com) | 51099 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 48695 |
@@ -47,12 +47,12 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 25 |
-| [小铁匠Linus](http://weibo.com/linusling) | 17 |
+| [小铁匠Linus](http://linusling.com) | 17 |
 | [小袋子](http://daizi.me) | 12 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 10 |
-| [靛青K](http://www.dianqk.org/) | 7 |
+| [靛青K](http://www.dianqk.org/) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [saitjr](http://www.brighttj.com) | 6 |
@@ -93,11 +93,12 @@
 | [Channe](undefined) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
 | [saitjr](http://www.brighttj.com) | 3 |
-| [小铁匠Linus](http://weibo.com/linusling) | 3 |
+| [小铁匠Linus](http://linusling.com) | 3 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [小袋子](http://daizi.me) | 1 |
 | [靛青K](http://www.dianqk.org/) | 1 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
+| [littltedogboy](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 
 
@@ -107,10 +108,10 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 55 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 36 |
-| [shanks](http://codebuild.me/) | 32 |
+| [shanks](http://codebuild.me/) | 33 |
 | [小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles) | 18 |
 | [Cee](https://github.com/Cee) | 15 |
-| [小铁匠Linus](http://weibo.com/linusling) | 2 |
+| [小铁匠Linus](http://linusling.com) | 2 |
 | [Channe](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |

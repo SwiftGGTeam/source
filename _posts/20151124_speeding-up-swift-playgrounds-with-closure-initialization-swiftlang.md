@@ -6,7 +6,7 @@ permalink: speeding-up-swift-playgrounds-with-closure-initialization-swiftlang
 
 ---
 > 作者：Erica Sadun，[原文链接](http://ericasadun.com/2015/11/15/speeding-up-swift-playgrounds-with-closure-initialization-swiftlang/)，原文日期：2015-11-15
-> 译者：[JackAlan](http://ijack.pw/)；校对：[小铁匠Linus](http://weibo.com/linusling)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
+> 译者：[JackAlan](http://ijack.pw/)；校对：[小铁匠Linus](http://linusling.com)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

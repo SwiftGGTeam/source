@@ -6,7 +6,7 @@ permalink: generic-tableviewcells
 
 ---
 > 作者：Olivier Halligon，[原文链接](http://alisoftware.github.io/swift/generics/2016/01/06/generic-tableviewcells/)，原文日期：2016-01-06
-> 译者：[walkingway](http://chengway.in/)；校对：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)；定稿：[numbbbbb](http://numbbbbb.com/)
+> 译者：[walkingway](http://chengway.in/)；校对：[小锅](http://www.swiftyper.com)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

@@ -6,7 +6,7 @@ permalink: where-to-put-the-auto-layout-code
 
 ---
 > 作者：Dominik Hauser，[原文链接](http://swiftandpainless.com/where-to-put-the-auto-layout-code)，原文日期：2015/08/12
-> 译者：[SergioChan](https://github.com/SergioChan)；校对：[shanks](http://codebuild.me/)；定稿：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)
+> 译者：[SergioChan](https://github.com/SergioChan)；校对：[shanks](http://codebuild.me/)；定稿：[小锅](http://www.swiftyper.com)
   
 
 

@@ -9,7 +9,7 @@ description: 学习语言开发最好的就是做个项目来练手了，本文�
 
 ---
 > 作者：Weston，[原文链接](http://www.alloc-init.com/2016/01/how-to-start-an-ios-app-portfolio/)，原文日期：2016-01-27
-> 译者：[saitjr](http://www.brighttj.com)；校对：[Cee](https://github.com/Cee)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
+> 译者：[saitjr](http://www.saitjr.com)；校对：[Cee](https://github.com/Cee)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

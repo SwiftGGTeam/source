@@ -9,7 +9,7 @@ description: 现在Swift3.0已经到来了，那么Swift3.0的新变化是什么
 
 ---
 > 作者：Joe，[原文链接](http://dev.iachieved.it/iachievedit/introducing-swift-3-0)，原文日期：2016-02-16
-> 译者：[Cee](https://github.com/Cee)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[小锅](http://www.jianshu.com/users/3b40e55ec6d5/latest_articles)
+> 译者：[Cee](https://github.com/Cee)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[小锅](http://www.swiftyper.com)
   
 
 

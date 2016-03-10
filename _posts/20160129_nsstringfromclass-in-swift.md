@@ -9,7 +9,7 @@ description: 本文教你Swift中NSStringFromClass的替代方案，再也不用
 
 ---
 > 作者：Natasha，[原文链接](https://www.natashatherobot.com/nsstringfromclass-in-swift/)，原文日期：2016-01-14
-> 译者：[saitjr](http://www.brighttj.com)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[Cee](https://github.com/Cee)
+> 译者：[saitjr](http://www.saitjr.com)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[Cee](https://github.com/Cee)
   
 
 

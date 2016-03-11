@@ -30,9 +30,9 @@
 | [riven](http://weibo.com/riven0951) | 17174 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Lou](undefined) | 9541 |
+| [天才175](http://weibo.com/u/2916092907) | 9428 |
 | [JackAlan](http://ijack.pw/) | 8645 |
 | [DianQK](undefined) | 8310 |
-| [天才175](http://weibo.com/u/2916092907) | 7552 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [CoderAFI](http://coderafi.github.io/) | 5696 |
 | [ahfepj](undefined) | 5171 |
@@ -58,10 +58,10 @@
 | [saitjr](http://www.saitjr.com) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
+| [天才175](http://weibo.com/u/2916092907) | 5 |
 | [Cee](https://github.com/Cee) | 5 |
 | [shanks](http://codebuild.me/) | 4 |
 | [walkingway](http://chengway.in/) | 4 |
-| [天才175](http://weibo.com/u/2916092907) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
 | [JackAlan](http://ijack.pw/) | 3 |
 | [littledogboy](undefined) | 3 |
@@ -85,7 +85,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 61 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
-| [Cee](https://github.com/Cee) | 22 |
+| [Cee](https://github.com/Cee) | 23 |
 | [shanks](http://codebuild.me/) | 19 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [小锅](http://www.swiftyper.com) | 7 |
@@ -112,7 +112,7 @@
 | [小锅](http://www.swiftyper.com) | 18 |
 | [Cee](https://github.com/Cee) | 15 |
 | [小铁匠Linus](http://linusling.com) | 2 |
-| [Channe](undefined) | 1 |
+| [Channe](undefined) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |

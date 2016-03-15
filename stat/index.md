@@ -27,6 +27,7 @@
 | [小袋子](http://daizi.me) | 34911 |
 | [walkingway](http://chengway.in/) | 22478 |
 | [SergioChan](https://github.com/SergioChan) | 21996 |
+| [bestswifter](http://bestswifter.com) | 18456 |
 | [riven](http://weibo.com/riven0951) | 17174 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Lou](undefined) | 9541 |
@@ -39,7 +40,6 @@
 | [littledogboy](undefined) | 4859 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3499 |
 | [Channe](undefined) | 3201 |
-| [bestswifter](http://bestswifter.com) | 977 |
 
 
 # 翻译篇数统计
@@ -73,9 +73,9 @@
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [ahfepj](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
+| [bestswifter](http://bestswifter.com) | 2 |
 | [Lou](undefined) | 1 |
-| [bestswifter](http://bestswifter.com) | 1 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 
 
@@ -90,7 +90,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [小锅](http://www.swiftyper.com) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
-| [Channe](undefined) | 4 |
+| [Channe](undefined) | 5 |
 | [Prayer](http://www.futantan.com) | 4 |
 | [saitjr](http://www.saitjr.com) | 3 |
 | [小铁匠Linus](http://linusling.com) | 3 |
@@ -106,7 +106,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 56 |
+| [numbbbbb](http://numbbbbb.com/) | 57 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 36 |
 | [shanks](http://codebuild.me/) | 33 |
 | [小锅](http://www.swiftyper.com) | 18 |

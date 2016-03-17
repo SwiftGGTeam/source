@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 135825 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 137360 |
 | [小铁匠Linus](http://linusling.com) | 133874 |
 | [小锅](http://www.swiftyper.com) | 102808 |
 | [mmoaay](http://mmoaay.photo/) | 95777 |
@@ -47,7 +47,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 25 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 26 |
 | [小铁匠Linus](http://linusling.com) | 17 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 12 |
 | [小袋子](http://daizi.me) | 12 |
@@ -98,9 +98,9 @@
 | [小铁匠Linus](http://linusling.com) | 3 |
 | [靛青K](http://blog.dianqk.org/) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
+| [littledogboy](undefined) | 2 |
 | [小袋子](http://daizi.me) | 1 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
-| [littledogboy](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 
 
@@ -116,6 +116,7 @@
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [Channe](undefined) | 2 |
 | [天才175](http://weibo.com/u/2916092907) | 1 |
+| [saitjr](http://www.saitjr.com) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |

@@ -41,6 +41,7 @@
 | [littledogboy](undefined) | 4859 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3499 |
 | [Channe](undefined) | 3201 |
+| [zltunes](http://zltunes.com) | 1154 |
 
 
 # 翻译篇数统计
@@ -79,13 +80,14 @@
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [Lou](undefined) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
+| [zltunes](http://zltunes.com) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 61 |
+| [numbbbbb](http://numbbbbb.com/) | 62 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Cee](https://github.com/Cee) | 24 |
 | [shanks](http://codebuild.me/) | 19 |
@@ -109,7 +111,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 58 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 36 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 37 |
 | [shanks](http://codebuild.me/) | 33 |
 | [小锅](http://www.swiftyper.com) | 18 |
 | [Cee](https://github.com/Cee) | 15 |

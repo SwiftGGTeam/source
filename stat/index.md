@@ -37,10 +37,10 @@
 | [DianQK](undefined) | 8310 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [pucca601](http://weibo.com/601pucca) | 6547 |
+| [Channe](undefined) | 5544 |
 | [ahfepj](undefined) | 5171 |
 | [littledogboy](undefined) | 4859 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3499 |
-| [Channe](undefined) | 3201 |
 | [zltunes](http://zltunes.com) | 1154 |
 
 
@@ -67,15 +67,15 @@
 | [shanks](http://codebuild.me/) | 4 |
 | [JackAlan](http://ijack.pw/) | 3 |
 | [littledogboy](undefined) | 3 |
+| [Channe](undefined) | 3 |
 | [DianQK](undefined) | 3 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
-| [Channe](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [CoderAFI](http://coderafi.github.io/) | 2 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [bestswifter](http://bestswifter.com) | 2 |
 | [ahfepj](undefined) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [Lou](undefined) | 1 |
@@ -87,7 +87,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 62 |
+| [numbbbbb](http://numbbbbb.com/) | 63 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Cee](https://github.com/Cee) | 24 |
 | [shanks](http://codebuild.me/) | 19 |
@@ -113,7 +113,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 58 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 37 |
 | [shanks](http://codebuild.me/) | 33 |
-| [小锅](http://www.swiftyper.com) | 18 |
+| [小锅](http://www.swiftyper.com) | 19 |
 | [Cee](https://github.com/Cee) | 15 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [Channe](undefined) | 2 |

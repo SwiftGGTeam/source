@@ -8,7 +8,7 @@ custom_title:
 description: 
 ---
 > 作者：Erica Sadun，[原文链接](http://ericasadun.com/2016/02/29/getting-ready-for-swift-to-stop-breaking-code/)，原文日期：2016-02-29
-> 译者：[Crystal Sun](undefined)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[shanks](http://codebuild.me/)
+> 译者：[Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[shanks](http://codebuild.me/)
   
 
 

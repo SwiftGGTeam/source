@@ -41,7 +41,7 @@
 | [ahfepj](undefined) | 5171 |
 | [littledogboy](undefined) | 4859 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3499 |
-| [Crystal Sun](undefined) | 2270 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2270 |
 | [zltunes](http://zltunes.com) | 1154 |
 
 
@@ -82,7 +82,7 @@
 | [Lou](undefined) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [zltunes](http://zltunes.com) | 1 |
-| [Crystal Sun](undefined) | 1 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
 
 
 # 校对篇数统计

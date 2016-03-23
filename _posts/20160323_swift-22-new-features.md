@@ -8,6 +8,7 @@ permalink: swift-22-new-features
 作者：[walkingway](http://chengway.in/)
 
 Swift 2.2 随着 iOS 9.3 一同闪亮登场，相较于 Swift 2.1， 2.2 版本做出了许多调整，从其调整方向上我们也能一窥 Swift 3.0 的影子，以下内容主要来自于苹果 Swift 官方 [Blog](https://swift.org/blog/swift-2-2-released/)，接下来就让我们进入正题，一睹 Swift 2.2 的庐山真面目：
+<!--more-->
 
 ## 允许更多的关键字来做参数标签
 

@@ -37,6 +37,7 @@
 | [DianQK](undefined) | 8310 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
 | [pucca601](http://weibo.com/601pucca) | 6547 |
+| [ray](undefined) | 6021 |
 | [Channe](undefined) | 5544 |
 | [ahfepj](undefined) | 5171 |
 | [littledogboy](undefined) | 4859 |
@@ -83,13 +84,14 @@
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [zltunes](http://zltunes.com) | 1 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
+| [ray](undefined) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 64 |
+| [numbbbbb](http://numbbbbb.com/) | 65 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Cee](https://github.com/Cee) | 24 |
 | [shanks](http://codebuild.me/) | 19 |
@@ -121,6 +123,7 @@
 | [Channe](undefined) | 2 |
 | [天才175](http://weibo.com/u/2916092907) | 1 |
 | [saitjr](http://www.saitjr.com) | 1 |
+| [way](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |

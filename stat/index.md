@@ -13,7 +13,7 @@
 | [小铁匠Linus](http://linusling.com) | 133874 |
 | [小锅](http://www.swiftyper.com) | 102808 |
 | [mmoaay](http://mmoaay.photo/) | 95777 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 87392 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93689 |
 | [靛青K](http://blog.dianqk.org/) | 63246 |
 | [Prayer](http://www.futantan.com) | 62007 |
 | [CMB](https://github.com/chenmingbiao) | 56805 |
@@ -52,7 +52,7 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 26 |
 | [小铁匠Linus](http://linusling.com) | 17 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 12 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13 |
 | [小袋子](http://daizi.me) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [小锅](http://www.swiftyper.com) | 10 |
@@ -91,7 +91,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 66 |
+| [numbbbbb](http://numbbbbb.com/) | 67 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Cee](https://github.com/Cee) | 24 |
 | [shanks](http://codebuild.me/) | 19 |
@@ -121,10 +121,10 @@
 | [Cee](https://github.com/Cee) | 15 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [Channe](undefined) | 2 |
-| [天才175](http://weibo.com/u/2916092907) | 1 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
 | [saitjr](http://www.saitjr.com) | 1 |
 | [way](undefined) | 1 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
+| [天才175](http://weibo.com/u/2916092907) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |

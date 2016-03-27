@@ -1,11 +1,11 @@
 title: "浅谈 Swift 中的泛型"
 date: 2015-09-16
-tags: [Thomas Hanning]
-categories: [Swift 入门]
+tags: [Swift 入门]
+categories: [Thomas Hanning]
 permalink: swift-generics
 
 ---
-> 作者：Thomas Hanning，[原文链接](http://www.thomashanning.com/swift-generics/)，原文日期：2015/09/09
+> 作者：Thomas Hanning，[原文链接](http://www.thomashanning.com/swift-generics/)，原文日期：2015-09-09
 > 译者：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[shanks](http://codebuild.me/)
   
 

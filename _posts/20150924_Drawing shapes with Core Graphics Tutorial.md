@@ -1,10 +1,10 @@
 title: "使用 Core Graphics 绘制基本形状"
 date: 2015-09-24 09:00:00
-tags: [IOSCREATOR]
-categories: [iOS 9,Swift 入门]
+tags: [iOS 9,Swift 入门]
+categories: [IOSCREATOR]
 permalink: drawing-shapes-core-graphics-tutorial
 ---
-> 作者：Arthur Knopper，[原文链接](http://www.ioscreator.com/tutorials/drawing-shapes-core-graphics-tutorial)，原文日期：2015/08/31
+> 作者：Arthur Knopper，[原文链接](http://www.ioscreator.com/tutorials/drawing-shapes-core-graphics-tutorial)，原文日期：2015-08-31
 > 译者：[lfb_CD](http://weibo.com/lfbWb)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[shanks](http://codebuild.me/)
   
 

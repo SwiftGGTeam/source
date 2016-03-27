@@ -1,11 +1,11 @@
 title: 如何在 Swift 中测试 UIAlertController
 date: 2015-10-12 09:00:00
-tags: [dom]
-categories: [Swift 入门]
+tags: [Swift 入门]
+categories: [Swift and Painless]
 permalink: how-to-test-uialertcontroller-in-swift
 
 ---
-> 作者：dom，[原文链接](http://swiftandpainless.com/how-to-test-uialertcontroller-in-swift/)，原文日期：2015-09-18
+> 作者：Dominik Hauser，[原文链接](http://swiftandpainless.com/how-to-test-uialertcontroller-in-swift/)，原文日期：2015-09-18
 > 译者：[DianQK](undefined)；校对：[小铁匠Linus](http://linusling.com)；定稿：[小锅](http://www.swiftyper.com)
   
 

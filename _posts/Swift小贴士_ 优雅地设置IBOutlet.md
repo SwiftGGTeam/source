@@ -1,11 +1,11 @@
 title: "Swift 小贴士: 优雅地设置 IBOutlets"
 date: 2015-9-11
-tags: [Natasha The Robot]
-categories: [Swift 入门]
+tags: [Swift 入门]
+categories: [Natasha The Robot]
 permalink: ios-a-beautiful-way-of-styling-iboutlets-in-swift
 
 ---
-> 作者：Natasha，[原文链接](http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift/)，原文日期：2015/07/29
+> 作者：Natasha，[原文链接](http://natashatherobot.com/ios-a-beautiful-way-of-styling-iboutlets-in-swift/)，原文日期：2015-07-29
 > 译者：[Channe](undefined)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[小锅](http://www.swiftyper.com)
   
 

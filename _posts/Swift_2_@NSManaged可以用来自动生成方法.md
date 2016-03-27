@@ -1,11 +1,11 @@
 title: "在 Swift 2 中用 @NSManaged 标记自动生成方法"
 date: 2015-09-14 20:00:00
-tags: [Tomasz Szulc]
-categories: [Swift 进阶]
+tags: [Swift 进阶]
+categories: [Tomasz Szulc]
 permalink: swift-2-nsmanaged-for-methods
 
 ---
-> 作者：Tomasz Szulc，[原文链接](http://szulctomasz.com/swift-2-nsmanaged-for-methods/)，原文日期：2015/08/06
+> 作者：Tomasz Szulc，[原文链接](http://szulctomasz.com/swift-2-nsmanaged-for-methods/)，原文日期：2015-08-06
 > 译者：[mmoaay](http://mmoaay.photo/)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[shanks](http://codebuild.me/)
   
 

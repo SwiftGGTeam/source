@@ -1,11 +1,11 @@
 title: "Swift 中序列的实现方式"
 date: 2015-09-08 20:00:00
-tags: [Big O Note-Taking]
-categories: [Swift 进阶]
+tags: [Swift 进阶]
+categories: [Big O Note-Taking]
 permalink: Sequence-Conformance
 
 ---
-> 作者：bigonotetaker，[原文链接](https://bigonotetaking.wordpress.com/2015/08/20/sequence-conformance/)，原文日期：2015/08/22
+> 作者：bigonotetaker，[原文链接](https://bigonotetaking.wordpress.com/2015/08/20/sequence-conformance/)，原文日期：2015-08-22
 > 译者：[Prayer](http://www.futantan.com)；校对：[shanks](http://codebuild.me/)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 

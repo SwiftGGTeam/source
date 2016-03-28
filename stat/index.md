@@ -9,9 +9,9 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 137360 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 148686 |
 | [小铁匠Linus](http://linusling.com) | 133874 |
-| [小锅](http://www.swiftyper.com) | 102808 |
+| [小锅](http://www.swiftyper.com) | 106209 |
 | [mmoaay](http://mmoaay.photo/) | 95785 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93689 |
 | [靛青K](http://blog.dianqk.org/) | 63246 |
@@ -50,12 +50,12 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 26 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 28 |
 | [小铁匠Linus](http://linusling.com) | 17 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13 |
 | [小袋子](http://daizi.me) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
-| [小锅](http://www.swiftyper.com) | 10 |
+| [小锅](http://www.swiftyper.com) | 11 |
 | [靛青K](http://blog.dianqk.org/) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
@@ -91,7 +91,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 67 |
+| [numbbbbb](http://numbbbbb.com/) | 70 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Cee](https://github.com/Cee) | 25 |
 | [shanks](http://codebuild.me/) | 19 |
@@ -114,7 +114,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 58 |
+| [numbbbbb](http://numbbbbb.com/) | 61 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 37 |
 | [shanks](http://codebuild.me/) | 34 |
 | [小锅](http://www.swiftyper.com) | 19 |

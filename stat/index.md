@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 148686 |
-| [小铁匠Linus](http://linusling.com) | 138224 |
+| [小铁匠Linus](http://linusling.com) | 138444 |
 | [小锅](http://www.swiftyper.com) | 106209 |
 | [mmoaay](http://mmoaay.photo/) | 95785 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93689 |

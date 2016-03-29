@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 148686 |
-| [小铁匠Linus](http://linusling.com) | 133874 |
+| [小铁匠Linus](http://linusling.com) | 138224 |
 | [小锅](http://www.swiftyper.com) | 106209 |
 | [mmoaay](http://mmoaay.photo/) | 95785 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93689 |
@@ -51,7 +51,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 28 |
-| [小铁匠Linus](http://linusling.com) | 17 |
+| [小铁匠Linus](http://linusling.com) | 18 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13 |
 | [小袋子](http://daizi.me) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
@@ -105,9 +105,10 @@
 | [靛青K](http://blog.dianqk.org/) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
-| [小袋子](http://daizi.me) | 1 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
+| [100mango](undefined) | 1 |
+| [小袋子](http://daizi.me) | 1 |
 
 
 # 定稿篇数统计
@@ -119,8 +120,8 @@
 | [shanks](http://codebuild.me/) | 34 |
 | [小锅](http://www.swiftyper.com) | 19 |
 | [Cee](https://github.com/Cee) | 15 |
+| [Channe](undefined) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
-| [Channe](undefined) | 2 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
 | [saitjr](http://www.saitjr.com) | 1 |
 | [way](undefined) | 1 |

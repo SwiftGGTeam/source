@@ -37,6 +37,7 @@
 | [CoderAFI](http://coderafi.github.io/) | 8640 |
 | [DianQK](undefined) | 8320 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6970 |
+| [Lanford3_3](http://lanfordcai.github.io) | 6888 |
 | [pucca601](http://weibo.com/601pucca) | 6547 |
 | [ray](undefined) | 6021 |
 | [Channe](undefined) | 5544 |
@@ -60,38 +61,39 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [saitjr](http://www.saitjr.com) | 6 |
-| [CMB](https://github.com/chenmingbiao) | 5 |
-| [Cee](https://github.com/Cee) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 5 |
 | [shanks](http://codebuild.me/) | 5 |
+| [Cee](https://github.com/Cee) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
+| [CMB](https://github.com/chenmingbiao) | 5 |
 | [walkingway](http://chengway.in/) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
+| [Channe](undefined) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
 | [littledogboy](undefined) | 3 |
-| [Channe](undefined) | 3 |
 | [DianQK](undefined) | 3 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
 | [ahfepj](undefined) | 2 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
 | [bestswifter](http://bestswifter.com) | 2 |
 | [CoderAFI](http://coderafi.github.io/) | 2 |
+| [&nbsp](https://github.com/initiOSJava) | 1 |
 | [Lou](undefined) | 1 |
-| [ray](undefined) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [zltunes](http://zltunes.com) | 1 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
-| [&nbsp](https://github.com/initiOSJava) | 1 |
+| [ray](undefined) | 1 |
+| [Lanford3_3](http://lanfordcai.github.io) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 70 |
+| [numbbbbb](http://numbbbbb.com/) | 71 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Cee](https://github.com/Cee) | 25 |
 | [shanks](http://codebuild.me/) | 19 |
@@ -116,7 +118,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 61 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 37 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 38 |
 | [shanks](http://codebuild.me/) | 34 |
 | [小锅](http://www.swiftyper.com) | 19 |
 | [Cee](https://github.com/Cee) | 15 |

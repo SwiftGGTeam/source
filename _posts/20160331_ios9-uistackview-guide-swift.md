@@ -7,7 +7,7 @@ keywords: ios9 uistackview,uistackview的作用
 custom_title: 
 description: UIStackView可以让你的开发变的更简单哦，那么在 iOS9 中 UIStackView 要如何使用呢，本文来学习下吧。
 ---
-> 作者：Gabriel Theodoropoulos，[原文链接](https://www.uraimo.com/2015/09/08/ios9-uistackview-guide-swift/)，原文日期：2015-12-08
+> 作者：Umberto Raimondi，[原文链接](https://www.uraimo.com/2015/09/08/ios9-uistackview-guide-swift/)，原文日期：2015-12-08
 > 译者：[CoderAFI](http://coderafi.github.io/)；校对：[Channe](undefined)；定稿：[shanks](http://codebuild.me/)
   
 

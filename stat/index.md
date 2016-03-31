@@ -29,7 +29,7 @@
 | [SergioChan](https://github.com/SergioChan) | 21996 |
 | [bestswifter](http://bestswifter.com) | 18456 |
 | [riven](http://weibo.com/riven0951) | 17174 |
-| [CoderAFI](http://coderafi.github.io/) | 13747 |
+| [CoderAFI](http://coderafi.github.io/) | 13741 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 12048 |
 | [Lou](undefined) | 9541 |

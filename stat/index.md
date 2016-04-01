@@ -40,10 +40,10 @@
 | [Lanford3_3](http://lanfordcai.github.io) | 6885 |
 | [pucca601](http://weibo.com/601pucca) | 6547 |
 | [ray](undefined) | 6021 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 5729 |
 | [Channe](undefined) | 5544 |
 | [ahfepj](undefined) | 5171 |
 | [littledogboy](undefined) | 4859 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2270 |
 | [zltunes](http://zltunes.com) | 1154 |
 
 
@@ -80,11 +80,11 @@
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [&nbsp](https://github.com/initiOSJava) | 1 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
 | [Lou](undefined) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [zltunes](http://zltunes.com) | 1 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
+| [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ray](undefined) | 1 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
 
@@ -93,7 +93,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 71 |
+| [numbbbbb](http://numbbbbb.com/) | 72 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Cee](https://github.com/Cee) | 25 |
 | [shanks](http://codebuild.me/) | 19 |
@@ -125,10 +125,10 @@
 | [Channe](undefined) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
-| [saitjr](http://www.saitjr.com) | 1 |
+| [littledogboy](undefined) | 2 |
 | [way](undefined) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |
-| [littledogboy](undefined) | 1 |
+| [saitjr](http://www.saitjr.com) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |
 | [天才175](http://weibo.com/u/2916092907) | 1 |

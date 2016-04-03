@@ -18,7 +18,6 @@ description: 对于Swift自定义序列不明白的可以来看下本文，讲�
 
 
 
-
 <!--此处开始正文-->
 
 在这篇文章中我们将介绍 Swift 2 自定义序列，并举例说明有限序列和无限序列的区别，本文是 [Swift and the functional approach](https://www.uraimo.com/category/functional/) 系列其中一篇。

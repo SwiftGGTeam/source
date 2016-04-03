@@ -3,12 +3,10 @@ date: 2015-12-08
 tags: [Swift 进阶]
 categories: [AppCoda]
 permalink: building-a-todo-app-using-realm-and-swift
-
 ---
 > 作者：Hossam Ghareeb，[原文链接](http://www.appcoda.com/realm-database-swift/)，原文日期：2015-10-28
 > 译者：[Prayer](http://www.futantan.com)；校对：[Cee](https://github.com/Cee)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
-
 
 
 

@@ -3,11 +3,11 @@ date: 2016-01-29 12:30:00
 tags: [Swift 开源信息]
 categories: [Open Source Swift]
 permalink: open-source-swift-5
+
 ---
 > 作者：Jesse Squires，[原文链接](http://swiftweekly.github.io/issue-5/)，原文日期：2016/1/14
 > 译者：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[numbbbbb](http://numbbbbb.com/)
   
-
 
 
 

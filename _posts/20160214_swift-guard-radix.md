@@ -6,11 +6,11 @@ permalink: swift-guard-radix
 keywords: swift guard语句,swift guard let
 custom_title: Swift guard 语句的使用
 description: 在Swift中怎么正确使用swift guard语句呢，本文就来详细说下swift guard let的使用方法吧。
+
 ---
 > 作者：Radek Pietruszewski，[原文链接](http://radex.io/swift/guard/)，原文日期：2015-12-14
 > 译者：[Prayer](http://www.futantan.com)；校对：[Channe](undefined)；定稿：[numbbbbb](http://numbbbbb.com/)
   
-
 
 
 

@@ -16,7 +16,6 @@ permalink: tuples-swift-advanced-usage-best-practices
 
 
 
-
 <!--此处开始正文-->
 作为 Swift 中比较少见的语法特性，元组只是占据了结构体和数组之间很小的一个位置。此外，它在 Objective-C（或者很多其他语言）中没有相应的结构。最后，标准库以及 Apple 示例代码中对元组的使用也非常少。可能它在 Swift 中给人的印象就是用来做模式匹配，但我并不这么认为。
 

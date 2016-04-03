@@ -3,7 +3,6 @@ date: 2016-01-04
 tags: [iOS 开发]
 categories: [IOSCREATOR]
 permalink: editable-text-field-alert-controller-tutorial
-
 ---
 > 作者：Arthur Knopper，[原文链接](http://www.ioscreator.com/tutorials/editable-text-field-alert-controller-tutorial)，原文日期：2015-12-21
 > 译者：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)；校对：[Cee](https://github.com/Cee)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)

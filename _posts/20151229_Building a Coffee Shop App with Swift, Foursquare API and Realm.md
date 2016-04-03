@@ -3,11 +3,11 @@ date: 2015-12-29
 tags: [Swift 进阶]
 categories: [AppCoda]
 permalink: foursquare-realm-swift
+
 ---
 > 作者：reinder de vries，[原文链接](http://www.appcoda.com/foursquare-realm-swift/)，原文日期：2015-11-23
 > 译者：[小铁匠Linus](http://linusling.com)；校对：[saitjr](http://www.saitjr.com)；定稿：[numbbbbb](http://numbbbbb.com/)
   
-
 
 
 

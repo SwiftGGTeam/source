@@ -6,6 +6,7 @@ permalink: command-line-utilities-in-swift
 keywords: swift命令行编译,swift命令行参数
 custom_title: 
 description: 对于用 Swift 写 Linux 命令行程序相信还有很多人不会吧，那么本文就来说下这吧。
+
 ---
 > 作者：Joe，[原文链接](http://dev.iachieved.it/iachievedit/command-line-utilities-in-swift/)，原文日期：2015-12-28
 > 译者：[aaaron7](http://www.jianshu.com/users/9efd08855d3a/)；校对：[Cee](https://github.com/Cee)；定稿：[littledogboy](undefined)

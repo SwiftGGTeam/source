@@ -3,11 +3,11 @@ date: 2016-01-25
 tags: [Swift 进阶]
 categories: [mikeash.com]
 permalink: friday-qa-2015-11-06-why-is-swifts-string-api-so-hard
+
 ---
 > 作者：Mike Ash，[原文链接](https://www.mikeash.com/pyblog/friday-qa-2015-11-06-why-is-swifts-string-api-so-hard.html)，原文日期：2015-11-06
 > 译者：[Cee](https://github.com/Cee)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[numbbbbb](http://numbbbbb.com/)
   
-
 
 
 

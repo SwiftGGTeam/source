@@ -6,11 +6,11 @@ permalink: being-lazy
 keywords: swift lazy var,swift惰性初始化
 custom_title: 
 description: 编程这件事其实可以懒点的好哦，比如本文就来说下 Swift 里面的 lazy var、LazySequence 和喵星人。
+
 ---
 > 作者：Olivier Halligon，[原文链接](http://alisoftware.github.io/swift/2016/02/28/being-lazy/)，原文日期：2016-02-28
 > 译者：[ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[星夜暮晨](http://www.jianshu.com/users/ef1058d2d851)
   
-
 
 
 

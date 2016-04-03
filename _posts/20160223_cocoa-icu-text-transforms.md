@@ -6,6 +6,7 @@ permalink: cocoa-icu-text-transforms
 keywords: icu库,cocoa
 custom_title: 
 description: ICU库有一整套强大的文本变换功能，那么我们就在讲下在Cocoa中实现ICU文本变换吧。
+
 ---
 > 作者：Ole Begemann，[原文链接](http://oleb.net/blog/2016/01/icu-text-transforms/)，原文日期：2016-01-03
 > 译者：[aaaron7](http://www.jianshu.com/users/9efd08855d3a/)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[Cee](https://github.com/Cee)

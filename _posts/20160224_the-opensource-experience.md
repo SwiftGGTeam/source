@@ -6,11 +6,11 @@ permalink: the-opensource-experience
 keywords: swift开源
 custom_title: 
 description: Swift开源对ios开发者来说有什么意义呢，听听Olivier Halligon的感受吧。
+
 ---
 > 作者：Olivier Halligon，[原文链接](http://alisoftware.github.io/oss/2015/12/05/the-opensource-experience/)，原文日期：2015-12-05
 > 译者：[小锅](http://www.swiftyper.com)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[Cee](https://github.com/Cee)
   
-
 
 
 

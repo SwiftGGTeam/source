@@ -31,8 +31,8 @@
 | [riven](http://weibo.com/riven0951) | 17174 |
 | [CoderAFI](http://coderafi.github.io/) | 13741 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 13293 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 12048 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 11512 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10277 |
 | [Lou](undefined) | 9541 |
 | [天才175](http://weibo.com/u/2916092907) | 9428 |
@@ -61,12 +61,12 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [saitjr](http://www.saitjr.com) | 6 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 5 |
 | [shanks](http://codebuild.me/) | 5 |
 | [CMB](https://github.com/chenmingbiao) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 5 |
 | [Cee](https://github.com/Cee) | 5 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
 | [walkingway](http://chengway.in/) | 4 |
 | [DianQK](undefined) | 3 |
@@ -105,9 +105,9 @@
 | [saitjr](http://www.saitjr.com) | 3 |
 | [小铁匠Linus](http://linusling.com) | 3 |
 | [靛青K](http://blog.dianqk.org/) | 2 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [100mango](undefined) | 1 |
 | [小袋子](http://daizi.me) | 1 |
@@ -121,7 +121,7 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 38 |
 | [shanks](http://codebuild.me/) | 35 |
 | [小锅](http://www.swiftyper.com) | 19 |
-| [Cee](https://github.com/Cee) | 17 |
+| [Cee](https://github.com/Cee) | 18 |
 | [Channe](undefined) | 3 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |

@@ -14,6 +14,7 @@ permalink: app-thinning-appcoda
 
 
 
+
 <!--此处开始正文-->
 
 **更新**: iOS 9 有个 bug 影响 APP 瘦身功能，这个 bug 在 iOS 9.0.2 被修复。从 AppStore 下载 App 时请留意。

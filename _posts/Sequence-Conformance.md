@@ -15,6 +15,7 @@ permalink: Sequence-Conformance
 
 
 
+<!--此处开始正文-->
 
 想要遵循 `SequenceType`协议？还想要遵循 `CollectionType`，`MutableSliceable`，`RangeReplaceableCollectionType`？——需要做些什么呢？
 

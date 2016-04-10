@@ -18,6 +18,7 @@ description: Swift GYB（模板生成）是Swift内部使用的工具，它可�
 
 
 
+<!--此处开始正文-->
 
 GYB（模板生成）[是一个 Swift 内部使用的工具](https://github.com/apple/swift/blob/master/utils/gyb.py)，可以用模板生成源文件。
 

@@ -15,6 +15,8 @@ permalink: sequencetype_and_generatortype
 
 
 
+<!--此处开始正文-->
+
 > 注：作者连续写了两篇文章，我们将译文合并到了一起
 
 # 上篇

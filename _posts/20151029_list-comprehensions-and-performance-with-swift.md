@@ -14,6 +14,7 @@ permalink: list-comprehensions-and-performance-with-swift
 
 
 
+<!--此处开始正文-->
 
 >本文写于 2015.8.15 适用于 Xcode 6 和 Swift 1.2
 

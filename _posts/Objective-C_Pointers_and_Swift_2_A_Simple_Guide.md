@@ -15,6 +15,8 @@ permalink: objective-c-pointers-and-swift
 
 
 
+<!--此处开始正文-->
+
 > 本文写于 2015 年 8 月 23 日，与 Xcode7 Beta 版和 Swift 2 兼容
 
 

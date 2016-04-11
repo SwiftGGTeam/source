@@ -5,7 +5,7 @@ categories: [mikeash.com]
 permalink: friday-qa-2015-07-17-when-to-use-swift-structs-and-classes
 
 ---
-> 作者：Mike Ash，[原文链接](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)，原文日期：2015/07/17
+> 作者：Mike Ash，[原文链接](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)，原文日期：2015-07-17
 > 译者：[Yake](http://blog.csdn.net/yake_099)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 

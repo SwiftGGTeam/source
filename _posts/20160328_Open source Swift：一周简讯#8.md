@@ -8,7 +8,7 @@ custom_title:
 description: 
 
 ---
-> 作者：Jesse Squires，[原文链接](http://swiftweekly.github.io/issue-8/)，原文日期：2016/02/04
+> 作者：Jesse Squires，[原文链接](http://swiftweekly.github.io/issue-8/)，原文日期：2016-02-04
 > 译者：[小锅](http://www.swiftyper.com)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 

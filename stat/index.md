@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 148790 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 148792 |
 | [小铁匠Linus](http://linusling.com) | 138496 |
 | [小锅](http://www.swiftyper.com) | 106261 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
@@ -17,7 +17,7 @@
 | [靛青K](http://blog.dianqk.org/) | 63298 |
 | [Prayer](http://www.futantan.com) | 62020 |
 | [CMB](https://github.com/chenmingbiao) | 56818 |
-| [saitjr](http://www.saitjr.com) | 51125 |
+| [saitjr](http://www.saitjr.com) | 53414 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 48695 |
 | [Cee](https://github.com/Cee) | 48590 |
 | [Yake](http://blog.csdn.net/yake_099) | 46977 |
@@ -58,9 +58,9 @@
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [小锅](http://www.swiftyper.com) | 11 |
 | [靛青K](http://blog.dianqk.org/) | 8 |
+| [saitjr](http://www.saitjr.com) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
-| [saitjr](http://www.saitjr.com) | 6 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 5 |
 | [shanks](http://codebuild.me/) | 5 |
 | [CMB](https://github.com/chenmingbiao) | 5 |
@@ -97,8 +97,8 @@
 | [Cee](https://github.com/Cee) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 21 |
+| [小锅](http://www.swiftyper.com) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
-| [小锅](http://www.swiftyper.com) | 7 |
 | [Channe](undefined) | 6 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [Prayer](http://www.futantan.com) | 4 |
@@ -118,7 +118,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 61 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 38 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 39 |
 | [shanks](http://codebuild.me/) | 35 |
 | [小锅](http://www.swiftyper.com) | 19 |
 | [Cee](https://github.com/Cee) | 18 |

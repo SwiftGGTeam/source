@@ -14,8 +14,8 @@
 | [小锅](http://www.swiftyper.com) | 106261 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93780 |
+| [Prayer](http://www.futantan.com) | 68427 |
 | [靛青K](http://blog.dianqk.org/) | 63298 |
-| [Prayer](http://www.futantan.com) | 62020 |
 | [CMB](https://github.com/chenmingbiao) | 56818 |
 | [saitjr](http://www.saitjr.com) | 53414 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 48695 |
@@ -66,8 +66,8 @@
 | [CMB](https://github.com/chenmingbiao) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 5 |
+| [Prayer](http://www.futantan.com) | 5 |
 | [Cee](https://github.com/Cee) | 5 |
-| [Prayer](http://www.futantan.com) | 4 |
 | [walkingway](http://chengway.in/) | 4 |
 | [DianQK](undefined) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
@@ -97,7 +97,7 @@
 | [Cee](https://github.com/Cee) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 21 |
-| [小锅](http://www.swiftyper.com) | 8 |
+| [小锅](http://www.swiftyper.com) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [Channe](undefined) | 6 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
@@ -119,7 +119,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 61 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 39 |
-| [shanks](http://codebuild.me/) | 35 |
+| [shanks](http://codebuild.me/) | 36 |
 | [小锅](http://www.swiftyper.com) | 19 |
 | [Cee](https://github.com/Cee) | 18 |
 | [Channe](undefined) | 3 |

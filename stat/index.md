@@ -29,9 +29,9 @@
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [bestswifter](http://bestswifter.com) | 18456 |
 | [riven](http://weibo.com/riven0951) | 17187 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 14777 |
 | [CoderAFI](http://coderafi.github.io/) | 13741 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 13332 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 12048 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10277 |
 | [Lou](undefined) | 9554 |
@@ -60,8 +60,8 @@
 | [靛青K](http://blog.dianqk.org/) | 8 |
 | [saitjr](http://www.saitjr.com) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 6 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 5 |
 | [shanks](http://codebuild.me/) | 5 |
 | [CMB](https://github.com/chenmingbiao) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
@@ -97,7 +97,7 @@
 | [Cee](https://github.com/Cee) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 21 |
-| [小锅](http://www.swiftyper.com) | 9 |
+| [小锅](http://www.swiftyper.com) | 10 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [Channe](undefined) | 6 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
@@ -119,7 +119,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 61 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 39 |
-| [shanks](http://codebuild.me/) | 36 |
+| [shanks](http://codebuild.me/) | 37 |
 | [小锅](http://www.swiftyper.com) | 19 |
 | [Cee](https://github.com/Cee) | 18 |
 | [Channe](undefined) | 3 |

@@ -32,8 +32,8 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 14777 |
 | [CoderAFI](http://coderafi.github.io/) | 13741 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
+| [Lanford3_3](http://lanfordcai.github.io) | 13337 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 12048 |
-| [Lanford3_3](http://lanfordcai.github.io) | 10277 |
 | [Lou](undefined) | 9554 |
 | [天才175](http://weibo.com/u/2916092907) | 9480 |
 | [JackAlan](http://ijack.pw/) | 8645 |
@@ -70,18 +70,18 @@
 | [Cee](https://github.com/Cee) | 5 |
 | [walkingway](http://chengway.in/) | 4 |
 | [DianQK](undefined) | 3 |
-| [JackAlan](http://ijack.pw/) | 3 |
+| [Lanford3_3](http://lanfordcai.github.io) | 3 |
 | [CoderAFI](http://coderafi.github.io/) | 3 |
 | [littledogboy](undefined) | 3 |
 | [Channe](undefined) | 3 |
-| [bestswifter](http://bestswifter.com) | 2 |
+| [JackAlan](http://ijack.pw/) | 3 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [ahfepj](undefined) | 2 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [Lanford3_3](http://lanfordcai.github.io) | 2 |
+| [bestswifter](http://bestswifter.com) | 2 |
 | [Lou](undefined) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [zltunes](http://zltunes.com) | 1 |
@@ -96,7 +96,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 72 |
 | [Cee](https://github.com/Cee) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
-| [shanks](http://codebuild.me/) | 21 |
+| [shanks](http://codebuild.me/) | 22 |
 | [小锅](http://www.swiftyper.com) | 10 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [Channe](undefined) | 6 |
@@ -120,7 +120,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 61 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 39 |
 | [shanks](http://codebuild.me/) | 37 |
-| [小锅](http://www.swiftyper.com) | 19 |
+| [小锅](http://www.swiftyper.com) | 20 |
 | [Cee](https://github.com/Cee) | 18 |
 | [Channe](undefined) | 3 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |

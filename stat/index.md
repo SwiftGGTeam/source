@@ -18,7 +18,7 @@
 | [靛青K](http://blog.dianqk.org/) | 63298 |
 | [CMB](https://github.com/chenmingbiao) | 56818 |
 | [saitjr](http://www.saitjr.com) | 53414 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 48695 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 51246 |
 | [Cee](https://github.com/Cee) | 48590 |
 | [Yake](http://blog.csdn.net/yake_099) | 46977 |
 | [shanks](http://codebuild.me/) | 42391 |
@@ -74,26 +74,26 @@
 | [CoderAFI](http://coderafi.github.io/) | 3 |
 | [littledogboy](undefined) | 3 |
 | [Channe](undefined) | 3 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [ahfepj](undefined) | 2 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [bestswifter](http://bestswifter.com) | 2 |
-| [Lou](undefined) | 1 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [zltunes](http://zltunes.com) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ray](undefined) | 1 |
+| [Lou](undefined) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 72 |
+| [numbbbbb](http://numbbbbb.com/) | 73 |
 | [Cee](https://github.com/Cee) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 22 |
@@ -129,6 +129,7 @@
 | [way](undefined) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |
 | [saitjr](http://www.saitjr.com) | 1 |
+| [CMB](https://github.com/chenmingbiao) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |
 | [天才175](http://weibo.com/u/2916092907) | 1 |

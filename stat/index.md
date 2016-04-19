@@ -44,7 +44,7 @@
 | [Channe](undefined) | 5557 |
 | [ahfepj](undefined) | 5184 |
 | [littledogboy](undefined) | 4859 |
-| [zltunes](http://zltunes.com) | 1154 |
+| [zltunes](http://zltunes.com) | 4818 |
 
 
 # 翻译篇数统计
@@ -82,8 +82,8 @@
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [ahfepj](undefined) | 2 |
+| [zltunes](http://zltunes.com) | 2 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
-| [zltunes](http://zltunes.com) | 1 |
 | [Lou](undefined) | 1 |
 | [ray](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
@@ -96,7 +96,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 74 |
 | [Cee](https://github.com/Cee) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
-| [shanks](http://codebuild.me/) | 22 |
+| [shanks](http://codebuild.me/) | 23 |
 | [小锅](http://www.swiftyper.com) | 10 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [Channe](undefined) | 6 |
@@ -120,7 +120,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 61 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 39 |
 | [shanks](http://codebuild.me/) | 37 |
-| [小锅](http://www.swiftyper.com) | 21 |
+| [小锅](http://www.swiftyper.com) | 22 |
 | [Cee](https://github.com/Cee) | 18 |
 | [Channe](undefined) | 3 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |

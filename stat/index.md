@@ -26,7 +26,7 @@
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [小袋子](http://daizi.me) | 34937 |
 | [bestswifter](http://bestswifter.com) | 25230 |
-| [walkingway](http://chengway.in/) | 22491 |
+| [walkingway](http://chengway.in/) | 24506 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [riven](http://weibo.com/riven0951) | 17187 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 14777 |
@@ -62,13 +62,13 @@
 | [saitjr](http://www.saitjr.com) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 6 |
-| [shanks](http://codebuild.me/) | 5 |
-| [Cee](https://github.com/Cee) | 5 |
+| [walkingway](http://chengway.in/) | 5 |
 | [Prayer](http://www.futantan.com) | 5 |
+| [Cee](https://github.com/Cee) | 5 |
+| [shanks](http://codebuild.me/) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 5 |
 | [CMB](https://github.com/chenmingbiao) | 5 |
-| [walkingway](http://chengway.in/) | 4 |
 | [Lanford3_3](http://lanfordcai.github.io) | 4 |
 | [JackAlan](http://ijack.pw/) | 3 |
 | [littledogboy](undefined) | 3 |
@@ -94,7 +94,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 74 |
-| [Cee](https://github.com/Cee) | 26 |
+| [Cee](https://github.com/Cee) | 27 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 23 |
 | [小锅](http://www.swiftyper.com) | 10 |
@@ -120,7 +120,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 61 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 39 |
 | [shanks](http://codebuild.me/) | 37 |
-| [小锅](http://www.swiftyper.com) | 22 |
+| [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 19 |
 | [Channe](undefined) | 3 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |

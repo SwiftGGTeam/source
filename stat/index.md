@@ -11,7 +11,7 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 148792 |
 | [小铁匠Linus](http://linusling.com) | 138496 |
-| [小锅](http://www.swiftyper.com) | 106261 |
+| [小锅](http://www.swiftyper.com) | 111384 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93780 |
 | [Prayer](http://www.futantan.com) | 68427 |
@@ -55,8 +55,8 @@
 | [小铁匠Linus](http://linusling.com) | 18 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13 |
 | [小袋子](http://daizi.me) | 12 |
+| [小锅](http://www.swiftyper.com) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
-| [小锅](http://www.swiftyper.com) | 11 |
 | [靛青K](http://blog.dianqk.org/) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [saitjr](http://www.saitjr.com) | 7 |
@@ -98,8 +98,8 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 23 |
 | [小锅](http://www.swiftyper.com) | 10 |
+| [Channe](undefined) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
-| [Channe](undefined) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [Prayer](http://www.futantan.com) | 4 |
 | [saitjr](http://www.saitjr.com) | 3 |
@@ -117,7 +117,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 61 |
+| [numbbbbb](http://numbbbbb.com/) | 62 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 39 |
 | [shanks](http://codebuild.me/) | 37 |
 | [小锅](http://www.swiftyper.com) | 23 |

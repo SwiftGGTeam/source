@@ -18,7 +18,7 @@
 | [靛青K](http://blog.dianqk.org/) | 63298 |
 | [CMB](https://github.com/chenmingbiao) | 56818 |
 | [saitjr](http://www.saitjr.com) | 53414 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 51246 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
 | [Cee](https://github.com/Cee) | 48590 |
 | [Yake](http://blog.csdn.net/yake_099) | 46977 |
 | [shanks](http://codebuild.me/) | 42391 |
@@ -62,25 +62,25 @@
 | [saitjr](http://www.saitjr.com) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 6 |
-| [walkingway](http://chengway.in/) | 5 |
-| [Prayer](http://www.futantan.com) | 5 |
-| [Cee](https://github.com/Cee) | 5 |
 | [shanks](http://codebuild.me/) | 5 |
+| [walkingway](http://chengway.in/) | 5 |
+| [Cee](https://github.com/Cee) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 5 |
+| [Prayer](http://www.futantan.com) | 5 |
 | [CMB](https://github.com/chenmingbiao) | 5 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [Lanford3_3](http://lanfordcai.github.io) | 4 |
 | [JackAlan](http://ijack.pw/) | 3 |
-| [littledogboy](undefined) | 3 |
 | [Channe](undefined) | 3 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [DianQK](undefined) | 3 |
+| [littledogboy](undefined) | 3 |
 | [bestswifter](http://bestswifter.com) | 3 |
 | [CoderAFI](http://coderafi.github.io/) | 3 |
 | [ahfepj](undefined) | 2 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [zltunes](http://zltunes.com) | 2 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
@@ -93,7 +93,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 74 |
+| [numbbbbb](http://numbbbbb.com/) | 75 |
 | [Cee](https://github.com/Cee) | 27 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 23 |
@@ -118,7 +118,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 62 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 39 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 40 |
 | [shanks](http://codebuild.me/) | 37 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 19 |

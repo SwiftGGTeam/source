@@ -25,7 +25,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [小袋子](http://daizi.me) | 34937 |
-| [walkingway](http://chengway.in/) | 29043 |
+| [walkingway](http://chengway.in/) | 29040 |
 | [bestswifter](http://bestswifter.com) | 25230 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [riven](http://weibo.com/riven0951) | 17187 |

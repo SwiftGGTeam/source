@@ -25,7 +25,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [小袋子](http://daizi.me) | 34937 |
-| [walkingway](http://chengway.in/) | 29040 |
+| [walkingway](http://chengway.in/) | 33824 |
 | [bestswifter](http://bestswifter.com) | 25230 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [riven](http://weibo.com/riven0951) | 17187 |
@@ -59,8 +59,8 @@
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [靛青K](http://blog.dianqk.org/) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
+| [walkingway](http://chengway.in/) | 7 |
 | [saitjr](http://www.saitjr.com) | 7 |
-| [walkingway](http://chengway.in/) | 6 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
@@ -97,7 +97,7 @@
 | [Cee](https://github.com/Cee) | 27 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 23 |
-| [小锅](http://www.swiftyper.com) | 11 |
+| [小锅](http://www.swiftyper.com) | 12 |
 | [Channe](undefined) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
@@ -117,7 +117,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 62 |
+| [numbbbbb](http://numbbbbb.com/) | 63 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 40 |
 | [shanks](http://codebuild.me/) | 39 |
 | [小锅](http://www.swiftyper.com) | 23 |

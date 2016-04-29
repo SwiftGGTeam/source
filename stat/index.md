@@ -9,8 +9,8 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [小铁匠Linus](http://linusling.com) | 150323 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 148792 |
-| [小铁匠Linus](http://linusling.com) | 138496 |
 | [小锅](http://www.swiftyper.com) | 115770 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93780 |
@@ -52,7 +52,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 28 |
-| [小铁匠Linus](http://linusling.com) | 18 |
+| [小铁匠Linus](http://linusling.com) | 19 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13 |
 | [小锅](http://www.swiftyper.com) | 13 |
 | [小袋子](http://daizi.me) | 12 |
@@ -110,6 +110,7 @@
 | [littledogboy](undefined) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [100mango](undefined) | 1 |
+| [walkingway](http://chengway.in/) | 1 |
 | [小袋子](http://daizi.me) | 1 |
 
 
@@ -118,8 +119,8 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 63 |
+| [shanks](http://codebuild.me/) | 40 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 40 |
-| [shanks](http://codebuild.me/) | 39 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 19 |
 | [Channe](undefined) | 3 |

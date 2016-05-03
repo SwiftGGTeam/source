@@ -40,11 +40,11 @@
 | [DianQK](undefined) | 8333 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [pucca601](http://weibo.com/601pucca) | 6547 |
+| [zltunes](http://zltunes.com) | 6094 |
 | [ray](undefined) | 6021 |
 | [Channe](undefined) | 5557 |
 | [ahfepj](undefined) | 5184 |
 | [littledogboy](undefined) | 4859 |
-| [zltunes](http://zltunes.com) | 4818 |
 
 
 # 翻译篇数统计
@@ -77,12 +77,12 @@
 | [littledogboy](undefined) | 3 |
 | [bestswifter](http://bestswifter.com) | 3 |
 | [CoderAFI](http://coderafi.github.io/) | 3 |
-| [ahfepj](undefined) | 2 |
+| [zltunes](http://zltunes.com) | 3 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [zltunes](http://zltunes.com) | 2 |
+| [ahfepj](undefined) | 2 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ray](undefined) | 1 |
@@ -93,7 +93,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 75 |
+| [numbbbbb](http://numbbbbb.com/) | 76 |
 | [Cee](https://github.com/Cee) | 27 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 23 |
@@ -118,7 +118,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 63 |
+| [numbbbbb](http://numbbbbb.com/) | 64 |
 | [shanks](http://codebuild.me/) | 40 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 40 |
 | [小锅](http://www.swiftyper.com) | 23 |

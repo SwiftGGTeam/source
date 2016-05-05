@@ -21,11 +21,11 @@
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
 | [Cee](https://github.com/Cee) | 48590 |
 | [Yake](http://blog.csdn.net/yake_099) | 46977 |
+| [walkingway](http://chengway.in/) | 42406 |
 | [shanks](http://codebuild.me/) | 42391 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [小袋子](http://daizi.me) | 34937 |
-| [walkingway](http://chengway.in/) | 33824 |
 | [bestswifter](http://bestswifter.com) | 25230 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [riven](http://weibo.com/riven0951) | 17187 |
@@ -57,9 +57,9 @@
 | [小锅](http://www.swiftyper.com) | 13 |
 | [小袋子](http://daizi.me) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
+| [walkingway](http://chengway.in/) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
-| [walkingway](http://chengway.in/) | 7 |
 | [saitjr](http://www.saitjr.com) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 6 |
@@ -93,7 +93,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 76 |
+| [numbbbbb](http://numbbbbb.com/) | 77 |
 | [Cee](https://github.com/Cee) | 27 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [shanks](http://codebuild.me/) | 23 |
@@ -118,7 +118,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 65 |
+| [numbbbbb](http://numbbbbb.com/) | 66 |
 | [shanks](http://codebuild.me/) | 40 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 40 |
 | [小锅](http://www.swiftyper.com) | 23 |

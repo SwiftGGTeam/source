@@ -14,7 +14,7 @@
 | [小锅](http://www.swiftyper.com) | 115770 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93780 |
-| [Prayer](http://www.futantan.com) | 68427 |
+| [Prayer](http://www.futantan.com) | 70328 |
 | [靛青K](http://blog.dianqk.org/) | 63298 |
 | [CMB](https://github.com/chenmingbiao) | 56818 |
 | [saitjr](http://www.saitjr.com) | 53414 |
@@ -59,11 +59,11 @@
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [walkingway](http://chengway.in/) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 8 |
-| [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [saitjr](http://www.saitjr.com) | 7 |
+| [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
+| [Prayer](http://www.futantan.com) | 6 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 6 |
-| [Prayer](http://www.futantan.com) | 5 |
 | [shanks](http://codebuild.me/) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 5 |
@@ -96,7 +96,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 77 |
 | [Cee](https://github.com/Cee) | 27 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
-| [shanks](http://codebuild.me/) | 23 |
+| [shanks](http://codebuild.me/) | 24 |
 | [小锅](http://www.swiftyper.com) | 12 |
 | [Channe](undefined) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
@@ -119,8 +119,8 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 66 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 41 |
 | [shanks](http://codebuild.me/) | 40 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 40 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 19 |
 | [Channe](undefined) | 3 |

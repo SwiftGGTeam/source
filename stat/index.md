@@ -45,7 +45,7 @@
 | [Channe](undefined) | 5557 |
 | [ahfepj](undefined) | 5184 |
 | [littledogboy](undefined) | 4859 |
-| [way](undefined) | 1205 |
+| [way](undefined) | 1194 |
 
 
 # 翻译篇数统计

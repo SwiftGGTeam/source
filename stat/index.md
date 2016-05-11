@@ -34,13 +34,13 @@
 | [Lanford3_3](http://lanfordcai.github.io) | 14226 |
 | [CoderAFI](http://coderafi.github.io/) | 13741 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
+| [zltunes](http://zltunes.com) | 12244 |
 | [Lou](undefined) | 9554 |
 | [天才175](http://weibo.com/u/2916092907) | 9480 |
 | [JackAlan](http://ijack.pw/) | 8645 |
 | [DianQK](undefined) | 8333 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [pucca601](http://weibo.com/601pucca) | 6547 |
-| [zltunes](http://zltunes.com) | 6094 |
 | [ray](undefined) | 6021 |
 | [Channe](undefined) | 5557 |
 | [ahfepj](undefined) | 5184 |
@@ -62,23 +62,23 @@
 | [靛青K](http://blog.dianqk.org/) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [saitjr](http://www.saitjr.com) | 7 |
-| [Yake](http://blog.csdn.net/yake_099) | 6 |
-| [CMB](https://github.com/chenmingbiao) | 6 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 6 |
 | [Prayer](http://www.futantan.com) | 6 |
-| [SergioChan](https://github.com/SergioChan) | 5 |
+| [CMB](https://github.com/chenmingbiao) | 6 |
+| [Yake](http://blog.csdn.net/yake_099) | 6 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 6 |
 | [天才175](http://weibo.com/u/2916092907) | 5 |
-| [Cee](https://github.com/Cee) | 5 |
 | [shanks](http://codebuild.me/) | 5 |
-| [Lanford3_3](http://lanfordcai.github.io) | 4 |
+| [SergioChan](https://github.com/SergioChan) | 5 |
+| [Cee](https://github.com/Cee) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
-| [DianQK](undefined) | 3 |
+| [zltunes](http://zltunes.com) | 4 |
+| [Lanford3_3](http://lanfordcai.github.io) | 4 |
 | [littledogboy](undefined) | 3 |
 | [Channe](undefined) | 3 |
-| [zltunes](http://zltunes.com) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
-| [bestswifter](http://bestswifter.com) | 3 |
 | [CoderAFI](http://coderafi.github.io/) | 3 |
+| [bestswifter](http://bestswifter.com) | 3 |
+| [DianQK](undefined) | 3 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
 | [ahfepj](undefined) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
@@ -96,7 +96,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 77 |
-| [Cee](https://github.com/Cee) | 27 |
+| [Cee](https://github.com/Cee) | 28 |
 | [shanks](http://codebuild.me/) | 25 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [小锅](http://www.swiftyper.com) | 12 |
@@ -122,7 +122,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 66 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 43 |
-| [shanks](http://codebuild.me/) | 40 |
+| [shanks](http://codebuild.me/) | 41 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 19 |
 | [Channe](undefined) | 3 |

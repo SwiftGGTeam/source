@@ -28,9 +28,9 @@
 | [小袋子](http://daizi.me) | 34937 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
 | [bestswifter](http://bestswifter.com) | 25230 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 22429 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [riven](http://weibo.com/riven0951) | 17187 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 14777 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 14378 |
 | [Lanford3_3](http://lanfordcai.github.io) | 14226 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
@@ -61,10 +61,10 @@
 | [walkingway](http://chengway.in/) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 8 |
 | [saitjr](http://www.saitjr.com) | 7 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
 | [Prayer](http://www.futantan.com) | 6 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 6 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [Cee](https://github.com/Cee) | 5 |
@@ -95,7 +95,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 77 |
+| [numbbbbb](http://numbbbbb.com/) | 78 |
 | [Cee](https://github.com/Cee) | 29 |
 | [shanks](http://codebuild.me/) | 25 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
@@ -124,7 +124,7 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 43 |
 | [shanks](http://codebuild.me/) | 41 |
 | [小锅](http://www.swiftyper.com) | 23 |
-| [Cee](https://github.com/Cee) | 19 |
+| [Cee](https://github.com/Cee) | 20 |
 | [Channe](undefined) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |

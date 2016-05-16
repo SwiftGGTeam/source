@@ -26,8 +26,8 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [小袋子](http://daizi.me) | 34937 |
+| [bestswifter](http://bestswifter.com) | 34293 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
-| [bestswifter](http://bestswifter.com) | 25230 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 22429 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [riven](http://weibo.com/riven0951) | 17187 |
@@ -74,11 +74,11 @@
 | [zltunes](http://zltunes.com) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [Lanford3_3](http://lanfordcai.github.io) | 4 |
-| [Channe](undefined) | 3 |
+| [bestswifter](http://bestswifter.com) | 4 |
 | [DianQK](undefined) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
-| [bestswifter](http://bestswifter.com) | 3 |
 | [littledogboy](undefined) | 3 |
+| [Channe](undefined) | 3 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
 | [ahfepj](undefined) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
@@ -103,17 +103,18 @@
 | [Channe](undefined) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
-| [saitjr](http://www.saitjr.com) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
-| [小铁匠Linus](http://linusling.com) | 3 |
+| [saitjr](http://www.saitjr.com) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
+| [小铁匠Linus](http://linusling.com) | 3 |
 | [靛青K](http://blog.dianqk.org/) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
 | [walkingway](http://chengway.in/) | 2 |
-| [100mango](undefined) | 1 |
-| [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [小袋子](http://daizi.me) | 1 |
+| [100mango](undefined) | 1 |
+| [shanksyang](undefined) | 1 |
+| [Yake](http://blog.csdn.net/yake_099) | 1 |
 
 
 # 定稿篇数统计
@@ -125,7 +126,7 @@
 | [shanks](http://codebuild.me/) | 41 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 20 |
-| [Channe](undefined) | 4 |
+| [Channe](undefined) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |

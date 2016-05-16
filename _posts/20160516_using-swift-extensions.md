@@ -8,7 +8,7 @@ custom_title: Swift Extension 怎么用
 description: 在 Swift 中使用 Extension 可以提高代码可读性，比如本文中很多不是为 Extension 设计的场景也能很好的使用 Extension。
 ---
 > 作者：Natasha，[原文链接](https://www.natashatherobot.com/using-swift-extensions/)，原文日期：2016-03-29
-> 译者：[bestswifter](http://bestswifter.com)；校对：[shanksyang](undefined)；定稿：[Channe](undefined)
+> 译者：[bestswifter](http://bestswifter.com)；校对：[shanks](http://codebuild.me/)；定稿：[Channe](undefined)
   
 
 
@@ -173,7 +173,7 @@ private extension AppDelegate {
 ```swift
 extension TodoListViewController {
     
-    // called in init
+    // 初始化时候调用
     func addNotificationObservers() {
         NSNotificationCenter.defaultCenter().addObserver(self, selector: Selector("onViewModelUpdate:"), name: TodoItemViewModel.viewModelViewUpdatedNotification, object: nil)
         NSNotificationCenter.defaultCenter().addObserver(self, selector: Selector("onTodoItemUpdate:"), name: TodoItemDelegate.todoItemUpdatedNotification, object: nil)
@@ -231,7 +231,7 @@ extension TodoItemViewModel: ImageWithTextCellDataSource {
 这种方法同样非常适用于分割 UITableViewDataSource 和 UITableViewDelegate 的代码：
 
 ```swift
-// MARK: Table View Data Source
+// MARK: 表格视图数据源
 extension TodoListViewController: UITableViewDataSource {
     
     func numberOfSectionsInTableView(tableView: UITableView) -> Int {
@@ -250,15 +250,15 @@ extension TodoListViewController: UITableViewDataSource {
     }
 }
 
-// MARK: Table View Delegate
+// MARK: 表格视图代理
 extension TodoListViewController: UITableViewDelegate {
     
-    // MARK: Cell Selection
+    // MARK: 响应列选择
     func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
         performSegueWithIdentifier(todoItemSegueIdentifier, sender: self)
     }
     
-    // MARK: Section Header Configuration
+    // MARK: 头部视图填充
     func tableView(tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
         if dataSource.sections[section] == TodoListDataSource.Section.DoneItems {
             let view = UIView()
@@ -276,7 +276,7 @@ extension TodoListViewController: UITableViewDelegate {
         return 0.0
     }
     
-    // MARK: Deleting Action
+    // MARK: 删除操作处理
     func tableView(tableView: UITableView, canEditRowAtIndexPath indexPath: NSIndexPath) -> Bool {
         return true
     }
@@ -336,12 +336,12 @@ extension User {
         
         let nameComponents = name.componentsSeparatedByCharactersInSet(.whitespaceAndNewlineCharacterSet())
         
-        // Get first letter of the first word
+        // 得到第一个单词的第一个字母
         if let firstName = nameComponents.first, let firstCharacter = firstName.characters.first {
             initials.append(firstCharacter)
         }
         
-        // Get first letter of the last word
+        // 得到最后一个单词的第一个字母
         if nameComponents.count > 1 {
             if let lastName = nameComponents.last, let firstCharacter = lastName.characters.first {
                 initials.append(firstCharacter)

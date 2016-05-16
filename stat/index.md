@@ -26,7 +26,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [小袋子](http://daizi.me) | 34937 |
-| [bestswifter](http://bestswifter.com) | 34293 |
+| [bestswifter](http://bestswifter.com) | 34197 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 22429 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
@@ -97,24 +97,23 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 78 |
 | [Cee](https://github.com/Cee) | 29 |
-| [shanks](http://codebuild.me/) | 25 |
+| [shanks](http://codebuild.me/) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [小锅](http://www.swiftyper.com) | 12 |
 | [Channe](undefined) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
-| [Prayer](http://www.futantan.com) | 4 |
 | [saitjr](http://www.saitjr.com) | 4 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
+| [Prayer](http://www.futantan.com) | 4 |
 | [小铁匠Linus](http://linusling.com) | 3 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [靛青K](http://blog.dianqk.org/) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
 | [walkingway](http://chengway.in/) | 2 |
-| [小袋子](http://daizi.me) | 1 |
 | [100mango](undefined) | 1 |
-| [shanksyang](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
+| [小袋子](http://daizi.me) | 1 |
 
 
 # 定稿篇数统计

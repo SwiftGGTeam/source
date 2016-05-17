@@ -21,6 +21,7 @@
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
 | [Cee](https://github.com/Cee) | 48590 |
 | [Yake](http://blog.csdn.net/yake_099) | 46977 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 46232 |
 | [shanks](http://codebuild.me/) | 42391 |
 | [walkingway](http://chengway.in/) | 42346 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
@@ -28,7 +29,6 @@
 | [小袋子](http://daizi.me) | 34937 |
 | [bestswifter](http://bestswifter.com) | 34197 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 22429 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [riven](http://weibo.com/riven0951) | 17187 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 14378 |
@@ -59,19 +59,19 @@
 | [小袋子](http://daizi.me) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [walkingway](http://chengway.in/) | 8 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 8 |
-| [saitjr](http://www.saitjr.com) | 7 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
-| [CMB](https://github.com/chenmingbiao) | 6 |
+| [saitjr](http://www.saitjr.com) | 7 |
 | [Prayer](http://www.futantan.com) | 6 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
+| [CMB](https://github.com/chenmingbiao) | 6 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
+| [天才175](http://weibo.com/u/2916092907) | 5 |
 | [Cee](https://github.com/Cee) | 5 |
 | [shanks](http://codebuild.me/) | 5 |
-| [天才175](http://weibo.com/u/2916092907) | 5 |
-| [CoderAFI](http://coderafi.github.io/) | 4 |
 | [zltunes](http://zltunes.com) | 4 |
+| [CoderAFI](http://coderafi.github.io/) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [Lanford3_3](http://lanfordcai.github.io) | 4 |
 | [bestswifter](http://bestswifter.com) | 4 |
@@ -95,7 +95,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 78 |
+| [numbbbbb](http://numbbbbb.com/) | 79 |
 | [Cee](https://github.com/Cee) | 29 |
 | [shanks](http://codebuild.me/) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
@@ -122,7 +122,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 66 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 43 |
-| [shanks](http://codebuild.me/) | 41 |
+| [shanks](http://codebuild.me/) | 42 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 20 |
 | [Channe](undefined) | 5 |

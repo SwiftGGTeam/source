@@ -19,9 +19,9 @@
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [saitjr](http://www.saitjr.com) | 53414 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 50430 |
 | [Cee](https://github.com/Cee) | 48590 |
 | [Yake](http://blog.csdn.net/yake_099) | 46977 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 46232 |
 | [shanks](http://codebuild.me/) | 42391 |
 | [walkingway](http://chengway.in/) | 42346 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
@@ -58,9 +58,9 @@
 | [小锅](http://www.swiftyper.com) | 13 |
 | [小袋子](http://daizi.me) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
-| [walkingway](http://chengway.in/) | 8 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 8 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 9 |
 | [靛青K](http://blog.dianqk.org/) | 8 |
+| [walkingway](http://chengway.in/) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [saitjr](http://www.saitjr.com) | 7 |
 | [Prayer](http://www.futantan.com) | 6 |
@@ -95,7 +95,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 79 |
+| [numbbbbb](http://numbbbbb.com/) | 80 |
 | [Cee](https://github.com/Cee) | 29 |
 | [shanks](http://codebuild.me/) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
@@ -121,7 +121,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 66 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 43 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 44 |
 | [shanks](http://codebuild.me/) | 42 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 20 |

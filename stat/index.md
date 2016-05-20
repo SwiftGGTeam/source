@@ -38,9 +38,9 @@
 | [Lou](undefined) | 9554 |
 | [天才175](http://weibo.com/u/2916092907) | 9480 |
 | [JackAlan](http://ijack.pw/) | 8645 |
+| [pucca601](http://weibo.com/601pucca) | 8642 |
 | [DianQK](undefined) | 8333 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
-| [pucca601](http://weibo.com/601pucca) | 6547 |
 | [ray](undefined) | 6021 |
 | [Channe](undefined) | 5557 |
 | [ahfepj](undefined) | 5184 |
@@ -81,12 +81,12 @@
 | [Channe](undefined) | 3 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
 | [ahfepj](undefined) | 2 |
+| [pucca601](http://weibo.com/601pucca) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [Lou](undefined) | 1 |
-| [pucca601](http://weibo.com/601pucca) | 1 |
 | [ray](undefined) | 1 |
 | [way](undefined) | 1 |
 
@@ -105,8 +105,8 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [saitjr](http://www.saitjr.com) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [小铁匠Linus](http://linusling.com) | 3 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [靛青K](http://blog.dianqk.org/) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
@@ -121,7 +121,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 66 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 44 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 45 |
 | [shanks](http://codebuild.me/) | 42 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 20 |

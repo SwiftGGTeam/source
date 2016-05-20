@@ -38,7 +38,7 @@
 | [Lou](undefined) | 9554 |
 | [天才175](http://weibo.com/u/2916092907) | 9480 |
 | [JackAlan](http://ijack.pw/) | 8645 |
-| [pucca601](http://weibo.com/601pucca) | 8642 |
+| [pucca601](http://weibo.com/601pucca) | 8631 |
 | [DianQK](undefined) | 8333 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |

@@ -24,9 +24,9 @@
 | [Yake](http://blog.csdn.net/yake_099) | 46977 |
 | [shanks](http://codebuild.me/) | 42391 |
 | [walkingway](http://chengway.in/) | 42346 |
+| [小袋子](http://daizi.me) | 40180 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
-| [小袋子](http://daizi.me) | 34937 |
 | [bestswifter](http://bestswifter.com) | 34197 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
@@ -55,8 +55,8 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 28 |
 | [小铁匠Linus](http://linusling.com) | 19 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13 |
+| [小袋子](http://daizi.me) | 13 |
 | [小锅](http://www.swiftyper.com) | 13 |
-| [小袋子](http://daizi.me) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 10 |
 | [靛青K](http://blog.dianqk.org/) | 8 |
@@ -103,24 +103,25 @@
 | [Channe](undefined) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
-| [saitjr](http://www.saitjr.com) | 4 |
 | [Prayer](http://www.futantan.com) | 4 |
+| [saitjr](http://www.saitjr.com) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [小铁匠Linus](http://linusling.com) | 3 |
 | [靛青K](http://blog.dianqk.org/) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
 | [walkingway](http://chengway.in/) | 2 |
-| [100mango](undefined) | 1 |
-| [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [小袋子](http://daizi.me) | 1 |
+| [100mango](undefined) | 1 |
+| [mmoaay](http://mmoaay.photo/) | 1 |
+| [Yake](http://blog.csdn.net/yake_099) | 1 |
 
 
 # 定稿篇数统计
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 66 |
+| [numbbbbb](http://numbbbbb.com/) | 67 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 45 |
 | [shanks](http://codebuild.me/) | 42 |
 | [小锅](http://www.swiftyper.com) | 23 |

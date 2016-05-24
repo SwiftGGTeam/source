@@ -16,9 +16,9 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93780 |
 | [Prayer](http://www.futantan.com) | 70328 |
 | [靛青K](http://blog.dianqk.org/) | 63298 |
+| [saitjr](http://www.saitjr.com) | 59011 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 58452 |
-| [saitjr](http://www.saitjr.com) | 53414 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
 | [Cee](https://github.com/Cee) | 48590 |
 | [Yake](http://blog.csdn.net/yake_099) | 46977 |
@@ -61,19 +61,19 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 10 |
 | [靛青K](http://blog.dianqk.org/) | 8 |
 | [walkingway](http://chengway.in/) | 8 |
+| [saitjr](http://www.saitjr.com) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
-| [saitjr](http://www.saitjr.com) | 7 |
-| [Prayer](http://www.futantan.com) | 6 |
 | [Yake](http://blog.csdn.net/yake_099) | 6 |
+| [Prayer](http://www.futantan.com) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 5 |
 | [Cee](https://github.com/Cee) | 5 |
 | [shanks](http://codebuild.me/) | 5 |
-| [zltunes](http://zltunes.com) | 4 |
+| [Lanford3_3](http://lanfordcai.github.io) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
-| [Lanford3_3](http://lanfordcai.github.io) | 4 |
+| [zltunes](http://zltunes.com) | 4 |
 | [bestswifter](http://bestswifter.com) | 4 |
 | [DianQK](undefined) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
@@ -107,7 +107,7 @@
 | [saitjr](http://www.saitjr.com) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [小铁匠Linus](http://linusling.com) | 3 |
-| [靛青K](http://blog.dianqk.org/) | 2 |
+| [靛青K](http://blog.dianqk.org/) | 3 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
 | [walkingway](http://chengway.in/) | 2 |
@@ -121,7 +121,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 67 |
+| [numbbbbb](http://numbbbbb.com/) | 68 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 45 |
 | [shanks](http://codebuild.me/) | 42 |
 | [小锅](http://www.swiftyper.com) | 23 |

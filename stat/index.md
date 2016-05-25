@@ -19,9 +19,9 @@
 | [saitjr](http://www.saitjr.com) | 59011 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 58452 |
+| [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
 | [Cee](https://github.com/Cee) | 48590 |
-| [Yake](http://blog.csdn.net/yake_099) | 46977 |
 | [shanks](http://codebuild.me/) | 42391 |
 | [walkingway](http://chengway.in/) | 42346 |
 | [小袋子](http://daizi.me) | 40180 |
@@ -63,18 +63,18 @@
 | [walkingway](http://chengway.in/) | 8 |
 | [saitjr](http://www.saitjr.com) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
-| [Yake](http://blog.csdn.net/yake_099) | 6 |
-| [Prayer](http://www.futantan.com) | 6 |
+| [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
+| [Prayer](http://www.futantan.com) | 6 |
+| [shanks](http://codebuild.me/) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 5 |
 | [Cee](https://github.com/Cee) | 5 |
-| [shanks](http://codebuild.me/) | 5 |
 | [Lanford3_3](http://lanfordcai.github.io) | 4 |
-| [CoderAFI](http://coderafi.github.io/) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [zltunes](http://zltunes.com) | 4 |
 | [bestswifter](http://bestswifter.com) | 4 |
+| [CoderAFI](http://coderafi.github.io/) | 4 |
 | [DianQK](undefined) | 3 |
 | [JackAlan](http://ijack.pw/) | 3 |
 | [littledogboy](undefined) | 3 |
@@ -95,7 +95,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 81 |
+| [numbbbbb](http://numbbbbb.com/) | 82 |
 | [Cee](https://github.com/Cee) | 29 |
 | [shanks](http://codebuild.me/) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
@@ -123,7 +123,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 68 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 45 |
-| [shanks](http://codebuild.me/) | 42 |
+| [shanks](http://codebuild.me/) | 43 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 20 |
 | [Channe](undefined) | 6 |

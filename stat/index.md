@@ -9,14 +9,36 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 43675 |
+| [CoderAFI](http://coderafi.github.io/) | 16971 |
+| [bestswifter](http://bestswifter.com) | 8967 |
+| [walkingway](http://chengway.in/) | 8522 |
+| [Yake](http://blog.csdn.net/yake_099) | 7189 |
+| [小袋子](http://daizi.me) | 5243 |
+| [zltunes](http://zltunes.com) | 4466 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2330 |
+| [pucca601](http://weibo.com/601pucca) | 2084 |
+| [Prayer](http://www.futantan.com) | 1901 |
+| [CMB](https://github.com/chenmingbiao) | 1639 |
+| [way](undefined) | 1194 |
 
 
 # 2016 年 5 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4 |
+| [zltunes](http://zltunes.com) | 2 |
+| [walkingway](http://chengway.in/) | 1 |
+| [Prayer](http://www.futantan.com) | 1 |
+| [CMB](https://github.com/chenmingbiao) | 1 |
+| [way](undefined) | 1 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
+| [CoderAFI](http://coderafi.github.io/) | 1 |
+| [bestswifter](http://bestswifter.com) | 1 |
+| [pucca601](http://weibo.com/601pucca) | 1 |
+| [小袋子](http://daizi.me) | 1 |
+| [Yake](http://blog.csdn.net/yake_099) | 1 |
 
 
 # 翻译字数统计

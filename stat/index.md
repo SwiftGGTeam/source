@@ -16,7 +16,7 @@
 | [bestswifter](http://bestswifter.com) | 8967 |
 | [walkingway](http://chengway.in/) | 8522 |
 | [Yake](http://blog.csdn.net/yake_099) | 7189 |
-| [靛青K](http://blog.dianqk.org/) | 6434 |
+| [靛青K](http://blog.dianqk.org/) | 6432 |
 | [saitjr](http://www.saitjr.com) | 5597 |
 | [小袋子](http://daizi.me) | 5243 |
 | [pucca601](http://weibo.com/601pucca) | 2084 |
@@ -55,7 +55,7 @@
 | [mmoaay](http://mmoaay.photo/) | 95837 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93780 |
 | [Prayer](http://www.futantan.com) | 70328 |
-| [靛青K](http://blog.dianqk.org/) | 69732 |
+| [靛青K](http://blog.dianqk.org/) | 69730 |
 | [saitjr](http://www.saitjr.com) | 59011 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 58452 |

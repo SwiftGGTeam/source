@@ -5,46 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2016 年 5 月字数排行
+# 2016 年 6 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 43675 |
-| [CoderAFI](http://coderafi.github.io/) | 16971 |
-| [zltunes](http://zltunes.com) | 10621 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 9026 |
-| [bestswifter](http://bestswifter.com) | 8967 |
-| [walkingway](http://chengway.in/) | 8522 |
-| [Yake](http://blog.csdn.net/yake_099) | 7189 |
-| [靛青K](http://blog.dianqk.org/) | 6432 |
-| [saitjr](http://www.saitjr.com) | 5597 |
-| [小袋子](http://daizi.me) | 5243 |
-| [pucca601](http://weibo.com/601pucca) | 2084 |
-| [Prayer](http://www.futantan.com) | 1901 |
-| [CMB](https://github.com/chenmingbiao) | 1639 |
-| [way](undefined) | 1194 |
-| [JackAlan](http://ijack.pw/) | 1172 |
+| [Lanford3_3](http://lanfordcai.github.io) | 5331 |
 
 
-# 2016 年 5 月篇数排行
+# 2016 年 6 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4 |
-| [zltunes](http://zltunes.com) | 3 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
-| [Prayer](http://www.futantan.com) | 1 |
-| [CMB](https://github.com/chenmingbiao) | 1 |
-| [way](undefined) | 1 |
-| [JackAlan](http://ijack.pw/) | 1 |
-| [walkingway](http://chengway.in/) | 1 |
-| [bestswifter](http://bestswifter.com) | 1 |
-| [pucca601](http://weibo.com/601pucca) | 1 |
-| [小袋子](http://daizi.me) | 1 |
-| [saitjr](http://www.saitjr.com) | 1 |
-| [Yake](http://blog.csdn.net/yake_099) | 1 |
-| [靛青K](http://blog.dianqk.org/) | 1 |
-| [CoderAFI](http://coderafi.github.io/) | 1 |
+| [Lanford3_3](http://lanfordcai.github.io) | 1 |
 
 
 # 翻译字数统计
@@ -73,9 +45,9 @@
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
+| [Lanford3_3](http://lanfordcai.github.io) | 19557 |
 | [riven](http://weibo.com/riven0951) | 17187 |
 | [zltunes](http://zltunes.com) | 15439 |
-| [Lanford3_3](http://lanfordcai.github.io) | 14226 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [JackAlan](http://ijack.pw/) | 9817 |
 | [Lou](undefined) | 9554 |
@@ -96,9 +68,9 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 28 |
 | [小铁匠Linus](http://linusling.com) | 19 |
+| [小锅](http://www.swiftyper.com) | 13 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13 |
 | [小袋子](http://daizi.me) | 13 |
-| [小锅](http://www.swiftyper.com) | 13 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 10 |
 | [靛青K](http://blog.dianqk.org/) | 9 |
@@ -106,19 +78,19 @@
 | [saitjr](http://www.saitjr.com) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
-| [Prayer](http://www.futantan.com) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
+| [Prayer](http://www.futantan.com) | 6 |
+| [Lanford3_3](http://lanfordcai.github.io) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [天才175](http://weibo.com/u/2916092907) | 5 |
 | [Cee](https://github.com/Cee) | 5 |
 | [shanks](http://codebuild.me/) | 5 |
-| [bestswifter](http://bestswifter.com) | 4 |
 | [JackAlan](http://ijack.pw/) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
-| [Lanford3_3](http://lanfordcai.github.io) | 4 |
+| [bestswifter](http://bestswifter.com) | 4 |
 | [Channe](undefined) | 3 |
 | [littledogboy](undefined) | 3 |
 | [DianQK](undefined) | 3 |
@@ -137,7 +109,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 83 |
+| [numbbbbb](http://numbbbbb.com/) | 84 |
 | [Cee](https://github.com/Cee) | 29 |
 | [shanks](http://codebuild.me/) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
@@ -168,7 +140,7 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 45 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 20 |
-| [Channe](undefined) | 6 |
+| [Channe](undefined) | 7 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |

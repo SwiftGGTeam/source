@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [Lanford3_3](http://lanfordcai.github.io) | 5331 |
-| [saitjr](http://www.saitjr.com) | 2622 |
+| [saitjr](http://www.saitjr.com) | 2619 |
 
 
 # 2016 年 6 月篇数排行
@@ -32,7 +32,7 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93780 |
 | [Prayer](http://www.futantan.com) | 70328 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |
-| [saitjr](http://www.saitjr.com) | 61633 |
+| [saitjr](http://www.saitjr.com) | 61630 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 58452 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |

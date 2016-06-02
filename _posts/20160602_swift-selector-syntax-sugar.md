@@ -10,7 +10,7 @@ description: 在 Swift 这门很新的语言中有很多不错的编码风格，
 ---
 > 作者：Andyy Hope，[原文链接](https://medium.com/swift-programming/swift-selector-syntax-sugar-81c8a8b10df3#.zc2lzkj76)，原文日期：2016-03-23
 > 译者：[saitjr](http://www.saitjr.com)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[shanks](http://codebuild.me/)
-  ---
+  
 
 
 

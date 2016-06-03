@@ -9,16 +9,16 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [saitjr](http://www.saitjr.com) | 7087 |
 | [Lanford3_3](http://lanfordcai.github.io) | 5331 |
-| [saitjr](http://www.saitjr.com) | 2619 |
 
 
 # 2016 年 6 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
+| [saitjr](http://www.saitjr.com) | 2 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
-| [saitjr](http://www.saitjr.com) | 1 |
 
 
 # 翻译字数统计
@@ -32,7 +32,7 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93780 |
 | [Prayer](http://www.futantan.com) | 70328 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |
-| [saitjr](http://www.saitjr.com) | 61630 |
+| [saitjr](http://www.saitjr.com) | 66098 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 58452 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
@@ -75,8 +75,8 @@
 | [小袋子](http://daizi.me) | 13 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 10 |
+| [saitjr](http://www.saitjr.com) | 10 |
 | [靛青K](http://blog.dianqk.org/) | 9 |
-| [saitjr](http://www.saitjr.com) | 9 |
 | [walkingway](http://chengway.in/) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
@@ -116,7 +116,7 @@
 | [shanks](http://codebuild.me/) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [小锅](http://www.swiftyper.com) | 12 |
-| [Channe](undefined) | 10 |
+| [Channe](undefined) | 11 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [Prayer](http://www.futantan.com) | 4 |
@@ -146,10 +146,10 @@
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |
-| [way](undefined) | 1 |
+| [CMB](https://github.com/chenmingbiao) | 2 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |
 | [saitjr](http://www.saitjr.com) | 1 |
-| [CMB](https://github.com/chenmingbiao) | 1 |
+| [way](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |
 | [天才175](http://weibo.com/u/2916092907) | 1 |

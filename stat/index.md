@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [saitjr](http://www.saitjr.com) | 7087 |
+| [walkingway](http://chengway.in/) | 6088 |
 | [Lanford3_3](http://lanfordcai.github.io) | 5331 |
 
 
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [saitjr](http://www.saitjr.com) | 2 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
+| [walkingway](http://chengway.in/) | 1 |
 
 
 # 翻译字数统计
@@ -38,8 +40,8 @@
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
 | [Cee](https://github.com/Cee) | 48590 |
+| [walkingway](http://chengway.in/) | 48434 |
 | [shanks](http://codebuild.me/) | 42391 |
-| [walkingway](http://chengway.in/) | 42346 |
 | [小袋子](http://daizi.me) | 40180 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
@@ -77,7 +79,7 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 10 |
 | [saitjr](http://www.saitjr.com) | 10 |
 | [靛青K](http://blog.dianqk.org/) | 9 |
-| [walkingway](http://chengway.in/) | 8 |
+| [walkingway](http://chengway.in/) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
@@ -112,7 +114,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 85 |
-| [Cee](https://github.com/Cee) | 29 |
+| [Cee](https://github.com/Cee) | 30 |
 | [shanks](http://codebuild.me/) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [小锅](http://www.swiftyper.com) | 12 |
@@ -137,7 +139,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 68 |
+| [numbbbbb](http://numbbbbb.com/) | 69 |
 | [shanks](http://codebuild.me/) | 48 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 45 |
 | [小锅](http://www.swiftyper.com) | 23 |

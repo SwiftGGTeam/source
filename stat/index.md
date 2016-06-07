@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [saitjr](http://www.saitjr.com) | 7087 |
+| [saitjr](http://www.saitjr.com) | 8368 |
 | [walkingway](http://chengway.in/) | 6088 |
 | [Lanford3_3](http://lanfordcai.github.io) | 5331 |
 
@@ -18,7 +18,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [saitjr](http://www.saitjr.com) | 2 |
+| [saitjr](http://www.saitjr.com) | 3 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
 | [walkingway](http://chengway.in/) | 1 |
 
@@ -34,7 +34,7 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93780 |
 | [Prayer](http://www.futantan.com) | 70328 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |
-| [saitjr](http://www.saitjr.com) | 66098 |
+| [saitjr](http://www.saitjr.com) | 67379 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 58452 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
@@ -76,8 +76,8 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 13 |
 | [小袋子](http://daizi.me) | 13 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
+| [saitjr](http://www.saitjr.com) | 11 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 10 |
-| [saitjr](http://www.saitjr.com) | 10 |
 | [靛青K](http://blog.dianqk.org/) | 9 |
 | [walkingway](http://chengway.in/) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
@@ -118,7 +118,7 @@
 | [shanks](http://codebuild.me/) | 26 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [小锅](http://www.swiftyper.com) | 12 |
-| [Channe](undefined) | 11 |
+| [Channe](undefined) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [Prayer](http://www.futantan.com) | 4 |
@@ -143,7 +143,7 @@
 | [shanks](http://codebuild.me/) | 48 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 45 |
 | [小锅](http://www.swiftyper.com) | 23 |
-| [Cee](https://github.com/Cee) | 20 |
+| [Cee](https://github.com/Cee) | 21 |
 | [Channe](undefined) | 7 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |

@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [saitjr](http://www.saitjr.com) | 8367 |
+| [saitjr](http://www.saitjr.com) | 8368 |
 | [walkingway](http://chengway.in/) | 6088 |
 | [Lanford3_3](http://lanfordcai.github.io) | 5331 |
 
@@ -34,7 +34,7 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 93780 |
 | [Prayer](http://www.futantan.com) | 70328 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |
-| [saitjr](http://www.saitjr.com) | 67378 |
+| [saitjr](http://www.saitjr.com) | 67379 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 58452 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |

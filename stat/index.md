@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 12744 |
 | [saitjr](http://www.saitjr.com) | 8368 |
 | [walkingway](http://chengway.in/) | 6088 |
 | [Lanford3_3](http://lanfordcai.github.io) | 5331 |
@@ -21,6 +22,7 @@
 | [saitjr](http://www.saitjr.com) | 3 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
 | [walkingway](http://chengway.in/) | 1 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 1 |
 
 
 # 翻译字数统计

@@ -32,6 +32,8 @@
 | Jacob Bandes-Storch  | [Jacob Bandes-Storch](http://bandes-stor.ch/archive/) |
 | iAchieved.it | [iAchieved.it](http://dev.iachieved.it/iachievedit/) |
 | uraimo | [uraimo](https://www.uraimo.com/) |
+| KHANLOU | [KHANLOU](http://khanlou.com/) |
+| Russ Bishop | [Russ Bishop](http://www.russbishop.net/) |
 
 ## 建议&反馈
 

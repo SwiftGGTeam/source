@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 12744 |
-| [小铁匠Linus](http://linusling.com) | 12176 |
+| [小铁匠Linus](http://linusling.com) | 12179 |
 | [Lanford3_3](http://lanfordcai.github.io) | 9659 |
 | [saitjr](http://www.saitjr.com) | 8368 |
 | [JackAlan](http://ijack.pw/) | 6245 |
@@ -33,7 +33,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [小铁匠Linus](http://linusling.com) | 162499 |
+| [小铁匠Linus](http://linusling.com) | 162502 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 148792 |
 | [小锅](http://www.swiftyper.com) | 115770 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |

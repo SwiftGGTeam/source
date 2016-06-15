@@ -10,11 +10,11 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 12744 |
+| [小铁匠Linus](http://linusling.com) | 12184 |
 | [Lanford3_3](http://lanfordcai.github.io) | 9659 |
 | [saitjr](http://www.saitjr.com) | 8368 |
 | [JackAlan](http://ijack.pw/) | 6245 |
 | [walkingway](http://chengway.in/) | 6088 |
-| [小铁匠Linus](http://linusling.com) | 1747 |
 
 
 # 2016 年 6 月篇数排行
@@ -23,17 +23,17 @@
 | :------------: | :------------: |
 | [saitjr](http://www.saitjr.com) | 3 |
 | [Lanford3_3](http://lanfordcai.github.io) | 2 |
+| [小铁匠Linus](http://linusling.com) | 2 |
 | [walkingway](http://chengway.in/) | 1 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 1 |
 | [JackAlan](http://ijack.pw/) | 1 |
-| [小铁匠Linus](http://linusling.com) | 1 |
 
 
 # 翻译字数统计
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [小铁匠Linus](http://linusling.com) | 152070 |
+| [小铁匠Linus](http://linusling.com) | 162507 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 148792 |
 | [小锅](http://www.swiftyper.com) | 115770 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
@@ -76,7 +76,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 28 |
-| [小铁匠Linus](http://linusling.com) | 20 |
+| [小铁匠Linus](http://linusling.com) | 21 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [小袋子](http://daizi.me) | 13 |
 | [小锅](http://www.swiftyper.com) | 13 |
@@ -121,7 +121,7 @@
 | [Cee](https://github.com/Cee) | 30 |
 | [shanks](http://codebuild.me/) | 27 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
-| [Channe](undefined) | 13 |
+| [Channe](undefined) | 14 |
 | [小锅](http://www.swiftyper.com) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
@@ -143,7 +143,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 70 |
+| [numbbbbb](http://numbbbbb.com/) | 71 |
 | [shanks](http://codebuild.me/) | 48 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 46 |
 | [小锅](http://www.swiftyper.com) | 23 |

@@ -11,8 +11,8 @@
 | :------------: | :------------: |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 12744 |
 | [小铁匠Linus](http://linusling.com) | 12177 |
+| [saitjr](http://www.saitjr.com) | 11163 |
 | [Lanford3_3](http://lanfordcai.github.io) | 9659 |
-| [saitjr](http://www.saitjr.com) | 8368 |
 | [JackAlan](http://ijack.pw/) | 6245 |
 | [walkingway](http://chengway.in/) | 6088 |
 
@@ -21,7 +21,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [saitjr](http://www.saitjr.com) | 3 |
+| [saitjr](http://www.saitjr.com) | 4 |
 | [Lanford3_3](http://lanfordcai.github.io) | 2 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [walkingway](http://chengway.in/) | 1 |
@@ -39,8 +39,8 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
 | [Prayer](http://www.futantan.com) | 70328 |
+| [saitjr](http://www.saitjr.com) | 70174 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |
-| [saitjr](http://www.saitjr.com) | 67379 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 58452 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
@@ -80,8 +80,8 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [小袋子](http://daizi.me) | 13 |
 | [小锅](http://www.swiftyper.com) | 13 |
+| [saitjr](http://www.saitjr.com) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
-| [saitjr](http://www.saitjr.com) | 11 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 10 |
 | [walkingway](http://chengway.in/) | 10 |
 | [靛青K](http://blog.dianqk.org/) | 9 |
@@ -121,7 +121,7 @@
 | [Cee](https://github.com/Cee) | 30 |
 | [shanks](http://codebuild.me/) | 27 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
-| [Channe](undefined) | 14 |
+| [Channe](undefined) | 15 |
 | [小锅](http://www.swiftyper.com) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
@@ -153,9 +153,10 @@
 | [CMB](https://github.com/chenmingbiao) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |
+| [天才175](http://weibo.com/u/2916092907) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |
-| [saitjr](http://www.saitjr.com) | 1 |
 | [way](undefined) | 1 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |
-| [天才175](http://weibo.com/u/2916092907) | 1 |
+| [saitjr](http://www.saitjr.com) | 1 |

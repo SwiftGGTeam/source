@@ -16,7 +16,8 @@
 | [JackAlan](http://ijack.pw/) | 6245 |
 | [walkingway](http://chengway.in/) | 6088 |
 | [bestswifter](http://bestswifter.com) | 2417 |
-| [天才175](http://weibo.com/u/2916092907) | 1579 |
+| [天才175](http://weibo.com/u/2916092907) | 1575 |
+| [小锅](http://www.swiftyper.com) | 1510 |
 
 
 # 2016 年 6 月篇数排行
@@ -31,6 +32,7 @@
 | [JackAlan](http://ijack.pw/) | 1 |
 | [bestswifter](http://bestswifter.com) | 1 |
 | [天才175](http://weibo.com/u/2916092907) | 1 |
+| [小锅](http://www.swiftyper.com) | 1 |
 
 
 # 翻译字数统计
@@ -39,7 +41,7 @@
 | :------------: | :------------: |
 | [小铁匠Linus](http://linusling.com) | 162500 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 148792 |
-| [小锅](http://www.swiftyper.com) | 115770 |
+| [小锅](http://www.swiftyper.com) | 117280 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
 | [Prayer](http://www.futantan.com) | 70328 |
@@ -64,7 +66,7 @@
 | [JackAlan](http://ijack.pw/) | 16062 |
 | [zltunes](http://zltunes.com) | 15439 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
-| [天才175](http://weibo.com/u/2916092907) | 11059 |
+| [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [Lou](undefined) | 9554 |
 | [pucca601](http://weibo.com/601pucca) | 8631 |
 | [DianQK](undefined) | 8333 |
@@ -81,9 +83,9 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 28 |
 | [小铁匠Linus](http://linusling.com) | 21 |
+| [小锅](http://www.swiftyper.com) | 14 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [小袋子](http://daizi.me) | 13 |
-| [小锅](http://www.swiftyper.com) | 13 |
 | [saitjr](http://www.saitjr.com) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 10 |
@@ -125,7 +127,7 @@
 | [Cee](https://github.com/Cee) | 30 |
 | [shanks](http://codebuild.me/) | 28 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
-| [Channe](undefined) | 15 |
+| [Channe](undefined) | 16 |
 | [小锅](http://www.swiftyper.com) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
@@ -147,7 +149,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 71 |
+| [numbbbbb](http://numbbbbb.com/) | 72 |
 | [shanks](http://codebuild.me/) | 48 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 48 |
 | [小锅](http://www.swiftyper.com) | 23 |

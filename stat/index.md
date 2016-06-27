@@ -13,9 +13,9 @@
 | [小铁匠Linus](http://linusling.com) | 12177 |
 | [saitjr](http://www.saitjr.com) | 11163 |
 | [Lanford3_3](http://lanfordcai.github.io) | 9659 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 8409 |
 | [JackAlan](http://ijack.pw/) | 6245 |
 | [walkingway](http://chengway.in/) | 6088 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4264 |
 | [小袋子](http://daizi.me) | 2849 |
 | [bestswifter](http://bestswifter.com) | 2417 |
 | [天才175](http://weibo.com/u/2916092907) | 1575 |
@@ -29,6 +29,7 @@
 | [saitjr](http://www.saitjr.com) | 4 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [Lanford3_3](http://lanfordcai.github.io) | 2 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 1 |
 | [JackAlan](http://ijack.pw/) | 1 |
 | [walkingway](http://chengway.in/) | 1 |
@@ -36,7 +37,6 @@
 | [天才175](http://weibo.com/u/2916092907) | 1 |
 | [小锅](http://www.swiftyper.com) | 1 |
 | [小袋子](http://daizi.me) | 1 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
 
 
 # 翻译字数统计
@@ -51,7 +51,7 @@
 | [Prayer](http://www.futantan.com) | 70328 |
 | [saitjr](http://www.saitjr.com) | 70174 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 62716 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 66861 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
@@ -90,8 +90,8 @@
 | [小锅](http://www.swiftyper.com) | 14 |
 | [小袋子](http://daizi.me) | 14 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 12 |
 | [saitjr](http://www.saitjr.com) | 12 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 11 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [walkingway](http://chengway.in/) | 10 |
 | [靛青K](http://blog.dianqk.org/) | 9 |
@@ -128,7 +128,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 87 |
-| [Cee](https://github.com/Cee) | 30 |
+| [Cee](https://github.com/Cee) | 31 |
 | [shanks](http://codebuild.me/) | 28 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Channe](undefined) | 16 |
@@ -158,7 +158,7 @@
 | [shanks](http://codebuild.me/) | 48 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Cee](https://github.com/Cee) | 21 |
-| [Channe](undefined) | 8 |
+| [Channe](undefined) | 9 |
 | [CMB](https://github.com/chenmingbiao) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |

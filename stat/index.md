@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 15131 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 15096 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 12744 |
 | [小铁匠Linus](http://linusling.com) | 12177 |
 | [saitjr](http://www.saitjr.com) | 11163 |
@@ -48,7 +48,7 @@
 | [小锅](http://www.swiftyper.com) | 117280 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 73583 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 73548 |
 | [Prayer](http://www.futantan.com) | 70328 |
 | [saitjr](http://www.saitjr.com) | 70174 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |

@@ -18,6 +18,7 @@
 | [JackAlan](http://ijack.pw/) | 6245 |
 | [walkingway](http://chengway.in/) | 6088 |
 | [bestswifter](http://bestswifter.com) | 2417 |
+| [赵磊](undefined) | 2254 |
 | [天才175](http://weibo.com/u/2916092907) | 1575 |
 | [小锅](http://www.swiftyper.com) | 1510 |
 
@@ -28,15 +29,16 @@
 | :------------: | :------------: |
 | [saitjr](http://www.saitjr.com) | 4 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 3 |
-| [小袋子](http://daizi.me) | 2 |
 | [Lanford3_3](http://lanfordcai.github.io) | 2 |
 | [小铁匠Linus](http://linusling.com) | 2 |
-| [JackAlan](http://ijack.pw/) | 1 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 1 |
-| [bestswifter](http://bestswifter.com) | 1 |
+| [小袋子](http://daizi.me) | 2 |
+| [赵磊](undefined) | 1 |
+| [walkingway](http://chengway.in/) | 1 |
 | [天才175](http://weibo.com/u/2916092907) | 1 |
 | [小锅](http://www.swiftyper.com) | 1 |
-| [walkingway](http://chengway.in/) | 1 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 1 |
+| [JackAlan](http://ijack.pw/) | 1 |
+| [bestswifter](http://bestswifter.com) | 1 |
 
 
 # 翻译字数统计
@@ -79,6 +81,7 @@
 | [Channe](undefined) | 5557 |
 | [ahfepj](undefined) | 5184 |
 | [littledogboy](undefined) | 4859 |
+| [赵磊](undefined) | 2254 |
 
 
 # 翻译篇数统计
@@ -95,18 +98,18 @@
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [walkingway](http://chengway.in/) | 10 |
 | [靛青K](http://blog.dianqk.org/) | 9 |
-| [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
+| [lfb_CD](http://weibo.com/lfbWb) | 7 |
+| [Lanford3_3](http://lanfordcai.github.io) | 6 |
+| [天才175](http://weibo.com/u/2916092907) | 6 |
 | [Prayer](http://www.futantan.com) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
-| [天才175](http://weibo.com/u/2916092907) | 6 |
-| [Lanford3_3](http://lanfordcai.github.io) | 6 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
-| [JackAlan](http://ijack.pw/) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
 | [bestswifter](http://bestswifter.com) | 5 |
-| [Cee](https://github.com/Cee) | 5 |
 | [shanks](http://codebuild.me/) | 5 |
+| [Cee](https://github.com/Cee) | 5 |
+| [JackAlan](http://ijack.pw/) | 5 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
@@ -115,12 +118,13 @@
 | [DianQK](undefined) | 3 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
-| [pucca601](http://weibo.com/601pucca) | 2 |
 | [ahfepj](undefined) | 2 |
-| [&nbsp](https://github.com/initiOSJava) | 1 |
-| [ray](undefined) | 1 |
+| [pucca601](http://weibo.com/601pucca) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
 | [Lou](undefined) | 1 |
+| [ray](undefined) | 1 |
+| [&nbsp](https://github.com/initiOSJava) | 1 |
+| [赵磊](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -131,7 +135,7 @@
 | [Cee](https://github.com/Cee) | 33 |
 | [shanks](http://codebuild.me/) | 28 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
-| [Channe](undefined) | 16 |
+| [Channe](undefined) | 17 |
 | [小锅](http://www.swiftyper.com) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [saitjr](http://www.saitjr.com) | 6 |
@@ -157,7 +161,7 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 49 |
 | [shanks](http://codebuild.me/) | 48 |
 | [小锅](http://www.swiftyper.com) | 23 |
-| [Cee](https://github.com/Cee) | 21 |
+| [Cee](https://github.com/Cee) | 22 |
 | [Channe](undefined) | 11 |
 | [CMB](https://github.com/chenmingbiao) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |

@@ -9,7 +9,7 @@ description: 本文是讲解怎么加密 API 密钥以及解密 API 密钥，以
 
 ---
 > 作者：Joe，[原文链接](http://dev.iachieved.it/iachievedit/obscuring-api-keys)，原文日期：2016-04-16
-> 译者：[pucca401](undefined)；校对：[Cee](https://github.com/Cee)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
+> 译者：[pucca601](http://weibo.com/601pucca)；校对：[Cee](https://github.com/Cee)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

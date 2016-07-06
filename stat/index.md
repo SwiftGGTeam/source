@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 10115 |
-| [Cee](https://github.com/Cee) | 6796 |
+| [Cee](https://github.com/Cee) | 6780 |
 | [pucca601](http://weibo.com/601pucca) | 3239 |
 
 
@@ -37,7 +37,7 @@
 | [saitjr](http://www.saitjr.com) | 70174 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
-| [Cee](https://github.com/Cee) | 55386 |
+| [Cee](https://github.com/Cee) | 55370 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
 | [shanks](http://codebuild.me/) | 52506 |

@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 10115 |
 | [Cee](https://github.com/Cee) | 6780 |
+| [Channe](undefined) | 3451 |
 | [pucca601](http://weibo.com/601pucca) | 3239 |
 
 
@@ -21,6 +22,7 @@
 | [Cee](https://github.com/Cee) | 2 |
 | [shanks](http://codebuild.me/) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
+| [Channe](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -57,10 +59,10 @@
 | [pucca601](http://weibo.com/601pucca) | 11870 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [Lou](undefined) | 9554 |
+| [Channe](undefined) | 9008 |
 | [DianQK](undefined) | 8333 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
-| [Channe](undefined) | 5557 |
 | [ahfepj](undefined) | 5184 |
 | [littledogboy](undefined) | 4859 |
 | [赵磊](undefined) | 2254 |
@@ -92,10 +94,10 @@
 | [JackAlan](http://ijack.pw/) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
+| [Channe](undefined) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
-| [Channe](undefined) | 3 |
 | [littledogboy](undefined) | 3 |
 | [pucca601](http://weibo.com/601pucca) | 3 |
 | [DianQK](undefined) | 3 |
@@ -114,7 +116,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 87 |
-| [Cee](https://github.com/Cee) | 34 |
+| [Cee](https://github.com/Cee) | 35 |
 | [shanks](http://codebuild.me/) | 28 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Channe](undefined) | 18 |
@@ -141,7 +143,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 73 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 51 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 52 |
 | [shanks](http://codebuild.me/) | 48 |
 | [Cee](https://github.com/Cee) | 23 |
 | [小锅](http://www.swiftyper.com) | 23 |

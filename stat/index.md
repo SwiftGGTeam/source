@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 10115 |
 | [Cee](https://github.com/Cee) | 6780 |
+| [Lanford3_3](http://lanfordcai.github.io) | 4900 |
 | [Channe](undefined) | 3451 |
 | [pucca601](http://weibo.com/601pucca) | 3239 |
 
@@ -23,6 +24,7 @@
 | [shanks](http://codebuild.me/) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [Channe](undefined) | 1 |
+| [Lanford3_3](http://lanfordcai.github.io) | 1 |
 
 
 # 翻译字数统计
@@ -49,7 +51,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
-| [Lanford3_3](http://lanfordcai.github.io) | 23885 |
+| [Lanford3_3](http://lanfordcai.github.io) | 28785 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [riven](http://weibo.com/riven0951) | 17187 |
@@ -82,10 +84,10 @@
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [walkingway](http://chengway.in/) | 10 |
 | [靛青K](http://blog.dianqk.org/) | 9 |
+| [Lanford3_3](http://lanfordcai.github.io) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Cee](https://github.com/Cee) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
-| [Lanford3_3](http://lanfordcai.github.io) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
 | [天才175](http://weibo.com/u/2916092907) | 6 |
 | [Prayer](http://www.futantan.com) | 6 |
@@ -122,8 +124,8 @@
 | [Channe](undefined) | 18 |
 | [小锅](http://www.swiftyper.com) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
+| [saitjr](http://www.saitjr.com) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 6 |
-| [saitjr](http://www.saitjr.com) | 6 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [Prayer](http://www.futantan.com) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
@@ -148,7 +150,7 @@
 | [Cee](https://github.com/Cee) | 23 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](undefined) | 11 |
-| [CMB](https://github.com/chenmingbiao) | 4 |
+| [CMB](https://github.com/chenmingbiao) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |

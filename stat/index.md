@@ -14,6 +14,7 @@
 | [Lanford3_3](http://lanfordcai.github.io) | 4900 |
 | [Channe](undefined) | 3451 |
 | [pucca601](http://weibo.com/601pucca) | 3239 |
+| [ahfepj](undefined) | 2876 |
 
 
 # 2016 年 7 月篇数排行
@@ -25,6 +26,7 @@
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [Channe](undefined) | 1 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
+| [ahfepj](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -63,9 +65,9 @@
 | [Lou](undefined) | 9554 |
 | [Channe](undefined) | 9008 |
 | [DianQK](undefined) | 8333 |
+| [ahfepj](undefined) | 8060 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
-| [ahfepj](undefined) | 5184 |
 | [littledogboy](undefined) | 4859 |
 | [赵磊](undefined) | 2254 |
 
@@ -101,12 +103,12 @@
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
 | [littledogboy](undefined) | 3 |
+| [ahfepj](undefined) | 3 |
 | [pucca601](http://weibo.com/601pucca) | 3 |
 | [DianQK](undefined) | 3 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [ahfepj](undefined) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
 | [Lou](undefined) | 1 |
 | [ray](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
@@ -124,7 +126,7 @@
 | [Channe](undefined) | 18 |
 | [小锅](http://www.swiftyper.com) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
-| [saitjr](http://www.saitjr.com) | 7 |
+| [saitjr](http://www.saitjr.com) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 6 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
 | [Prayer](http://www.futantan.com) | 4 |
@@ -147,7 +149,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 73 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 52 |
 | [shanks](http://codebuild.me/) | 48 |
-| [Cee](https://github.com/Cee) | 23 |
+| [Cee](https://github.com/Cee) | 24 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](undefined) | 11 |
 | [CMB](https://github.com/chenmingbiao) | 5 |

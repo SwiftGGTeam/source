@@ -14,7 +14,7 @@
 | [Lanford3_3](http://lanfordcai.github.io) | 4900 |
 | [Channe](undefined) | 3451 |
 | [pucca601](http://weibo.com/601pucca) | 3239 |
-| [ahfepj](undefined) | 2876 |
+| [ahfepj](undefined) | 2873 |
 
 
 # 2016 年 7 月篇数排行
@@ -65,7 +65,7 @@
 | [Lou](undefined) | 9554 |
 | [Channe](undefined) | 9008 |
 | [DianQK](undefined) | 8333 |
-| [ahfepj](undefined) | 8060 |
+| [ahfepj](undefined) | 8057 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
 | [littledogboy](undefined) | 4859 |

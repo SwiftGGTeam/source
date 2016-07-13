@@ -12,7 +12,7 @@
 | [shanks](http://codebuild.me/) | 10115 |
 | [Cee](https://github.com/Cee) | 6780 |
 | [Lanford3_3](http://lanfordcai.github.io) | 4900 |
-| [saitjr](http://www.saitjr.com) | 3554 |
+| [saitjr](http://www.saitjr.com) | 3563 |
 | [Channe](undefined) | 3451 |
 | [pucca601](http://weibo.com/601pucca) | 3239 |
 | [ahfepj](undefined) | 2873 |
@@ -40,7 +40,7 @@
 | [小锅](http://www.swiftyper.com) | 117280 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
-| [saitjr](http://www.saitjr.com) | 73728 |
+| [saitjr](http://www.saitjr.com) | 73737 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 73548 |
 | [Prayer](http://www.futantan.com) | 70328 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |

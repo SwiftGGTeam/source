@@ -12,6 +12,7 @@
 | [shanks](http://codebuild.me/) | 10115 |
 | [Cee](https://github.com/Cee) | 6780 |
 | [Lanford3_3](http://lanfordcai.github.io) | 4900 |
+| [saitjr](http://www.saitjr.com) | 3554 |
 | [Channe](undefined) | 3451 |
 | [pucca601](http://weibo.com/601pucca) | 3239 |
 | [ahfepj](undefined) | 2873 |
@@ -27,6 +28,7 @@
 | [Channe](undefined) | 1 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
 | [ahfepj](undefined) | 1 |
+| [saitjr](http://www.saitjr.com) | 1 |
 
 
 # 翻译字数统计
@@ -38,9 +40,9 @@
 | [小锅](http://www.swiftyper.com) | 117280 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
+| [saitjr](http://www.saitjr.com) | 73728 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 73548 |
 | [Prayer](http://www.futantan.com) | 70328 |
-| [saitjr](http://www.saitjr.com) | 70174 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
@@ -82,7 +84,7 @@
 | [小锅](http://www.swiftyper.com) | 14 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 13 |
-| [saitjr](http://www.saitjr.com) | 12 |
+| [saitjr](http://www.saitjr.com) | 13 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [walkingway](http://chengway.in/) | 10 |
 | [靛青K](http://blog.dianqk.org/) | 9 |
@@ -120,7 +122,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 87 |
-| [Cee](https://github.com/Cee) | 35 |
+| [Cee](https://github.com/Cee) | 36 |
 | [shanks](http://codebuild.me/) | 28 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Channe](undefined) | 18 |
@@ -147,7 +149,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 73 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 52 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 53 |
 | [shanks](http://codebuild.me/) | 48 |
 | [Cee](https://github.com/Cee) | 24 |
 | [小锅](http://www.swiftyper.com) | 23 |

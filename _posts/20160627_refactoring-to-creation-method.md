@@ -9,7 +9,7 @@ description: 想让代码更具可读性变得更加简洁的话可以考虑重�
 
 ---
 > 作者：Natasha The Robot，[原文链接](https://www.natashatherobot.com/refactoring-to-creation-method/)，原文日期：2016-05-27
-> 译者：[Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](undefined)
+> 译者：[Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
   
 
 

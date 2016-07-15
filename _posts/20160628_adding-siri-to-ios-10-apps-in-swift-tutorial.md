@@ -9,7 +9,7 @@ description: 这次的教程是使用 SiriKit 在 Swift 2.0 开发的工程引�
 
 ---
 > 作者：Jameson Quave，[原文链接](http://jamesonquave.com/blog/adding-siri-to-ios-10-apps-in-swift-tutorial/)，原文日期：2016-06-14
-> 译者：[Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](undefined)
+> 译者：[Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
   
 
 

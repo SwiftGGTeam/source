@@ -13,7 +13,7 @@
 | [Cee](https://github.com/Cee) | 6780 |
 | [Lanford3_3](http://lanfordcai.github.io) | 4900 |
 | [saitjr](http://www.saitjr.com) | 3563 |
-| [Channe](undefined) | 3451 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 3451 |
 | [pucca601](http://weibo.com/601pucca) | 3239 |
 | [ahfepj](undefined) | 2873 |
 | [haolloyin](https://github.com/haolloyin) | 1702 |
@@ -26,7 +26,7 @@
 | [Cee](https://github.com/Cee) | 2 |
 | [shanks](http://codebuild.me/) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
-| [Channe](undefined) | 1 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 1 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
 | [ahfepj](undefined) | 1 |
 | [saitjr](http://www.saitjr.com) | 1 |
@@ -67,7 +67,7 @@
 | [pucca601](http://weibo.com/601pucca) | 11870 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [Lou](undefined) | 9554 |
-| [Channe](undefined) | 9008 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 9008 |
 | [DianQK](undefined) | 8333 |
 | [ahfepj](undefined) | 8057 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
@@ -105,7 +105,7 @@
 | [zltunes](http://zltunes.com) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
-| [Channe](undefined) | 4 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
 | [DianQK](undefined) | 3 |
 | [pucca601](http://weibo.com/601pucca) | 3 |
@@ -129,7 +129,7 @@
 | [Cee](https://github.com/Cee) | 37 |
 | [shanks](http://codebuild.me/) | 28 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
-| [Channe](undefined) | 18 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 18 |
 | [小锅](http://www.swiftyper.com) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [saitjr](http://www.saitjr.com) | 8 |
@@ -157,7 +157,7 @@
 | [shanks](http://codebuild.me/) | 48 |
 | [Cee](https://github.com/Cee) | 24 |
 | [小锅](http://www.swiftyper.com) | 23 |
-| [Channe](undefined) | 11 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [CMB](https://github.com/chenmingbiao) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |

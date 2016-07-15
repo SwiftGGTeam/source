@@ -9,7 +9,7 @@ description: 在Swift中怎么正确使用swift guard语句呢，本文就来详
 
 ---
 > 作者：Radek Pietruszewski，[原文链接](http://radex.io/swift/guard/)，原文日期：2015-12-14
-> 译者：[Prayer](http://www.futantan.com)；校对：[Channe](undefined)；定稿：[numbbbbb](http://numbbbbb.com/)
+> 译者：[Prayer](http://www.futantan.com)；校对：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

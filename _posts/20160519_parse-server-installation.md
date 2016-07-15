@@ -9,7 +9,7 @@ description: Parse 关闭导致我们需要进行数据迁移了，本文就来�
 
 ---
 > 作者：AppCoda，[原文链接](http://www.appcoda.com/parse-server-installation/)，原文日期：2016-04-16
-> 译者：[Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[Channe](undefined)
+> 译者：[Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
   
 
 

@@ -9,7 +9,7 @@ description: 每一个 Swift 初学者都会疑问要先学习什么呢，本文
 
 ---
 > 作者：Dominik Hauser，[原文链接](http://swiftandpainless.com/what-to-learn-first/)，原文日期：2015/04/19
-> 译者：[小锅](http://www.swiftyper.com)；校对：[Channe](undefined)；定稿：[numbbbbb](http://numbbbbb.com/)
+> 译者：[小锅](http://www.swiftyper.com)；校对：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

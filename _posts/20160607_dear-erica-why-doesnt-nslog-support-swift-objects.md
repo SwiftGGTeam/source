@@ -9,7 +9,7 @@ description: Swift NSlog 用法是很多人没弄清楚的，而本文就来说�
 
 ---
 > 作者：Erica Sadun，[原文链接](http://ericasadun.com/2016/05/02/dear-erica-why-doesnt-nslog-support-swift-objects/)，原文日期：2016/05/02
-> 译者：[saitjr](http://www.saitjr.com)；校对：[Channe](undefined)；定稿：[Cee](https://github.com/Cee)
+> 译者：[saitjr](http://www.saitjr.com)；校对：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)；定稿：[Cee](https://github.com/Cee)
   
 
 

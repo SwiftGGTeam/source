@@ -9,7 +9,7 @@ description: 怎么给苹果内置的 Messages 应用开发扩展呢，本文就
 
 ---
 > 作者：SIMON NG，[原文链接](http://www.appcoda.com/message-sticker-app/)，原文日期：2016-06-20
-> 译者：[小袋子](http://daizi.me)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](undefined)
+> 译者：[小袋子](http://daizi.me)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
   
 
 

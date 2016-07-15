@@ -8,7 +8,7 @@ custom_title:
 description: Swift 作为一门新语言一直都在进化发展中，本文就来说下 Swift 的那些改变吧。
 ---
 > 作者：Natasha The Robot，[原文链接](http://ericasadun.com/2016/04/15/triassic-park-the-swift-evolution/)，原文日期：2016-04-15
-> 译者：[Cee](https://github.com/Cee)；校对：[Channe](undefined)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
+> 译者：[Cee](https://github.com/Cee)；校对：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

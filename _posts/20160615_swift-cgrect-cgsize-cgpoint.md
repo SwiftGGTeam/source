@@ -9,7 +9,7 @@ description: 怎么写出 Swift 风格的代码出来呢，还带着 OC 风格�
 
 ---
 > 作者：Andyy Hope，[原文链接](https://medium.com/swift-programming/swift-cgrect-cgsize-cgpoint-5f4196da9cf8#.xyzjottei)，原文日期：2016/02/03
-> 译者：[saitjr](http://www.saitjr.com)；校对：[Channe](undefined)；定稿：[aaaron7](http://www.jianshu.com/users/9efd08855d3a/)
+> 译者：[saitjr](http://www.saitjr.com)；校对：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)；定稿：[aaaron7](http://www.jianshu.com/users/9efd08855d3a/)
   
 
 

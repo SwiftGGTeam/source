@@ -9,7 +9,7 @@ description: Swift 结构体存储在哪里你知道吗，本文就来说下 Swi
 
 ---
 > 作者：Mike Ash，[原文链接](https://www.mikeash.com/pyblog/friday-qa-2016-01-29-swift-struct-storage.html)，原文日期：2016-01-29
-> 译者：[ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles)；校对：[Channe](undefined)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
+> 译者：[ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles)；校对：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

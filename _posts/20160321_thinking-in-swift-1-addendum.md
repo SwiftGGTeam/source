@@ -9,7 +9,7 @@ description: Swift的编程思想之什么时候可以使用隐式解析可选�
 
 ---
 > 作者：Olivier Halligon，[原文链接](http://alisoftware.github.io/swift/2015/09/14/thinking-in-swift-1-addendum/)，原文日期：2015-12-14
-> 译者：[Channe](undefined)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[小锅](http://www.swiftyper.com)
+> 译者：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[小锅](http://www.swiftyper.com)
   
 
 

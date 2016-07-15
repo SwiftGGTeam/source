@@ -9,7 +9,7 @@ description: Swift 2.2 selector 用法你清楚么，本文就来说下 Swift #s
 
 ---
 > 作者：Dominik Hauser，[原文链接](http://swiftandpainless.com/selector-and-the-responder-chain/)，原文日期：2016-04-10
-> 译者：[Lanford3_3](http://lanfordcai.github.io)；校对：[Channe](undefined)；定稿：[Cee](https://github.com/Cee)
+> 译者：[Lanford3_3](http://lanfordcai.github.io)；校对：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)；定稿：[Cee](https://github.com/Cee)
   
 
 

@@ -9,7 +9,7 @@ description: Swift有什么新进展了呢，本文就介绍下到2016年1月份
 
 ---
 > 作者：Erica Sadun，[原文链接](http://ericasadun.com/2016/01/12/whats-up-in-swift-evolution/)，原文日期：2016-01-12
-> 译者：[天才175](http://weibo.com/u/2916092907)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](undefined)
+> 译者：[天才175](http://weibo.com/u/2916092907)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
   
 
 

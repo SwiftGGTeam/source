@@ -9,7 +9,7 @@ description: Firebase 是最流行的 BaaS 服务，本文就来说下如何使�
 
 ---
 > 作者：MATTHEW MAHER，[原文链接](http://www.appcoda.com/firebase/)，原文日期：2015-11-12
-> 译者：[CoderAFI](http://coderafi.github.io/)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](undefined)
+> 译者：[CoderAFI](http://coderafi.github.io/)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
   
 
 

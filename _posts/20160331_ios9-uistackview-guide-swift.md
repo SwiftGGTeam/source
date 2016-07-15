@@ -9,7 +9,7 @@ description: UIStackView可以让你的开发变的更简单哦，那么在 iOS9
 
 ---
 > 作者：Umberto Raimondi，[原文链接](https://www.uraimo.com/2015/09/08/ios9-uistackview-guide-swift/)，原文日期：2015-12-08
-> 译者：[CoderAFI](http://coderafi.github.io/)；校对：[Channe](undefined)；定稿：[shanks](http://codebuild.me/)
+> 译者：[CoderAFI](http://coderafi.github.io/)；校对：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)；定稿：[shanks](http://codebuild.me/)
   
 
 

@@ -9,7 +9,7 @@ description: 在iOS的SDK开发中怎么使用Social Framework和UIActivityViewC
 
 ---
 > 作者：GABRIEL THEODOROPOULOS，[原文链接](http://www.appcoda.com/social-framework-introduction/)，原文日期：2015-09-14
-> 译者：[&nbsp](https://github.com/initiOSJava)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](undefined)
+> 译者：[&nbsp](https://github.com/initiOSJava)；校对：[Cee](https://github.com/Cee)；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
   
 
 

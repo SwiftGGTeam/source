@@ -8,7 +8,7 @@ custom_title: Swift Extension 怎么用
 description: 在 Swift 中使用 Extension 可以提高代码可读性，比如本文中很多不是为 Extension 设计的场景也能很好的使用 Extension。
 ---
 > 作者：Natasha，[原文链接](https://www.natashatherobot.com/using-swift-extensions/)，原文日期：2016-03-29
-> 译者：[bestswifter](http://bestswifter.com)；校对：[shanks](http://codebuild.me/)；定稿：[Channe](undefined)
+> 译者：[bestswifter](http://bestswifter.com)；校对：[shanks](http://codebuild.me/)；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
   
 
 

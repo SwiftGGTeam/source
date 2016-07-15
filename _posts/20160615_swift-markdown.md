@@ -9,7 +9,7 @@ description: 在 Xcode 7 中可以使用 Markdown 语法来写 Swift 代码文�
 
 ---
 > 作者：Gabriel Theodoropoulos，[原文链接](http://www.appcoda.com/swift-markdown/)，原文日期：2016-05-12
-> 译者：[小铁匠Linus](http://linusling.com)；校对：[Channe](undefined)；定稿：[numbbbbb](http://numbbbbb.com/)
+> 译者：[小铁匠Linus](http://linusling.com)；校对：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

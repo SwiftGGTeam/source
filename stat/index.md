@@ -17,6 +17,7 @@
 | [pucca601](http://weibo.com/601pucca) | 3239 |
 | [ahfepj](undefined) | 2873 |
 | [haolloyin](https://github.com/haolloyin) | 1702 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 689 |
 
 
 # 2016 年 7 月篇数排行
@@ -31,6 +32,7 @@
 | [ahfepj](undefined) | 1 |
 | [saitjr](http://www.saitjr.com) | 1 |
 | [haolloyin](https://github.com/haolloyin) | 1 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
 
 
 # 翻译字数统计
@@ -42,8 +44,8 @@
 | [小锅](http://www.swiftyper.com) | 117280 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 74237 |
 | [saitjr](http://www.saitjr.com) | 73737 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 73548 |
 | [Prayer](http://www.futantan.com) | 70328 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
@@ -84,9 +86,9 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 28 |
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [小袋子](http://daizi.me) | 15 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 14 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [小锅](http://www.swiftyper.com) | 14 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 13 |
 | [saitjr](http://www.saitjr.com) | 13 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [walkingway](http://chengway.in/) | 10 |
@@ -125,7 +127,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 87 |
+| [numbbbbb](http://numbbbbb.com/) | 88 |
 | [Cee](https://github.com/Cee) | 37 |
 | [shanks](http://codebuild.me/) | 28 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
@@ -155,7 +157,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 74 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 53 |
 | [shanks](http://codebuild.me/) | 48 |
-| [Cee](https://github.com/Cee) | 24 |
+| [Cee](https://github.com/Cee) | 25 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [CMB](https://github.com/chenmingbiao) | 5 |

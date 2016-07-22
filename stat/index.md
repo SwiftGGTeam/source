@@ -19,6 +19,7 @@
 | [pucca601](http://weibo.com/601pucca) | 3239 |
 | [ahfepj](undefined) | 2873 |
 | [haolloyin](https://github.com/haolloyin) | 1702 |
+| [BigbigChai](https://github.com/chaiyixiao) | 1677 |
 
 
 # 2016 年 7 月篇数排行
@@ -27,14 +28,15 @@
 | :------------: | :------------: |
 | [Cee](https://github.com/Cee) | 2 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
-| [shanks](http://codebuild.me/) | 1 |
-| [pucca601](http://weibo.com/601pucca) | 1 |
+| [ahfepj](undefined) | 1 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 1 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
-| [ahfepj](undefined) | 1 |
+| [pucca601](http://weibo.com/601pucca) | 1 |
 | [saitjr](http://www.saitjr.com) | 1 |
 | [haolloyin](https://github.com/haolloyin) | 1 |
+| [shanks](http://codebuild.me/) | 1 |
 | [小锅](http://www.swiftyper.com) | 1 |
+| [BigbigChai](https://github.com/chaiyixiao) | 1 |
 
 
 # 翻译字数统计
@@ -79,6 +81,7 @@
 | [littledogboy](undefined) | 4859 |
 | [赵磊](undefined) | 2254 |
 | [haolloyin](https://github.com/haolloyin) | 1702 |
+| [BigbigChai](https://github.com/chaiyixiao) | 1677 |
 
 
 # 翻译篇数统计
@@ -120,8 +123,9 @@
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ray](undefined) | 1 |
-| [haolloyin](https://github.com/haolloyin) | 1 |
+| [BigbigChai](https://github.com/chaiyixiao) | 1 |
 | [赵磊](undefined) | 1 |
+| [haolloyin](https://github.com/haolloyin) | 1 |
 | [Lou](undefined) | 1 |
 
 
@@ -131,7 +135,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 89 |
 | [Cee](https://github.com/Cee) | 37 |
-| [shanks](http://codebuild.me/) | 28 |
+| [shanks](http://codebuild.me/) | 29 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 18 |
 | [小锅](http://www.swiftyper.com) | 12 |
@@ -162,7 +166,7 @@
 | [Cee](https://github.com/Cee) | 25 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
-| [CMB](https://github.com/chenmingbiao) | 7 |
+| [CMB](https://github.com/chenmingbiao) | 8 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |

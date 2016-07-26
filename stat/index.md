@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [Prayer](http://www.futantan.com) | 10671 |
 | [shanks](http://codebuild.me/) | 10115 |
 | [Cee](https://github.com/Cee) | 6780 |
 | [Lanford3_3](http://lanfordcai.github.io) | 4900 |
@@ -28,15 +29,16 @@
 | :------------: | :------------: |
 | [Cee](https://github.com/Cee) | 2 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
-| [ahfepj](undefined) | 1 |
+| [saitjr](http://www.saitjr.com) | 1 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 1 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
+| [ahfepj](undefined) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
-| [saitjr](http://www.saitjr.com) | 1 |
 | [haolloyin](https://github.com/haolloyin) | 1 |
 | [shanks](http://codebuild.me/) | 1 |
 | [小锅](http://www.swiftyper.com) | 1 |
 | [BigbigChai](https://github.com/chaiyixiao) | 1 |
+| [Prayer](http://www.futantan.com) | 1 |
 
 
 # 翻译字数统计
@@ -48,9 +50,9 @@
 | [小锅](http://www.swiftyper.com) | 120628 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
+| [Prayer](http://www.futantan.com) | 80999 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 77032 |
 | [saitjr](http://www.saitjr.com) | 73737 |
-| [Prayer](http://www.futantan.com) | 70328 |
 | [靛青K](http://blog.dianqk.org/) | 69730 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
@@ -90,8 +92,8 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 28 |
 | [小铁匠Linus](http://linusling.com) | 21 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 15 |
 | [小袋子](http://daizi.me) | 15 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 15 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [saitjr](http://www.saitjr.com) | 13 |
@@ -100,24 +102,24 @@
 | [靛青K](http://blog.dianqk.org/) | 9 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [Lanford3_3](http://lanfordcai.github.io) | 7 |
-| [Cee](https://github.com/Cee) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
+| [Prayer](http://www.futantan.com) | 7 |
+| [Cee](https://github.com/Cee) | 7 |
 | [天才175](http://weibo.com/u/2916092907) | 6 |
-| [Prayer](http://www.futantan.com) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
 | [shanks](http://codebuild.me/) | 6 |
-| [SergioChan](https://github.com/SergioChan) | 5 |
-| [JackAlan](http://ijack.pw/) | 5 |
-| [bestswifter](http://bestswifter.com) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
+| [SergioChan](https://github.com/SergioChan) | 5 |
+| [bestswifter](http://bestswifter.com) | 5 |
+| [JackAlan](http://ijack.pw/) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
-| [DianQK](undefined) | 3 |
 | [pucca601](http://weibo.com/601pucca) | 3 |
-| [littledogboy](undefined) | 3 |
+| [DianQK](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
+| [littledogboy](undefined) | 3 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
@@ -133,7 +135,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 89 |
+| [numbbbbb](http://numbbbbb.com/) | 90 |
 | [Cee](https://github.com/Cee) | 37 |
 | [shanks](http://codebuild.me/) | 29 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
@@ -166,7 +168,7 @@
 | [Cee](https://github.com/Cee) | 25 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
-| [CMB](https://github.com/chenmingbiao) | 8 |
+| [CMB](https://github.com/chenmingbiao) | 9 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |

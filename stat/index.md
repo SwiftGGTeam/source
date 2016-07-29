@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [saitjr](http://www.saitjr.com) | 14054 |
-| [冬瓜](https://desgard.com/) | 11356 |
+| [冬瓜](https://desgard.com/) | 11350 |
 | [Prayer](http://www.futantan.com) | 10671 |
 | [shanks](http://codebuild.me/) | 10115 |
 | [Cee](https://github.com/Cee) | 6780 |
@@ -77,7 +77,7 @@
 | [zltunes](http://zltunes.com) | 15439 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [pucca601](http://weibo.com/601pucca) | 11870 |
-| [冬瓜](https://desgard.com/) | 11356 |
+| [冬瓜](https://desgard.com/) | 11350 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [Lou](undefined) | 9554 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 9008 |

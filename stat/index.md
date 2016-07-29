@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [saitjr](http://www.saitjr.com) | 14054 |
+| [冬瓜](https://desgard.com/) | 11356 |
 | [Prayer](http://www.futantan.com) | 10671 |
 | [shanks](http://codebuild.me/) | 10115 |
 | [Cee](https://github.com/Cee) | 6780 |
@@ -28,19 +29,20 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [saitjr](http://www.saitjr.com) | 2 |
 | [Cee](https://github.com/Cee) | 2 |
+| [saitjr](http://www.saitjr.com) | 2 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
-| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 1 |
+| [haolloyin](https://github.com/haolloyin) | 1 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
 | [ahfepj](undefined) | 1 |
-| [pucca601](http://weibo.com/601pucca) | 1 |
-| [haolloyin](https://github.com/haolloyin) | 1 |
 | [shanks](http://codebuild.me/) | 1 |
+| [pucca601](http://weibo.com/601pucca) | 1 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 1 |
 | [小锅](http://www.swiftyper.com) | 1 |
 | [BigbigChai](https://github.com/chaiyixiao) | 1 |
 | [Prayer](http://www.futantan.com) | 1 |
 | [pucca](undefined) | 1 |
+| [冬瓜](https://desgard.com/) | 1 |
 
 
 # 翻译字数统计
@@ -75,6 +77,7 @@
 | [zltunes](http://zltunes.com) | 15439 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [pucca601](http://weibo.com/601pucca) | 11870 |
+| [冬瓜](https://desgard.com/) | 11356 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [Lou](undefined) | 9554 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 9008 |
@@ -108,17 +111,17 @@
 | [Prayer](http://www.futantan.com) | 7 |
 | [Cee](https://github.com/Cee) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
+| [shanks](http://codebuild.me/) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
 | [天才175](http://weibo.com/u/2916092907) | 6 |
-| [shanks](http://codebuild.me/) | 6 |
 | [zltunes](http://zltunes.com) | 5 |
-| [JackAlan](http://ijack.pw/) | 5 |
 | [bestswifter](http://bestswifter.com) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
-| [CoderAFI](http://coderafi.github.io/) | 4 |
-| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 4 |
+| [JackAlan](http://ijack.pw/) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 4 |
+| [CoderAFI](http://coderafi.github.io/) | 4 |
 | [ahfepj](undefined) | 3 |
 | [littledogboy](undefined) | 3 |
 | [pucca601](http://weibo.com/601pucca) | 3 |
@@ -133,13 +136,14 @@
 | [haolloyin](https://github.com/haolloyin) | 1 |
 | [BigbigChai](https://github.com/chaiyixiao) | 1 |
 | [pucca](undefined) | 1 |
+| [冬瓜](https://desgard.com/) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 90 |
+| [numbbbbb](http://numbbbbb.com/) | 91 |
 | [Cee](https://github.com/Cee) | 38 |
 | [shanks](http://codebuild.me/) | 29 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
@@ -167,7 +171,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 74 |
+| [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 53 |
 | [shanks](http://codebuild.me/) | 48 |
 | [Cee](https://github.com/Cee) | 25 |

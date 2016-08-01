@@ -5,44 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2016 年 7 月字数排行
+# 2016 年 8 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [saitjr](http://www.saitjr.com) | 14054 |
-| [冬瓜](https://desgard.com/) | 11350 |
-| [Prayer](http://www.futantan.com) | 10671 |
-| [shanks](http://codebuild.me/) | 10115 |
-| [Cee](https://github.com/Cee) | 6780 |
-| [Lanford3_3](http://lanfordcai.github.io) | 4900 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 3484 |
-| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 3451 |
-| [小锅](http://www.swiftyper.com) | 3348 |
-| [pucca601](http://weibo.com/601pucca) | 3239 |
-| [ahfepj](undefined) | 2873 |
-| [haolloyin](https://github.com/haolloyin) | 1702 |
-| [BigbigChai](https://github.com/chaiyixiao) | 1677 |
-| [pucca](undefined) | 1174 |
+| [靛青K](http://blog.dianqk.org/) | 6075 |
 
 
-# 2016 年 7 月篇数排行
+# 2016 年 8 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Cee](https://github.com/Cee) | 2 |
-| [saitjr](http://www.saitjr.com) | 2 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
-| [haolloyin](https://github.com/haolloyin) | 1 |
-| [Lanford3_3](http://lanfordcai.github.io) | 1 |
-| [ahfepj](undefined) | 1 |
-| [shanks](http://codebuild.me/) | 1 |
-| [pucca601](http://weibo.com/601pucca) | 1 |
-| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 1 |
-| [小锅](http://www.swiftyper.com) | 1 |
-| [BigbigChai](https://github.com/chaiyixiao) | 1 |
-| [Prayer](http://www.futantan.com) | 1 |
-| [pucca](undefined) | 1 |
-| [冬瓜](https://desgard.com/) | 1 |
+| [靛青K](http://blog.dianqk.org/) | 1 |
 
 
 # 翻译字数统计
@@ -57,7 +31,7 @@
 | [saitjr](http://www.saitjr.com) | 84228 |
 | [Prayer](http://www.futantan.com) | 80999 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 77032 |
-| [靛青K](http://blog.dianqk.org/) | 69730 |
+| [靛青K](http://blog.dianqk.org/) | 75805 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
@@ -105,7 +79,7 @@
 | [saitjr](http://www.saitjr.com) | 14 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [walkingway](http://chengway.in/) | 10 |
-| [靛青K](http://blog.dianqk.org/) | 9 |
+| [靛青K](http://blog.dianqk.org/) | 10 |
 | [Lanford3_3](http://lanfordcai.github.io) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
@@ -145,7 +119,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 91 |
 | [Cee](https://github.com/Cee) | 38 |
-| [shanks](http://codebuild.me/) | 29 |
+| [shanks](http://codebuild.me/) | 30 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 18 |
 | [小锅](http://www.swiftyper.com) | 12 |
@@ -174,7 +148,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 53 |
 | [shanks](http://codebuild.me/) | 48 |
-| [Cee](https://github.com/Cee) | 25 |
+| [Cee](https://github.com/Cee) | 26 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [CMB](https://github.com/chenmingbiao) | 11 |

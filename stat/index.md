@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [靛青K](http://blog.dianqk.org/) | 6075 |
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
+| [walkingway](http://chengway.in/) | 1228 |
 
 
 # 2016 年 8 月篇数排行
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [靛青K](http://blog.dianqk.org/) | 1 |
 | [Darren](https://github.com/Harman-darrenchen) | 1 |
+| [walkingway](http://chengway.in/) | 1 |
 
 
 # 翻译字数统计
@@ -39,7 +41,7 @@
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
 | [shanks](http://codebuild.me/) | 52506 |
-| [walkingway](http://chengway.in/) | 49635 |
+| [walkingway](http://chengway.in/) | 50863 |
 | [小袋子](http://daizi.me) | 47030 |
 | [bestswifter](http://bestswifter.com) | 36614 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
@@ -81,8 +83,8 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [saitjr](http://www.saitjr.com) | 14 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
+| [walkingway](http://chengway.in/) | 11 |
 | [靛青K](http://blog.dianqk.org/) | 10 |
-| [walkingway](http://chengway.in/) | 10 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [Lanford3_3](http://lanfordcai.github.io) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
@@ -122,7 +124,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 91 |
-| [Cee](https://github.com/Cee) | 38 |
+| [Cee](https://github.com/Cee) | 39 |
 | [shanks](http://codebuild.me/) | 30 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 25 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 18 |
@@ -152,7 +154,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 53 |
-| [shanks](http://codebuild.me/) | 48 |
+| [shanks](http://codebuild.me/) | 49 |
 | [Cee](https://github.com/Cee) | 26 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [CMB](https://github.com/chenmingbiao) | 12 |

@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [靛青K](http://blog.dianqk.org/) | 6075 |
+| [jseanj](undefined) | 5217 |
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
 | [walkingway](http://chengway.in/) | 1228 |
 
@@ -21,6 +22,7 @@
 | [靛青K](http://blog.dianqk.org/) | 1 |
 | [Darren](https://github.com/Harman-darrenchen) | 1 |
 | [walkingway](http://chengway.in/) | 1 |
+| [jseanj](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -63,6 +65,7 @@
 | [ahfepj](undefined) | 8057 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
+| [jseanj](undefined) | 5217 |
 | [littledogboy](undefined) | 4859 |
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
 | [赵磊](undefined) | 2254 |
@@ -117,6 +120,7 @@
 | [pucca](undefined) | 1 |
 | [冬瓜](https://desgard.com/) | 1 |
 | [Darren](https://github.com/Harman-darrenchen) | 1 |
+| [jseanj](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -133,8 +137,8 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 6 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
+| [Prayer](http://www.futantan.com) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
-| [Prayer](http://www.futantan.com) | 4 |
 | [小铁匠Linus](http://linusling.com) | 3 |
 | [walkingway](http://chengway.in/) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
@@ -154,7 +158,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 53 |
-| [shanks](http://codebuild.me/) | 49 |
+| [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 26 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [CMB](https://github.com/chenmingbiao) | 12 |

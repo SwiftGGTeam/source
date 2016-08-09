@@ -9,7 +9,7 @@ description:
 
 ---
 > 作者：Natasha，[原文链接](https://www.natashatherobot.com/magical-view-rotation-with-stackview/)，原文日期：2016-07-24
-> 译者：[粉红星云](undefined)；校对：[aaaron7](http://www.jianshu.com/users/9efd08855d3a/)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：[粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles)；校对：[aaaron7](http://www.jianshu.com/users/9efd08855d3a/)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

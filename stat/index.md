@@ -12,7 +12,7 @@
 | [靛青K](http://blog.dianqk.org/) | 6075 |
 | [jseanj](undefined) | 5217 |
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
-| [宝珠珠](undefined) | 2232 |
+| [粉红星云](undefined) | 2233 |
 | [walkingway](http://chengway.in/) | 1228 |
 
 
@@ -24,7 +24,7 @@
 | [Darren](https://github.com/Harman-darrenchen) | 1 |
 | [walkingway](http://chengway.in/) | 1 |
 | [jseanj](undefined) | 1 |
-| [宝珠珠](undefined) | 1 |
+| [粉红星云](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -71,7 +71,7 @@
 | [littledogboy](undefined) | 4859 |
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
 | [赵磊](undefined) | 2254 |
-| [宝珠珠](undefined) | 2232 |
+| [粉红星云](undefined) | 2233 |
 | [haolloyin](https://github.com/haolloyin) | 1702 |
 | [BigbigChai](https://github.com/chaiyixiao) | 1677 |
 | [pucca](undefined) | 1174 |
@@ -124,7 +124,7 @@
 | [冬瓜](https://desgard.com/) | 1 |
 | [Darren](https://github.com/Harman-darrenchen) | 1 |
 | [jseanj](undefined) | 1 |
-| [宝珠珠](undefined) | 1 |
+| [粉红星云](undefined) | 1 |
 
 
 # 校对篇数统计

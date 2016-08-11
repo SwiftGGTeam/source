@@ -8,7 +8,7 @@ description:
 
 ---
 > 作者：Ole Begemann，[原文链接](http://oleb.net/blog/2016/07/unitproduct/)，原文日期：2016-07-29
-> 译者：[钟颖](undefined)；校对：[小铁匠Linus](http://linusling.com)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：[钟颖](https://github.com/cyanzhong)；校对：[小铁匠Linus](http://linusling.com)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

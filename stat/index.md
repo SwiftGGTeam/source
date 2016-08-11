@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [钟颖](undefined) | 7246 |
+| [钟颖](https://github.com/cyanzhong) | 7246 |
 | [靛青K](http://blog.dianqk.org/) | 6075 |
 | [jseanj](undefined) | 5217 |
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
@@ -28,7 +28,7 @@
 | [jseanj](undefined) | 1 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 1 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1 |
-| [钟颖](undefined) | 1 |
+| [钟颖](https://github.com/cyanzhong) | 1 |
 
 
 # 翻译字数统计
@@ -69,7 +69,7 @@
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 9008 |
 | [DianQK](undefined) | 8333 |
 | [ahfepj](undefined) | 8057 |
-| [钟颖](undefined) | 7246 |
+| [钟颖](https://github.com/cyanzhong) | 7246 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
 | [jseanj](undefined) | 5217 |
@@ -122,7 +122,7 @@
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [Lou](undefined) | 1 |
 | [ray](undefined) | 1 |
-| [钟颖](undefined) | 1 |
+| [钟颖](https://github.com/cyanzhong) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [haolloyin](https://github.com/haolloyin) | 1 |
 | [BigbigChai](https://github.com/chaiyixiao) | 1 |

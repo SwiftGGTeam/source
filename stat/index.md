@@ -13,7 +13,7 @@
 | [靛青K](http://blog.dianqk.org/) | 6075 |
 | [jseanj](undefined) | 5217 |
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
-| [赵磊](undefined) | 2459 |
+| [赵磊](undefined) | 2462 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2233 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1987 |
 | [walkingway](http://chengway.in/) | 1228 |
@@ -76,7 +76,7 @@
 | [ray](undefined) | 6021 |
 | [jseanj](undefined) | 5217 |
 | [littledogboy](undefined) | 4859 |
-| [赵磊](undefined) | 4713 |
+| [赵磊](undefined) | 4716 |
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2233 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1987 |

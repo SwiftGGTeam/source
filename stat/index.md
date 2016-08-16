@@ -11,8 +11,9 @@
 | :------------: | :------------: |
 | [钟颖](https://github.com/cyanzhong) | 7246 |
 | [靛青K](http://blog.dianqk.org/) | 6075 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5242 |
 | [jseanj](undefined) | 5217 |
-| [littledogboy](undefined) | 4337 |
+| [littledogboy](undefined) | 4340 |
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
 | [赵磊](undefined) | 2462 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2233 |
@@ -33,6 +34,7 @@
 | [钟颖](https://github.com/cyanzhong) | 1 |
 | [赵磊](undefined) | 1 |
 | [littledogboy](undefined) | 1 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 
 
 # 翻译字数统计
@@ -70,13 +72,14 @@
 | [冬瓜](https://desgard.com/) | 11350 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [Lou](undefined) | 9554 |
-| [littledogboy](undefined) | 9196 |
+| [littledogboy](undefined) | 9199 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 9008 |
 | [DianQK](undefined) | 8333 |
 | [ahfepj](undefined) | 8057 |
 | [钟颖](https://github.com/cyanzhong) | 7246 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5242 |
 | [jseanj](undefined) | 5217 |
 | [赵磊](undefined) | 4716 |
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
@@ -122,21 +125,22 @@
 | [pucca601](http://weibo.com/601pucca) | 3 |
 | [DianQK](undefined) | 3 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [赵磊](undefined) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [冬瓜](https://desgard.com/) | 1 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [赵磊](undefined) | 2 |
 | [ray](undefined) | 1 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
+| [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
-| [haolloyin](https://github.com/haolloyin) | 1 |
 | [BigbigChai](https://github.com/chaiyixiao) | 1 |
 | [pucca](undefined) | 1 |
-| [Lou](undefined) | 1 |
+| [冬瓜](https://desgard.com/) | 1 |
 | [Darren](https://github.com/Harman-darrenchen) | 1 |
 | [jseanj](undefined) | 1 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 1 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1 |
 | [钟颖](https://github.com/cyanzhong) | 1 |
+| [haolloyin](https://github.com/haolloyin) | 1 |
 
 
 # 校对篇数统计
@@ -154,12 +158,12 @@
 | [靛青K](http://blog.dianqk.org/) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 5 |
-| [小铁匠Linus](http://linusling.com) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
-| [walkingway](http://chengway.in/) | 2 |
-| [&nbsp](https://github.com/initiOSJava) | 2 |
+| [小铁匠Linus](http://linusling.com) | 4 |
 | [littledogboy](undefined) | 2 |
-| [100mango](undefined) | 1 |
+| [&nbsp](https://github.com/initiOSJava) | 2 |
+| [walkingway](http://chengway.in/) | 2 |
+| [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [小袋子](http://daizi.me) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |
 | [CMB](https://github.com/chenmingbiao) | 1 |
@@ -167,8 +171,9 @@
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
 | [冬瓜](https://desgard.com/) | 1 |
-| [陈刚](undefined) | 1 |
-| [Yake](http://blog.csdn.net/yake_099) | 1 |
+| [Cwift](http://blog.csdn.net/cg1991130) | 1 |
+| [bestswifter](http://bestswifter.com) | 1 |
+| [100mango](undefined) | 1 |
 
 
 # 定稿篇数统计
@@ -180,7 +185,7 @@
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 27 |
 | [小锅](http://www.swiftyper.com) | 23 |
-| [CMB](https://github.com/chenmingbiao) | 15 |
+| [CMB](https://github.com/chenmingbiao) | 16 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |

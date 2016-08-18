@@ -18,7 +18,7 @@
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
 | [赵磊](undefined) | 2462 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2233 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 2088 |
+| [Cwift](http://blog.csdn.net/cg1991130) | 2069 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1987 |
 | [walkingway](http://chengway.in/) | 1228 |
 
@@ -88,7 +88,7 @@
 | [赵磊](undefined) | 4716 |
 | [Darren](https://github.com/Harman-darrenchen) | 2960 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2233 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 2088 |
+| [Cwift](http://blog.csdn.net/cg1991130) | 2069 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1987 |
 | [haolloyin](https://github.com/haolloyin) | 1702 |
 | [BigbigChai](https://github.com/chaiyixiao) | 1677 |

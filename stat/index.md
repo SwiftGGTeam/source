@@ -21,7 +21,7 @@
 | [Cwift](http://blog.csdn.net/cg1991130) | 2069 |
 | [X140Yu](undefined) | 2007 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1987 |
-| [Lanford3_3](http://lanfordcai.github.io) | 1538 |
+| [Lanford3_3](http://lanfordcai.github.io) | 1516 |
 | [walkingway](http://chengway.in/) | 1228 |
 
 
@@ -69,7 +69,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
-| [Lanford3_3](http://lanfordcai.github.io) | 30323 |
+| [Lanford3_3](http://lanfordcai.github.io) | 30301 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [riven](http://weibo.com/riven0951) | 17187 |

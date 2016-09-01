@@ -5,48 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2016 年 8 月字数排行
+# 2016 年 9 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [BigbigChai](https://github.com/chaiyixiao) | 13311 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 8852 |
-| [Darren](https://github.com/Harman-darrenchen) | 7818 |
-| [钟颖](https://github.com/cyanzhong) | 7246 |
-| [pucca601](http://weibo.com/601pucca) | 6932 |
-| [靛青K](http://blog.dianqk.org/) | 6075 |
-| [jseanj](undefined) | 5217 |
-| [littledogboy](undefined) | 4340 |
-| [冬瓜](https://desgard.com/) | 4157 |
-| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 3056 |
-| [赵磊](undefined) | 2462 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 2069 |
-| [X140Yu](undefined) | 2007 |
-| [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1987 |
-| [Lanford3_3](http://lanfordcai.github.io) | 1516 |
-| [walkingway](http://chengway.in/) | 1228 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8433 |
 
 
-# 2016 年 8 月篇数排行
+# 2016 年 9 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Darren](https://github.com/Harman-darrenchen) | 3 |
-| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 2 |
-| [littledogboy](undefined) | 1 |
-| [靛青K](http://blog.dianqk.org/) | 1 |
-| [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1 |
-| [钟颖](https://github.com/cyanzhong) | 1 |
-| [赵磊](undefined) | 1 |
-| [walkingway](http://chengway.in/) | 1 |
-| [jseanj](undefined) | 1 |
-| [冬瓜](https://desgard.com/) | 1 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 1 |
-| [X140Yu](undefined) | 1 |
-| [Lanford3_3](http://lanfordcai.github.io) | 1 |
-| [pucca601](http://weibo.com/601pucca) | 1 |
-| [BigbigChai](https://github.com/chaiyixiao) | 1 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 1 |
 
 
 # 翻译字数统计
@@ -54,7 +24,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [小铁匠Linus](http://linusling.com) | 162500 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 148792 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 157225 |
 | [小锅](http://www.swiftyper.com) | 120628 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
@@ -108,7 +78,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 28 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 29 |
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 15 |
 | [小锅](http://www.swiftyper.com) | 15 |
@@ -176,7 +146,7 @@
 | [Prayer](http://www.futantan.com) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [小铁匠Linus](http://linusling.com) | 4 |
-| [walkingway](http://chengway.in/) | 3 |
+| [walkingway](http://chengway.in/) | 4 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
@@ -202,8 +172,8 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 56 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |
+| [CMB](https://github.com/chenmingbiao) | 24 |
 | [小锅](http://www.swiftyper.com) | 23 |
-| [CMB](https://github.com/chenmingbiao) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |

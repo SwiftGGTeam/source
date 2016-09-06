@@ -12,6 +12,7 @@
 | [X140Yu](undefined) | 21999 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8433 |
 | [ckitakishi](undefined) | 7865 |
+| [Lanford3_3](http://lanfordcai.github.io) | 6389 |
 
 
 # 2016 年 9 月篇数排行
@@ -21,6 +22,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 1 |
 | [ckitakishi](undefined) | 1 |
 | [X140Yu](undefined) | 1 |
+| [Lanford3_3](http://lanfordcai.github.io) | 1 |
 
 
 # 翻译字数统计
@@ -43,11 +45,11 @@
 | [shanks](http://codebuild.me/) | 52506 |
 | [walkingway](http://chengway.in/) | 50863 |
 | [小袋子](http://daizi.me) | 47030 |
+| [Lanford3_3](http://lanfordcai.github.io) | 36690 |
 | [bestswifter](http://bestswifter.com) | 36614 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
-| [Lanford3_3](http://lanfordcai.github.io) | 30301 |
 | [X140Yu](undefined) | 24006 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
@@ -93,7 +95,7 @@
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [walkingway](http://chengway.in/) | 11 |
 | [靛青K](http://blog.dianqk.org/) | 10 |
-| [Lanford3_3](http://lanfordcai.github.io) | 8 |
+| [Lanford3_3](http://lanfordcai.github.io) | 9 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
 | [Cee](https://github.com/Cee) | 7 |
@@ -147,8 +149,8 @@
 | [小锅](http://www.swiftyper.com) | 13 |
 | [saitjr](http://www.saitjr.com) | 11 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [小铁匠Linus](http://linusling.com) | 4 |
@@ -178,7 +180,7 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 56 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |
-| [CMB](https://github.com/chenmingbiao) | 26 |
+| [CMB](https://github.com/chenmingbiao) | 27 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |

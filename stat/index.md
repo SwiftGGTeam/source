@@ -13,6 +13,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8433 |
 | [ckitakishi](undefined) | 7865 |
 | [Lanford3_3](http://lanfordcai.github.io) | 6389 |
+| [Cwift](http://blog.csdn.net/cg1991130) | 871 |
 
 
 # 2016 年 9 月篇数排行
@@ -23,6 +24,7 @@
 | [ckitakishi](undefined) | 1 |
 | [X140Yu](undefined) | 1 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
+| [Cwift](http://blog.csdn.net/cg1991130) | 1 |
 
 
 # 翻译字数统计
@@ -75,7 +77,7 @@
 | [jseanj](undefined) | 5217 |
 | [赵磊](undefined) | 4716 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 3056 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 2069 |
+| [Cwift](http://blog.csdn.net/cg1991130) | 2940 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1987 |
 | [haolloyin](https://github.com/haolloyin) | 1702 |
 | [pucca](undefined) | 1174 |
@@ -124,16 +126,16 @@
 | [riven](http://weibo.com/riven0951) | 2 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 2 |
+| [Cwift](http://blog.csdn.net/cg1991130) | 2 |
 | [BigbigChai](https://github.com/chaiyixiao) | 2 |
-| [ckitakishi](undefined) | 1 |
 | [Lou](undefined) | 1 |
 | [jseanj](undefined) | 1 |
 | [haolloyin](https://github.com/haolloyin) | 1 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1 |
 | [钟颖](https://github.com/cyanzhong) | 1 |
 | [ray](undefined) | 1 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 1 |
 | [pucca](undefined) | 1 |
+| [ckitakishi](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 
 
@@ -142,7 +144,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 91 |
-| [Cee](https://github.com/Cee) | 41 |
+| [Cee](https://github.com/Cee) | 42 |
 | [shanks](http://codebuild.me/) | 30 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 26 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
@@ -177,7 +179,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 56 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 57 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |
 | [CMB](https://github.com/chenmingbiao) | 27 |

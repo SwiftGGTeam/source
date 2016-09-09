@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [X140Yu](undefined) | 21999 |
+| [walkingway](http://chengway.in/) | 8668 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8433 |
 | [ckitakishi](undefined) | 7865 |
 | [Lanford3_3](http://lanfordcai.github.io) | 6389 |
@@ -25,6 +26,7 @@
 | [ckitakishi](undefined) | 1 |
 | [X140Yu](undefined) | 1 |
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
+| [walkingway](http://chengway.in/) | 1 |
 
 
 # 翻译字数统计
@@ -40,12 +42,12 @@
 | [Prayer](http://www.futantan.com) | 80999 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 77030 |
 | [靛青K](http://blog.dianqk.org/) | 75805 |
+| [walkingway](http://chengway.in/) | 59531 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
 | [shanks](http://codebuild.me/) | 52506 |
-| [walkingway](http://chengway.in/) | 50863 |
 | [小袋子](http://daizi.me) | 47030 |
 | [Lanford3_3](http://lanfordcai.github.io) | 36690 |
 | [bestswifter](http://bestswifter.com) | 36614 |
@@ -94,8 +96,8 @@
 | [小锅](http://www.swiftyper.com) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [saitjr](http://www.saitjr.com) | 14 |
+| [walkingway](http://chengway.in/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
-| [walkingway](http://chengway.in/) | 11 |
 | [靛青K](http://blog.dianqk.org/) | 10 |
 | [Lanford3_3](http://lanfordcai.github.io) | 9 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
@@ -148,7 +150,7 @@
 | [shanks](http://codebuild.me/) | 30 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 26 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
-| [小锅](http://www.swiftyper.com) | 13 |
+| [小锅](http://www.swiftyper.com) | 14 |
 | [saitjr](http://www.saitjr.com) | 11 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
@@ -181,7 +183,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 57 |
 | [shanks](http://codebuild.me/) | 50 |
-| [CMB](https://github.com/chenmingbiao) | 28 |
+| [CMB](https://github.com/chenmingbiao) | 29 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

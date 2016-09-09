@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [X140Yu](undefined) | 21999 |
-| [walkingway](http://chengway.in/) | 8668 |
+| [walkingway](http://chengway.in/) | 8659 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8433 |
 | [ckitakishi](undefined) | 7865 |
 | [Lanford3_3](http://lanfordcai.github.io) | 6389 |
@@ -42,7 +42,7 @@
 | [Prayer](http://www.futantan.com) | 80999 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 77030 |
 | [靛青K](http://blog.dianqk.org/) | 75805 |
-| [walkingway](http://chengway.in/) | 59531 |
+| [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |

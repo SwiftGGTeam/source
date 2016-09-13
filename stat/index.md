@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [X140Yu](undefined) | 21999 |
+| [冬瓜](undefined) | 12016 |
 | [walkingway](http://chengway.in/) | 8659 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8433 |
 | [ckitakishi](undefined) | 7865 |
@@ -29,6 +30,7 @@
 | [Lanford3_3](http://lanfordcai.github.io) | 1 |
 | [walkingway](http://chengway.in/) | 1 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 1 |
+| [冬瓜](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -67,6 +69,7 @@
 | [BigbigChai](https://github.com/chaiyixiao) | 14988 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
+| [冬瓜](undefined) | 12016 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
@@ -139,6 +142,7 @@
 | [钟颖](https://github.com/cyanzhong) | 1 |
 | [ray](undefined) | 1 |
 | [pucca](undefined) | 1 |
+| [冬瓜](undefined) | 1 |
 | [ckitakishi](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 
@@ -153,7 +157,7 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 26 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 14 |
-| [saitjr](http://www.saitjr.com) | 11 |
+| [saitjr](http://www.saitjr.com) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
@@ -185,7 +189,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 57 |
 | [shanks](http://codebuild.me/) | 50 |
-| [CMB](https://github.com/chenmingbiao) | 30 |
+| [CMB](https://github.com/chenmingbiao) | 31 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

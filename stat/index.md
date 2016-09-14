@@ -15,6 +15,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8433 |
 | [ckitakishi](undefined) | 7865 |
 | [Lanford3_3](http://lanfordcai.github.io) | 6389 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 4989 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 4865 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 1616 |
 
@@ -31,6 +32,7 @@
 | [walkingway](http://chengway.in/) | 1 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 1 |
 | [冬瓜](undefined) | 1 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 
 
 # 翻译字数统计
@@ -68,12 +70,12 @@
 | [zltunes](http://zltunes.com) | 15439 |
 | [BigbigChai](https://github.com/chaiyixiao) | 14988 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 13841 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [冬瓜](undefined) | 12016 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 8852 |
 | [DianQK](undefined) | 8333 |
 | [ahfepj](undefined) | 8057 |
 | [ckitakishi](undefined) | 7865 |
@@ -125,15 +127,15 @@
 | [DianQK](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
 | [Darren](https://github.com/Harman-darrenchen) | 3 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 3 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 3 |
-| [X140Yu](undefined) | 2 |
 | [赵磊](undefined) | 2 |
 | [BigbigChai](https://github.com/chaiyixiao) | 2 |
 | [冬瓜](https://desgard.com/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [X140Yu](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Lou](undefined) | 1 |
 | [jseanj](undefined) | 1 |
@@ -157,7 +159,7 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 26 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 14 |
-| [saitjr](http://www.saitjr.com) | 12 |
+| [saitjr](http://www.saitjr.com) | 13 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
@@ -189,7 +191,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 57 |
 | [shanks](http://codebuild.me/) | 50 |
-| [CMB](https://github.com/chenmingbiao) | 31 |
+| [CMB](https://github.com/chenmingbiao) | 32 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

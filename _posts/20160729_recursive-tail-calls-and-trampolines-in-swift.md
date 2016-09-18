@@ -9,7 +9,7 @@ description: UIViewPropertyAnimator 是 iOS 10 中的新增的执行 View 动画
 
 ---
 > 作者：Jason Newell，[原文链接](http://jamesonquave.com/blog/designing-animations-with-uiviewpropertyanimator-in-ios-10-and-swift-3/)，原文日期：2016-06-28
-> 译者：[冬瓜](https://desgard.com/)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[numbbbbb](http://numbbbbb.com/)
+> 译者：[冬瓜](http://www.desgard.com/)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

@@ -9,7 +9,7 @@ description: 想提高 Swift 语言能力的话就需要了解 Swift 的各种�
 
 ---
 > 作者：Andyy Hope，[原文链接](https://medium.com/swift-programming/swift-syntax-cheat-codes-9ce4ab4bc82e#.tvz9bwxhk)，原文日期：2016/07/20
-> 译者：[冬瓜](https://desgard.com/)；校对：[Darren](https://github.com/Harman-darrenchen)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
+> 译者：[冬瓜](http://www.desgard.com/)；校对：[Darren](https://github.com/Harman-darrenchen)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

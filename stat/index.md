@@ -18,6 +18,7 @@
 | [Lanford3_3](http://lanfordcai.github.io) | 6389 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 4989 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 4865 |
+| [haolloyin](https://github.com/haolloyin) | 3562 |
 | [jseanj](undefined) | 2508 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 1616 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1117 |
@@ -27,10 +28,10 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 2 |
 | [ckitakishi](undefined) | 2 |
-| [Lanford3_3](http://lanfordcai.github.io) | 1 |
+| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 1 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 1 |
 | [walkingway](http://chengway.in/) | 1 |
 | [X140Yu](undefined) | 1 |
@@ -38,7 +39,8 @@
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1 |
 | [jseanj](undefined) | 1 |
-| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 1 |
+| [Lanford3_3](http://lanfordcai.github.io) | 1 |
+| [haolloyin](https://github.com/haolloyin) | 1 |
 
 
 # 翻译字数统计
@@ -90,10 +92,10 @@
 | [钟颖](https://github.com/cyanzhong) | 7246 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
+| [haolloyin](https://github.com/haolloyin) | 5264 |
 | [赵磊](undefined) | 4716 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 3685 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 3104 |
-| [haolloyin](https://github.com/haolloyin) | 1702 |
 | [pucca](undefined) | 1174 |
 
 
@@ -138,16 +140,16 @@
 | [Cwift](http://blog.csdn.net/cg1991130) | 3 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [赵磊](undefined) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [haolloyin](https://github.com/haolloyin) | 2 |
 | [BigbigChai](https://github.com/chaiyixiao) | 2 |
-| [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [ckitakishi](undefined) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [jseanj](undefined) | 2 |
 | [X140Yu](undefined) | 2 |
-| [pucca](undefined) | 1 |
+| [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 1 |
-| [haolloyin](https://github.com/haolloyin) | 1 |
+| [pucca](undefined) | 1 |
 | [ray](undefined) | 1 |
 | [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
@@ -162,7 +164,7 @@
 | [shanks](http://codebuild.me/) | 30 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 27 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
-| [saitjr](http://www.saitjr.com) | 15 |
+| [saitjr](http://www.saitjr.com) | 16 |
 | [小锅](http://www.swiftyper.com) | 14 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
@@ -195,7 +197,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 57 |
 | [shanks](http://codebuild.me/) | 50 |
-| [CMB](https://github.com/chenmingbiao) | 37 |
+| [CMB](https://github.com/chenmingbiao) | 38 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

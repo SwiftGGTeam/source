@@ -18,7 +18,7 @@
 | [Lanford3_3](http://lanfordcai.github.io) | 6389 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 4989 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 4865 |
-| [haolloyin](https://github.com/haolloyin) | 3562 |
+| [haolloyin](https://github.com/haolloyin) | 3557 |
 | [jseanj](undefined) | 2508 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 1616 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1117 |
@@ -92,7 +92,7 @@
 | [钟颖](https://github.com/cyanzhong) | 7246 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
-| [haolloyin](https://github.com/haolloyin) | 5264 |
+| [haolloyin](https://github.com/haolloyin) | 5259 |
 | [赵磊](undefined) | 4716 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 3685 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 3104 |

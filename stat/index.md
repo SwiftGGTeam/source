@@ -12,7 +12,7 @@
 | [X140Yu](undefined) | 21999 |
 | [ckitakishi](undefined) | 13750 |
 | [冬瓜](http://www.desgard.com/) | 12015 |
-| [jseanj](undefined) | 10331 |
+| [jseanj](undefined) | 10411 |
 | [walkingway](http://chengway.in/) | 8659 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8433 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 7092 |
@@ -75,7 +75,7 @@
 | [pucca601](http://weibo.com/601pucca) | 18802 |
 | [riven](http://weibo.com/riven0951) | 17187 |
 | [JackAlan](http://ijack.pw/) | 16062 |
-| [jseanj](undefined) | 15548 |
+| [jseanj](undefined) | 15628 |
 | [zltunes](http://zltunes.com) | 15439 |
 | [BigbigChai](https://github.com/chaiyixiao) | 14988 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |

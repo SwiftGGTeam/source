@@ -21,6 +21,7 @@
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 4865 |
 | [靛青K](http://blog.dianqk.org/) | 4514 |
 | [haolloyin](https://github.com/haolloyin) | 3596 |
+| [Darren](https://github.com/Harman-darrenchen) | 2505 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 1616 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1117 |
 
@@ -43,6 +44,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 1 |
 | [haolloyin](https://github.com/haolloyin) | 1 |
 | [靛青K](http://blog.dianqk.org/) | 1 |
+| [Darren](https://github.com/Harman-darrenchen) | 1 |
 
 
 # 翻译字数统计
@@ -85,12 +87,12 @@
 | [ckitakishi](undefined) | 13750 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
+| [Darren](https://github.com/Harman-darrenchen) | 10323 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 10148 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
 | [DianQK](undefined) | 8333 |
 | [ahfepj](undefined) | 8057 |
-| [Darren](https://github.com/Harman-darrenchen) | 7818 |
 | [钟颖](https://github.com/cyanzhong) | 7246 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
@@ -108,8 +110,8 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 29 |
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 15 |
-| [小袋子](http://daizi.me) | 15 |
 | [小锅](http://www.swiftyper.com) | 15 |
+| [小袋子](http://daizi.me) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [saitjr](http://www.saitjr.com) | 14 |
 | [walkingway](http://chengway.in/) | 12 |
@@ -117,29 +119,29 @@
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Lanford3_3](http://lanfordcai.github.io) | 9 |
 | [Cee](https://github.com/Cee) | 7 |
-| [Prayer](http://www.futantan.com) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
+| [Prayer](http://www.futantan.com) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
-| [天才175](http://weibo.com/u/2916092907) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
 | [shanks](http://codebuild.me/) | 6 |
-| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
+| [天才175](http://weibo.com/u/2916092907) | 6 |
 | [JackAlan](http://ijack.pw/) | 5 |
-| [zltunes](http://zltunes.com) | 5 |
-| [bestswifter](http://bestswifter.com) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
+| [bestswifter](http://bestswifter.com) | 5 |
+| [zltunes](http://zltunes.com) | 5 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
 | [littledogboy](undefined) | 4 |
-| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 4 |
+| [Darren](https://github.com/Harman-darrenchen) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
+| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
-| [ahfepj](undefined) | 3 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 3 |
-| [DianQK](undefined) | 3 |
+| [ahfepj](undefined) | 3 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 3 |
 | [冬瓜](http://www.desgard.com/) | 3 |
-| [Darren](https://github.com/Harman-darrenchen) | 3 |
+| [DianQK](undefined) | 3 |
 | [jseanj](undefined) | 3 |
 | [赵磊](undefined) | 2 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
@@ -163,7 +165,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 91 |
 | [Cee](https://github.com/Cee) | 43 |
-| [shanks](http://codebuild.me/) | 31 |
+| [shanks](http://codebuild.me/) | 32 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 27 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [saitjr](http://www.saitjr.com) | 17 |
@@ -197,7 +199,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 57 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 58 |
 | [shanks](http://codebuild.me/) | 50 |
 | [CMB](https://github.com/chenmingbiao) | 40 |
 | [Cee](https://github.com/Cee) | 28 |

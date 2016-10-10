@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [靛青K](http://blog.dianqk.org/) | 6042 |
+| [靛青K](http://blog.dianqk.org/) | 6053 |
 | [Joy](undefined) | 778 |
 
 
@@ -30,7 +30,7 @@
 | [小锅](http://www.swiftyper.com) | 120628 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
-| [靛青K](http://blog.dianqk.org/) | 86361 |
+| [靛青K](http://blog.dianqk.org/) | 86372 |
 | [saitjr](http://www.saitjr.com) | 84228 |
 | [Prayer](http://www.futantan.com) | 80999 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 77030 |

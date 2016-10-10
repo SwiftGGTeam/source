@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [靛青K](http://blog.dianqk.org/) | 6042 |
 | [Joy](undefined) | 778 |
 
 
@@ -17,6 +18,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [Joy](undefined) | 1 |
+| [靛青K](http://blog.dianqk.org/) | 1 |
 
 
 # 翻译字数统计
@@ -28,9 +30,9 @@
 | [小锅](http://www.swiftyper.com) | 120628 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
+| [靛青K](http://blog.dianqk.org/) | 86361 |
 | [saitjr](http://www.saitjr.com) | 84228 |
 | [Prayer](http://www.futantan.com) | 80999 |
-| [靛青K](http://blog.dianqk.org/) | 80319 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 77030 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
@@ -88,7 +90,7 @@
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [saitjr](http://www.saitjr.com) | 14 |
 | [walkingway](http://chengway.in/) | 12 |
-| [靛青K](http://blog.dianqk.org/) | 11 |
+| [靛青K](http://blog.dianqk.org/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Lanford3_3](http://lanfordcai.github.io) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
@@ -139,7 +141,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 91 |
 | [Cee](https://github.com/Cee) | 43 |
-| [shanks](http://codebuild.me/) | 32 |
+| [shanks](http://codebuild.me/) | 33 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 27 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [saitjr](http://www.saitjr.com) | 17 |
@@ -175,7 +177,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 59 |
 | [shanks](http://codebuild.me/) | 50 |
-| [CMB](https://github.com/chenmingbiao) | 42 |
+| [CMB](https://github.com/chenmingbiao) | 43 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

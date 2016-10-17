@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [BigbigChai](https://github.com/chaiyixiao) | 12261 |
+| [shanks](http://codebuild.me/) | 6269 |
 | [靛青K](http://blog.dianqk.org/) | 6053 |
 | [Darren](https://github.com/Harman-darrenchen) | 1724 |
 | [Joy](undefined) | 778 |
@@ -23,6 +24,7 @@
 | [靛青K](http://blog.dianqk.org/) | 1 |
 | [Darren](https://github.com/Harman-darrenchen) | 1 |
 | [BigbigChai](https://github.com/chaiyixiao) | 1 |
+| [shanks](http://codebuild.me/) | 1 |
 
 
 # 翻译字数统计
@@ -39,11 +41,11 @@
 | [Prayer](http://www.futantan.com) | 80999 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 77030 |
 | [walkingway](http://chengway.in/) | 59522 |
+| [shanks](http://codebuild.me/) | 58775 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
-| [shanks](http://codebuild.me/) | 52506 |
 | [小袋子](http://daizi.me) | 47030 |
 | [Lanford3_3](http://lanfordcai.github.io) | 36690 |
 | [bestswifter](http://bestswifter.com) | 36614 |
@@ -88,21 +90,21 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 29 |
 | [小铁匠Linus](http://linusling.com) | 21 |
-| [小锅](http://www.swiftyper.com) | 15 |
 | [小袋子](http://daizi.me) | 15 |
+| [小锅](http://www.swiftyper.com) | 15 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 15 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [saitjr](http://www.saitjr.com) | 14 |
-| [walkingway](http://chengway.in/) | 12 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [靛青K](http://blog.dianqk.org/) | 12 |
+| [walkingway](http://chengway.in/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Lanford3_3](http://lanfordcai.github.io) | 9 |
-| [lfb_CD](http://weibo.com/lfbWb) | 7 |
-| [Cee](https://github.com/Cee) | 7 |
-| [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
+| [shanks](http://codebuild.me/) | 7 |
+| [lfb_CD](http://weibo.com/lfbWb) | 7 |
+| [Yake](http://blog.csdn.net/yake_099) | 7 |
+| [Cee](https://github.com/Cee) | 7 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
-| [shanks](http://codebuild.me/) | 6 |
 | [天才175](http://weibo.com/u/2916092907) | 6 |
 | [Darren](https://github.com/Harman-darrenchen) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
@@ -153,9 +155,9 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
+| [walkingway](http://chengway.in/) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [小铁匠Linus](http://linusling.com) | 5 |
-| [walkingway](http://chengway.in/) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [mmoaay](http://mmoaay.photo/) | 3 |
 | [bestswifter](http://bestswifter.com) | 3 |
@@ -182,7 +184,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 60 |
 | [shanks](http://codebuild.me/) | 50 |
-| [CMB](https://github.com/chenmingbiao) | 44 |
+| [CMB](https://github.com/chenmingbiao) | 45 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

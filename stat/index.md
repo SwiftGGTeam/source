@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [BigbigChai](https://github.com/chaiyixiao) | 12261 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 11103 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 10921 |
 | [shanks](http://codebuild.me/) | 6269 |
 | [靛青K](http://blog.dianqk.org/) | 6053 |
 | [Darren](https://github.com/Harman-darrenchen) | 1724 |
@@ -70,8 +70,8 @@
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 13841 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Darren](https://github.com/Harman-darrenchen) | 12047 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 11103 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 10921 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 10148 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |

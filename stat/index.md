@@ -13,7 +13,7 @@
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 10921 |
 | [shanks](http://codebuild.me/) | 6269 |
 | [靛青K](http://blog.dianqk.org/) | 6053 |
-| [pucca](undefined) | 2874 |
+| [pucca](undefined) | 2651 |
 | [Darren](https://github.com/Harman-darrenchen) | 1724 |
 | [Joy](undefined) | 778 |
 
@@ -83,7 +83,7 @@
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
-| [pucca](undefined) | 4048 |
+| [pucca](undefined) | 3825 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 3685 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 3104 |
 | [Joy](undefined) | 778 |

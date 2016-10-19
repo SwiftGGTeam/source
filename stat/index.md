@@ -13,6 +13,7 @@
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 10921 |
 | [shanks](http://codebuild.me/) | 6269 |
 | [靛青K](http://blog.dianqk.org/) | 6053 |
+| [pucca](undefined) | 2874 |
 | [Darren](https://github.com/Harman-darrenchen) | 1724 |
 | [Joy](undefined) | 778 |
 
@@ -27,6 +28,7 @@
 | [BigbigChai](https://github.com/chaiyixiao) | 1 |
 | [shanks](http://codebuild.me/) | 1 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
+| [pucca](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -81,9 +83,9 @@
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
+| [pucca](undefined) | 4048 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 3685 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 3104 |
-| [pucca](undefined) | 1174 |
 | [Joy](undefined) | 778 |
 
 
@@ -136,8 +138,8 @@
 | [X140Yu](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
+| [pucca](undefined) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [pucca](undefined) | 1 |
 | [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ray](undefined) | 1 |
@@ -159,7 +161,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
-| [walkingway](http://chengway.in/) | 6 |
+| [walkingway](http://chengway.in/) | 7 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [小铁匠Linus](http://linusling.com) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
@@ -188,7 +190,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 60 |
 | [shanks](http://codebuild.me/) | 50 |
-| [CMB](https://github.com/chenmingbiao) | 46 |
+| [CMB](https://github.com/chenmingbiao) | 47 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

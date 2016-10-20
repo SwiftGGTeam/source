@@ -13,6 +13,7 @@
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 10921 |
 | [shanks](http://codebuild.me/) | 6269 |
 | [靛青K](http://blog.dianqk.org/) | 6053 |
+| [saitjr](http://www.saitjr.com) | 3560 |
 | [pucca](undefined) | 2651 |
 | [Darren](https://github.com/Harman-darrenchen) | 1724 |
 | [Joy](undefined) | 778 |
@@ -29,6 +30,7 @@
 | [shanks](http://codebuild.me/) | 1 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
 | [pucca](undefined) | 1 |
+| [saitjr](http://www.saitjr.com) | 1 |
 
 
 # 翻译字数统计
@@ -40,8 +42,8 @@
 | [小锅](http://www.swiftyper.com) | 120628 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
+| [saitjr](http://www.saitjr.com) | 87788 |
 | [靛青K](http://blog.dianqk.org/) | 86372 |
-| [saitjr](http://www.saitjr.com) | 84228 |
 | [Prayer](http://www.futantan.com) | 80999 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 77030 |
 | [walkingway](http://chengway.in/) | 59522 |
@@ -97,9 +99,9 @@
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 15 |
 | [小袋子](http://daizi.me) | 15 |
+| [saitjr](http://www.saitjr.com) | 15 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
-| [saitjr](http://www.saitjr.com) | 14 |
 | [walkingway](http://chengway.in/) | 12 |
 | [靛青K](http://blog.dianqk.org/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
@@ -170,10 +172,10 @@
 | [Cwift](http://blog.csdn.net/cg1991130) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
+| [CMB](https://github.com/chenmingbiao) | 2 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
-| [CMB](https://github.com/chenmingbiao) | 1 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [冬瓜](http://www.desgard.com/) | 1 |
 | [100mango](undefined) | 1 |
 | [小袋子](http://daizi.me) | 1 |
@@ -190,7 +192,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 60 |
 | [shanks](http://codebuild.me/) | 50 |
-| [CMB](https://github.com/chenmingbiao) | 47 |
+| [CMB](https://github.com/chenmingbiao) | 48 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

@@ -19,7 +19,7 @@
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 3001 |
 | [pucca](undefined) | 2651 |
 | [Darren](https://github.com/Harman-darrenchen) | 1724 |
-| [冬瓜](http://www.desgard.com/) | 1487 |
+| [冬瓜](http://www.desgard.com/) | 1511 |
 | [Joy](undefined) | 778 |
 
 
@@ -66,7 +66,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
-| [冬瓜](http://www.desgard.com/) | 29009 |
+| [冬瓜](http://www.desgard.com/) | 29033 |
 | [BigbigChai](https://github.com/chaiyixiao) | 27249 |
 | [X140Yu](undefined) | 24006 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |

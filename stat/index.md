@@ -5,44 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2016 年 10 月字数排行
+# 2016 年 11 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [BigbigChai](https://github.com/chaiyixiao) | 12261 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 10921 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 9474 |
-| [shanks](http://codebuild.me/) | 6269 |
-| [靛青K](http://blog.dianqk.org/) | 6053 |
-| [Lanford3_3](http://lanfordcai.github.io) | 3586 |
-| [saitjr](http://www.saitjr.com) | 3560 |
-| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 3001 |
-| [X140Yu](undefined) | 2843 |
-| [pucca](undefined) | 2651 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1781 |
-| [Darren](https://github.com/Harman-darrenchen) | 1724 |
-| [冬瓜](http://www.desgard.com/) | 1511 |
-| [Joy](undefined) | 778 |
+| [Cwift](http://blog.csdn.net/cg1991130) | 4954 |
 
 
-# 2016 年 10 月篇数排行
+# 2016 年 11 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [saitjr](http://www.saitjr.com) | 1 |
-| [Joy](undefined) | 1 |
-| [Darren](https://github.com/Harman-darrenchen) | 1 |
-| [BigbigChai](https://github.com/chaiyixiao) | 1 |
-| [shanks](http://codebuild.me/) | 1 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
-| [pucca](undefined) | 1 |
-| [靛青K](http://blog.dianqk.org/) | 1 |
 | [Cwift](http://blog.csdn.net/cg1991130) | 1 |
-| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 1 |
-| [Lanford3_3](http://lanfordcai.github.io) | 1 |
-| [冬瓜](http://www.desgard.com/) | 1 |
-| [X140Yu](undefined) | 1 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 
 
 # 翻译字数统计
@@ -77,6 +51,7 @@
 | [ckitakishi](undefined) | 21653 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [pucca601](http://weibo.com/601pucca) | 18802 |
+| [Cwift](http://blog.csdn.net/cg1991130) | 18113 |
 | [riven](http://weibo.com/riven0951) | 17187 |
 | [JackAlan](http://ijack.pw/) | 16062 |
 | [jseanj](undefined) | 15628 |
@@ -85,7 +60,6 @@
 | [钟颖](https://github.com/cyanzhong) | 14394 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 13159 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 13149 |
 | [Darren](https://github.com/Harman-darrenchen) | 12047 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
@@ -131,14 +105,14 @@
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 5 |
 | [bestswifter](http://bestswifter.com) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
+| [Cwift](http://blog.csdn.net/cg1991130) | 5 |
 | [Darren](https://github.com/Harman-darrenchen) | 5 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 4 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [littledogboy](undefined) | 4 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [冬瓜](http://www.desgard.com/) | 4 |
 | [DianQK](undefined) | 3 |
 | [jseanj](undefined) | 3 |
@@ -166,7 +140,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 91 |
-| [Cee](https://github.com/Cee) | 45 |
+| [Cee](https://github.com/Cee) | 46 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 27 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
@@ -203,7 +177,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 60 |
-| [CMB](https://github.com/chenmingbiao) | 54 |
+| [CMB](https://github.com/chenmingbiao) | 55 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |

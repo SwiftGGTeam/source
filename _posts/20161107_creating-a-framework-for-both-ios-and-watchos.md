@@ -3,9 +3,9 @@ date: 2016-11-07
 tags: [Swift 跨平台]
 categories: [Natasha The Robot]
 permalink: creating-a-framework-for-both-ios-and-watchos
-keywords: 
+keywords: swift跨平台,watchos
 custom_title: 
-description: 
+description: 如果有一个框架能在 iOS 和 watchOS 都通用是不是会很棒呢，本文就是来探讨这个问题。
 
 ---
 > 作者：Natasha The Robot，[原文链接](https://www.natashatherobot.com/creating-a-framework-for-both-ios-and-watchos/)，原文日期：2016-09-26
@@ -43,5 +43,4 @@ description:
 因此，这毫无疑问有点危险，并且不是一个伟大的解决方案，但不幸的是，我只发现了这一个解决方案。现在，我终于可以快速开发其他的 app extension 了。
 
 如果有人有更好的解决方案，欢迎在评论区留言。
-
 > 本文由 SwiftGG 翻译组翻译，已经获得作者翻译授权，最新文章请访问 [http://swift.gg](http://swift.gg)。

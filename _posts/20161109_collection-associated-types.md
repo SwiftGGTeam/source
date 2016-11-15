@@ -3,9 +3,9 @@ date: 2016-11-09
 tags: [Swift]
 categories: [Ole Begemann]
 permalink: collection-associated-types
-keywords: 
-custom_title: 
-description: 
+keywords: swift协议,swift集合,swift collection
+custom_title: Swift 集合协议的关联类型
+description: Swift 中的集合很强大也很复杂，本文就来讨论下 Swift 集合协议的关联类型作用。
 
 ---
 > 作者：Ole Begemann，[原文链接](https://oleb.net/blog/2016/09/collection-associated-types/)，原文日期：2016-09-22

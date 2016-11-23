@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [Cwift](http://blog.csdn.net/cg1991130) | 12655 |
 | [BigbigChai](https://github.com/chaiyixiao) | 6444 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 3183 |
 | [Joy](undefined) | 1060 |
 
 
@@ -21,6 +22,7 @@
 | [Cwift](http://blog.csdn.net/cg1991130) | 3 |
 | [Joy](undefined) | 1 |
 | [BigbigChai](https://github.com/chaiyixiao) | 1 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
 
 
 # 翻译字数统计
@@ -35,7 +37,7 @@
 | [saitjr](http://www.saitjr.com) | 87788 |
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 80999 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 77030 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 80213 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [shanks](http://codebuild.me/) | 58775 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
@@ -87,7 +89,7 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 29 |
 | [小铁匠Linus](http://linusling.com) | 21 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 15 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 16 |
 | [小袋子](http://daizi.me) | 15 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [saitjr](http://www.saitjr.com) | 15 |
@@ -146,7 +148,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 91 |
 | [Cee](https://github.com/Cee) | 46 |
 | [shanks](http://codebuild.me/) | 34 |
-| [千叶知风](http://weibo.com/xiaoxxiao) | 27 |
+| [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [saitjr](http://www.saitjr.com) | 18 |
 | [小锅](http://www.swiftyper.com) | 14 |
@@ -181,7 +183,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
-| [CMB](https://github.com/chenmingbiao) | 58 |
+| [CMB](https://github.com/chenmingbiao) | 59 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |

@@ -9,7 +9,7 @@ description: Swift setter 方法能调用到父类吗，这个问题的答案是
 
 ---
 > 作者：Erica Sadun，[原文链接](http://ericasadun.com/2016/08/08/questions-can-you-call-super-in-a-setter/)，原文日期：2016/08/08
-> 译者：[Cwift](http://blog.csdn.net/cg1991130)；校对：[Cee](https://github.com/Cee)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：[Cwift](http://weibo.com/277195544)；校对：[Cee](https://github.com/Cee)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

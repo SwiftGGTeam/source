@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Cwift](http://blog.csdn.net/cg1991130) | 12655 |
+| [Cwift](http://weibo.com/277195544) | 12655 |
 | [BigbigChai](https://github.com/chaiyixiao) | 6444 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 3183 |
 | [Joy](undefined) | 1060 |
@@ -19,7 +19,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Cwift](http://blog.csdn.net/cg1991130) | 3 |
+| [Cwift](http://weibo.com/277195544) | 3 |
 | [Joy](undefined) | 1 |
 | [BigbigChai](https://github.com/chaiyixiao) | 1 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
@@ -53,7 +53,7 @@
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
 | [冬瓜](http://www.desgard.com/) | 29033 |
 | [X140Yu](undefined) | 26849 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 25814 |
+| [Cwift](http://weibo.com/277195544) | 25814 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [ckitakishi](undefined) | 21653 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
@@ -98,7 +98,7 @@
 | [walkingway](http://chengway.in/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 7 |
+| [Cwift](http://weibo.com/277195544) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
@@ -165,7 +165,7 @@
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
-| [Cwift](http://blog.csdn.net/cg1991130) | 2 |
+| [Cwift](http://weibo.com/277195544) | 2 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [冬瓜](http://www.desgard.com/) | 1 |

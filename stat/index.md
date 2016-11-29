@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 12655 |
+| [Cwift](http://weibo.com/277195544) | 18110 |
 | [BigbigChai](https://github.com/chaiyixiao) | 6444 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 3183 |
 | [Joy](undefined) | 1060 |
@@ -19,7 +19,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 3 |
+| [Cwift](http://weibo.com/277195544) | 4 |
 | [Joy](undefined) | 1 |
 | [BigbigChai](https://github.com/chaiyixiao) | 1 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
@@ -50,10 +50,10 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [BigbigChai](https://github.com/chaiyixiao) | 33693 |
+| [Cwift](http://weibo.com/277195544) | 31269 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
 | [冬瓜](http://www.desgard.com/) | 29033 |
 | [X140Yu](undefined) | 26849 |
-| [Cwift](http://weibo.com/277195544) | 25814 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [ckitakishi](undefined) | 21653 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
@@ -98,10 +98,10 @@
 | [walkingway](http://chengway.in/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10 |
-| [Cwift](http://weibo.com/277195544) | 7 |
-| [lfb_CD](http://weibo.com/lfbWb) | 7 |
-| [Prayer](http://www.futantan.com) | 7 |
+| [Cwift](http://weibo.com/277195544) | 8 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
+| [Prayer](http://www.futantan.com) | 7 |
+| [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [shanks](http://codebuild.me/) | 7 |
 | [Cee](https://github.com/Cee) | 7 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
@@ -166,9 +166,9 @@
 | [littledogboy](undefined) | 2 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
 | [Cwift](http://weibo.com/277195544) | 2 |
+| [冬瓜](http://www.desgard.com/) | 2 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
-| [冬瓜](http://www.desgard.com/) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [100mango](undefined) | 1 |
 | [Darren](https://github.com/Harman-darrenchen) | 1 |
@@ -183,7 +183,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
-| [CMB](https://github.com/chenmingbiao) | 59 |
+| [CMB](https://github.com/chenmingbiao) | 60 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |

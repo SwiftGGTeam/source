@@ -5,26 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2016 年 11 月字数排行
+# 2016 年 12 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 18110 |
-| [小锅](http://www.swiftyper.com) | 13599 |
-| [BigbigChai](https://github.com/chaiyixiao) | 6444 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 3183 |
-| [Joy](undefined) | 1060 |
+| [Cyan](undefined) | 951 |
 
 
-# 2016 年 11 月篇数排行
+# 2016 年 12 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 4 |
-| [Joy](undefined) | 1 |
-| [BigbigChai](https://github.com/chaiyixiao) | 1 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
-| [小锅](http://www.swiftyper.com) | 1 |
+| [Cyan](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -33,7 +25,7 @@
 | :------------: | :------------: |
 | [小铁匠Linus](http://linusling.com) | 162500 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 157225 |
-| [小锅](http://www.swiftyper.com) | 134227 |
+| [小锅](http://www.swiftyper.com) | 134244 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
 | [saitjr](http://www.saitjr.com) | 87788 |
@@ -83,6 +75,7 @@
 | [pucca](undefined) | 3825 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 3104 |
 | [Joy](undefined) | 1838 |
+| [Cyan](undefined) | 951 |
 
 
 # 翻译篇数统计
@@ -128,19 +121,20 @@
 | [ahfepj](undefined) | 3 |
 | [X140Yu](undefined) | 3 |
 | [DianQK](undefined) | 3 |
-| [钟颖](https://github.com/cyanzhong) | 2 |
 | [pucca](undefined) | 2 |
 | [赵磊](undefined) | 2 |
-| [Joy](undefined) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
+| [钟颖](https://github.com/cyanzhong) | 2 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
-| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [Lou](undefined) | 1 |
-| [&nbsp](https://github.com/initiOSJava) | 1 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [Joy](undefined) | 2 |
 | [ray](undefined) | 1 |
+| [&nbsp](https://github.com/initiOSJava) | 1 |
+| [Cyan](undefined) | 1 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
+| [Lou](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -158,7 +152,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
-| [小铁匠Linus](http://linusling.com) | 5 |
+| [小铁匠Linus](http://linusling.com) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [bestswifter](http://bestswifter.com) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
@@ -184,7 +178,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
-| [CMB](https://github.com/chenmingbiao) | 61 |
+| [CMB](https://github.com/chenmingbiao) | 62 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |

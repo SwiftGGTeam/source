@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [Cyan](undefined) | 951 |
+| [Cwift](http://weibo.com/277195544) | 617 |
 
 
 # 2016 年 12 月篇数排行
@@ -17,6 +18,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [Cyan](undefined) | 1 |
+| [Cwift](http://weibo.com/277195544) | 1 |
 
 
 # 翻译字数统计
@@ -44,7 +46,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [BigbigChai](https://github.com/chaiyixiao) | 33693 |
-| [Cwift](http://weibo.com/277195544) | 31269 |
+| [Cwift](http://weibo.com/277195544) | 31886 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
 | [冬瓜](http://www.desgard.com/) | 29033 |
 | [X140Yu](undefined) | 26849 |
@@ -93,7 +95,7 @@
 | [walkingway](http://chengway.in/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10 |
-| [Cwift](http://weibo.com/277195544) | 8 |
+| [Cwift](http://weibo.com/277195544) | 9 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [Cee](https://github.com/Cee) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
@@ -148,7 +150,7 @@
 | [saitjr](http://www.saitjr.com) | 19 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 14 |
-| [walkingway](http://chengway.in/) | 11 |
+| [walkingway](http://chengway.in/) | 12 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
@@ -178,7 +180,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
-| [CMB](https://github.com/chenmingbiao) | 62 |
+| [CMB](https://github.com/chenmingbiao) | 63 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |

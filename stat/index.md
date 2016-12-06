@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1853 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1877 |
 | [Cyan](undefined) | 951 |
 | [Cwift](http://weibo.com/277195544) | 617 |
 
@@ -40,7 +40,7 @@
 | [shanks](http://codebuild.me/) | 58775 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 54812 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 54836 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [小袋子](http://daizi.me) | 47030 |
 | [Lanford3_3](http://lanfordcai.github.io) | 40276 |

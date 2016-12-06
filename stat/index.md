@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1853 |
 | [Cyan](undefined) | 951 |
 | [Cwift](http://weibo.com/277195544) | 617 |
 
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [Cyan](undefined) | 1 |
 | [Cwift](http://weibo.com/277195544) | 1 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 
 
 # 翻译字数统计
@@ -38,8 +40,8 @@
 | [shanks](http://codebuild.me/) | 58775 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 54812 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 52959 |
 | [小袋子](http://daizi.me) | 47030 |
 | [Lanford3_3](http://lanfordcai.github.io) | 40276 |
 | [bestswifter](http://bestswifter.com) | 36614 |
@@ -103,19 +105,19 @@
 | [shanks](http://codebuild.me/) | 7 |
 | [天才175](http://weibo.com/u/2916092907) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
+| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
 | [bestswifter](http://bestswifter.com) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 5 |
 | [Darren](https://github.com/Harman-darrenchen) | 5 |
-| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 5 |
 | [JackAlan](http://ijack.pw/) | 5 |
-| [CoderAFI](http://coderafi.github.io/) | 4 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 4 |
 | [BigbigChai](https://github.com/chaiyixiao) | 4 |
+| [CoderAFI](http://coderafi.github.io/) | 4 |
 | [冬瓜](http://www.desgard.com/) | 4 |
 | [littledogboy](undefined) | 4 |
 | [jseanj](undefined) | 3 |
@@ -150,7 +152,7 @@
 | [saitjr](http://www.saitjr.com) | 19 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 14 |
-| [walkingway](http://chengway.in/) | 12 |
+| [walkingway](http://chengway.in/) | 13 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
@@ -180,7 +182,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
-| [CMB](https://github.com/chenmingbiao) | 63 |
+| [CMB](https://github.com/chenmingbiao) | 64 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |

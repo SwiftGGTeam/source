@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1877 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3305 |
 | [Cyan](undefined) | 951 |
 | [Cwift](http://weibo.com/277195544) | 617 |
 
@@ -18,9 +18,9 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
 | [Cyan](undefined) | 1 |
 | [Cwift](http://weibo.com/277195544) | 1 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 
 
 # 翻译字数统计
@@ -39,8 +39,8 @@
 | [walkingway](http://chengway.in/) | 59522 |
 | [shanks](http://codebuild.me/) | 58775 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 56264 |
 | [Cee](https://github.com/Cee) | 55370 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 54836 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [小袋子](http://daizi.me) | 47030 |
 | [Lanford3_3](http://lanfordcai.github.io) | 40276 |
@@ -90,28 +90,28 @@
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 16 |
 | [小锅](http://www.swiftyper.com) | 16 |
-| [saitjr](http://www.saitjr.com) | 15 |
 | [小袋子](http://daizi.me) | 15 |
+| [saitjr](http://www.saitjr.com) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [靛青K](http://blog.dianqk.org/) | 12 |
 | [walkingway](http://chengway.in/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10 |
 | [Cwift](http://weibo.com/277195544) | 9 |
-| [Yake](http://blog.csdn.net/yake_099) | 7 |
+| [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Cee](https://github.com/Cee) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
-| [lfb_CD](http://weibo.com/lfbWb) | 7 |
+| [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [shanks](http://codebuild.me/) | 7 |
-| [天才175](http://weibo.com/u/2916092907) | 6 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
-| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 5 |
-| [SergioChan](https://github.com/SergioChan) | 5 |
+| [天才175](http://weibo.com/u/2916092907) | 6 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
+| [Darren](https://github.com/Harman-darrenchen) | 5 |
 | [bestswifter](http://bestswifter.com) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 5 |
-| [Darren](https://github.com/Harman-darrenchen) | 5 |
+| [SergioChan](https://github.com/SergioChan) | 5 |
+| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 5 |
 | [JackAlan](http://ijack.pw/) | 5 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
@@ -158,13 +158,13 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
 | [小铁匠Linus](http://linusling.com) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
-| [bestswifter](http://bestswifter.com) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
+| [bestswifter](http://bestswifter.com) | 4 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 3 |
 | [mmoaay](http://mmoaay.photo/) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
 | [Cwift](http://weibo.com/277195544) | 2 |
 | [冬瓜](http://www.desgard.com/) | 2 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
@@ -182,7 +182,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
-| [CMB](https://github.com/chenmingbiao) | 64 |
+| [CMB](https://github.com/chenmingbiao) | 65 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |

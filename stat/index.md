@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4750 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 7046 |
 | [Cyan](undefined) | 951 |
 | [Cwift](http://weibo.com/277195544) | 617 |
 
@@ -18,7 +18,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [Cyan](undefined) | 1 |
 | [Cwift](http://weibo.com/277195544) | 1 |
 
@@ -36,10 +36,10 @@
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 80999 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 80213 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 60005 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [shanks](http://codebuild.me/) | 58775 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 57709 |
 | [Cee](https://github.com/Cee) | 55370 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [小袋子](http://daizi.me) | 47030 |
@@ -98,10 +98,10 @@
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10 |
 | [Cwift](http://weibo.com/277195544) | 9 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Cee](https://github.com/Cee) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [shanks](http://codebuild.me/) | 7 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
@@ -158,9 +158,9 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
 | [小铁匠Linus](http://linusling.com) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 5 |
 | [bestswifter](http://bestswifter.com) | 4 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [mmoaay](http://mmoaay.photo/) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
@@ -182,7 +182,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
-| [CMB](https://github.com/chenmingbiao) | 66 |
+| [CMB](https://github.com/chenmingbiao) | 67 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |

@@ -10,8 +10,8 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 7046 |
+| [Cwift](http://weibo.com/277195544) | 2678 |
 | [Cyan](undefined) | 951 |
-| [Cwift](http://weibo.com/277195544) | 617 |
 
 
 # 2016 年 12 月篇数排行
@@ -19,8 +19,8 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
+| [Cwift](http://weibo.com/277195544) | 2 |
 | [Cyan](undefined) | 1 |
-| [Cwift](http://weibo.com/277195544) | 1 |
 
 
 # 翻译字数统计
@@ -47,8 +47,8 @@
 | [bestswifter](http://bestswifter.com) | 36614 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
+| [Cwift](http://weibo.com/277195544) | 33947 |
 | [BigbigChai](https://github.com/chaiyixiao) | 33693 |
-| [Cwift](http://weibo.com/277195544) | 31886 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
 | [冬瓜](http://www.desgard.com/) | 29033 |
 | [X140Yu](undefined) | 26849 |
@@ -96,12 +96,12 @@
 | [靛青K](http://blog.dianqk.org/) | 12 |
 | [walkingway](http://chengway.in/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
+| [Cwift](http://weibo.com/277195544) | 10 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10 |
-| [Cwift](http://weibo.com/277195544) | 9 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 8 |
-| [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Cee](https://github.com/Cee) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
+| [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [shanks](http://codebuild.me/) | 7 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
@@ -152,7 +152,7 @@
 | [saitjr](http://www.saitjr.com) | 19 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 14 |
-| [walkingway](http://chengway.in/) | 13 |
+| [walkingway](http://chengway.in/) | 14 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
@@ -182,7 +182,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
-| [CMB](https://github.com/chenmingbiao) | 67 |
+| [CMB](https://github.com/chenmingbiao) | 68 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |

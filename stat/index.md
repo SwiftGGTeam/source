@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [shanks](http://codebuild.me/) | 21878 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 7046 |
 | [Cwift](http://weibo.com/277195544) | 2678 |
 | [Cyan](undefined) | 951 |
@@ -21,6 +22,7 @@
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4 |
 | [Cwift](http://weibo.com/277195544) | 2 |
 | [Cyan](undefined) | 1 |
+| [shanks](http://codebuild.me/) | 1 |
 
 
 # 翻译字数统计
@@ -35,10 +37,10 @@
 | [saitjr](http://www.saitjr.com) | 87788 |
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 80999 |
+| [shanks](http://codebuild.me/) | 80653 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 80213 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 60005 |
 | [walkingway](http://chengway.in/) | 59522 |
-| [shanks](http://codebuild.me/) | 58775 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
@@ -99,11 +101,11 @@
 | [Cwift](http://weibo.com/277195544) | 10 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 8 |
+| [shanks](http://codebuild.me/) | 8 |
 | [Cee](https://github.com/Cee) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Yake](http://blog.csdn.net/yake_099) | 7 |
-| [shanks](http://codebuild.me/) | 7 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
 | [天才175](http://weibo.com/u/2916092907) | 6 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
@@ -154,8 +156,8 @@
 | [小锅](http://www.swiftyper.com) | 14 |
 | [walkingway](http://chengway.in/) | 14 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 7 |
 | [小铁匠Linus](http://linusling.com) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 5 |
@@ -182,7 +184,7 @@
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
-| [CMB](https://github.com/chenmingbiao) | 68 |
+| [CMB](https://github.com/chenmingbiao) | 69 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |
 | [Cee](https://github.com/Cee) | 28 |

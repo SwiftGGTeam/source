@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 21878 |
-| [BigbigChai](https://github.com/chaiyixiao) | 8717 |
+| [ckitakishi](undefined) | 8717 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 7046 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2999 |
 | [Cwift](http://weibo.com/277195544) | 2678 |
@@ -26,7 +26,7 @@
 | [Cyan](undefined) | 1 |
 | [shanks](http://codebuild.me/) | 1 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
-| [BigbigChai](https://github.com/chaiyixiao) | 1 |
+| [ckitakishi](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -49,17 +49,17 @@
 | [Cee](https://github.com/Cee) | 55370 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [小袋子](http://daizi.me) | 47030 |
-| [BigbigChai](https://github.com/chaiyixiao) | 42410 |
 | [Lanford3_3](http://lanfordcai.github.io) | 40276 |
 | [bestswifter](http://bestswifter.com) | 36614 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
 | [Cwift](http://weibo.com/277195544) | 33947 |
+| [BigbigChai](https://github.com/chaiyixiao) | 33693 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
+| [ckitakishi](undefined) | 30370 |
 | [冬瓜](http://www.desgard.com/) | 29033 |
 | [X140Yu](undefined) | 26849 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
-| [ckitakishi](undefined) | 21653 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [pucca601](http://weibo.com/601pucca) | 18802 |
 | [riven](http://weibo.com/riven0951) | 17187 |
@@ -102,35 +102,35 @@
 | [靛青K](http://blog.dianqk.org/) | 12 |
 | [walkingway](http://chengway.in/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
-| [Cwift](http://weibo.com/277195544) | 10 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10 |
+| [Cwift](http://weibo.com/277195544) | 10 |
 | [shanks](http://codebuild.me/) | 8 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 8 |
-| [Prayer](http://www.futantan.com) | 7 |
-| [Yake](http://blog.csdn.net/yake_099) | 7 |
-| [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Cee](https://github.com/Cee) | 7 |
-| [CMB](https://github.com/chenmingbiao) | 6 |
+| [lfb_CD](http://weibo.com/lfbWb) | 7 |
+| [Yake](http://blog.csdn.net/yake_099) | 7 |
+| [Prayer](http://www.futantan.com) | 7 |
 | [天才175](http://weibo.com/u/2916092907) | 6 |
-| [Darren](https://github.com/Harman-darrenchen) | 5 |
-| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 5 |
-| [SergioChan](https://github.com/SergioChan) | 5 |
-| [BigbigChai](https://github.com/chaiyixiao) | 5 |
-| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
+| [CMB](https://github.com/chenmingbiao) | 6 |
 | [bestswifter](http://bestswifter.com) | 5 |
+| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 5 |
 | [JackAlan](http://ijack.pw/) | 5 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
-| [pucca601](http://weibo.com/601pucca) | 4 |
+| [SergioChan](https://github.com/SergioChan) | 5 |
+| [Darren](https://github.com/Harman-darrenchen) | 5 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
+| [pucca601](http://weibo.com/601pucca) | 4 |
+| [ckitakishi](undefined) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 4 |
-| [冬瓜](http://www.desgard.com/) | 4 |
 | [littledogboy](undefined) | 4 |
-| [jseanj](undefined) | 3 |
-| [ckitakishi](undefined) | 3 |
+| [冬瓜](http://www.desgard.com/) | 4 |
+| [BigbigChai](https://github.com/chaiyixiao) | 4 |
 | [ahfepj](undefined) | 3 |
 | [X140Yu](undefined) | 3 |
 | [DianQK](undefined) | 3 |
+| [jseanj](undefined) | 3 |
 | [pucca](undefined) | 2 |
 | [赵磊](undefined) | 2 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |

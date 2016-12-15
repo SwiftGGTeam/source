@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [shanks](http://codebuild.me/) | 21878 |
-| [ckitakishi](undefined) | 8717 |
+| [ckitakishi](undefined) | 8714 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 7046 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2999 |
 | [Cwift](http://weibo.com/277195544) | 2678 |
@@ -56,7 +56,7 @@
 | [Cwift](http://weibo.com/277195544) | 33947 |
 | [BigbigChai](https://github.com/chaiyixiao) | 33693 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
-| [ckitakishi](undefined) | 30370 |
+| [ckitakishi](undefined) | 30367 |
 | [冬瓜](http://www.desgard.com/) | 29033 |
 | [X140Yu](undefined) | 26849 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |

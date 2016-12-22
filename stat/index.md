@@ -12,7 +12,7 @@
 | [shanks](http://codebuild.me/) | 21878 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 9516 |
 | [ckitakishi](undefined) | 8714 |
-| [BigbigChai](https://github.com/chaiyixiao) | 6627 |
+| [BigbigChai](https://github.com/chaiyixiao) | 6619 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 6035 |
 | [saitjr](http://www.saitjr.com) | 2795 |
 | [Cwift](http://weibo.com/277195544) | 2678 |
@@ -53,7 +53,7 @@
 | [Cee](https://github.com/Cee) | 55370 |
 | [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [小袋子](http://daizi.me) | 47030 |
-| [BigbigChai](https://github.com/chaiyixiao) | 40320 |
+| [BigbigChai](https://github.com/chaiyixiao) | 40312 |
 | [Lanford3_3](http://lanfordcai.github.io) | 40276 |
 | [bestswifter](http://bestswifter.com) | 36614 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |

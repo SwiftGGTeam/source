@@ -16,7 +16,7 @@
 | [Cwift](http://weibo.com/277195544) | 6341 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 6035 |
 | [saitjr](http://www.saitjr.com) | 2795 |
-| [Cyan](undefined) | 951 |
+| [Cyan](undefined) | 2704 |
 
 
 # 2016 年 12 月篇数排行
@@ -25,8 +25,8 @@
 | :------------: | :------------: |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 7 |
 | [Cwift](http://weibo.com/277195544) | 3 |
+| [Cyan](undefined) | 2 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
-| [Cyan](undefined) | 1 |
 | [shanks](http://codebuild.me/) | 1 |
 | [ckitakishi](undefined) | 1 |
 | [saitjr](http://www.saitjr.com) | 1 |
@@ -88,8 +88,8 @@
 | [赵磊](undefined) | 4716 |
 | [pucca](undefined) | 3825 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 3104 |
+| [Cyan](undefined) | 2704 |
 | [Joy](undefined) | 1838 |
-| [Cyan](undefined) | 951 |
 
 
 # 翻译篇数统计
@@ -136,17 +136,17 @@
 | [ahfepj](undefined) | 3 |
 | [jseanj](undefined) | 3 |
 | [pucca](undefined) | 2 |
+| [Cyan](undefined) | 2 |
 | [赵磊](undefined) | 2 |
+| [Joy](undefined) | 2 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [Joy](undefined) | 2 |
-| [ray](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
-| [Cyan](undefined) | 1 |
+| [ray](undefined) | 1 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
 | [Lou](undefined) | 1 |
 
@@ -167,8 +167,8 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
+| [小铁匠Linus](http://linusling.com) | 7 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 6 |
-| [小铁匠Linus](http://linusling.com) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [bestswifter](http://bestswifter.com) | 4 |
 | [mmoaay](http://mmoaay.photo/) | 4 |
@@ -191,7 +191,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 78 |
+| [CMB](https://github.com/chenmingbiao) | 79 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

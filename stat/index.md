@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [Cwift](http://weibo.com/277195544) | 24430 |
 | [冬瓜](http://www.desgard.com/) | 5930 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4741 |
 
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [冬瓜](http://www.desgard.com/) | 2 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
+| [Cwift](http://weibo.com/277195544) | 1 |
 
 
 # 翻译字数统计

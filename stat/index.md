@@ -12,6 +12,7 @@
 | [Cwift](http://weibo.com/277195544) | 24430 |
 | [冬瓜](http://www.desgard.com/) | 5930 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4741 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1521 |
 
 
 # 2017 年 1 月篇数排行
@@ -21,6 +22,7 @@
 | [冬瓜](http://www.desgard.com/) | 2 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
 | [Cwift](http://weibo.com/277195544) | 1 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 
 
 # 翻译字数统计
@@ -37,7 +39,7 @@
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 80999 |
 | [shanks](http://codebuild.me/) | 80653 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 63830 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 65351 |
 | [Cwift](http://weibo.com/277195544) | 62040 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
@@ -93,10 +95,10 @@
 | [小锅](http://www.swiftyper.com) | 16 |
 | [小袋子](http://daizi.me) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 12 |
 | [walkingway](http://chengway.in/) | 12 |
 | [靛青K](http://blog.dianqk.org/) | 12 |
 | [Cwift](http://weibo.com/277195544) | 12 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10 |
 | [shanks](http://codebuild.me/) | 8 |
@@ -149,14 +151,14 @@
 | [Cee](https://github.com/Cee) | 46 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
-| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [saitjr](http://www.saitjr.com) | 19 |
+| [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [walkingway](http://chengway.in/) | 18 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
-| [lfb_CD](http://weibo.com/lfbWb) | 8 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 9 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 8 |
+| [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [小铁匠Linus](http://linusling.com) | 7 |
 | [Prayer](http://www.futantan.com) | 5 |
@@ -182,7 +184,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 87 |
+| [CMB](https://github.com/chenmingbiao) | 88 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

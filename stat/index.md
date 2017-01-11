@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [Cwift](http://weibo.com/277195544) | 24430 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 9480 |
 | [冬瓜](http://www.desgard.com/) | 5930 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4741 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1521 |
@@ -23,6 +24,7 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
 | [Cwift](http://weibo.com/277195544) | 1 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
 
 
 # 翻译字数统计
@@ -57,6 +59,7 @@
 | [ckitakishi](undefined) | 30367 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
 | [pucca601](http://weibo.com/601pucca) | 18802 |
 | [riven](http://weibo.com/riven0951) | 17187 |
 | [JackAlan](http://ijack.pw/) | 16062 |
@@ -69,7 +72,6 @@
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 13149 |
 | [Darren](https://github.com/Harman-darrenchen) | 12047 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 10921 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
 | [DianQK](undefined) | 8333 |
@@ -130,16 +132,16 @@
 | [pucca](undefined) | 2 |
 | [Cyan](undefined) | 2 |
 | [赵磊](undefined) | 2 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [Joy](undefined) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ray](undefined) | 1 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
 | [Lou](undefined) | 1 |
 
 
@@ -151,9 +153,9 @@
 | [Cee](https://github.com/Cee) | 46 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
+| [walkingway](http://chengway.in/) | 19 |
 | [saitjr](http://www.saitjr.com) | 19 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
-| [walkingway](http://chengway.in/) | 18 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 9 |
@@ -184,7 +186,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 88 |
+| [CMB](https://github.com/chenmingbiao) | 89 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

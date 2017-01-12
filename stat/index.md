@@ -13,7 +13,7 @@
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 9480 |
 | [冬瓜](http://www.desgard.com/) | 5930 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4741 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1521 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2675 |
 
 
 # 2017 年 1 月篇数排行
@@ -22,8 +22,8 @@
 | :------------: | :------------: |
 | [冬瓜](http://www.desgard.com/) | 2 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
 | [Cwift](http://weibo.com/277195544) | 1 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
 
 
@@ -41,7 +41,7 @@
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 80999 |
 | [shanks](http://codebuild.me/) | 80653 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 65351 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 66505 |
 | [Cwift](http://weibo.com/277195544) | 62040 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
@@ -97,7 +97,7 @@
 | [小锅](http://www.swiftyper.com) | 16 |
 | [小袋子](http://daizi.me) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 12 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 13 |
 | [walkingway](http://chengway.in/) | 12 |
 | [靛青K](http://blog.dianqk.org/) | 12 |
 | [Cwift](http://weibo.com/277195544) | 12 |
@@ -158,7 +158,7 @@
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 9 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 10 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
@@ -186,7 +186,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 89 |
+| [CMB](https://github.com/chenmingbiao) | 90 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

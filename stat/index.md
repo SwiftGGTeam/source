@@ -43,10 +43,10 @@
 | [shanks](http://codebuild.me/) | 80653 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 68376 |
 | [Cwift](http://weibo.com/277195544) | 62040 |
+| [Yake](http://blog.csdn.net/yake_099) | 61313 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
-| [Yake](http://blog.csdn.net/yake_099) | 54166 |
 | [小袋子](http://daizi.me) | 47030 |
 | [BigbigChai](https://github.com/chaiyixiao) | 40312 |
 | [Lanford3_3](http://lanfordcai.github.io) | 40276 |
@@ -98,13 +98,13 @@
 | [小袋子](http://daizi.me) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 14 |
-| [walkingway](http://chengway.in/) | 12 |
 | [靛青K](http://blog.dianqk.org/) | 12 |
 | [Cwift](http://weibo.com/277195544) | 12 |
+| [walkingway](http://chengway.in/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10 |
+| [Yake](http://blog.csdn.net/yake_099) | 8 |
 | [shanks](http://codebuild.me/) | 8 |
-| [Yake](http://blog.csdn.net/yake_099) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
 | [Cee](https://github.com/Cee) | 7 |
@@ -159,7 +159,7 @@
 | [小锅](http://www.swiftyper.com) | 15 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 8 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [小铁匠Linus](http://linusling.com) | 7 |
@@ -186,7 +186,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 91 |
+| [CMB](https://github.com/chenmingbiao) | 92 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

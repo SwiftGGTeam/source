@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [Cwift](http://weibo.com/277195544) | 24430 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 9480 |
+| [Yake](http://blog.csdn.net/yake_099) | 7147 |
 | [冬瓜](http://www.desgard.com/) | 5930 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4741 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4546 |
@@ -25,6 +26,7 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
 | [Cwift](http://weibo.com/277195544) | 1 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
+| [Yake](http://blog.csdn.net/yake_099) | 1 |
 
 
 # 翻译字数统计

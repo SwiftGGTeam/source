@@ -15,6 +15,7 @@
 | [冬瓜](http://www.desgard.com/) | 5930 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4741 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4546 |
+| [pucca](undefined) | 4411 |
 
 
 # 2017 年 1 月篇数排行
@@ -27,6 +28,7 @@
 | [Cwift](http://weibo.com/277195544) | 1 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
+| [pucca](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -77,12 +79,12 @@
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
 | [DianQK](undefined) | 8333 |
+| [pucca](undefined) | 8236 |
 | [ahfepj](undefined) | 8057 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
-| [pucca](undefined) | 3825 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 3104 |
 | [Cyan](undefined) | 2704 |
 | [Joy](undefined) | 1838 |
@@ -131,14 +133,14 @@
 | [DianQK](undefined) | 3 |
 | [jseanj](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
-| [pucca](undefined) | 2 |
+| [pucca](undefined) | 3 |
+| [haolloyin](https://github.com/haolloyin) | 2 |
 | [Cyan](undefined) | 2 |
-| [赵磊](undefined) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [Joy](undefined) | 2 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
-| [haolloyin](https://github.com/haolloyin) | 2 |
+| [赵磊](undefined) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
@@ -169,9 +171,9 @@
 | [bestswifter](http://bestswifter.com) | 4 |
 | [mmoaay](http://mmoaay.photo/) | 4 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
-| [&nbsp](https://github.com/initiOSJava) | 2 |
+| [Cwift](http://weibo.com/277195544) | 3 |
 | [littledogboy](undefined) | 2 |
-| [Cwift](http://weibo.com/277195544) | 2 |
+| [&nbsp](https://github.com/initiOSJava) | 2 |
 | [冬瓜](http://www.desgard.com/) | 2 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
@@ -188,7 +190,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 92 |
+| [CMB](https://github.com/chenmingbiao) | 93 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

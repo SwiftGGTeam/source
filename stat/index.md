@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [Cwift](http://weibo.com/277195544) | 24430 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 9480 |
+| [小锅](http://www.swiftyper.com) | 8373 |
 | [Yake](http://blog.csdn.net/yake_099) | 7147 |
 | [冬瓜](http://www.desgard.com/) | 5930 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4741 |
@@ -29,6 +30,7 @@
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [pucca](undefined) | 1 |
+| [小锅](http://www.swiftyper.com) | 1 |
 
 
 # 翻译字数统计
@@ -37,7 +39,7 @@
 | :------------: | :------------: |
 | [小铁匠Linus](http://linusling.com) | 162500 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 157225 |
-| [小锅](http://www.swiftyper.com) | 134244 |
+| [小锅](http://www.swiftyper.com) | 142617 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 96075 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
@@ -97,8 +99,8 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 29 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 22 |
 | [小铁匠Linus](http://linusling.com) | 21 |
+| [小锅](http://www.swiftyper.com) | 17 |
 | [saitjr](http://www.saitjr.com) | 16 |
-| [小锅](http://www.swiftyper.com) | 16 |
 | [小袋子](http://daizi.me) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 14 |
@@ -157,8 +159,8 @@
 | [Cee](https://github.com/Cee) | 46 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
+| [saitjr](http://www.saitjr.com) | 20 |
 | [walkingway](http://chengway.in/) | 19 |
-| [saitjr](http://www.saitjr.com) | 19 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 11 |
@@ -190,7 +192,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 93 |
+| [CMB](https://github.com/chenmingbiao) | 94 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

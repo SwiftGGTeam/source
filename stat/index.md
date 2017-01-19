@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 27259 |
+| [Cwift](http://weibo.com/277195544) | 27323 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 9480 |
 | [小锅](http://www.swiftyper.com) | 8373 |
 | [Yake](http://blog.csdn.net/yake_099) | 7147 |
@@ -48,7 +48,7 @@
 | [Prayer](http://www.futantan.com) | 80999 |
 | [shanks](http://codebuild.me/) | 80653 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 68376 |
-| [Cwift](http://weibo.com/277195544) | 64869 |
+| [Cwift](http://weibo.com/277195544) | 64933 |
 | [Yake](http://blog.csdn.net/yake_099) | 61313 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |

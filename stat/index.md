@@ -18,6 +18,7 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4741 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4546 |
 | [pucca](undefined) | 4411 |
+| [SketchK](undefined) | 3382 |
 
 
 # 2017 年 1 月篇数排行
@@ -33,6 +34,7 @@
 | [pucca](undefined) | 1 |
 | [小锅](http://www.swiftyper.com) | 1 |
 | [TonyHan](undefined) | 1 |
+| [SketchK](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -90,6 +92,7 @@
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
+| [SketchK](undefined) | 3382 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 3104 |
 | [Cyan](undefined) | 2704 |
 | [Joy](undefined) | 1838 |
@@ -153,6 +156,7 @@
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ray](undefined) | 1 |
 | [TonyHan](undefined) | 1 |
+| [SketchK](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -167,7 +171,7 @@
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 11 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 12 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
@@ -196,7 +200,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 96 |
+| [CMB](https://github.com/chenmingbiao) | 97 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

@@ -19,7 +19,7 @@
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 4546 |
 | [pucca](undefined) | 4411 |
 | [SketchK](undefined) | 3382 |
-| [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 712 |
+| [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 739 |
 
 
 # 2017 年 1 月篇数排行
@@ -94,7 +94,7 @@
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
-| [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 3816 |
+| [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 3843 |
 | [SketchK](undefined) | 3382 |
 | [Cyan](undefined) | 2704 |
 | [Joy](undefined) | 1838 |

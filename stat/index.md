@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 27323 |
+| [Cwift](http://weibo.com/277195544) | 33495 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 9480 |
 | [TonyHan](undefined) | 9009 |
 | [小锅](http://www.swiftyper.com) | 8373 |
@@ -26,9 +26,9 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
+| [Cwift](http://weibo.com/277195544) | 3 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [冬瓜](http://www.desgard.com/) | 2 |
-| [Cwift](http://weibo.com/277195544) | 2 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 1 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1 |
@@ -53,8 +53,8 @@
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 80999 |
 | [shanks](http://codebuild.me/) | 80653 |
+| [Cwift](http://weibo.com/277195544) | 71105 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 68376 |
-| [Cwift](http://weibo.com/277195544) | 64933 |
 | [Yake](http://blog.csdn.net/yake_099) | 61313 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
@@ -111,8 +111,8 @@
 | [saitjr](http://www.saitjr.com) | 16 |
 | [小袋子](http://daizi.me) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
+| [Cwift](http://weibo.com/277195544) | 14 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 14 |
-| [Cwift](http://weibo.com/277195544) | 13 |
 | [walkingway](http://chengway.in/) | 12 |
 | [靛青K](http://blog.dianqk.org/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
@@ -169,8 +169,8 @@
 | [Cee](https://github.com/Cee) | 46 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
+| [walkingway](http://chengway.in/) | 21 |
 | [saitjr](http://www.saitjr.com) | 20 |
-| [walkingway](http://chengway.in/) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 12 |
@@ -202,7 +202,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 98 |
+| [CMB](https://github.com/chenmingbiao) | 99 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

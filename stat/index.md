@@ -10,15 +10,15 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [Joy](undefined) | 6675 |
-| [Cwift](http://weibo.com/277195544) | 2991 |
+| [Cwift](http://weibo.com/277195544) | 5207 |
 
 
 # 2017 年 2 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
+| [Cwift](http://weibo.com/277195544) | 2 |
 | [Joy](undefined) | 1 |
-| [Cwift](http://weibo.com/277195544) | 1 |
 
 
 # 翻译字数统计
@@ -35,7 +35,7 @@
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 80999 |
 | [shanks](http://codebuild.me/) | 80653 |
-| [Cwift](http://weibo.com/277195544) | 74096 |
+| [Cwift](http://weibo.com/277195544) | 76312 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 68376 |
 | [Yake](http://blog.csdn.net/yake_099) | 61313 |
 | [walkingway](http://chengway.in/) | 59522 |
@@ -91,10 +91,10 @@
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [小锅](http://www.swiftyper.com) | 17 |
 | [saitjr](http://www.saitjr.com) | 16 |
-| [Cwift](http://weibo.com/277195544) | 15 |
+| [Cwift](http://weibo.com/277195544) | 16 |
 | [小袋子](http://daizi.me) | 15 |
-| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 14 |
+| [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [walkingway](http://chengway.in/) | 12 |
 | [靛青K](http://blog.dianqk.org/) | 12 |
 | [mmoaay](http://mmoaay.photo/) | 11 |
@@ -151,7 +151,7 @@
 | [Cee](https://github.com/Cee) | 46 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
-| [walkingway](http://chengway.in/) | 22 |
+| [walkingway](http://chengway.in/) | 23 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
@@ -184,7 +184,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 101 |
+| [CMB](https://github.com/chenmingbiao) | 102 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

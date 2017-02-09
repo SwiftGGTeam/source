@@ -11,7 +11,7 @@
 | :------------: | :------------: |
 | [Joy](undefined) | 6675 |
 | [Cwift](http://weibo.com/277195544) | 5207 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2188 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2186 |
 
 
 # 2017 年 2 月篇数排行
@@ -38,7 +38,7 @@
 | [Prayer](http://www.futantan.com) | 80999 |
 | [shanks](http://codebuild.me/) | 80653 |
 | [Cwift](http://weibo.com/277195544) | 76312 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 70564 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 70562 |
 | [Yake](http://blog.csdn.net/yake_099) | 61313 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |

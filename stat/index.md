@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [Joy](undefined) | 6675 |
 | [Cwift](http://weibo.com/277195544) | 5207 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2188 |
 
 
 # 2017 年 2 月篇数排行
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [Cwift](http://weibo.com/277195544) | 2 |
 | [Joy](undefined) | 1 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 1 |
 
 
 # 翻译字数统计
@@ -36,7 +38,7 @@
 | [Prayer](http://www.futantan.com) | 80999 |
 | [shanks](http://codebuild.me/) | 80653 |
 | [Cwift](http://weibo.com/277195544) | 76312 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 68376 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 70564 |
 | [Yake](http://blog.csdn.net/yake_099) | 61313 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
@@ -93,7 +95,7 @@
 | [saitjr](http://www.saitjr.com) | 16 |
 | [Cwift](http://weibo.com/277195544) | 16 |
 | [小袋子](http://daizi.me) | 15 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 14 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [walkingway](http://chengway.in/) | 12 |
 | [靛青K](http://blog.dianqk.org/) | 12 |
@@ -155,7 +157,7 @@
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 12 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 13 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
@@ -184,7 +186,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 102 |
+| [CMB](https://github.com/chenmingbiao) | 103 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

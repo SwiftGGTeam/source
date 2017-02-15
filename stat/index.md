@@ -9,8 +9,8 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [Cwift](http://weibo.com/277195544) | 8218 |
 | [Joy](undefined) | 6675 |
-| [Cwift](http://weibo.com/277195544) | 5207 |
 | [冬瓜](http://www.desgard.com/) | 3584 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3138 |
 
@@ -19,7 +19,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 2 |
+| [Cwift](http://weibo.com/277195544) | 3 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 2 |
 | [Joy](undefined) | 1 |
 | [冬瓜](http://www.desgard.com/) | 1 |
@@ -39,7 +39,7 @@
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 80999 |
 | [shanks](http://codebuild.me/) | 80653 |
-| [Cwift](http://weibo.com/277195544) | 76312 |
+| [Cwift](http://weibo.com/277195544) | 79323 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 71514 |
 | [Yake](http://blog.csdn.net/yake_099) | 61313 |
 | [walkingway](http://chengway.in/) | 59522 |
@@ -94,9 +94,9 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 22 |
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [小锅](http://www.swiftyper.com) | 17 |
-| [saitjr](http://www.saitjr.com) | 16 |
+| [Cwift](http://weibo.com/277195544) | 17 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 16 |
-| [Cwift](http://weibo.com/277195544) | 16 |
+| [saitjr](http://www.saitjr.com) | 16 |
 | [小袋子](http://daizi.me) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [walkingway](http://chengway.in/) | 12 |
@@ -155,7 +155,7 @@
 | [Cee](https://github.com/Cee) | 46 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
-| [walkingway](http://chengway.in/) | 23 |
+| [walkingway](http://chengway.in/) | 24 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
@@ -188,7 +188,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 105 |
+| [CMB](https://github.com/chenmingbiao) | 106 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

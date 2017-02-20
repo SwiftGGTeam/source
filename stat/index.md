@@ -82,7 +82,7 @@
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
 | [Martin_Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 3843 |
-| [SketchK](undefined) | 3382 |
+| [SketchK](undefined) | 3207 |
 | [Cyan](undefined) | 2704 |
 
 

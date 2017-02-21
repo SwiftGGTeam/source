@@ -9,7 +9,7 @@ description: 想让你的代码更加的有 Swifter 范吗，来看看本文是�
 
 ---
 > 作者：Erica Sadun，[原文链接](http://ericasadun.com/2016/06/28/make-it-swifter-challenge/)，原文日期：2016-06-28
-> 译者：[Joy](undefined)；校对：[bestswifter](http://bestswifter.com)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：[Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles)；校对：[bestswifter](http://bestswifter.com)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

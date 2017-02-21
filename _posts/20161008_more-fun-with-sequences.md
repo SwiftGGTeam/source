@@ -9,7 +9,7 @@ description: 这里是网页描述
 
 ---
 > 作者：Jameson Quave，[原文链接](http://ericasadun.com/2016/08/10/more-fun-with-sequences/)，原文日期：2016-08-10
-> 译者：[Joy](undefined)；校对：[bestswifter](http://bestswifter.com)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
+> 译者：[Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles)；校对：[bestswifter](http://bestswifter.com)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

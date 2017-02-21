@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [Cwift](http://weibo.com/277195544) | 20498 |
-| [Joy](undefined) | 6675 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6675 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 6566 |
 | [冬瓜](http://www.desgard.com/) | 3584 |
 
@@ -21,7 +21,7 @@
 | :------------: | :------------: |
 | [Cwift](http://weibo.com/277195544) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
-| [Joy](undefined) | 1 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1 |
 | [冬瓜](http://www.desgard.com/) | 1 |
 
 
@@ -68,7 +68,7 @@
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 13149 |
-| [Joy](undefined) | 12335 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
 | [Darren](https://github.com/Harman-darrenchen) | 12047 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [Lou](undefined) | 9554 |
@@ -110,7 +110,7 @@
 | [冬瓜](http://www.desgard.com/) | 7 |
 | [天才175](http://weibo.com/u/2916092907) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
-| [Joy](undefined) | 6 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [bestswifter](http://bestswifter.com) | 5 |
@@ -178,7 +178,7 @@
 | [Darren](https://github.com/Harman-darrenchen) | 1 |
 | [小袋子](http://daizi.me) | 1 |
 | [way](undefined) | 1 |
-| [Joy](undefined) | 1 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 
 

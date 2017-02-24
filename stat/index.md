@@ -12,8 +12,8 @@
 | [Cwift](http://weibo.com/277195544) | 20498 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6675 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 6566 |
-| [BigbigChai](https://github.com/chaiyixiao) | 3688 |
-| [SketchK](undefined) | 3610 |
+| [BigbigChai](https://github.com/chaiyixiao) | 3689 |
+| [SketchK](undefined) | 3645 |
 | [冬瓜](http://www.desgard.com/) | 3584 |
 
 
@@ -50,7 +50,7 @@
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
 | [小袋子](http://daizi.me) | 47030 |
-| [BigbigChai](https://github.com/chaiyixiao) | 44000 |
+| [BigbigChai](https://github.com/chaiyixiao) | 44001 |
 | [Lanford3_3](http://lanfordcai.github.io) | 40276 |
 | [冬瓜](http://www.desgard.com/) | 38547 |
 | [bestswifter](http://bestswifter.com) | 36614 |
@@ -82,7 +82,7 @@
 | [pucca](undefined) | 8236 |
 | [ahfepj](undefined) | 8057 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
-| [SketchK](undefined) | 6817 |
+| [SketchK](undefined) | 6852 |
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |

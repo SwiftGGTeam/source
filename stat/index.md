@@ -28,8 +28,8 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 173511 |
-| [小铁匠Linus](http://linusling.com) | 162500 |
-| [小锅](http://www.swiftyper.com) | 142617 |
+| [小铁匠Linus](http://linusling.com) | 162503 |
+| [小锅](http://www.swiftyper.com) | 142620 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 96075 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
@@ -38,8 +38,8 @@
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 80999 |
 | [shanks](http://codebuild.me/) | 80653 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 74942 |
-| [Yake](http://blog.csdn.net/yake_099) | 61313 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 74945 |
+| [Yake](http://blog.csdn.net/yake_099) | 61316 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
@@ -49,7 +49,7 @@
 | [冬瓜](http://www.desgard.com/) | 38547 |
 | [bestswifter](http://bestswifter.com) | 36614 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 35534 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 35537 |
 | [X140Yu](undefined) | 31496 |
 | [CoderAFI](http://coderafi.github.io/) | 30712 |
 | [ckitakishi](undefined) | 30367 |
@@ -184,7 +184,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 114 |
+| [CMB](https://github.com/chenmingbiao) | 118 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |
@@ -194,10 +194,10 @@
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |
-| [way](undefined) | 1 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
-| [lfb_CD](http://weibo.com/lfbWb) | 1 |
+| [天才175](http://weibo.com/u/2916092907) | 1 |
 | [saitjr](http://www.saitjr.com) | 1 |
+| [way](undefined) | 1 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
 | [mmoaay](http://mmoaay.photo/) | 1 |
-| [天才175](http://weibo.com/u/2916092907) | 1 |
+| [lfb_CD](http://weibo.com/lfbWb) | 1 |

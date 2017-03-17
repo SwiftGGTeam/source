@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 16286 |
-| [Cwift](http://weibo.com/277195544) | 9644 |
+| [Cwift](http://weibo.com/277195544) | 11900 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 3297 |
 
 
@@ -18,7 +18,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 2 |
+| [Cwift](http://weibo.com/277195544) | 3 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 
@@ -31,7 +31,7 @@
 | [小铁匠Linus](http://linusling.com) | 162503 |
 | [小锅](http://www.swiftyper.com) | 142620 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
-| [Cwift](http://weibo.com/277195544) | 101247 |
+| [Cwift](http://weibo.com/277195544) | 103503 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 96075 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
 | [saitjr](http://www.saitjr.com) | 90583 |
@@ -88,8 +88,8 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 30 |
+| [Cwift](http://weibo.com/277195544) | 22 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 22 |
-| [Cwift](http://weibo.com/277195544) | 21 |
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 17 |
 | [小锅](http://www.swiftyper.com) | 17 |
@@ -147,7 +147,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 91 |
+| [numbbbbb](http://numbbbbb.com/) | 92 |
 | [Cee](https://github.com/Cee) | 46 |
 | [shanks](http://codebuild.me/) | 34 |
 | [walkingway](http://chengway.in/) | 29 |
@@ -184,7 +184,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 119 |
+| [CMB](https://github.com/chenmingbiao) | 120 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

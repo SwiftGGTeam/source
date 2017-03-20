@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 16286 |
 | [Cwift](http://weibo.com/277195544) | 11900 |
+| [SketchK](undefined) | 7468 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 3297 |
 
 
@@ -21,6 +22,7 @@
 | [Cwift](http://weibo.com/277195544) | 3 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
+| [SketchK](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -63,6 +65,7 @@
 | [jseanj](undefined) | 15628 |
 | [zltunes](http://zltunes.com) | 15439 |
 | [钟颖](https://github.com/cyanzhong) | 14394 |
+| [SketchK](undefined) | 14320 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 13149 |
@@ -76,7 +79,6 @@
 | [pucca](undefined) | 8236 |
 | [ahfepj](undefined) | 8057 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
-| [SketchK](undefined) | 6852 |
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
@@ -124,11 +126,11 @@
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [X140Yu](undefined) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
+| [SketchK](undefined) | 3 |
 | [pucca](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
 | [jseanj](undefined) | 3 |
 | [DianQK](undefined) | 3 |
-| [钟颖](https://github.com/cyanzhong) | 2 |
 | [Cyan](undefined) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
@@ -136,7 +138,7 @@
 | [riven](http://weibo.com/riven0951) | 2 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [SketchK](undefined) | 2 |
+| [钟颖](https://github.com/cyanzhong) | 2 |
 | [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ray](undefined) | 1 |
@@ -148,7 +150,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 92 |
-| [Cee](https://github.com/Cee) | 46 |
+| [Cee](https://github.com/Cee) | 47 |
 | [shanks](http://codebuild.me/) | 34 |
 | [walkingway](http://chengway.in/) | 29 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
@@ -184,7 +186,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 120 |
+| [CMB](https://github.com/chenmingbiao) | 121 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

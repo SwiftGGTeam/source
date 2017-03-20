@@ -11,7 +11,7 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 16286 |
 | [Cwift](http://weibo.com/277195544) | 11900 |
-| [SketchK](undefined) | 7468 |
+| [SketchK](undefined) | 7655 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 3297 |
 
 
@@ -64,8 +64,8 @@
 | [JackAlan](http://ijack.pw/) | 16062 |
 | [jseanj](undefined) | 15628 |
 | [zltunes](http://zltunes.com) | 15439 |
+| [SketchK](undefined) | 14507 |
 | [钟颖](https://github.com/cyanzhong) | 14394 |
-| [SketchK](undefined) | 14320 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 13149 |

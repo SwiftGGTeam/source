@@ -11,7 +11,7 @@
 | :------------: | :------------: |
 | [Cwift](http://weibo.com/277195544) | 29085 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 16286 |
-| [四娘](https://kemchenj.github.io) | 7737 |
+| [四娘](https://kemchenj.github.io) | 7725 |
 | [SketchK](undefined) | 7655 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 3297 |
 
@@ -80,7 +80,7 @@
 | [DianQK](undefined) | 8333 |
 | [pucca](undefined) | 8236 |
 | [ahfepj](undefined) | 8057 |
-| [四娘](https://kemchenj.github.io) | 7737 |
+| [四娘](https://kemchenj.github.io) | 7725 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |

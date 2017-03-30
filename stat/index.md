@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [Cwift](http://weibo.com/277195544) | 29085 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 16286 |
+| [kemchenj](undefined) | 7743 |
 | [SketchK](undefined) | 7655 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 3297 |
 
@@ -23,6 +24,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [SketchK](undefined) | 1 |
+| [kemchenj](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -78,6 +80,7 @@
 | [DianQK](undefined) | 8333 |
 | [pucca](undefined) | 8236 |
 | [ahfepj](undefined) | 8057 |
+| [kemchenj](undefined) | 7743 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
@@ -126,23 +129,24 @@
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [X140Yu](undefined) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
-| [SketchK](undefined) | 3 |
 | [pucca](undefined) | 3 |
+| [SketchK](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
 | [jseanj](undefined) | 3 |
 | [DianQK](undefined) | 3 |
+| [riven](http://weibo.com/riven0951) | 2 |
 | [Cyan](undefined) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [钟颖](https://github.com/cyanzhong) | 2 |
 | [赵磊](undefined) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [钟颖](https://github.com/cyanzhong) | 2 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
-| [ray](undefined) | 1 |
 | [TonyHan](undefined) | 1 |
+| [ray](undefined) | 1 |
+| [kemchenj](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -163,7 +167,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [小铁匠Linus](http://linusling.com) | 7 |
-| [Cwift](http://weibo.com/277195544) | 6 |
+| [Cwift](http://weibo.com/277195544) | 7 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [bestswifter](http://bestswifter.com) | 4 |
 | [mmoaay](http://mmoaay.photo/) | 4 |
@@ -186,7 +190,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 124 |
+| [CMB](https://github.com/chenmingbiao) | 125 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

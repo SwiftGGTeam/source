@@ -5,26 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2017 年 3 月字数排行
+# 2017 年 4 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 29085 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 16286 |
-| [四娘](https://kemchenj.github.io) | 7725 |
-| [SketchK](undefined) | 7655 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 3297 |
+| [钟颖Cyan](undefined) | 3427 |
 
 
-# 2017 年 3 月篇数排行
+# 2017 年 4 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 6 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 1 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
-| [SketchK](undefined) | 1 |
-| [四娘](https://kemchenj.github.io) | 1 |
+| [钟颖Cyan](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -85,6 +77,7 @@
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
+| [钟颖Cyan](undefined) | 3427 |
 | [Cyan](undefined) | 2704 |
 
 
@@ -96,8 +89,8 @@
 | [Cwift](http://weibo.com/277195544) | 25 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 22 |
 | [小铁匠Linus](http://linusling.com) | 21 |
-| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 17 |
 | [小锅](http://www.swiftyper.com) | 17 |
+| [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 17 |
 | [saitjr](http://www.saitjr.com) | 16 |
 | [小袋子](http://daizi.me) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
@@ -108,45 +101,46 @@
 | [Yake](http://blog.csdn.net/yake_099) | 8 |
 | [shanks](http://codebuild.me/) | 8 |
 | [Cee](https://github.com/Cee) | 7 |
-| [lfb_CD](http://weibo.com/lfbWb) | 7 |
-| [Prayer](http://www.futantan.com) | 7 |
 | [冬瓜](http://www.desgard.com/) | 7 |
-| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6 |
+| [Prayer](http://www.futantan.com) | 7 |
+| [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
 | [天才175](http://weibo.com/u/2916092907) | 6 |
 | [BigbigChai](https://github.com/chaiyixiao) | 6 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
-| [JackAlan](http://ijack.pw/) | 5 |
-| [bestswifter](http://bestswifter.com) | 5 |
-| [zltunes](http://zltunes.com) | 5 |
-| [SergioChan](https://github.com/SergioChan) | 5 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 5 |
+| [JackAlan](http://ijack.pw/) | 5 |
 | [Darren](https://github.com/Harman-darrenchen) | 5 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5 |
-| [pucca601](http://weibo.com/601pucca) | 4 |
+| [SergioChan](https://github.com/SergioChan) | 5 |
+| [bestswifter](http://bestswifter.com) | 5 |
+| [zltunes](http://zltunes.com) | 5 |
 | [littledogboy](undefined) | 4 |
-| [ckitakishi](undefined) | 4 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
+| [pucca601](http://weibo.com/601pucca) | 4 |
 | [X140Yu](undefined) | 4 |
 | [CoderAFI](http://coderafi.github.io/) | 4 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
+| [ckitakishi](undefined) | 4 |
 | [pucca](undefined) | 3 |
-| [SketchK](undefined) | 3 |
-| [ahfepj](undefined) | 3 |
 | [jseanj](undefined) | 3 |
+| [ahfepj](undefined) | 3 |
 | [DianQK](undefined) | 3 |
-| [riven](http://weibo.com/riven0951) | 2 |
-| [Cyan](undefined) | 2 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
-| [钟颖](https://github.com/cyanzhong) | 2 |
-| [赵磊](undefined) | 2 |
+| [SketchK](undefined) | 3 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
+| [Cyan](undefined) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
+| [钟颖](https://github.com/cyanzhong) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [赵磊](undefined) | 2 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [TonyHan](undefined) | 1 |
 | [ray](undefined) | 1 |
 | [四娘](https://kemchenj.github.io) | 1 |
+| [钟颖Cyan](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -165,9 +159,9 @@
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
+| [Cwift](http://weibo.com/277195544) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [小铁匠Linus](http://linusling.com) | 7 |
-| [Cwift](http://weibo.com/277195544) | 7 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [bestswifter](http://bestswifter.com) | 4 |
 | [mmoaay](http://mmoaay.photo/) | 4 |
@@ -190,7 +184,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 125 |
+| [CMB](https://github.com/chenmingbiao) | 126 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

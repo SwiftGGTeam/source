@@ -9,14 +9,14 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [钟颖Cyan](undefined) | 3427 |
+| [钟颖Cyan](undefined) | 7534 |
 
 
 # 2017 年 4 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [钟颖Cyan](undefined) | 1 |
+| [钟颖Cyan](undefined) | 2 |
 
 
 # 翻译字数统计
@@ -73,11 +73,11 @@
 | [pucca](undefined) | 8236 |
 | [ahfepj](undefined) | 8057 |
 | [四娘](https://kemchenj.github.io) | 7725 |
+| [钟颖Cyan](undefined) | 7534 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
-| [钟颖Cyan](undefined) | 3427 |
 | [Cyan](undefined) | 2704 |
 
 
@@ -129,18 +129,18 @@
 | [SketchK](undefined) | 3 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
 | [Cyan](undefined) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
+| [钟颖Cyan](undefined) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [赵磊](undefined) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
 | [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [TonyHan](undefined) | 1 |
 | [ray](undefined) | 1 |
 | [四娘](https://kemchenj.github.io) | 1 |
-| [钟颖Cyan](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -157,9 +157,9 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 16 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
+| [Cwift](http://weibo.com/277195544) | 9 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
-| [Cwift](http://weibo.com/277195544) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [小铁匠Linus](http://linusling.com) | 7 |
 | [Prayer](http://www.futantan.com) | 5 |
@@ -184,7 +184,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 126 |
+| [CMB](https://github.com/chenmingbiao) | 127 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

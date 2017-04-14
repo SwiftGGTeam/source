@@ -12,6 +12,7 @@
 | [钟颖Cyan](undefined) | 7534 |
 | [TonyHan](undefined) | 5302 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4614 |
+| [X140yu](undefined) | 3784 |
 
 
 # 2017 年 4 月篇数排行
@@ -21,6 +22,7 @@
 | [钟颖Cyan](undefined) | 2 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
 | [TonyHan](undefined) | 1 |
+| [X140yu](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -82,6 +84,7 @@
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
+| [X140yu](undefined) | 3784 |
 | [Cyan](undefined) | 2704 |
 
 
@@ -120,31 +123,32 @@
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [bestswifter](http://bestswifter.com) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
-| [littledogboy](undefined) | 4 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
-| [X140Yu](undefined) | 4 |
-| [CoderAFI](http://coderafi.github.io/) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [ckitakishi](undefined) | 4 |
-| [pucca](undefined) | 3 |
-| [jseanj](undefined) | 3 |
-| [ahfepj](undefined) | 3 |
-| [DianQK](undefined) | 3 |
+| [X140Yu](undefined) | 4 |
+| [CoderAFI](http://coderafi.github.io/) | 4 |
+| [littledogboy](undefined) | 4 |
 | [SketchK](undefined) | 3 |
-| [haolloyin](https://github.com/haolloyin) | 2 |
-| [TonyHan](undefined) | 2 |
-| [钟颖Cyan](undefined) | 2 |
+| [ahfepj](undefined) | 3 |
+| [pucca](undefined) | 3 |
+| [DianQK](undefined) | 3 |
+| [jseanj](undefined) | 3 |
+| [赵磊](undefined) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [赵磊](undefined) | 2 |
-| [Cyan](undefined) | 2 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
+| [haolloyin](https://github.com/haolloyin) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [Lou](undefined) | 1 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
+| [Cyan](undefined) | 2 |
+| [TonyHan](undefined) | 2 |
+| [钟颖Cyan](undefined) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ray](undefined) | 1 |
 | [四娘](https://kemchenj.github.io) | 1 |
+| [Lou](undefined) | 1 |
+| [X140yu](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -153,7 +157,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 92 |
 | [Cee](https://github.com/Cee) | 47 |
-| [walkingway](http://chengway.in/) | 35 |
+| [walkingway](http://chengway.in/) | 36 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [saitjr](http://www.saitjr.com) | 20 |
@@ -188,7 +192,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 130 |
+| [CMB](https://github.com/chenmingbiao) | 131 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

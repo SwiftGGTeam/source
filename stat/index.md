@@ -15,7 +15,7 @@
 | [CoderAFI](http://coderafi.github.io/) | 3846 |
 | [X140yu](undefined) | 3784 |
 | [SketchK](undefined) | 2975 |
-| [Darren](https://github.com/Harman-darrenchen) | 1380 |
+| [Darren](https://github.com/Harman-darrenchen) | 1404 |
 
 
 # 2017 年 4 月篇数排行
@@ -74,7 +74,7 @@
 | [钟颖](https://github.com/cyanzhong) | 14394 |
 | [TonyHan](undefined) | 14311 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
-| [Darren](https://github.com/Harman-darrenchen) | 13427 |
+| [Darren](https://github.com/Harman-darrenchen) | 13451 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 13149 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |

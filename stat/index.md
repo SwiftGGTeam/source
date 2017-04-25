@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [智多芯](http://hulizhen.me) | 11327 |
+| [智多芯](http://hulizhen.me) | 11324 |
 | [钟颖Cyan](undefined) | 7534 |
 | [TonyHan](undefined) | 5302 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4614 |
@@ -80,7 +80,7 @@
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 13149 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
-| [智多芯](http://hulizhen.me) | 11327 |
+| [智多芯](http://hulizhen.me) | 11324 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |

@@ -16,6 +16,7 @@
 | [CoderAFI](http://coderafi.github.io/) | 3846 |
 | [X140yu](undefined) | 3784 |
 | [SketchK](undefined) | 2975 |
+| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2083 |
 | [Darren](https://github.com/Harman-darrenchen) | 1404 |
 
 
@@ -31,6 +32,7 @@
 | [Darren](https://github.com/Harman-darrenchen) | 1 |
 | [CoderAFI](http://coderafi.github.io/) | 1 |
 | [智多芯](http://hulizhen.me) | 1 |
+| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 1 |
 
 
 # 翻译字数统计

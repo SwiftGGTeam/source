@@ -10,9 +10,9 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [智多芯](http://hulizhen.me) | 11324 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 9052 |
 | [钟颖Cyan](undefined) | 7534 |
 | [TonyHan](undefined) | 5302 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4614 |
 | [CoderAFI](http://coderafi.github.io/) | 3846 |
 | [X140yu](undefined) | 3784 |
 | [SketchK](http://www.sketchk.xyz) | 2975 |
@@ -24,8 +24,8 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 3 |
 | [钟颖Cyan](undefined) | 2 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
 | [TonyHan](undefined) | 1 |
 | [X140yu](undefined) | 1 |
 | [SketchK](http://www.sketchk.xyz) | 1 |
@@ -44,7 +44,7 @@
 | [小锅](http://www.swiftyper.com) | 142620 |
 | [Cwift](http://weibo.com/277195544) | 120688 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 100689 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 105127 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
 | [saitjr](http://www.saitjr.com) | 90583 |
 | [靛青K](http://blog.dianqk.org/) | 86372 |
@@ -105,7 +105,7 @@
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 30 |
 | [Cwift](http://weibo.com/277195544) | 25 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 24 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 25 |
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [小锅](http://www.swiftyper.com) | 17 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 17 |
@@ -177,7 +177,7 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
-| [Cwift](http://weibo.com/277195544) | 9 |
+| [Cwift](http://weibo.com/277195544) | 10 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
@@ -204,7 +204,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 136 |
+| [CMB](https://github.com/chenmingbiao) | 137 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

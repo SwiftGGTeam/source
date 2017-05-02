@@ -9,14 +9,14 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Tony Han](undefined) | 4450 |
+| [TonyHan](undefined) | 4450 |
 
 
 # 2017 年 5 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Tony Han](undefined) | 1 |
+| [TonyHan](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -54,6 +54,7 @@
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 18919 |
 | [pucca601](http://weibo.com/601pucca) | 18802 |
+| [TonyHan](undefined) | 18761 |
 | [SketchK](http://www.sketchk.xyz) | 17482 |
 | [riven](http://weibo.com/riven0951) | 17187 |
 | [JackAlan](http://ijack.pw/) | 16062 |
@@ -61,7 +62,6 @@
 | [zltunes](http://zltunes.com) | 15439 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 15232 |
 | [钟颖](https://github.com/cyanzhong) | 14394 |
-| [TonyHan](undefined) | 14311 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
 | [Darren](https://github.com/Harman-darrenchen) | 13451 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
@@ -79,7 +79,6 @@
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
-| [Tony Han](undefined) | 4450 |
 | [X140yu](undefined) | 3784 |
 | [Cyan](undefined) | 2704 |
 
@@ -121,23 +120,23 @@
 | [CoderAFI](http://coderafi.github.io/) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
+| [ckitakishi](undefined) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
+| [X140Yu](undefined) | 4 |
 | [littledogboy](undefined) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
-| [X140Yu](undefined) | 4 |
-| [ckitakishi](undefined) | 4 |
-| [ahfepj](undefined) | 3 |
-| [pucca](undefined) | 3 |
 | [jseanj](undefined) | 3 |
 | [DianQK](undefined) | 3 |
-| [haolloyin](https://github.com/haolloyin) | 2 |
+| [ahfepj](undefined) | 3 |
+| [pucca](undefined) | 3 |
+| [TonyHan](undefined) | 3 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [钟颖Cyan](undefined) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
+| [赵磊](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [赵磊](undefined) | 2 |
-| [TonyHan](undefined) | 2 |
+| [haolloyin](https://github.com/haolloyin) | 2 |
+| [钟颖Cyan](undefined) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [Cyan](undefined) | 2 |
 | [Lou](undefined) | 1 |
@@ -146,7 +145,6 @@
 | [ray](undefined) | 1 |
 | [X140yu](undefined) | 1 |
 | [智多芯](http://hulizhen.me) | 1 |
-| [Tony Han](undefined) | 1 |
 
 
 # 校对篇数统计

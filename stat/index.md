@@ -5,34 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2017 年 4 月字数排行
+# 2017 年 5 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [智多芯](http://hulizhen.me) | 11324 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 9052 |
-| [钟颖Cyan](undefined) | 7534 |
-| [TonyHan](undefined) | 5302 |
-| [CoderAFI](http://coderafi.github.io/) | 3846 |
-| [X140yu](undefined) | 3784 |
-| [SketchK](http://www.sketchk.xyz) | 2975 |
-| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 2083 |
-| [Darren](https://github.com/Harman-darrenchen) | 1404 |
+| [Tony Han](undefined) | 4450 |
 
 
-# 2017 年 4 月篇数排行
+# 2017 年 5 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 3 |
-| [钟颖Cyan](undefined) | 2 |
-| [TonyHan](undefined) | 1 |
-| [X140yu](undefined) | 1 |
-| [SketchK](http://www.sketchk.xyz) | 1 |
-| [Darren](https://github.com/Harman-darrenchen) | 1 |
-| [CoderAFI](http://coderafi.github.io/) | 1 |
-| [智多芯](http://hulizhen.me) | 1 |
-| [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 1 |
+| [Tony Han](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -95,6 +79,7 @@
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
+| [Tony Han](undefined) | 4450 |
 | [X140yu](undefined) | 3784 |
 | [Cyan](undefined) | 2704 |
 
@@ -161,6 +146,7 @@
 | [ray](undefined) | 1 |
 | [X140yu](undefined) | 1 |
 | [智多芯](http://hulizhen.me) | 1 |
+| [Tony Han](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -173,8 +159,8 @@
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [saitjr](http://www.saitjr.com) | 20 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [Cwift](http://weibo.com/277195544) | 10 |
@@ -204,7 +190,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 137 |
+| [CMB](https://github.com/chenmingbiao) | 138 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

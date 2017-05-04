@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [Cwift](http://weibo.com/277195544) | 5402 |
 | [TonyHan](undefined) | 4450 |
 | [saitjr](http://www.saitjr.com) | 1907 |
 
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [TonyHan](undefined) | 1 |
 | [saitjr](http://www.saitjr.com) | 1 |
+| [Cwift](http://weibo.com/277195544) | 1 |
 
 
 # 翻译字数统计
@@ -28,7 +30,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 173511 |
 | [小铁匠Linus](http://linusling.com) | 162503 |
 | [小锅](http://www.swiftyper.com) | 142620 |
-| [Cwift](http://weibo.com/277195544) | 120688 |
+| [Cwift](http://weibo.com/277195544) | 126090 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 105127 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
@@ -90,7 +92,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 30 |
-| [Cwift](http://weibo.com/277195544) | 25 |
+| [Cwift](http://weibo.com/277195544) | 26 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 25 |
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [小锅](http://www.swiftyper.com) | 17 |
@@ -158,7 +160,7 @@
 | [walkingway](http://chengway.in/) | 36 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 21 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 22 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
@@ -190,7 +192,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 139 |
+| [CMB](https://github.com/chenmingbiao) | 140 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

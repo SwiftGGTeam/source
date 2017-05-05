@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [Cwift](http://weibo.com/277195544) | 5402 |
 | [TonyHan](undefined) | 4450 |
+| [四娘](https://kemchenj.github.io) | 2870 |
 | [saitjr](http://www.saitjr.com) | 1907 |
 
 
@@ -21,6 +22,7 @@
 | [TonyHan](undefined) | 1 |
 | [saitjr](http://www.saitjr.com) | 1 |
 | [Cwift](http://weibo.com/277195544) | 1 |
+| [四娘](https://kemchenj.github.io) | 1 |
 
 
 # 翻译字数统计
@@ -72,12 +74,12 @@
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
 | [智多芯](http://hulizhen.me) | 11324 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
+| [四娘](https://kemchenj.github.io) | 10595 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
 | [DianQK](undefined) | 8333 |
 | [pucca](undefined) | 8236 |
 | [ahfepj](undefined) | 8057 |
-| [四娘](https://kemchenj.github.io) | 7725 |
 | [钟颖Cyan](undefined) | 7534 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [ray](undefined) | 6021 |
@@ -124,28 +126,28 @@
 | [CoderAFI](http://coderafi.github.io/) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
-| [ckitakishi](undefined) | 4 |
-| [SketchK](http://www.sketchk.xyz) | 4 |
-| [X140Yu](undefined) | 4 |
 | [littledogboy](undefined) | 4 |
+| [SketchK](http://www.sketchk.xyz) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
-| [jseanj](undefined) | 3 |
+| [X140Yu](undefined) | 4 |
+| [ckitakishi](undefined) | 4 |
 | [DianQK](undefined) | 3 |
-| [ahfepj](undefined) | 3 |
-| [pucca](undefined) | 3 |
 | [TonyHan](undefined) | 3 |
+| [pucca](undefined) | 3 |
+| [ahfepj](undefined) | 3 |
+| [jseanj](undefined) | 3 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [钟颖](https://github.com/cyanzhong) | 2 |
-| [赵磊](undefined) | 2 |
+| [四娘](https://kemchenj.github.io) | 2 |
+| [钟颖Cyan](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [haolloyin](https://github.com/haolloyin) | 2 |
-| [钟颖Cyan](undefined) | 2 |
+| [钟颖](https://github.com/cyanzhong) | 2 |
+| [赵磊](undefined) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [Cyan](undefined) | 2 |
+| [haolloyin](https://github.com/haolloyin) | 2 |
 | [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
-| [四娘](https://kemchenj.github.io) | 1 |
 | [ray](undefined) | 1 |
 | [X140yu](undefined) | 1 |
 | [智多芯](http://hulizhen.me) | 1 |
@@ -164,8 +166,8 @@
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
+| [Cwift](http://weibo.com/277195544) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
-| [Cwift](http://weibo.com/277195544) | 10 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 9 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
@@ -192,7 +194,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 140 |
+| [CMB](https://github.com/chenmingbiao) | 141 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

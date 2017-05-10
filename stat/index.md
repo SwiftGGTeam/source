@@ -13,6 +13,7 @@
 | [TonyHan](undefined) | 4450 |
 | [CoderAFI](http://coderafi.github.io/) | 3490 |
 | [四娘](https://kemchenj.github.io) | 2870 |
+| [EyreFree](undefined) | 2373 |
 | [saitjr](http://www.saitjr.com) | 1907 |
 
 
@@ -25,6 +26,7 @@
 | [Cwift](http://weibo.com/277195544) | 1 |
 | [四娘](https://kemchenj.github.io) | 1 |
 | [CoderAFI](http://coderafi.github.io/) | 1 |
+| [EyreFree](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -89,6 +91,7 @@
 | [赵磊](undefined) | 4716 |
 | [X140yu](undefined) | 3784 |
 | [Cyan](undefined) | 2704 |
+| [EyreFree](undefined) | 2373 |
 
 
 # 翻译篇数统计
@@ -153,6 +156,7 @@
 | [ray](undefined) | 1 |
 | [X140yu](undefined) | 1 |
 | [智多芯](http://hulizhen.me) | 1 |
+| [EyreFree](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -179,24 +183,25 @@
 | [bestswifter](http://bestswifter.com) | 4 |
 | [冬瓜](http://www.desgard.com/) | 4 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
-| [littledogboy](undefined) | 2 |
-| [Darren](https://github.com/Harman-darrenchen) | 2 |
-| [&nbsp](https://github.com/initiOSJava) | 2 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
+| [Darren](https://github.com/Harman-darrenchen) | 2 |
+| [littledogboy](undefined) | 2 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
+| [&nbsp](https://github.com/initiOSJava) | 2 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [100mango](undefined) | 1 |
 | [小袋子](http://daizi.me) | 1 |
 | [way](undefined) | 1 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 1 |
+| [DianQK](undefined) | 1 |
 
 
 # 定稿篇数统计
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 142 |
+| [CMB](https://github.com/chenmingbiao) | 143 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

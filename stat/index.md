@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [智多芯](http://hulizhen.me) | 7735 |
 | [Cwift](http://weibo.com/277195544) | 5402 |
 | [TonyHan](undefined) | 4450 |
 | [CoderAFI](http://coderafi.github.io/) | 3490 |
@@ -27,6 +28,7 @@
 | [四娘](https://kemchenj.github.io) | 1 |
 | [CoderAFI](http://coderafi.github.io/) | 1 |
 | [EyreFree](undefined) | 1 |
+| [智多芯](http://hulizhen.me) | 1 |
 
 
 # 翻译字数统计
@@ -62,6 +64,7 @@
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
+| [智多芯](http://hulizhen.me) | 19059 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 18919 |
 | [pucca601](http://weibo.com/601pucca) | 18802 |
 | [TonyHan](undefined) | 18761 |
@@ -76,7 +79,6 @@
 | [Darren](https://github.com/Harman-darrenchen) | 13451 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
-| [智多芯](http://hulizhen.me) | 11324 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [四娘](https://kemchenj.github.io) | 10595 |
 | [Lou](undefined) | 9554 |
@@ -131,31 +133,31 @@
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
-| [littledogboy](undefined) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
-| [X140Yu](undefined) | 4 |
 | [ckitakishi](undefined) | 4 |
-| [DianQK](undefined) | 3 |
-| [TonyHan](undefined) | 3 |
-| [pucca](undefined) | 3 |
+| [littledogboy](undefined) | 4 |
+| [X140Yu](undefined) | 4 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [ahfepj](undefined) | 3 |
 | [jseanj](undefined) | 3 |
+| [pucca](undefined) | 3 |
+| [TonyHan](undefined) | 3 |
+| [DianQK](undefined) | 3 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [四娘](https://kemchenj.github.io) | 2 |
+| [haolloyin](https://github.com/haolloyin) | 2 |
 | [钟颖Cyan](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [智多芯](http://hulizhen.me) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
-| [赵磊](undefined) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [Cyan](undefined) | 2 |
-| [haolloyin](https://github.com/haolloyin) | 2 |
+| [四娘](https://kemchenj.github.io) | 2 |
+| [赵磊](undefined) | 2 |
 | [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
-| [ray](undefined) | 1 |
 | [X140yu](undefined) | 1 |
-| [智多芯](http://hulizhen.me) | 1 |
+| [ray](undefined) | 1 |
 | [EyreFree](undefined) | 1 |
 
 
@@ -168,7 +170,7 @@
 | [walkingway](http://chengway.in/) | 36 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 23 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 24 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [小锅](http://www.swiftyper.com) | 15 |
@@ -201,7 +203,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 143 |
+| [CMB](https://github.com/chenmingbiao) | 144 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

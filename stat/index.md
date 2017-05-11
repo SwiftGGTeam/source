@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [智多芯](http://hulizhen.me) | 7735 |
+| [智多芯](http://hulizhen.me) | 7732 |
 | [Cwift](http://weibo.com/277195544) | 5402 |
 | [TonyHan](undefined) | 4450 |
 | [CoderAFI](http://coderafi.github.io/) | 3490 |
@@ -64,7 +64,7 @@
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
-| [智多芯](http://hulizhen.me) | 19059 |
+| [智多芯](http://hulizhen.me) | 19056 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 18919 |
 | [pucca601](http://weibo.com/601pucca) | 18802 |
 | [TonyHan](undefined) | 18761 |

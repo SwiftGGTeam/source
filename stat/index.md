@@ -5,34 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2017 年 5 月字数排行
+# 2017 年 6 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [shanks](http://codebuild.me/) | 22055 |
-| [智多芯](http://hulizhen.me) | 7732 |
-| [四娘](https://kemchenj.github.io) | 6006 |
-| [Cwift](http://weibo.com/277195544) | 5402 |
-| [TonyHan](undefined) | 4450 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4297 |
-| [CoderAFI](http://coderafi.github.io/) | 3490 |
-| [EyreFree](undefined) | 2373 |
-| [saitjr](http://www.saitjr.com) | 1907 |
+| [Doye](undefined) | 2825 |
 
 
-# 2017 年 5 月篇数排行
+# 2017 年 6 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [四娘](https://kemchenj.github.io) | 2 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 2 |
-| [TonyHan](undefined) | 1 |
-| [saitjr](http://www.saitjr.com) | 1 |
-| [Cwift](http://weibo.com/277195544) | 1 |
-| [CoderAFI](http://coderafi.github.io/) | 1 |
-| [EyreFree](undefined) | 1 |
-| [智多芯](http://hulizhen.me) | 1 |
-| [shanks](http://codebuild.me/) | 1 |
+| [Doye](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -96,6 +80,7 @@
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
 | [X140yu](undefined) | 3784 |
+| [Doye](undefined) | 2825 |
 | [Cyan](undefined) | 2704 |
 | [EyreFree](undefined) | 2373 |
 
@@ -123,18 +108,18 @@
 | [冬瓜](http://www.desgard.com/) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
-| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6 |
+| [CMB](https://github.com/chenmingbiao) | 6 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 6 |
 | [BigbigChai](https://github.com/chaiyixiao) | 6 |
 | [Darren](https://github.com/Harman-darrenchen) | 6 |
 | [天才175](http://weibo.com/u/2916092907) | 6 |
 | [CoderAFI](http://coderafi.github.io/) | 6 |
-| [CMB](https://github.com/chenmingbiao) | 6 |
-| [bestswifter](http://bestswifter.com) | 5 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5 |
 | [JackAlan](http://ijack.pw/) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
+| [bestswifter](http://bestswifter.com) | 5 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
@@ -149,10 +134,10 @@
 | [TonyHan](undefined) | 3 |
 | [DianQK](undefined) | 3 |
 | [钟颖Cyan](undefined) | 2 |
-| [智多芯](http://hulizhen.me) | 2 |
-| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
+| [智多芯](http://hulizhen.me) | 2 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [赵磊](undefined) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [Cyan](undefined) | 2 |
@@ -163,6 +148,7 @@
 | [X140yu](undefined) | 1 |
 | [ray](undefined) | 1 |
 | [EyreFree](undefined) | 1 |
+| [Doye](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -171,7 +157,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 92 |
 | [Cee](https://github.com/Cee) | 48 |
-| [walkingway](http://chengway.in/) | 38 |
+| [walkingway](http://chengway.in/) | 39 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 25 |
@@ -207,7 +193,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 148 |
+| [CMB](https://github.com/chenmingbiao) | 149 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

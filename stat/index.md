@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 4167 |
 | [Doye](undefined) | 2825 |
 
 
@@ -17,6 +18,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [Doye](undefined) | 1 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 1 |
 
 
 # 翻译字数统计
@@ -27,7 +29,7 @@
 | [小铁匠Linus](http://linusling.com) | 162503 |
 | [小锅](http://www.swiftyper.com) | 142620 |
 | [Cwift](http://weibo.com/277195544) | 126090 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 109424 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 113591 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106524 |
 | [shanks](http://codebuild.me/) | 102708 |
 | [mmoaay](http://mmoaay.photo/) | 95837 |
@@ -90,7 +92,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 30 |
-| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 27 |
+| [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 28 |
 | [Cwift](http://weibo.com/277195544) | 26 |
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [小锅](http://www.swiftyper.com) | 17 |
@@ -157,7 +159,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 92 |
 | [Cee](https://github.com/Cee) | 48 |
-| [walkingway](http://chengway.in/) | 39 |
+| [walkingway](http://chengway.in/) | 40 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 25 |
@@ -193,7 +195,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 149 |
+| [CMB](https://github.com/chenmingbiao) | 150 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [四娘](https://kemchenj.github.io) | 6156 |
 | [Doye](undefined) | 2825 |
 | [Cwift](http://weibo.com/277195544) | 1694 |
 
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [Doye](undefined) | 1 |
 | [Cwift](http://weibo.com/277195544) | 1 |
+| [四娘](https://kemchenj.github.io) | 1 |
 
 
 # 翻译字数统计
@@ -54,6 +56,7 @@
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
+| [四娘](https://kemchenj.github.io) | 19887 |
 | [智多芯](http://hulizhen.me) | 19056 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 18919 |
 | [pucca601](http://weibo.com/601pucca) | 18802 |
@@ -66,7 +69,6 @@
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 15232 |
 | [钟颖](https://github.com/cyanzhong) | 14394 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
-| [四娘](https://kemchenj.github.io) | 13731 |
 | [Darren](https://github.com/Harman-darrenchen) | 13451 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
@@ -127,11 +129,11 @@
 | [SketchK](http://www.sketchk.xyz) | 4 |
 | [ckitakishi](undefined) | 4 |
 | [littledogboy](undefined) | 4 |
+| [四娘](https://kemchenj.github.io) | 4 |
 | [X140Yu](undefined) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [ahfepj](undefined) | 3 |
 | [jseanj](undefined) | 3 |
-| [四娘](https://kemchenj.github.io) | 3 |
 | [pucca](undefined) | 3 |
 | [TonyHan](undefined) | 3 |
 | [DianQK](undefined) | 3 |
@@ -159,7 +161,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 92 |
 | [Cee](https://github.com/Cee) | 48 |
-| [walkingway](http://chengway.in/) | 39 |
+| [walkingway](http://chengway.in/) | 40 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 26 |
@@ -195,7 +197,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 150 |
+| [CMB](https://github.com/chenmingbiao) | 151 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

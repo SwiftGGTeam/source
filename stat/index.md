@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [四娘](https://kemchenj.github.io) | 6156 |
+| [Tony Han](undefined) | 4032 |
 | [Doye](undefined) | 2825 |
 | [Cwift](http://weibo.com/277195544) | 1694 |
 
@@ -21,6 +22,7 @@
 | [Doye](undefined) | 1 |
 | [Cwift](http://weibo.com/277195544) | 1 |
 | [四娘](https://kemchenj.github.io) | 1 |
+| [Tony Han](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -83,6 +85,7 @@
 | [ray](undefined) | 6021 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
+| [Tony Han](undefined) | 4032 |
 | [X140yu](undefined) | 3784 |
 | [Doye](undefined) | 2825 |
 | [Cyan](undefined) | 2704 |
@@ -153,6 +156,7 @@
 | [ray](undefined) | 1 |
 | [EyreFree](undefined) | 1 |
 | [Doye](undefined) | 1 |
+| [Tony Han](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -161,7 +165,7 @@
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 92 |
 | [Cee](https://github.com/Cee) | 48 |
-| [walkingway](http://chengway.in/) | 40 |
+| [walkingway](http://chengway.in/) | 41 |
 | [shanks](http://codebuild.me/) | 34 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 26 |
@@ -197,7 +201,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 151 |
+| [CMB](https://github.com/chenmingbiao) | 152 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 50 |

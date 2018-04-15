@@ -9,14 +9,14 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [&nbsp](https://github.com/initiOSJava) | 3958 |
+| [imiem](undefined) | 3958 |
 
 
 # 2018 年 4 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [&nbsp](https://github.com/initiOSJava) | 1 |
+| [imiem](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -58,7 +58,6 @@
 | [pucca601](http://weibo.com/601pucca) | 18802 |
 | [TonyHan](undefined) | 18761 |
 | [SketchK](http://www.sketchk.xyz) | 17482 |
-| [&nbsp](https://github.com/initiOSJava) | 17341 |
 | [riven](http://weibo.com/riven0951) | 17187 |
 | [JackAlan](http://ijack.pw/) | 16062 |
 | [jseanj](undefined) | 15628 |
@@ -67,6 +66,7 @@
 | [钟颖](https://github.com/cyanzhong) | 14394 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
 | [Darren](https://github.com/Harman-darrenchen) | 13451 |
+| [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [Lou](undefined) | 9554 |
@@ -82,6 +82,7 @@
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
 | [Tony Han](undefined) | 4032 |
+| [imiem](undefined) | 3958 |
 | [X140yu](undefined) | 3784 |
 | [EyreFree](undefined) | 3356 |
 | [Cyan](undefined) | 2704 |
@@ -96,65 +97,66 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 29 |
 | [Cwift](http://weibo.com/277195544) | 27 |
 | [小铁匠Linus](http://linusling.com) | 21 |
+| [小锅](http://www.swiftyper.com) | 17 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 17 |
 | [saitjr](http://www.saitjr.com) | 17 |
-| [小锅](http://www.swiftyper.com) | 17 |
 | [小袋子](http://daizi.me) | 15 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
-| [walkingway](http://chengway.in/) | 12 |
 | [靛青K](http://blog.dianqk.org/) | 12 |
+| [walkingway](http://chengway.in/) | 12 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 11 |
 | [Lanford3_3](http://lanfordcai.github.io) | 10 |
 | [shanks](http://codebuild.me/) | 10 |
-| [冬瓜](http://www.desgard.com/) | 8 |
 | [Yake](http://blog.csdn.net/yake_099) | 8 |
+| [冬瓜](http://www.desgard.com/) | 8 |
+| [Prayer](http://www.futantan.com) | 7 |
 | [Cee](https://github.com/Cee) | 7 |
 | [四娘](https://kemchenj.github.io) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
-| [Prayer](http://www.futantan.com) | 7 |
-| [天才175](http://weibo.com/u/2916092907) | 6 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6 |
-| [BigbigChai](https://github.com/chaiyixiao) | 6 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 6 |
-| [CoderAFI](http://coderafi.github.io/) | 6 |
+| [BigbigChai](https://github.com/chaiyixiao) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
 | [Darren](https://github.com/Harman-darrenchen) | 6 |
+| [CoderAFI](http://coderafi.github.io/) | 6 |
+| [天才175](http://weibo.com/u/2916092907) | 6 |
 | [zltunes](http://zltunes.com) | 5 |
-| [bestswifter](http://bestswifter.com) | 5 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5 |
-| [JackAlan](http://ijack.pw/) | 5 |
+| [bestswifter](http://bestswifter.com) | 5 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
-| [littledogboy](undefined) | 4 |
+| [JackAlan](http://ijack.pw/) | 5 |
 | [X140Yu](undefined) | 4 |
+| [pucca601](http://weibo.com/601pucca) | 4 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
 | [ckitakishi](undefined) | 4 |
-| [pucca601](http://weibo.com/601pucca) | 4 |
+| [littledogboy](undefined) | 4 |
 | [pucca](undefined) | 3 |
-| [jseanj](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
+| [jseanj](undefined) | 3 |
 | [DianQK](undefined) | 3 |
-| [TonyHan](undefined) | 3 |
 | [智多芯](http://hulizhen.me) | 3 |
+| [TonyHan](undefined) | 3 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
-| [&nbsp](https://github.com/initiOSJava) | 2 |
-| [EyreFree](undefined) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
 | [Cyan](undefined) | 2 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
-| [haolloyin](https://github.com/haolloyin) | 2 |
-| [Doye](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
+| [EyreFree](undefined) | 2 |
+| [haolloyin](https://github.com/haolloyin) | 2 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
+| [Doye](undefined) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
+| [赵磊](undefined) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [钟颖Cyan](undefined) | 2 |
-| [赵磊](undefined) | 2 |
 | [X140yu](undefined) | 1 |
-| [Lou](undefined) | 1 |
+| [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ray](undefined) | 1 |
+| [Lou](undefined) | 1 |
 | [Tony Han](undefined) | 1 |
 | [Tuccuay](undefined) | 1 |
 | [Forelax](http://forelax.space) | 1 |
+| [imiem](undefined) | 1 |
 
 
 # 校对篇数统计

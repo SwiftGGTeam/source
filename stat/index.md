@@ -9,14 +9,14 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [imiem](undefined) | 3964 |
+| [imiem](https://imiem.github.io) | 3964 |
 
 
 # 2018 年 4 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [imiem](undefined) | 1 |
+| [imiem](https://imiem.github.io) | 1 |
 
 
 # 翻译字数统计
@@ -82,7 +82,7 @@
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
 | [Tony Han](undefined) | 4032 |
-| [imiem](undefined) | 3964 |
+| [imiem](https://imiem.github.io) | 3964 |
 | [X140yu](undefined) | 3784 |
 | [EyreFree](undefined) | 3356 |
 | [Cyan](undefined) | 2704 |
@@ -156,7 +156,7 @@
 | [Tony Han](undefined) | 1 |
 | [Tuccuay](undefined) | 1 |
 | [Forelax](http://forelax.space) | 1 |
-| [imiem](undefined) | 1 |
+| [imiem](https://imiem.github.io) | 1 |
 
 
 # 校对篇数统计

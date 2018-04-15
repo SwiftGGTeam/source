@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [imiem](undefined) | 4582 |
+| [imiem](undefined) | 3964 |
 
 
 # 2018 年 4 月篇数排行
@@ -81,8 +81,8 @@
 | [Forelax](http://forelax.space) | 5483 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [赵磊](undefined) | 4716 |
-| [imiem](undefined) | 4582 |
 | [Tony Han](undefined) | 4032 |
+| [imiem](undefined) | 3964 |
 | [X140yu](undefined) | 3784 |
 | [EyreFree](undefined) | 3356 |
 | [Cyan](undefined) | 2704 |

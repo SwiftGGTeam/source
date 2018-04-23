@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [Cwift](http://weibo.com/277195544) | 6335 |
 | [imiem](https://imiem.github.io) | 3964 |
 
 
@@ -17,6 +18,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [imiem](https://imiem.github.io) | 1 |
+| [Cwift](http://weibo.com/277195544) | 1 |
 
 
 # 翻译字数统计
@@ -26,7 +28,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 173431 |
 | [小铁匠Linus](http://linusling.com) | 162553 |
 | [小锅](http://www.swiftyper.com) | 142620 |
-| [Cwift](http://weibo.com/277195544) | 127784 |
+| [Cwift](http://weibo.com/277195544) | 134119 |
 | [shanks](http://codebuild.me/) | 125206 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 122989 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106538 |
@@ -95,7 +97,7 @@
 | :------------: | :------------: |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 31 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 29 |
-| [Cwift](http://weibo.com/277195544) | 27 |
+| [Cwift](http://weibo.com/277195544) | 28 |
 | [小铁匠Linus](http://linusling.com) | 21 |
 | [小锅](http://www.swiftyper.com) | 17 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 17 |
@@ -163,7 +165,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 92 |
+| [numbbbbb](http://numbbbbb.com/) | 93 |
 | [Cee](https://github.com/Cee) | 48 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 35 |
@@ -202,7 +204,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 157 |
+| [CMB](https://github.com/chenmingbiao) | 158 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |

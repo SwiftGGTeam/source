@@ -193,7 +193,7 @@
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [小袋子](http://daizi.me) | 1 |
-| [Yousanflics](undefined) | 1 |
+| [Yousanflics](http://blog.yousanflics.com.cn) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [DianQK](undefined) | 1 |

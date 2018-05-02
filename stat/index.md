@@ -9,14 +9,14 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [muhlenXi](undefined) | 2602 |
+| [muhlenXi](http://muhlenxi.com/) | 2602 |
 
 
 # 2018 年 5 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [muhlenXi](undefined) | 1 |
+| [muhlenXi](http://muhlenxi.com/) | 1 |
 
 
 # 翻译字数统计
@@ -86,7 +86,7 @@
 | [X140yu](undefined) | 3784 |
 | [EyreFree](undefined) | 3356 |
 | [Cyan](undefined) | 2704 |
-| [muhlenXi](undefined) | 2602 |
+| [muhlenXi](http://muhlenxi.com/) | 2602 |
 | [Tuccuay](undefined) | 2547 |
 
 
@@ -158,7 +158,7 @@
 | [Tuccuay](undefined) | 1 |
 | [Forelax](http://forelax.space) | 1 |
 | [imiem](https://imiem.github.io) | 1 |
-| [muhlenXi](undefined) | 1 |
+| [muhlenXi](http://muhlenxi.com/) | 1 |
 
 
 # 校对篇数统计
@@ -193,7 +193,7 @@
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [littledogboy](undefined) | 2 |
-| [ Lision](undefined) | 1 |
+| [Lision](https://lision.me/) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [DianQK](undefined) | 1 |

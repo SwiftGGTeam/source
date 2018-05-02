@@ -5,20 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2018 年 4 月字数排行
+# 2018 年 5 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 10908 |
-| [imiem](https://imiem.github.io) | 3964 |
+| [muhlenXi](undefined) | 2602 |
 
 
-# 2018 年 4 月篇数排行
+# 2018 年 5 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Cwift](http://weibo.com/277195544) | 2 |
-| [imiem](https://imiem.github.io) | 1 |
+| [muhlenXi](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -88,6 +86,7 @@
 | [X140yu](undefined) | 3784 |
 | [EyreFree](undefined) | 3356 |
 | [Cyan](undefined) | 2704 |
+| [muhlenXi](undefined) | 2602 |
 | [Tuccuay](undefined) | 2547 |
 
 
@@ -128,37 +127,38 @@
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [JackAlan](http://ijack.pw/) | 5 |
-| [X140Yu](undefined) | 4 |
+| [ckitakishi](undefined) | 4 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
-| [ckitakishi](undefined) | 4 |
+| [X140Yu](undefined) | 4 |
 | [littledogboy](undefined) | 4 |
+| [TonyHan](undefined) | 3 |
 | [pucca](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
 | [jseanj](undefined) | 3 |
-| [DianQK](undefined) | 3 |
 | [智多芯](http://hulizhen.me) | 3 |
-| [TonyHan](undefined) | 3 |
+| [DianQK](undefined) | 3 |
+| [钟颖Cyan](undefined) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
-| [Cyan](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [EyreFree](undefined) | 2 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [Doye](undefined) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
+| [Cyan](undefined) | 2 |
+| [EyreFree](undefined) | 2 |
 | [赵磊](undefined) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [钟颖Cyan](undefined) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
 | [X140yu](undefined) | 1 |
+| [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ray](undefined) | 1 |
-| [Lou](undefined) | 1 |
 | [Tony Han](undefined) | 1 |
 | [Tuccuay](undefined) | 1 |
 | [Forelax](http://forelax.space) | 1 |
 | [imiem](https://imiem.github.io) | 1 |
+| [muhlenXi](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -186,18 +186,19 @@
 | [冬瓜](http://www.desgard.com/) | 4 |
 | [bestswifter](http://bestswifter.com) | 4 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
-| [littledogboy](undefined) | 2 |
+| [Yousanflics](http://blog.yousanflics.com.cn) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
 | [Darren](https://github.com/Harman-darrenchen) | 2 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 2 |
-| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
-| [小袋子](http://daizi.me) | 1 |
-| [Yousanflics](http://blog.yousanflics.com.cn) | 1 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
+| [littledogboy](undefined) | 2 |
+| [ Lision](undefined) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [DianQK](undefined) | 1 |
 | [Forelax](http://forelax.space) | 1 |
+| [小袋子](http://daizi.me) | 1 |
 | [100mango](undefined) | 1 |
 
 
@@ -205,7 +206,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 159 |
+| [CMB](https://github.com/chenmingbiao) | 160 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |

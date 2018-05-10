@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [muhlenXi](http://muhlenxi.com/) | 4775 |
+| [muhlenXi](http://muhlenxi.com/) | 4779 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 3824 |
 
 
@@ -82,7 +82,7 @@
 | [ray](undefined) | 6021 |
 | [Forelax](http://forelax.space) | 5483 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
-| [muhlenXi](http://muhlenxi.com/) | 4775 |
+| [muhlenXi](http://muhlenxi.com/) | 4779 |
 | [赵磊](undefined) | 4716 |
 | [Tony Han](undefined) | 4032 |
 | [imiem](https://imiem.github.io) | 3964 |

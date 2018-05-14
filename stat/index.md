@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [小袋子](http://daizi.me) | 5705 |
 | [muhlenXi](http://muhlenxi.com/) | 4779 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 3824 |
 
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [muhlenXi](http://muhlenxi.com/) | 2 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 1 |
+| [小袋子](http://daizi.me) | 1 |
 
 
 # 翻译字数统计
@@ -41,7 +43,7 @@
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
-| [小袋子](http://daizi.me) | 47030 |
+| [小袋子](http://daizi.me) | 52735 |
 | [冬瓜](http://www.desgard.com/) | 44268 |
 | [BigbigChai](https://github.com/chaiyixiao) | 44001 |
 | [Lanford3_3](http://lanfordcai.github.io) | 40276 |
@@ -104,7 +106,7 @@
 | [小锅](http://www.swiftyper.com) | 17 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 17 |
 | [saitjr](http://www.saitjr.com) | 17 |
-| [小袋子](http://daizi.me) | 15 |
+| [小袋子](http://daizi.me) | 16 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
 | [靛青K](http://blog.dianqk.org/) | 12 |
 | [walkingway](http://chengway.in/) | 12 |
@@ -169,7 +171,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 93 |
+| [numbbbbb](http://numbbbbb.com/) | 94 |
 | [Cee](https://github.com/Cee) | 48 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 35 |
@@ -211,7 +213,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 162 |
+| [CMB](https://github.com/chenmingbiao) | 163 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |

@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [TonyHan](undefined) | 15817 |
 | [小袋子](http://daizi.me) | 5705 |
 | [muhlenXi](http://muhlenxi.com/) | 4779 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 3824 |
@@ -23,6 +24,7 @@
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 1 |
 | [小袋子](http://daizi.me) | 1 |
 | [ennisk](https://weibo.com/u/1771329710) | 1 |
+| [TonyHan](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -54,6 +56,7 @@
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35537 |
 | [四娘](https://kemchenj.github.io) | 35056 |
+| [TonyHan](undefined) | 34578 |
 | [X140Yu](undefined) | 31496 |
 | [ckitakishi](undefined) | 30367 |
 | [智多芯](http://hulizhen.me) | 26298 |
@@ -62,7 +65,6 @@
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 18919 |
 | [pucca601](http://weibo.com/601pucca) | 18802 |
-| [TonyHan](undefined) | 18761 |
 | [SketchK](http://www.sketchk.xyz) | 17482 |
 | [riven](http://weibo.com/riven0951) | 17187 |
 | [JackAlan](http://ijack.pw/) | 16062 |
@@ -140,12 +142,12 @@
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [X140Yu](undefined) | 4 |
 | [ckitakishi](undefined) | 4 |
+| [TonyHan](undefined) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
-| [ahfepj](undefined) | 3 |
 | [pucca](undefined) | 3 |
 | [智多芯](http://hulizhen.me) | 3 |
-| [TonyHan](undefined) | 3 |
 | [jseanj](undefined) | 3 |
+| [ahfepj](undefined) | 3 |
 | [DianQK](undefined) | 3 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
 | [赵磊](undefined) | 2 |
@@ -192,12 +194,12 @@
 | [小铁匠Linus](http://linusling.com) | 7 |
 | [way](undefined) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
-| [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 4 |
-| [冬瓜](http://www.desgard.com/) | 4 |
+| [冬瓜](http://www.desgard.com/) | 5 |
 | [bestswifter](http://bestswifter.com) | 4 |
+| [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
-| [CMB](https://github.com/chenmingbiao) | 3 |
 | [Yousanflics](http://blog.yousanflics.com.cn) | 3 |
+| [CMB](https://github.com/chenmingbiao) | 3 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
@@ -211,13 +213,14 @@
 | [小袋子](http://daizi.me) | 1 |
 | [Lision](https://lision.me/) | 1 |
 | [Lefex](https://weibo.com/u/5953150140) | 1 |
+| [liberalisman](undefined) | 1 |
 
 
 # 定稿篇数统计
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 164 |
+| [CMB](https://github.com/chenmingbiao) | 165 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |

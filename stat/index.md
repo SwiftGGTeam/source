@@ -9,7 +9,8 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [TonyHan](undefined) | 15817 |
+| [TonyHan](undefined) | 15929 |
+| [智多芯](http://hulizhen.me) | 10239 |
 | [小袋子](http://daizi.me) | 5705 |
 | [muhlenXi](http://muhlenxi.com/) | 4779 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 3824 |
@@ -25,6 +26,7 @@
 | [小袋子](http://daizi.me) | 1 |
 | [ennisk](https://weibo.com/u/1771329710) | 1 |
 | [TonyHan](undefined) | 1 |
+| [智多芯](http://hulizhen.me) | 1 |
 
 
 # 翻译字数统计
@@ -54,12 +56,12 @@
 | [CoderAFI](http://coderafi.github.io/) | 38048 |
 | [bestswifter](http://bestswifter.com) | 36614 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
+| [智多芯](http://hulizhen.me) | 36537 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35537 |
 | [四娘](https://kemchenj.github.io) | 35056 |
-| [TonyHan](undefined) | 34578 |
+| [TonyHan](undefined) | 34690 |
 | [X140Yu](undefined) | 31496 |
 | [ckitakishi](undefined) | 30367 |
-| [智多芯](http://hulizhen.me) | 26298 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
@@ -138,15 +140,15 @@
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
+| [智多芯](http://hulizhen.me) | 4 |
+| [SketchK](http://www.sketchk.xyz) | 4 |
+| [TonyHan](undefined) | 4 |
 | [littledogboy](undefined) | 4 |
+| [ckitakishi](undefined) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [X140Yu](undefined) | 4 |
-| [ckitakishi](undefined) | 4 |
-| [TonyHan](undefined) | 4 |
-| [SketchK](http://www.sketchk.xyz) | 4 |
-| [pucca](undefined) | 3 |
-| [智多芯](http://hulizhen.me) | 3 |
 | [jseanj](undefined) | 3 |
+| [pucca](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
 | [DianQK](undefined) | 3 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
@@ -185,8 +187,8 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 27 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
-| [小锅](http://www.swiftyper.com) | 15 |
 | [Cwift](http://weibo.com/277195544) | 15 |
+| [小锅](http://www.swiftyper.com) | 15 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 10 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
@@ -195,32 +197,32 @@
 | [way](undefined) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [冬瓜](http://www.desgard.com/) | 5 |
-| [bestswifter](http://bestswifter.com) | 4 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 4 |
+| [bestswifter](http://bestswifter.com) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
-| [Yousanflics](http://blog.yousanflics.com.cn) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
+| [Yousanflics](http://blog.yousanflics.com.cn) | 3 |
+| [Yake](http://blog.csdn.net/yake_099) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [littledogboy](undefined) | 2 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
-| [Yake](http://blog.csdn.net/yake_099) | 2 |
 | [Darren](https://github.com/Harman-darrenchen) | 2 |
+| [Lision](https://lision.me/) | 2 |
+| [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 2 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
-| [100mango](undefined) | 1 |
 | [DianQK](undefined) | 1 |
 | [Forelax](http://forelax.space) | 1 |
+| [100mango](undefined) | 1 |
 | [小袋子](http://daizi.me) | 1 |
-| [Lision](https://lision.me/) | 1 |
 | [Lefex](https://weibo.com/u/5953150140) | 1 |
-| [liberalisman](undefined) | 1 |
 
 
 # 定稿篇数统计
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 165 |
+| [CMB](https://github.com/chenmingbiao) | 166 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |

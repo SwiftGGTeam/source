@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [小袋子](http://daizi.me) | 3011 |
+| [小袋子](http://daizi.me) | 3036 |
 
 
 # 2018 年 6 月篇数排行
@@ -38,7 +38,7 @@
 | [Yake](http://blog.csdn.net/yake_099) | 61316 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
-| [小袋子](http://daizi.me) | 55746 |
+| [小袋子](http://daizi.me) | 55771 |
 | [Cee](https://github.com/Cee) | 55370 |
 | [冬瓜](http://www.desgard.com/) | 44268 |
 | [BigbigChai](https://github.com/chaiyixiao) | 44001 |

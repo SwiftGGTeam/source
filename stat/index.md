@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [阳仔](https://github.com/YangGao1991) | 7954 |
 | [Lefe_x](undefined) | 7819 |
 | [小袋子](http://daizi.me) | 3036 |
 
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [小袋子](http://daizi.me) | 1 |
 | [Lefe_x](undefined) | 1 |
+| [阳仔](https://github.com/YangGao1991) | 1 |
 
 
 # 翻译字数统计
@@ -77,6 +79,7 @@
 | [DianQK](undefined) | 8333 |
 | [pucca](undefined) | 8236 |
 | [ahfepj](undefined) | 8057 |
+| [阳仔](https://github.com/YangGao1991) | 7954 |
 | [Lefe_x](undefined) | 7819 |
 | [钟颖Cyan](undefined) | 7534 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
@@ -156,7 +159,7 @@
 | [EyreFree](undefined) | 2 |
 | [Doye](undefined) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [Lefe_x](undefined) | 1 |
+| [阳仔](https://github.com/YangGao1991) | 1 |
 | [Lou](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [Tony Han](undefined) | 1 |
@@ -166,6 +169,7 @@
 | [X140yu](undefined) | 1 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 1 |
 | [ennisk](https://weibo.com/u/1771329710) | 1 |
+| [Lefe_x](undefined) | 1 |
 | [ray](undefined) | 1 |
 
 
@@ -173,7 +177,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 97 |
+| [numbbbbb](http://numbbbbb.com/) | 98 |
 | [Cee](https://github.com/Cee) | 48 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 35 |
@@ -194,8 +198,8 @@
 | [冬瓜](http://www.desgard.com/) | 5 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 4 |
 | [bestswifter](http://bestswifter.com) | 4 |
+| [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 4 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
-| [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 3 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
@@ -216,7 +220,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 167 |
+| [CMB](https://github.com/chenmingbiao) | 168 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |

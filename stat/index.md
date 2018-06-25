@@ -11,8 +11,9 @@
 | :------------: | :------------: |
 | [阳仔](https://github.com/YangGao1991) | 7954 |
 | [Lefe_x](undefined) | 7819 |
-| [灰s](undefined) | 6628 |
+| [灰s](undefined) | 6627 |
 | [小袋子](http://daizi.me) | 3036 |
+| [Hale](http://wuqiuhao.github.io) | 2911 |
 
 
 # 2018 年 6 月篇数排行
@@ -23,6 +24,7 @@
 | [Lefe_x](undefined) | 1 |
 | [阳仔](https://github.com/YangGao1991) | 1 |
 | [灰s](undefined) | 1 |
+| [Hale](http://wuqiuhao.github.io) | 1 |
 
 
 # 翻译字数统计
@@ -85,7 +87,7 @@
 | [Lefe_x](undefined) | 7819 |
 | [钟颖Cyan](undefined) | 7534 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
-| [灰s](undefined) | 6628 |
+| [灰s](undefined) | 6627 |
 | [ray](undefined) | 6021 |
 | [Forelax](http://forelax.space) | 5483 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
@@ -96,6 +98,7 @@
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 3824 |
 | [X140yu](undefined) | 3784 |
 | [EyreFree](undefined) | 3356 |
+| [Hale](http://wuqiuhao.github.io) | 2911 |
 | [ennisk](https://weibo.com/u/1771329710) | 2902 |
 | [Cyan](undefined) | 2704 |
 | [Tuccuay](undefined) | 2547 |
@@ -175,6 +178,7 @@
 | [Lefe_x](undefined) | 1 |
 | [阳仔](https://github.com/YangGao1991) | 1 |
 | [灰s](undefined) | 1 |
+| [Hale](http://wuqiuhao.github.io) | 1 |
 
 
 # 校对篇数统计
@@ -189,15 +193,15 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 27 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
-| [小锅](http://www.swiftyper.com) | 15 |
 | [Cwift](http://weibo.com/277195544) | 15 |
+| [小锅](http://www.swiftyper.com) | 15 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 10 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [小铁匠Linus](http://linusling.com) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
+| [Yousanflics](http://blog.yousanflics.com.cn) | 7 |
 | [way](undefined) | 6 |
-| [Yousanflics](http://blog.yousanflics.com.cn) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [冬瓜](http://www.desgard.com/) | 5 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 4 |
@@ -219,13 +223,14 @@
 | [Lefex](https://weibo.com/u/5953150140) | 1 |
 | [100mango](undefined) | 1 |
 | [ mmoaay](undefined) | 1 |
+| [梁杰](undefined) | 1 |
 
 
 # 定稿篇数统计
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 169 |
+| [CMB](https://github.com/chenmingbiao) | 170 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |
@@ -242,4 +247,5 @@
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 1 |
 | [saitjr](http://www.saitjr.com) | 1 |
 | [way](undefined) | 1 |
+| [Yousanflics](http://blog.yousanflics.com.cn) | 1 |
 | [天才175](http://weibo.com/u/2916092907) | 1 |

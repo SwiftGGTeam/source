@@ -5,26 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2018 年 6 月字数排行
+# 2018 年 7 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [阳仔](https://github.com/YangGao1991) | 7954 |
-| [Lefe_x](undefined) | 7819 |
-| [灰s](undefined) | 6627 |
-| [小袋子](http://daizi.me) | 3036 |
-| [Hale](http://wuqiuhao.github.io) | 2911 |
+| [TonyHan](undefined) | 5325 |
 
 
-# 2018 年 6 月篇数排行
+# 2018 年 7 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [小袋子](http://daizi.me) | 1 |
-| [Lefe_x](undefined) | 1 |
-| [阳仔](https://github.com/YangGao1991) | 1 |
-| [灰s](undefined) | 1 |
-| [Hale](http://wuqiuhao.github.io) | 1 |
+| [TonyHan](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -48,10 +40,10 @@
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [小袋子](http://daizi.me) | 55771 |
 | [Cee](https://github.com/Cee) | 55370 |
+| [TonyHan](undefined) | 44472 |
 | [冬瓜](http://www.desgard.com/) | 44268 |
 | [BigbigChai](https://github.com/chaiyixiao) | 44001 |
 | [Lanford3_3](http://lanfordcai.github.io) | 40276 |
-| [TonyHan](undefined) | 39147 |
 | [CoderAFI](http://coderafi.github.io/) | 38048 |
 | [bestswifter](http://bestswifter.com) | 36614 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
@@ -128,20 +120,20 @@
 | [四娘](https://kemchenj.github.io) | 7 |
 | [lfb_CD](http://weibo.com/lfbWb) | 7 |
 | [Prayer](http://www.futantan.com) | 7 |
-| [Darren](https://github.com/Harman-darrenchen) | 6 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6 |
+| [天才175](http://weibo.com/u/2916092907) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
 | [BigbigChai](https://github.com/chaiyixiao) | 6 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 6 |
 | [CoderAFI](http://coderafi.github.io/) | 6 |
-| [天才175](http://weibo.com/u/2916092907) | 6 |
-| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6 |
+| [TonyHan](undefined) | 6 |
+| [Darren](https://github.com/Harman-darrenchen) | 6 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5 |
 | [bestswifter](http://bestswifter.com) | 5 |
-| [JackAlan](http://ijack.pw/) | 5 |
-| [TonyHan](undefined) | 5 |
-| [zltunes](http://zltunes.com) | 5 |
 | [SergioChan](https://github.com/SergioChan) | 5 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5 |
+| [zltunes](http://zltunes.com) | 5 |
+| [JackAlan](http://ijack.pw/) | 5 |
 | [littledogboy](undefined) | 4 |
 | [X140Yu](undefined) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
@@ -193,14 +185,14 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 27 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
-| [Cwift](http://weibo.com/277195544) | 15 |
 | [小锅](http://www.swiftyper.com) | 15 |
+| [Cwift](http://weibo.com/277195544) | 15 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 10 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
-| [小铁匠Linus](http://linusling.com) | 7 |
+| [Yousanflics](http://blog.yousanflics.com.cn) | 8 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
-| [Yousanflics](http://blog.yousanflics.com.cn) | 7 |
+| [小铁匠Linus](http://linusling.com) | 7 |
 | [way](undefined) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [冬瓜](http://www.desgard.com/) | 5 |
@@ -230,7 +222,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 170 |
+| [CMB](https://github.com/chenmingbiao) | 171 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |

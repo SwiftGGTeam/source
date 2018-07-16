@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [TonyHan](undefined) | 7524 |
-| [muhlenXi](http://muhlenxi.com/) | 6193 |
+| [muhlenXi](http://muhlenxi.com/) | 6189 |
 
 
 # 2018 年 7 月篇数排行
@@ -71,7 +71,7 @@
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
-| [muhlenXi](http://muhlenxi.com/) | 10972 |
+| [muhlenXi](http://muhlenxi.com/) | 10968 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
 | [Doye](undefined) | 8471 |

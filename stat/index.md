@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [TonyHan](undefined) | 7524 |
+| [muhlenXi](http://muhlenxi.com/) | 6193 |
 
 
 # 2018 年 7 月篇数排行
@@ -17,6 +18,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [TonyHan](undefined) | 2 |
+| [muhlenXi](http://muhlenxi.com/) | 1 |
 
 
 # 翻译字数统计
@@ -69,6 +71,7 @@
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
+| [muhlenXi](http://muhlenxi.com/) | 10972 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
 | [Doye](undefined) | 8471 |
@@ -83,7 +86,6 @@
 | [ray](undefined) | 6021 |
 | [Forelax](http://forelax.space) | 5483 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
-| [muhlenXi](http://muhlenxi.com/) | 4779 |
 | [赵磊](undefined) | 4716 |
 | [Tony Han](undefined) | 4032 |
 | [imiem](https://imiem.github.io) | 3964 |
@@ -134,29 +136,29 @@
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
 | [JackAlan](http://ijack.pw/) | 5 |
-| [littledogboy](undefined) | 4 |
 | [X140Yu](undefined) | 4 |
+| [智多芯](http://hulizhen.me) | 4 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
+| [littledogboy](undefined) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
 | [ckitakishi](undefined) | 4 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
-| [智多芯](http://hulizhen.me) | 4 |
+| [muhlenXi](http://muhlenxi.com/) | 3 |
+| [pucca](undefined) | 3 |
+| [ahfepj](undefined) | 3 |
 | [DianQK](undefined) | 3 |
 | [jseanj](undefined) | 3 |
-| [ahfepj](undefined) | 3 |
-| [pucca](undefined) | 3 |
-| [赵磊](undefined) | 2 |
-| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
-| [Cyan](undefined) | 2 |
-| [钟颖](https://github.com/cyanzhong) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [赵磊](undefined) | 2 |
+| [Cyan](undefined) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
+| [钟颖](https://github.com/cyanzhong) | 2 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [钟颖Cyan](undefined) | 2 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
 | [EyreFree](undefined) | 2 |
 | [Doye](undefined) | 2 |
-| [muhlenXi](http://muhlenxi.com/) | 2 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Lou](undefined) | 1 |
 | [ray](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
@@ -177,8 +179,8 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 99 |
-| [Cee](https://github.com/Cee) | 48 |
+| [numbbbbb](http://numbbbbb.com/) | 100 |
+| [Cee](https://github.com/Cee) | 49 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 35 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
@@ -201,13 +203,13 @@
 | [bestswifter](http://bestswifter.com) | 4 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
+| [Firecrest](undefined) | 2 |
 | [Darren](https://github.com/Harman-darrenchen) | 2 |
 | [littledogboy](undefined) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [Lision](https://lision.me/) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
-| [Forelax](http://forelax.space) | 1 |
 | [DianQK](undefined) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [小袋子](http://daizi.me) | 1 |
@@ -216,14 +218,14 @@
 | [100mango](undefined) | 1 |
 | [ mmoaay](undefined) | 1 |
 | [梁杰](undefined) | 1 |
-| [Firecrest](undefined) | 1 |
+| [Forelax](http://forelax.space) | 1 |
 
 
 # 定稿篇数统计
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 172 |
+| [CMB](https://github.com/chenmingbiao) | 173 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |

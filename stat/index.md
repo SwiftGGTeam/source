@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [TonyHan](undefined) | 7524 |
+| [Hale](http://wuqiuhao.github.io) | 7017 |
 | [muhlenXi](http://muhlenxi.com/) | 6189 |
 | [EyreFree](undefined) | 2200 |
 
@@ -21,6 +22,7 @@
 | [TonyHan](undefined) | 2 |
 | [muhlenXi](http://muhlenxi.com/) | 1 |
 | [EyreFree](undefined) | 1 |
+| [Hale](http://wuqiuhao.github.io) | 1 |
 
 
 # 翻译字数统计
@@ -74,6 +76,7 @@
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [muhlenXi](http://muhlenxi.com/) | 10968 |
+| [Hale](http://wuqiuhao.github.io) | 9928 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
 | [Doye](undefined) | 8471 |
@@ -94,7 +97,6 @@
 | [imiem](https://imiem.github.io) | 3964 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 3824 |
 | [X140yu](undefined) | 3784 |
-| [Hale](http://wuqiuhao.github.io) | 2911 |
 | [ennisk](https://weibo.com/u/1771329710) | 2902 |
 | [Cyan](undefined) | 2704 |
 | [Tuccuay](undefined) | 2547 |
@@ -138,51 +140,51 @@
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
 | [JackAlan](http://ijack.pw/) | 5 |
-| [X140Yu](undefined) | 4 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
-| [littledogboy](undefined) | 4 |
 | [智多芯](http://hulizhen.me) | 4 |
-| [SketchK](http://www.sketchk.xyz) | 4 |
-| [pucca601](http://weibo.com/601pucca) | 4 |
+| [littledogboy](undefined) | 4 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
+| [X140Yu](undefined) | 4 |
 | [ckitakishi](undefined) | 4 |
-| [EyreFree](undefined) | 3 |
-| [muhlenXi](http://muhlenxi.com/) | 3 |
+| [pucca601](http://weibo.com/601pucca) | 4 |
+| [SketchK](http://www.sketchk.xyz) | 4 |
 | [pucca](undefined) | 3 |
-| [DianQK](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
+| [muhlenXi](http://muhlenxi.com/) | 3 |
 | [jseanj](undefined) | 3 |
+| [DianQK](undefined) | 3 |
+| [EyreFree](undefined) | 3 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
+| [赵磊](undefined) | 2 |
+| [haolloyin](https://github.com/haolloyin) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [Cyan](undefined) | 2 |
-| [赵磊](undefined) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
+| [Doye](undefined) | 2 |
+| [钟颖](https://github.com/cyanzhong) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [钟颖Cyan](undefined) | 2 |
-| [钟颖](https://github.com/cyanzhong) | 2 |
-| [haolloyin](https://github.com/haolloyin) | 2 |
-| [Doye](undefined) | 2 |
-| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [Lou](undefined) | 1 |
-| [ray](undefined) | 1 |
+| [riven](http://weibo.com/riven0951) | 2 |
+| [Hale](http://wuqiuhao.github.io) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
+| [X140yu](undefined) | 1 |
 | [Tony Han](undefined) | 1 |
 | [Tuccuay](undefined) | 1 |
 | [Forelax](http://forelax.space) | 1 |
 | [imiem](https://imiem.github.io) | 1 |
-| [X140yu](undefined) | 1 |
+| [Lou](undefined) | 1 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 1 |
 | [ennisk](https://weibo.com/u/1771329710) | 1 |
 | [Lefe_x](undefined) | 1 |
 | [阳仔](https://github.com/YangGao1991) | 1 |
 | [灰s](undefined) | 1 |
-| [Hale](http://wuqiuhao.github.io) | 1 |
+| [ray](undefined) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 100 |
-| [Cee](https://github.com/Cee) | 49 |
+| [numbbbbb](http://numbbbbb.com/) | 101 |
+| [Cee](https://github.com/Cee) | 50 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 35 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
@@ -199,9 +201,9 @@
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [way](undefined) | 6 |
 | [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 6 |
+| [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [冬瓜](http://www.desgard.com/) | 5 |
-| [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 4 |
 | [bestswifter](http://bestswifter.com) | 4 |
 | [Firecrest](undefined) | 3 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
@@ -227,7 +229,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 174 |
+| [CMB](https://github.com/chenmingbiao) | 175 |
 | [numbbbbb](http://numbbbbb.com/) | 75 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |

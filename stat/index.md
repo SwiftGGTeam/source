@@ -13,6 +13,7 @@
 | [Hale](http://wuqiuhao.github.io) | 7017 |
 | [muhlenXi](http://muhlenxi.com/) | 6189 |
 | [BigNerdCoding](undefined) | 4525 |
+| [Sunnyyoung](undefined) | 3023 |
 | [EyreFree](undefined) | 2200 |
 
 
@@ -25,6 +26,7 @@
 | [EyreFree](undefined) | 1 |
 | [Hale](http://wuqiuhao.github.io) | 1 |
 | [BigNerdCoding](undefined) | 1 |
+| [Sunnyyoung](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -100,6 +102,7 @@
 | [imiem](https://imiem.github.io) | 3964 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 3824 |
 | [X140yu](undefined) | 3784 |
+| [Sunnyyoung](undefined) | 3023 |
 | [ennisk](https://weibo.com/u/1771329710) | 2902 |
 | [Cyan](undefined) | 2704 |
 | [Tuccuay](undefined) | 2547 |
@@ -181,6 +184,7 @@
 | [灰s](undefined) | 1 |
 | [Lou](undefined) | 1 |
 | [BigNerdCoding](undefined) | 1 |
+| [Sunnyyoung](undefined) | 1 |
 
 
 # 校对篇数统计
@@ -199,8 +203,8 @@
 | [Cwift](http://weibo.com/277195544) | 15 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
-| [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [Yousanflics](http://blog.yousanflics.com.cn) | 8 |
+| [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [小铁匠Linus](http://linusling.com) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [way](undefined) | 6 |
@@ -209,32 +213,33 @@
 | [Prayer](http://www.futantan.com) | 5 |
 | [冬瓜](http://www.desgard.com/) | 5 |
 | [bestswifter](http://bestswifter.com) | 4 |
-| [Firecrest](undefined) | 3 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
+| [Firecrest](undefined) | 3 |
+| [&nbsp](https://github.com/initiOSJava) | 2 |
 | [Darren](https://github.com/Harman-darrenchen) | 2 |
 | [littledogboy](undefined) | 2 |
-| [&nbsp](https://github.com/initiOSJava) | 2 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [Lision](https://lision.me/) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
 | [DianQK](undefined) | 1 |
+| [Forelax](http://forelax.space) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
-| [小袋子](http://daizi.me) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [Lefex](https://weibo.com/u/5953150140) | 1 |
-| [100mango](undefined) | 1 |
+| [小袋子](http://daizi.me) | 1 |
 | [ mmoaay](undefined) | 1 |
 | [梁杰](undefined) | 1 |
-| [Forelax](http://forelax.space) | 1 |
+| [100mango](undefined) | 1 |
+| [智多芯](http://hulizhen.me) | 1 |
 
 
 # 定稿篇数统计
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 176 |
-| [numbbbbb](http://numbbbbb.com/) | 75 |
+| [CMB](https://github.com/chenmingbiao) | 177 |
+| [numbbbbb](http://numbbbbb.com/) | 76 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |
 | [Cee](https://github.com/Cee) | 28 |

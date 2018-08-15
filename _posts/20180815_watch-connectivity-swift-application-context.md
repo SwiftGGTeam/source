@@ -2,14 +2,14 @@ title: "在 Swift 中使用 Watch Connectivity — Application Context"
 date: 2018-08-15
 tags: [教程]
 categories: [codingexplorer]
-permalink: Watch Connectivity in Swift — Application Context
+permalink: watch-connectivity-swift-application-context
 keywords: swiftWatch,apple Watch,Watch Connectivity
 custom_title: Swift Watch Connectivity 使用教程
 description: 本文详细讲解了如何通过 Watch Connectivity 的 Application Context 方式进行 watch 和 配对 iPhone 之间共享数据。
 
 ---
 > 作者：codingexplorer，[原文链接](http://www.codingexplorer.com/watch-connectivity-swift-application-context/)，原文日期：2018-07-18
-> 译者：[Khala-wan](undefined)；校对：[Yousanflics](http://blog.yousanflics.com.cn)，[wongzigii](undefined)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：[Khala-wan](http://khala-wan.com)；校对：[Yousanflics](http://blog.yousanflics.com.cn)，[wongzigii](undefined)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 
@@ -20,7 +20,7 @@ description: 本文详细讲解了如何通过 Watch Connectivity 的 Applicatio
 
 <!--此处开始正文-->
 
-![](http://www.codingexplorer.com/wp-content/uploads/2016/02/Watch-Connectivity-Application-Context.png)
+![](/img/articles/Watch Connectivity in Swift — Application Context/Watch-Connectivity-Application-Context.png1534304479.3475852)
 
 在 watchOS 1 时代，`WatchKit Extension` 位于已配对的 iOS 设备上，这使得宿主 APP 和 watch 之间的数据共享变得简单。类似偏好设置这种最简单的数据，只需要通过 App Groups 功能来存取 `NSUserDefaults`。目前在手机上留存的其他扩展程序和主 app 之间共享数据仍然应该使用这种方式，例如 `Today View Extension`，但它已不再适用于 watchOS 的 app。
 幸运的是，苹果为我们提供了新的 API 来做这件事。相比 App Groups，Watch Connectivity 拥有更强大的功能。它不仅提供了你的 Apple Watch 和与其配对 iPhone 之间连接状态的更多信息，还允许它们之间进行交互消息和 3 种方式的后台传输，这些方式分别是：

@@ -11,7 +11,7 @@
 | :------------: | :------------: |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 24302 |
 | [BigNerdCoding](undefined) | 12258 |
-| [Khala-wan](undefined) | 11364 |
+| [Khala-wan](http://khala-wan.com) | 11383 |
 
 
 # 2018 年 8 月篇数排行
@@ -20,7 +20,7 @@
 | :------------: | :------------: |
 | [BigNerdCoding](undefined) | 2 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 1 |
-| [Khala-wan](undefined) | 1 |
+| [Khala-wan](http://khala-wan.com) | 1 |
 
 
 # 翻译字数统计
@@ -74,7 +74,7 @@
 | [Darren](https://github.com/Harman-darrenchen) | 13451 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
-| [Khala-wan](undefined) | 11364 |
+| [Khala-wan](http://khala-wan.com) | 11383 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [muhlenXi](http://muhlenxi.com/) | 10968 |
 | [Hale](http://wuqiuhao.github.io) | 9928 |
@@ -180,7 +180,7 @@
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [Lou](undefined) | 1 |
 | [Sunnyyoung](undefined) | 1 |
-| [Khala-wan](undefined) | 1 |
+| [Khala-wan](http://khala-wan.com) | 1 |
 
 
 # 校对篇数统计

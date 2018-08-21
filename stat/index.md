@@ -12,6 +12,7 @@
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 24302 |
 | [BigNerdCoding](undefined) | 12258 |
 | [Khala-wan](http://khala-wan.com) | 11383 |
+| [小袋子](http://daizi.me) | 9557 |
 
 
 # 2018 年 8 月篇数排行
@@ -21,6 +22,7 @@
 | [BigNerdCoding](undefined) | 2 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 1 |
 | [Khala-wan](http://khala-wan.com) | 1 |
+| [小袋子](http://daizi.me) | 1 |
 
 
 # 翻译字数统计
@@ -39,10 +41,10 @@
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 81225 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 74945 |
+| [小袋子](http://daizi.me) | 65328 |
 | [Yake](http://blog.csdn.net/yake_099) | 61316 |
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
-| [小袋子](http://daizi.me) | 55771 |
 | [Cee](https://github.com/Cee) | 55370 |
 | [TonyHan](undefined) | 46671 |
 | [冬瓜](http://www.desgard.com/) | 44268 |
@@ -111,8 +113,8 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 29 |
 | [Cwift](http://weibo.com/277195544) | 29 |
 | [小铁匠Linus](http://linusling.com) | 21 |
+| [小袋子](http://daizi.me) | 18 |
 | [小锅](http://www.swiftyper.com) | 17 |
-| [小袋子](http://daizi.me) | 17 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 17 |
 | [saitjr](http://www.saitjr.com) | 17 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
@@ -187,7 +189,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 102 |
+| [numbbbbb](http://numbbbbb.com/) | 103 |
 | [Cee](https://github.com/Cee) | 51 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
@@ -201,10 +203,10 @@
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [Yousanflics](http://blog.yousanflics.com.cn) | 10 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
+| [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [小铁匠Linus](http://linusling.com) | 7 |
 | [way](undefined) | 6 |
-| [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
 | [冬瓜](http://www.desgard.com/) | 5 |
@@ -235,7 +237,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 181 |
+| [CMB](https://github.com/chenmingbiao) | 182 |
 | [numbbbbb](http://numbbbbb.com/) | 76 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |

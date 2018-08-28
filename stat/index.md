@@ -12,6 +12,7 @@
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 24302 |
 | [BigNerdCoding](undefined) | 12258 |
 | [Khala-wan](http://khala-wan.com) | 11383 |
+| [BigLuo](undefined) | 10410 |
 | [小袋子](http://daizi.me) | 9557 |
 
 
@@ -23,6 +24,7 @@
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 1 |
 | [Khala-wan](http://khala-wan.com) | 1 |
 | [小袋子](http://daizi.me) | 1 |
+| [BigLuo](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -79,6 +81,7 @@
 | [Khala-wan](http://khala-wan.com) | 11383 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [muhlenXi](http://muhlenxi.com/) | 10968 |
+| [BigLuo](undefined) | 10410 |
 | [Hale](http://wuqiuhao.github.io) | 9928 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
@@ -183,13 +186,14 @@
 | [Lou](undefined) | 1 |
 | [Sunnyyoung](undefined) | 1 |
 | [Khala-wan](http://khala-wan.com) | 1 |
+| [BigLuo](undefined) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 103 |
+| [numbbbbb](http://numbbbbb.com/) | 104 |
 | [Cee](https://github.com/Cee) | 51 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
@@ -222,7 +226,7 @@
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
 | [DianQK](undefined) | 1 |
 | [Forelax](http://forelax.space) | 1 |
-| [wongzigii](undefined) | 1 |
+| [muhlenXi](http://muhlenxi.com/) | 1 |
 | [100mango](undefined) | 1 |
 | [Lefex](https://weibo.com/u/5953150140) | 1 |
 | [小袋子](http://daizi.me) | 1 |
@@ -230,6 +234,7 @@
 | [梁杰](undefined) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 | [智多芯](http://hulizhen.me) | 1 |
+| [wongzigii](undefined) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 
 
@@ -237,7 +242,7 @@
 
 | 定稿者 | 篇数 |
 | :------------: | :------------: |
-| [CMB](https://github.com/chenmingbiao) | 182 |
+| [CMB](https://github.com/chenmingbiao) | 183 |
 | [numbbbbb](http://numbbbbb.com/) | 76 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |

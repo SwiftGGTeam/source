@@ -12,7 +12,7 @@
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 24302 |
 | [BigNerdCoding](undefined) | 12258 |
 | [Khala-wan](http://khala-wan.com) | 11383 |
-| [BigLuo](undefined) | 10410 |
+| [BigLuo](https://github.com/Adolf-L) | 10574 |
 | [小袋子](http://daizi.me) | 9557 |
 
 
@@ -24,7 +24,7 @@
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 1 |
 | [Khala-wan](http://khala-wan.com) | 1 |
 | [小袋子](http://daizi.me) | 1 |
-| [BigLuo](undefined) | 1 |
+| [BigLuo](https://github.com/Adolf-L) | 1 |
 
 
 # 翻译字数统计
@@ -81,7 +81,7 @@
 | [Khala-wan](http://khala-wan.com) | 11383 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [muhlenXi](http://muhlenxi.com/) | 10968 |
-| [BigLuo](undefined) | 10410 |
+| [BigLuo](https://github.com/Adolf-L) | 10574 |
 | [Hale](http://wuqiuhao.github.io) | 9928 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
@@ -186,7 +186,7 @@
 | [Lou](undefined) | 1 |
 | [Sunnyyoung](undefined) | 1 |
 | [Khala-wan](http://khala-wan.com) | 1 |
-| [BigLuo](undefined) | 1 |
+| [BigLuo](https://github.com/Adolf-L) | 1 |
 
 
 # 校对篇数统计

@@ -9,7 +9,7 @@ description: 本文详细讲解了 Swift 中的泛型是什么？ 如何使用�
 
 ---
 > 作者：Andrew Jaffee，[原文链接](https://appcoda.com/swift-generics)，原文日期：2018-02-14
-> 译者：[BigLuo](undefined)；校对：[numbbbbb](http://numbbbbb.com/)，[muhlenXi](http://muhlenxi.com/)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：[BigLuo](https://github.com/Adolf-L)；校对：[numbbbbb](http://numbbbbb.com/)，[muhlenXi](http://muhlenxi.com/)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 
@@ -275,7 +275,7 @@ error: in argument type '[BasicPerson]', 'BasicPerson' does not conform to expec
 let isSamABasicPerson = exists(item: Sam, inArray: basicPersons)
 ```
 
-![image-20180813173212026](image-20180813173212026.png)
+![](https://camo.githubusercontent.com/f36f760385795cb9e802f886cda24bbf8bb720ab/68747470733a2f2f617070636f64612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30322f73776966742d342d67656e65726963732d312e706e67)
 
 这很糟糕了， 在 "BasicPerson" 类型的数组里面，你不能使用 Swift 数组的内建函数 `index` 和 `contains`。(你必须定义一个闭包，每当你想使用那两个方法 blah,blah,blah… 这个我就不提了。)
 

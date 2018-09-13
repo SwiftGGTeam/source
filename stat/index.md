@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [BigLuo](https://github.com/Adolf-L) | 10706 |
+| [jojotov](https://dingtz.com/) | 6038 |
 
 
 # 2018 年 9 月篇数排行
@@ -17,6 +18,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [BigLuo](https://github.com/Adolf-L) | 1 |
+| [jojotov](https://dingtz.com/) | 1 |
 
 
 # 翻译字数统计
@@ -86,6 +88,7 @@
 | [钟颖Cyan](undefined) | 7534 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [灰s](undefined) | 6627 |
+| [jojotov](https://dingtz.com/) | 6038 |
 | [ray](undefined) | 6021 |
 | [EyreFree](undefined) | 5556 |
 | [Forelax](http://forelax.space) | 5483 |
@@ -181,6 +184,7 @@
 | [Khala-wan](http://khala-wan.com) | 1 |
 | [Tony Han](undefined) | 1 |
 | [雨谨](https://github.com/mobilefellow) | 1 |
+| [jojotov](https://dingtz.com/) | 1 |
 
 
 # 校对篇数统计
@@ -188,7 +192,7 @@
 | 校对者 | 篇数 |
 | :------------: | :------------: |
 | [numbbbbb](http://numbbbbb.com/) | 106 |
-| [Cee](https://github.com/Cee) | 51 |
+| [Cee](https://github.com/Cee) | 52 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
@@ -212,23 +216,23 @@
 | [bestswifter](http://bestswifter.com) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
-| [Darren](https://github.com/Harman-darrenchen) | 2 |
+| [wongzigii](undefined) | 2 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
+| [Darren](https://github.com/Harman-darrenchen) | 2 |
 | [littledogboy](undefined) | 2 |
 | [Lision](https://lision.me/) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
-| [wongzigii](undefined) | 2 |
-| [Forelax](http://forelax.space) | 1 |
-| [muhlenXi](http://muhlenxi.com/) | 1 |
+| [Forelax](http://forelax.space) | 2 |
 | [100mango](undefined) | 1 |
-| [Lefex](https://weibo.com/u/5953150140) | 1 |
 | [小袋子](http://daizi.me) | 1 |
+| [Lefex](https://weibo.com/u/5953150140) | 1 |
+| [pucca601](http://weibo.com/601pucca) | 1 |
 | [ mmoaay](undefined) | 1 |
 | [梁杰](undefined) | 1 |
-| [pucca601](http://weibo.com/601pucca) | 1 |
-| [智多芯](http://hulizhen.me) | 1 |
 | [DianQK](undefined) | 1 |
+| [智多芯](http://hulizhen.me) | 1 |
+| [muhlenXi](http://muhlenxi.com/) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 
 
@@ -243,7 +247,7 @@
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
-| [Forelax](http://forelax.space) | 4 |
+| [Forelax](http://forelax.space) | 5 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |

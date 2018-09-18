@@ -11,7 +11,7 @@
 | :------------: | :------------: |
 | [BigLuo](https://github.com/Adolf-L) | 10706 |
 | [jojotov](https://dingtz.com/) | 6038 |
-| [Sunnyyoung](undefined) | 3649 |
+| [Sunnyyoung](https://www.sunnyyoung.net/) | 3649 |
 
 
 # 2018 年 9 月篇数排行
@@ -20,7 +20,7 @@
 | :------------: | :------------: |
 | [BigLuo](https://github.com/Adolf-L) | 1 |
 | [jojotov](https://dingtz.com/) | 1 |
-| [Sunnyyoung](undefined) | 1 |
+| [Sunnyyoung](https://www.sunnyyoung.net/) | 1 |
 
 
 # 翻译字数统计
@@ -89,7 +89,7 @@
 | [Lefe_x](undefined) | 7819 |
 | [钟颖Cyan](undefined) | 7534 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
-| [Sunnyyoung](undefined) | 6672 |
+| [Sunnyyoung](https://www.sunnyyoung.net/) | 6672 |
 | [灰s](undefined) | 6627 |
 | [jojotov](https://dingtz.com/) | 6038 |
 | [ray](undefined) | 6021 |
@@ -170,7 +170,7 @@
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 2 |
 | [Hale](http://wuqiuhao.github.io) | 2 |
 | [赵磊](undefined) | 2 |
-| [Sunnyyoung](undefined) | 2 |
+| [Sunnyyoung](https://www.sunnyyoung.net/) | 2 |
 | [BigLuo](https://github.com/Adolf-L) | 2 |
 | [Forelax](http://forelax.space) | 1 |
 | [imiem](https://imiem.github.io) | 1 |

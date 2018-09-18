@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [BigLuo](https://github.com/Adolf-L) | 10706 |
 | [jojotov](https://dingtz.com/) | 6038 |
+| [Sunnyyoung](undefined) | 3648 |
 
 
 # 2018 年 9 月篇数排行
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [BigLuo](https://github.com/Adolf-L) | 1 |
 | [jojotov](https://dingtz.com/) | 1 |
+| [Sunnyyoung](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -87,6 +89,7 @@
 | [Lefe_x](undefined) | 7819 |
 | [钟颖Cyan](undefined) | 7534 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
+| [Sunnyyoung](undefined) | 6671 |
 | [灰s](undefined) | 6627 |
 | [jojotov](https://dingtz.com/) | 6038 |
 | [ray](undefined) | 6021 |
@@ -98,7 +101,6 @@
 | [Tony Han](undefined) | 4032 |
 | [imiem](https://imiem.github.io) | 3964 |
 | [X140yu](undefined) | 3784 |
-| [Sunnyyoung](undefined) | 3023 |
 | [ennisk](https://weibo.com/u/1771329710) | 2902 |
 | [Cyan](undefined) | 2704 |
 | [Tuccuay](undefined) | 2547 |
@@ -156,7 +158,7 @@
 | [DianQK](undefined) | 3 |
 | [EyreFree](undefined) | 3 |
 | [muhlenXi](http://muhlenxi.com/) | 3 |
-| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
+| [Cyan](undefined) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
@@ -164,12 +166,12 @@
 | [钟颖Cyan](undefined) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
 | [Doye](undefined) | 2 |
-| [赵磊](undefined) | 2 |
+| [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 2 |
 | [Hale](http://wuqiuhao.github.io) | 2 |
-| [Cyan](undefined) | 2 |
+| [赵磊](undefined) | 2 |
+| [Sunnyyoung](undefined) | 2 |
 | [BigLuo](https://github.com/Adolf-L) | 2 |
-| [Tuccuay](undefined) | 1 |
 | [Forelax](http://forelax.space) | 1 |
 | [imiem](https://imiem.github.io) | 1 |
 | [X140yu](undefined) | 1 |
@@ -180,9 +182,9 @@
 | [灰s](undefined) | 1 |
 | [ray](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
-| [Sunnyyoung](undefined) | 1 |
-| [Khala-wan](http://khala-wan.com) | 1 |
 | [Tony Han](undefined) | 1 |
+| [Khala-wan](http://khala-wan.com) | 1 |
+| [Tuccuay](undefined) | 1 |
 | [雨谨](https://github.com/mobilefellow) | 1 |
 | [jojotov](https://dingtz.com/) | 1 |
 
@@ -191,7 +193,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 106 |
+| [numbbbbb](http://numbbbbb.com/) | 107 |
 | [Cee](https://github.com/Cee) | 52 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
@@ -225,15 +227,16 @@
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
 | [Forelax](http://forelax.space) | 2 |
 | [100mango](undefined) | 1 |
-| [小袋子](http://daizi.me) | 1 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [Lefex](https://weibo.com/u/5953150140) | 1 |
-| [pucca601](http://weibo.com/601pucca) | 1 |
+| [小袋子](http://daizi.me) | 1 |
 | [ mmoaay](undefined) | 1 |
 | [梁杰](undefined) | 1 |
 | [DianQK](undefined) | 1 |
 | [智多芯](http://hulizhen.me) | 1 |
+| [小铁匠Linu](undefined) | 1 |
 | [muhlenXi](http://muhlenxi.com/) | 1 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
+| [pucca601](http://weibo.com/601pucca) | 1 |
 
 
 # 定稿篇数统计
@@ -247,7 +250,7 @@
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
-| [Forelax](http://forelax.space) | 5 |
+| [Forelax](http://forelax.space) | 6 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |

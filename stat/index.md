@@ -11,7 +11,7 @@
 | :------------: | :------------: |
 | [BigLuo](https://github.com/Adolf-L) | 10706 |
 | [jojotov](https://dingtz.com/) | 6038 |
-| [Sunnyyoung](undefined) | 3648 |
+| [Sunnyyoung](undefined) | 3649 |
 
 
 # 2018 年 9 月篇数排行
@@ -89,7 +89,7 @@
 | [Lefe_x](undefined) | 7819 |
 | [钟颖Cyan](undefined) | 7534 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
-| [Sunnyyoung](undefined) | 6671 |
+| [Sunnyyoung](undefined) | 6672 |
 | [灰s](undefined) | 6627 |
 | [jojotov](https://dingtz.com/) | 6038 |
 | [ray](undefined) | 6021 |
@@ -207,9 +207,9 @@
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [Yousanflics](http://blog.yousanflics.com.cn) | 10 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
+| [小铁匠Linus](http://linusling.com) | 8 |
 | [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
-| [小铁匠Linus](http://linusling.com) | 7 |
 | [way](undefined) | 6 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
 | [Firecrest](undefined) | 5 |
@@ -227,16 +227,15 @@
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
 | [Forelax](http://forelax.space) | 2 |
 | [100mango](undefined) | 1 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
-| [Lefex](https://weibo.com/u/5953150140) | 1 |
 | [小袋子](http://daizi.me) | 1 |
+| [Lefex](https://weibo.com/u/5953150140) | 1 |
+| [pucca601](http://weibo.com/601pucca) | 1 |
 | [ mmoaay](undefined) | 1 |
 | [梁杰](undefined) | 1 |
 | [DianQK](undefined) | 1 |
 | [智多芯](http://hulizhen.me) | 1 |
-| [小铁匠Linu](undefined) | 1 |
 | [muhlenXi](http://muhlenxi.com/) | 1 |
-| [pucca601](http://weibo.com/601pucca) | 1 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 
 
 # 定稿篇数统计

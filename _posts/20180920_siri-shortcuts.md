@@ -133,7 +133,7 @@ func application(_ application: UIApplication, continue userActivity: NSUserActi
 
 现在你可以唤起 Siri 并说出你的短语，体验 Shortcut！
 
-![](https://ws2.sinaimg.cn/large/006tNbRwgy1fvfvhpdhd4j31kw0jr1kx.jpg)
+![](/img/articles/siri-shortcuts/006tNbRwgy1fvfvhpdhd4j31kw0jr1kx.jpg1537423351.9367192)
 
 ## 总结
 

@@ -10,8 +10,9 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [BigLuo](https://github.com/Adolf-L) | 10706 |
+| [BigNerdCoding](https://bignerdcoding.com/) | 8442 |
 | [jojotov](https://dingtz.com/) | 6038 |
-| [Hale](http://wuqiuhao.github.io) | 4395 |
+| [Hale](http://wuqiuhao.github.io) | 4413 |
 | [Sunnyyoung](https://www.sunnyyoung.net/) | 3649 |
 
 
@@ -23,6 +24,7 @@
 | [jojotov](https://dingtz.com/) | 1 |
 | [Sunnyyoung](https://www.sunnyyoung.net/) | 1 |
 | [Hale](http://wuqiuhao.github.io) | 1 |
+| [BigNerdCoding](https://bignerdcoding.com/) | 1 |
 
 
 # 翻译字数统计
@@ -59,6 +61,7 @@
 | [X140Yu](undefined) | 31496 |
 | [ckitakishi](undefined) | 30367 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 28126 |
+| [BigNerdCoding](https://bignerdcoding.com/) | 25225 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [BigLuo](https://github.com/Adolf-L) | 21251 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
@@ -67,13 +70,12 @@
 | [pucca601](http://weibo.com/601pucca) | 18802 |
 | [SketchK](http://www.sketchk.xyz) | 17482 |
 | [riven](http://weibo.com/riven0951) | 17187 |
-| [BigNerdCoding](undefined) | 16783 |
 | [JackAlan](http://ijack.pw/) | 16062 |
 | [jseanj](undefined) | 15628 |
 | [zltunes](http://zltunes.com) | 15439 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 15232 |
 | [钟颖](https://github.com/cyanzhong) | 14394 |
-| [Hale](http://wuqiuhao.github.io) | 14323 |
+| [Hale](http://wuqiuhao.github.io) | 14341 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
 | [Darren](https://github.com/Harman-darrenchen) | 13451 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
@@ -147,17 +149,17 @@
 | [zltunes](http://zltunes.com) | 5 |
 | [JackAlan](http://ijack.pw/) | 5 |
 | [ckitakishi](undefined) | 4 |
-| [littledogboy](undefined) | 4 |
-| [X140Yu](undefined) | 4 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
-| [SketchK](http://www.sketchk.xyz) | 4 |
-| [pucca601](http://weibo.com/601pucca) | 4 |
+| [BigNerdCoding](https://bignerdcoding.com/) | 4 |
 | [智多芯](http://hulizhen.me) | 4 |
-| [pucca](undefined) | 3 |
-| [ahfepj](undefined) | 3 |
-| [jseanj](undefined) | 3 |
-| [BigNerdCoding](undefined) | 3 |
+| [pucca601](http://weibo.com/601pucca) | 4 |
+| [SketchK](http://www.sketchk.xyz) | 4 |
+| [littledogboy](undefined) | 4 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
+| [X140Yu](undefined) | 4 |
 | [DianQK](undefined) | 3 |
+| [jseanj](undefined) | 3 |
+| [ahfepj](undefined) | 3 |
+| [pucca](undefined) | 3 |
 | [EyreFree](undefined) | 3 |
 | [muhlenXi](http://muhlenxi.com/) | 3 |
 | [Hale](http://wuqiuhao.github.io) | 3 |
@@ -195,7 +197,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 108 |
+| [numbbbbb](http://numbbbbb.com/) | 109 |
 | [Cee](https://github.com/Cee) | 52 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
@@ -203,9 +205,9 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 27 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 15 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [Cwift](http://weibo.com/277195544) | 15 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 14 |
 | [Yousanflics](http://blog.yousanflics.com.cn) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
@@ -252,7 +254,7 @@
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
-| [Forelax](http://forelax.space) | 7 |
+| [Forelax](http://forelax.space) | 8 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |

@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Damonwong](https://github.com/Damonvvong) | 5145 |
+| [Damonwong](https://github.com/Damonvvong) | 5146 |
 
 
 # 2018 年 10 月篇数排行
@@ -92,7 +92,7 @@
 | [EyreFree](undefined) | 5556 |
 | [Forelax](http://forelax.space) | 5483 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
-| [Damonwong](https://github.com/Damonvvong) | 5145 |
+| [Damonwong](https://github.com/Damonvvong) | 5146 |
 | [雨谨](https://github.com/mobilefellow) | 5086 |
 | [赵磊](undefined) | 4716 |
 | [Tony Han](undefined) | 4032 |

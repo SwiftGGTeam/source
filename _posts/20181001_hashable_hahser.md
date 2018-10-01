@@ -8,7 +8,7 @@ custom_title: Hashable / Hasher2
 description: 本文介绍了 Hashable 和相关的新类型 Hasher
 
 ---
-> 作者：Matt，[原文链接](https://nshipster.com/hashable/)，原文日期：2018-08-13
+> 作者：Mattt，[原文链接](https://nshipster.com/hashable/)，原文日期：2018-08-13
 > 译者：[Damonwong](https://github.com/Damonvvong)；校对：[Lision](https://lision.me/)，[Yousanflics](http://blog.yousanflics.com.cn)；定稿：[Forelax](http://forelax.space)
   
 

@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [jojotov](https://dingtz.com/) | 16426 |
 | [BigLuo](https://github.com/Adolf-L) | 5445 |
 | [Damonwong](https://github.com/Damonvvong) | 5146 |
 
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [Damonwong](https://github.com/Damonvvong) | 1 |
 | [BigLuo](https://github.com/Adolf-L) | 1 |
+| [jojotov](https://dingtz.com/) | 1 |
 
 
 # 翻译字数统计
@@ -57,6 +59,7 @@
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 28126 |
 | [BigLuo](https://github.com/Adolf-L) | 26696 |
 | [BigNerdCoding](https://bignerdcoding.com/) | 25225 |
+| [jojotov](https://dingtz.com/) | 22464 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
@@ -89,7 +92,6 @@
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 6996 |
 | [Sunnyyoung](https://www.sunnyyoung.net/) | 6672 |
 | [灰s](undefined) | 6627 |
-| [jojotov](https://dingtz.com/) | 6038 |
 | [ray](undefined) | 6021 |
 | [EyreFree](undefined) | 5556 |
 | [Forelax](http://forelax.space) | 5483 |
@@ -171,7 +173,7 @@
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Sunnyyoung](https://www.sunnyyoung.net/) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
-| [Forelax](http://forelax.space) | 1 |
+| [jojotov](https://dingtz.com/) | 2 |
 | [imiem](https://imiem.github.io) | 1 |
 | [X140yu](undefined) | 1 |
 | [ray](undefined) | 1 |
@@ -185,7 +187,7 @@
 | [Khala-wan](http://khala-wan.com) | 1 |
 | [Tuccuay](undefined) | 1 |
 | [雨谨](https://github.com/mobilefellow) | 1 |
-| [jojotov](https://dingtz.com/) | 1 |
+| [Forelax](http://forelax.space) | 1 |
 | [Lou](undefined) | 1 |
 
 
@@ -211,21 +213,21 @@
 | [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [way](undefined) | 6 |
-| [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
+| [冬瓜](http://www.desgard.com/) | 6 |
 | [Firecrest](undefined) | 5 |
-| [冬瓜](http://www.desgard.com/) | 5 |
 | [Prayer](http://www.futantan.com) | 5 |
+| [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
 | [bestswifter](http://bestswifter.com) | 4 |
+| [Forelax](http://forelax.space) | 3 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
 | [Lision](https://lision.me/) | 3 |
-| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [Darren](https://github.com/Harman-darrenchen) | 2 |
 | [littledogboy](undefined) | 2 |
-| [wongzigii](undefined) | 2 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
-| [Forelax](http://forelax.space) | 2 |
+| [wongzigii](undefined) | 2 |
 | [100mango](undefined) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [Lefex](https://weibo.com/u/5953150140) | 1 |
@@ -250,10 +252,10 @@
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
-| [Forelax](http://forelax.space) | 10 |
+| [Forelax](http://forelax.space) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
-| [小铁匠Linus](http://linusling.com) | 2 |
 | [littledogboy](undefined) | 2 |
+| [小铁匠Linus](http://linusling.com) | 2 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 1 |
 | [lfb_CD](http://weibo.com/lfbWb) | 1 |

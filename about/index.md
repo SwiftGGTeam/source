@@ -12,6 +12,7 @@
 
 | 作者 | 网站 |
 | :----: | :----: |
+| NSHipster | [NSHipster](https://nshipster.com/) |
 | Natasha | [Natasha the Robot](http://natashatherobot.com/) |
 | Erica Sadun | [Erica Sadun](http://ericasadun.com/) |
 | Mike Ash | [mikeash.com](https://www.mikeash.com/) |

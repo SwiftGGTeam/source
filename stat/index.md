@@ -11,7 +11,7 @@
 | :------------: | :------------: |
 | [jojotov](https://dingtz.com/) | 16426 |
 | [BigLuo](https://github.com/Adolf-L) | 5445 |
-| [Damonwong](https://github.com/Damonvvong) | 5146 |
+| [Damonwong](https://github.com/Damonvvong) | 5393 |
 
 
 # 2018 年 10 月篇数排行
@@ -95,8 +95,8 @@
 | [ray](undefined) | 6021 |
 | [EyreFree](undefined) | 5556 |
 | [Forelax](http://forelax.space) | 5483 |
+| [Damonwong](https://github.com/Damonvvong) | 5393 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
-| [Damonwong](https://github.com/Damonvvong) | 5146 |
 | [雨谨](https://github.com/mobilefellow) | 5087 |
 | [赵磊](undefined) | 4716 |
 | [Tony Han](undefined) | 4032 |

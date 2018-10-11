@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [jojotov](https://dingtz.com/) | 16426 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 5487 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 10974 |
 | [BigLuo](https://github.com/Adolf-L) | 5445 |
 | [Damonwong](https://github.com/Damonvvong) | 5393 |
 
@@ -19,7 +19,7 @@
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [rsenjoyer](https://github.com/rsenjoyer) | 1 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 2 |
 | [Damonwong](https://github.com/Damonvvong) | 1 |
 | [BigLuo](https://github.com/Adolf-L) | 1 |
 | [jojotov](https://dingtz.com/) | 1 |
@@ -81,6 +81,7 @@
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
 | [Khala-wan](http://khala-wan.com) | 11383 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 10974 |
 | [muhlenXi](http://muhlenxi.com/) | 10968 |
 | [Lou](undefined) | 9554 |
 | [littledogboy](undefined) | 9199 |
@@ -96,7 +97,6 @@
 | [灰s](undefined) | 6627 |
 | [ray](undefined) | 6021 |
 | [EyreFree](undefined) | 5556 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 5487 |
 | [Forelax](http://forelax.space) | 5483 |
 | [Damonwong](https://github.com/Damonvvong) | 5393 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
@@ -170,6 +170,7 @@
 | [赵磊](undefined) | 2 |
 | [钟颖Cyan](undefined) | 2 |
 | [Doye](undefined) | 2 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
@@ -177,21 +178,20 @@
 | [Sunnyyoung](https://www.sunnyyoung.net/) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [jojotov](https://dingtz.com/) | 2 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 1 |
-| [X140yu](undefined) | 1 |
-| [Lou](undefined) | 1 |
 | [ray](undefined) | 1 |
+| [Lou](undefined) | 1 |
+| [&nbsp](https://github.com/initiOSJava) | 1 |
 | [ennisk](https://weibo.com/u/1771329710) | 1 |
 | [Lefe_x](undefined) | 1 |
 | [阳仔](https://github.com/YangGao1991) | 1 |
 | [灰s](undefined) | 1 |
-| [&nbsp](https://github.com/initiOSJava) | 1 |
 | [Damonwong](https://github.com/Damonvvong) | 1 |
 | [Tony Han](undefined) | 1 |
-| [Khala-wan](http://khala-wan.com) | 1 |
 | [Tuccuay](undefined) | 1 |
-| [雨谨](https://github.com/mobilefellow) | 1 |
+| [Khala-wan](http://khala-wan.com) | 1 |
 | [Forelax](http://forelax.space) | 1 |
+| [雨谨](https://github.com/mobilefellow) | 1 |
+| [X140yu](undefined) | 1 |
 | [imiem](https://imiem.github.io) | 1 |
 
 
@@ -199,7 +199,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 111 |
+| [numbbbbb](http://numbbbbb.com/) | 112 |
 | [Cee](https://github.com/Cee) | 53 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
@@ -210,7 +210,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 15 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [Cwift](http://weibo.com/277195544) | 15 |
-| [Yousanflics](http://blog.yousanflics.com.cn) | 13 |
+| [Yousanflics](http://blog.yousanflics.com.cn) | 14 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [小铁匠Linus](http://linusling.com) | 8 |
@@ -255,7 +255,7 @@
 | [shanks](http://codebuild.me/) | 58 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
-| [Forelax](http://forelax.space) | 12 |
+| [Forelax](http://forelax.space) | 13 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [littledogboy](undefined) | 2 |

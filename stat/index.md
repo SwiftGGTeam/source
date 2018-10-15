@@ -10,16 +10,16 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [jojotov](https://dingtz.com/) | 16426 |
+| [Damonwong](https://github.com/Damonvvong) | 9553 |
 | [rsenjoyer](https://github.com/rsenjoyer) | 5487 |
 | [BigLuo](https://github.com/Adolf-L) | 5445 |
-| [Damonwong](https://github.com/Damonvvong) | 5393 |
 
 
 # 2018 年 10 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [Damonwong](https://github.com/Damonvvong) | 1 |
+| [Damonwong](https://github.com/Damonvvong) | 2 |
 | [BigLuo](https://github.com/Adolf-L) | 1 |
 | [jojotov](https://dingtz.com/) | 1 |
 | [rsenjoyer](https://github.com/rsenjoyer) | 1 |
@@ -83,6 +83,7 @@
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [muhlenXi](http://muhlenxi.com/) | 10968 |
 | [Lou](undefined) | 9554 |
+| [Damonwong](https://github.com/Damonvvong) | 9553 |
 | [littledogboy](undefined) | 9199 |
 | [Doye](undefined) | 8471 |
 | [DianQK](undefined) | 8333 |
@@ -98,7 +99,6 @@
 | [EyreFree](undefined) | 5556 |
 | [rsenjoyer](https://github.com/rsenjoyer) | 5487 |
 | [Forelax](http://forelax.space) | 5483 |
-| [Damonwong](https://github.com/Damonvvong) | 5393 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [雨谨](https://github.com/mobilefellow) | 5087 |
 | [赵磊](undefined) | 4716 |
@@ -164,20 +164,20 @@
 | [EyreFree](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
 | [muhlenXi](http://muhlenxi.com/) | 3 |
-| [Cyan](undefined) | 2 |
+| [东莞大唐和尚](https://weibo.com/u/5029986118) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
 | [赵磊](undefined) | 2 |
 | [钟颖Cyan](undefined) | 2 |
 | [Doye](undefined) | 2 |
+| [Cyan](undefined) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
-| [东莞大唐和尚](https://weibo.com/u/5029986118) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Sunnyyoung](https://www.sunnyyoung.net/) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [jojotov](https://dingtz.com/) | 2 |
-| [imiem](https://imiem.github.io) | 1 |
+| [Damonwong](https://github.com/Damonvvong) | 2 |
 | [X140yu](undefined) | 1 |
 | [ray](undefined) | 1 |
 | [ennisk](https://weibo.com/u/1771329710) | 1 |
@@ -191,7 +191,7 @@
 | [Tuccuay](undefined) | 1 |
 | [雨谨](https://github.com/mobilefellow) | 1 |
 | [Forelax](http://forelax.space) | 1 |
-| [Damonwong](https://github.com/Damonvvong) | 1 |
+| [imiem](https://imiem.github.io) | 1 |
 | [Lou](undefined) | 1 |
 
 
@@ -199,7 +199,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 111 |
+| [numbbbbb](http://numbbbbb.com/) | 112 |
 | [Cee](https://github.com/Cee) | 53 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
@@ -240,8 +240,9 @@
 | [梁杰](undefined) | 1 |
 | [DianQK](undefined) | 1 |
 | [智多芯](http://hulizhen.me) | 1 |
-| [liberalisman](http://xiaolu520.com/) | 1 |
+| [BigNerdCoding](https://bignerdcoding.com/) | 1 |
 | [muhlenXi](http://muhlenxi.com/) | 1 |
+| [liberalisman](http://xiaolu520.com/) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
 
 
@@ -255,7 +256,7 @@
 | [shanks](http://codebuild.me/) | 58 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
-| [Forelax](http://forelax.space) | 12 |
+| [Forelax](http://forelax.space) | 13 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [littledogboy](undefined) | 2 |

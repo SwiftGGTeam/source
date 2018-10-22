@@ -10,8 +10,8 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [jojotov](https://dingtz.com/) | 16426 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 9558 |
 | [Damonwong](https://github.com/Damonvvong) | 9553 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 9516 |
 | [BigLuo](https://github.com/Adolf-L) | 5445 |
 
 
@@ -82,9 +82,9 @@
 | [Khala-wan](http://khala-wan.com) | 11383 |
 | [天才175](http://weibo.com/u/2916092907) | 11055 |
 | [muhlenXi](http://muhlenxi.com/) | 10968 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 9558 |
 | [Lou](undefined) | 9554 |
 | [Damonwong](https://github.com/Damonvvong) | 9553 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 9516 |
 | [littledogboy](undefined) | 9199 |
 | [Doye](undefined) | 8471 |
 | [DianQK](undefined) | 8333 |

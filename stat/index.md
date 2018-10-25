@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [jojotov](https://dingtz.com/) | 16426 |
-| [saitjr](http://www.saitjr.com) | 10058 |
+| [saitjr](http://www.saitjr.com) | 10206 |
 | [rsenjoyer](https://github.com/rsenjoyer) | 9558 |
 | [Damonwong](https://github.com/Damonvvong) | 9553 |
 | [BigLuo](https://github.com/Adolf-L) | 5445 |
@@ -38,7 +38,7 @@
 | [shanks](http://codebuild.me/) | 125206 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 122989 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106538 |
-| [saitjr](http://www.saitjr.com) | 102549 |
+| [saitjr](http://www.saitjr.com) | 102697 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 95837 |
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 81225 |

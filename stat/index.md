@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [jojotov](https://dingtz.com/) | 16426 |
+| [saitjr](http://www.saitjr.com) | 10058 |
 | [rsenjoyer](https://github.com/rsenjoyer) | 9558 |
 | [Damonwong](https://github.com/Damonvvong) | 9553 |
 | [BigLuo](https://github.com/Adolf-L) | 5445 |
@@ -23,6 +24,7 @@
 | [rsenjoyer](https://github.com/rsenjoyer) | 2 |
 | [BigLuo](https://github.com/Adolf-L) | 1 |
 | [jojotov](https://dingtz.com/) | 1 |
+| [saitjr](http://www.saitjr.com) | 1 |
 
 
 # 翻译字数统计
@@ -36,8 +38,8 @@
 | [shanks](http://codebuild.me/) | 125206 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 122989 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 106538 |
+| [saitjr](http://www.saitjr.com) | 102549 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 95837 |
-| [saitjr](http://www.saitjr.com) | 92491 |
 | [靛青K](http://blog.dianqk.org/) | 86372 |
 | [Prayer](http://www.futantan.com) | 81225 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 74945 |
@@ -118,8 +120,8 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 29 |
 | [Cwift](http://weibo.com/277195544) | 29 |
 | [小铁匠Linus](http://linusling.com) | 21 |
+| [saitjr](http://www.saitjr.com) | 18 |
 | [小袋子](http://daizi.me) | 18 |
-| [saitjr](http://www.saitjr.com) | 17 |
 | [小锅](http://www.swiftyper.com) | 17 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 17 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 14 |
@@ -210,13 +212,13 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 15 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [Cwift](http://weibo.com/277195544) | 15 |
-| [Yousanflics](http://blog.yousanflics.com.cn) | 13 |
+| [Yousanflics](http://blog.yousanflics.com.cn) | 14 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [小铁匠Linus](http://linusling.com) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
-| [冬瓜](http://www.desgard.com/) | 6 |
+| [冬瓜](http://www.desgard.com/) | 7 |
 | [way](undefined) | 6 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
 | [Firecrest](undefined) | 5 |
@@ -256,7 +258,7 @@
 | [shanks](http://codebuild.me/) | 58 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
-| [Forelax](http://forelax.space) | 14 |
+| [Forelax](http://forelax.space) | 15 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [littledogboy](undefined) | 2 |

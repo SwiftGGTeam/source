@@ -9,7 +9,7 @@ description: 本文详细讲解了如何通过 Watch Connectivity 的 Applicatio
 
 ---
 > 作者：codingexplorer，[原文链接](http://www.codingexplorer.com/watch-connectivity-swift-application-context/)，原文日期：2018-07-18
-> 译者：[Khala-wan](http://khala-wan.com)；校对：[Yousanflics](http://blog.yousanflics.com.cn)，[wongzigii](undefined)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：[Khala-wan](http://khala-wan.com)；校对：[Yousanflics](http://blog.yousanflics.com.cn)，[wongzigii](https://github.com/wongzigii)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

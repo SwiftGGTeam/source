@@ -5,24 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2018 年 11 月字数排行
+# 2018 年 12 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Nemocdz](https://nemocdz.github.io/) | 18319 |
-| [jojotov](https://dingtz.com/) | 16693 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 12385 |
-| [雨谨](https://github.com/mobilefellow) | 4916 |
+| [阳仔](https://github.com/YangGao1991) | 18068 |
 
 
-# 2018 年 11 月篇数排行
+# 2018 年 12 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [雨谨](https://github.com/mobilefellow) | 1 |
-| [Nemocdz](https://nemocdz.github.io/) | 1 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 1 |
-| [jojotov](https://dingtz.com/) | 1 |
+| [阳仔](https://github.com/YangGao1991) | 1 |
 
 
 # 翻译字数统计
@@ -55,6 +49,7 @@
 | [bestswifter](http://bestswifter.com) | 36614 |
 | [lfb_CD](http://weibo.com/lfbWb) | 36599 |
 | [智多芯](http://hulizhen.me) | 36537 |
+| [阳仔](https://github.com/YangGao1991) | 35865 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35537 |
 | [四娘](https://kemchenj.github.io) | 35056 |
 | [X140Yu](undefined) | 31496 |
@@ -66,10 +61,10 @@
 | [rsenjoyer](https://github.com/rsenjoyer) | 21943 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
+| [郑一一](https://www.jianshu.com/u/076cc5e18bb8) | 19209 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 18919 |
 | [pucca601](http://weibo.com/601pucca) | 18802 |
 | [Nemocdz](https://nemocdz.github.io/) | 18319 |
-| [阳仔](https://github.com/YangGao1991) | 17797 |
 | [SketchK](http://www.sketchk.xyz) | 17482 |
 | [riven](http://weibo.com/riven0951) | 17187 |
 | [JackAlan](http://ijack.pw/) | 16062 |
@@ -165,17 +160,17 @@
 | [jojotov](https://dingtz.com/) | 3 |
 | [BigLuo](https://github.com/Adolf-L) | 3 |
 | [Hale](http://wuqiuhao.github.io) | 3 |
+| [阳仔](https://github.com/YangGao1991) | 3 |
 | [muhlenXi](http://muhlenxi.com/) | 3 |
 | [pucca](undefined) | 3 |
-| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
-| [钟颖Cyan](undefined) | 2 |
-| [riven](http://weibo.com/riven0951) | 2 |
-| [Doye](undefined) | 2 |
-| [赵磊](undefined) | 2 |
-| [东莞大唐和尚](https://weibo.com/u/5029986118) | 2 |
-| [阳仔](https://github.com/YangGao1991) | 2 |
-| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
+| [钟颖Cyan](undefined) | 2 |
+| [Doye](undefined) | 2 |
+| [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
+| [东莞大唐和尚](https://weibo.com/u/5029986118) | 2 |
+| [赵磊](undefined) | 2 |
+| [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
+| [riven](http://weibo.com/riven0951) | 2 |
 | [Sunnyyoung](https://www.sunnyyoung.net/) | 2 |
 | [Cyan](undefined) | 2 |
 | [雨谨](https://github.com/mobilefellow) | 2 |
@@ -195,13 +190,14 @@
 | [Lou](undefined) | 1 |
 | [ennisk](https://weibo.com/u/1771329710) | 1 |
 | [Nemocdz](https://nemocdz.github.io/) | 1 |
+| [郑一一](https://www.jianshu.com/u/076cc5e18bb8) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 117 |
+| [numbbbbb](http://numbbbbb.com/) | 118 |
 | [Cee](https://github.com/Cee) | 53 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
@@ -209,40 +205,40 @@
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 27 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 16 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 17 |
+| [小锅](http://www.swiftyper.com) | 15 |
 | [Yousanflics](http://blog.yousanflics.com.cn) | 15 |
 | [Cwift](http://weibo.com/277195544) | 15 |
-| [小锅](http://www.swiftyper.com) | 15 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [小铁匠Linus](http://linusling.com) | 10 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 7 |
-| [靛青K](http://blog.dianqk.org/) | 7 |
 | [冬瓜](http://www.desgard.com/) | 7 |
+| [靛青K](http://blog.dianqk.org/) | 7 |
 | [way](undefined) | 6 |
-| [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
+| [Forelax](http://forelax.space) | 5 |
 | [Firecrest](undefined) | 5 |
+| [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [bestswifter](http://bestswifter.com) | 4 |
-| [Forelax](http://forelax.space) | 4 |
-| [Lision](https://lision.me/) | 3 |
+| [Lision](https://lision.me/) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
-| [wongzigii](https://github.com/wongzigii) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
-| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
-| [Darren](https://github.com/Harman-darrenchen) | 2 |
-| [littledogboy](undefined) | 2 |
-| [&nbsp](https://github.com/initiOSJava) | 2 |
-| [Yake](http://blog.csdn.net/yake_099) | 2 |
+| [wongzigii](https://github.com/wongzigii) | 3 |
 | [智多芯](http://hulizhen.me) | 2 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
+| [Yake](http://blog.csdn.net/yake_099) | 2 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
+| [BigNerdCoding](https://bignerdcoding.com/) | 2 |
+| [&nbsp](https://github.com/initiOSJava) | 2 |
+| [littledogboy](undefined) | 2 |
+| [Darren](https://github.com/Harman-darrenchen) | 2 |
 | [Lefex](https://weibo.com/u/5953150140) | 1 |
-| [小袋子](http://daizi.me) | 1 |
+| [DianQK](undefined) | 1 |
 | [ mmoaay](undefined) | 1 |
 | [梁杰](undefined) | 1 |
-| [DianQK](undefined) | 1 |
-| [BigNerdCoding](https://bignerdcoding.com/) | 1 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [100mango](undefined) | 1 |
+| [小袋子](http://daizi.me) | 1 |
 | [muhlenXi](http://muhlenxi.com/) | 1 |
 | [liberalisman](http://xiaolu520.com/) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
@@ -258,7 +254,7 @@
 | [shanks](http://codebuild.me/) | 58 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
-| [Forelax](http://forelax.space) | 20 |
+| [Forelax](http://forelax.space) | 22 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [littledogboy](undefined) | 2 |

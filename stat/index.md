@@ -10,6 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [阳仔](https://github.com/YangGao1991) | 18068 |
+| [zhongWJ](undefined) | 9129 |
 | [灰s](https://github.com/dzyding) | 8520 |
 | [WAMaker](https://github.com/WAMaker) | 5009 |
 | [Hale](http://wuqiuhao.github.io) | 4500 |
@@ -23,6 +24,7 @@
 | [灰s](https://github.com/dzyding) | 1 |
 | [WAMaker](https://github.com/WAMaker) | 1 |
 | [Hale](http://wuqiuhao.github.io) | 1 |
+| [zhongWJ](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -91,6 +93,7 @@
 | [Lou](undefined) | 9554 |
 | [Damonwong](https://github.com/Damonvvong) | 9553 |
 | [littledogboy](undefined) | 9199 |
+| [zhongWJ](undefined) | 9129 |
 | [Doye](undefined) | 8471 |
 | [DianQK](undefined) | 8333 |
 | [pucca](undefined) | 8236 |
@@ -199,14 +202,15 @@
 | [Nemocdz](https://nemocdz.github.io/) | 1 |
 | [郑一一](https://www.jianshu.com/u/076cc5e18bb8) | 1 |
 | [WAMaker](https://github.com/WAMaker) | 1 |
+| [zhongWJ](undefined) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 121 |
-| [Cee](https://github.com/Cee) | 53 |
+| [numbbbbb](http://numbbbbb.com/) | 122 |
+| [Cee](https://github.com/Cee) | 54 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
@@ -261,7 +265,7 @@
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |
 | [Cee](https://github.com/Cee) | 28 |
-| [Forelax](http://forelax.space) | 25 |
+| [Forelax](http://forelax.space) | 26 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |

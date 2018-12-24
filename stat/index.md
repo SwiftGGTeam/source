@@ -10,7 +10,7 @@
 | 译者 | 字数 |
 | :------------: | :------------: |
 | [阳仔](https://github.com/YangGao1991) | 18068 |
-| [zhongWJ](undefined) | 9129 |
+| [zhongWJ](https://github.com/zhongWJ) | 9129 |
 | [灰s](https://github.com/dzyding) | 8520 |
 | [WAMaker](https://github.com/WAMaker) | 5009 |
 | [Hale](http://wuqiuhao.github.io) | 4500 |
@@ -24,7 +24,7 @@
 | [灰s](https://github.com/dzyding) | 1 |
 | [WAMaker](https://github.com/WAMaker) | 1 |
 | [Hale](http://wuqiuhao.github.io) | 1 |
-| [zhongWJ](undefined) | 1 |
+| [zhongWJ](https://github.com/zhongWJ) | 1 |
 
 
 # 翻译字数统计
@@ -93,7 +93,7 @@
 | [Lou](undefined) | 9554 |
 | [Damonwong](https://github.com/Damonvvong) | 9553 |
 | [littledogboy](undefined) | 9199 |
-| [zhongWJ](undefined) | 9129 |
+| [zhongWJ](https://github.com/zhongWJ) | 9129 |
 | [Doye](undefined) | 8471 |
 | [DianQK](undefined) | 8333 |
 | [pucca](undefined) | 8236 |
@@ -202,7 +202,7 @@
 | [Nemocdz](https://nemocdz.github.io/) | 1 |
 | [郑一一](https://www.jianshu.com/u/076cc5e18bb8) | 1 |
 | [WAMaker](https://github.com/WAMaker) | 1 |
-| [zhongWJ](undefined) | 1 |
+| [zhongWJ](https://github.com/zhongWJ) | 1 |
 
 
 # 校对篇数统计

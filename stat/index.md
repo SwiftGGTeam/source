@@ -9,8 +9,9 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [zhongWJ](https://github.com/zhongWJ) | 5623 |
 | [灰s](https://github.com/dzyding) | 5412 |
-| [RocZhang](https://www.roczhang.com/) | 2654 |
+| [RocZhang](https://www.roczhang.com/) | 2667 |
 
 
 # 2019 年 2 月篇数排行
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [灰s](https://github.com/dzyding) | 1 |
 | [RocZhang](https://www.roczhang.com/) | 1 |
+| [zhongWJ](https://github.com/zhongWJ) | 1 |
 
 
 # 翻译字数统计
@@ -76,6 +78,7 @@
 | [jseanj](undefined) | 15628 |
 | [zltunes](http://zltunes.com) | 15439 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 15232 |
+| [zhongWJ](https://github.com/zhongWJ) | 14752 |
 | [钟颖](https://github.com/cyanzhong) | 14394 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
 | [Darren](https://github.com/Harman-darrenchen) | 13451 |
@@ -87,7 +90,6 @@
 | [Lou](undefined) | 9554 |
 | [Damonwong](https://github.com/Damonvvong) | 9553 |
 | [littledogboy](undefined) | 9199 |
-| [zhongWJ](https://github.com/zhongWJ) | 9129 |
 | [Doye](undefined) | 8471 |
 | [DianQK](undefined) | 8333 |
 | [pucca](undefined) | 8236 |
@@ -108,7 +110,7 @@
 | [X140yu](undefined) | 3784 |
 | [ennisk](https://weibo.com/u/1771329710) | 2902 |
 | [Cyan](undefined) | 2704 |
-| [RocZhang](https://www.roczhang.com/) | 2654 |
+| [RocZhang](https://www.roczhang.com/) | 2667 |
 | [Tuccuay](undefined) | 2547 |
 
 
@@ -171,22 +173,22 @@
 | [ahfepj](undefined) | 3 |
 | [DianQK](undefined) | 3 |
 | [jseanj](undefined) | 3 |
-| [赵磊](undefined) | 2 |
+| [Sunnyyoung](https://www.sunnyyoung.net/) | 2 |
 | [钟颖Cyan](undefined) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
 | [Doye](undefined) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 2 |
 | [haolloyin](https://github.com/haolloyin) | 2 |
+| [赵磊](undefined) | 2 |
 | [Cyan](undefined) | 2 |
-| [Sunnyyoung](https://www.sunnyyoung.net/) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 2 |
 | [Damonwong](https://github.com/Damonvvong) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [Nemocdz](https://nemocdz.github.io/) | 2 |
 | [郑一一](https://www.jianshu.com/u/076cc5e18bb8) | 2 |
-| [X140yu](undefined) | 1 |
+| [zhongWJ](https://github.com/zhongWJ) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [imiem](https://imiem.github.io) | 1 |
 | [Khala-wan](http://khala-wan.com) | 1 |
@@ -198,7 +200,7 @@
 | [Tuccuay](undefined) | 1 |
 | [Forelax](http://forelax.space) | 1 |
 | [WAMaker](https://github.com/WAMaker) | 1 |
-| [zhongWJ](https://github.com/zhongWJ) | 1 |
+| [X140yu](undefined) | 1 |
 | [石榴](https://github.com/alejx) | 1 |
 | [ray](undefined) | 1 |
 
@@ -207,13 +209,13 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 128 |
+| [numbbbbb](http://numbbbbb.com/) | 129 |
 | [Cee](https://github.com/Cee) | 55 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 27 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 23 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 24 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [Yousanflics](http://blog.yousanflics.com.cn) | 18 |
@@ -262,7 +264,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 76 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |
-| [Forelax](http://forelax.space) | 33 |
+| [Forelax](http://forelax.space) | 34 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

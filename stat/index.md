@@ -5,22 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2019 年 2 月字数排行
+# 2019 年 4 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [zhongWJ](https://github.com/zhongWJ) | 5623 |
-| [灰s](https://github.com/dzyding) | 5412 |
-| [RocZhang](https://www.roczhang.com/) | 2667 |
+| [灰s](https://github.com/dzyding) | 28900 |
 
 
-# 2019 年 2 月篇数排行
+# 2019 年 4 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [灰s](https://github.com/dzyding) | 1 |
-| [RocZhang](https://www.roczhang.com/) | 1 |
-| [zhongWJ](https://github.com/zhongWJ) | 1 |
 
 
 # 翻译字数统计
@@ -44,6 +40,7 @@
 | [walkingway](http://chengway.in/) | 59522 |
 | [CMB](https://github.com/chenmingbiao) | 58457 |
 | [Cee](https://github.com/Cee) | 55370 |
+| [灰s](https://github.com/dzyding) | 49459 |
 | [TonyHan](undefined) | 46671 |
 | [jojotov](https://dingtz.com/) | 46539 |
 | [冬瓜](http://www.desgard.com/) | 44268 |
@@ -66,7 +63,6 @@
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [rsenjoyer](https://github.com/rsenjoyer) | 21943 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
-| [灰s](https://github.com/dzyding) | 20559 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 18919 |
 | [Hale](http://wuqiuhao.github.io) | 18841 |
@@ -142,9 +138,9 @@
 | [Darren](https://github.com/Harman-darrenchen) | 6 |
 | [CoderAFI](http://coderafi.github.io/) | 6 |
 | [天才175](http://weibo.com/u/2916092907) | 6 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6 |
 | [BigbigChai](https://github.com/chaiyixiao) | 6 |
 | [CMB](https://github.com/chenmingbiao) | 6 |
-| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 6 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 6 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5 |
 | [JackAlan](http://ijack.pw/) | 5 |
@@ -152,27 +148,27 @@
 | [bestswifter](http://bestswifter.com) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 5 |
+| [X140Yu](undefined) | 4 |
 | [jojotov](https://dingtz.com/) | 4 |
-| [BigNerdCoding](https://bignerdcoding.com/) | 4 |
+| [灰s](https://github.com/dzyding) | 4 |
 | [Hale](http://wuqiuhao.github.io) | 4 |
 | [littledogboy](undefined) | 4 |
-| [X140Yu](undefined) | 4 |
+| [BigNerdCoding](https://bignerdcoding.com/) | 4 |
 | [ckitakishi](undefined) | 4 |
 | [智多芯](http://hulizhen.me) | 4 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
-| [雨谨](https://github.com/mobilefellow) | 3 |
 | [muhlenXi](http://muhlenxi.com/) | 3 |
-| [灰s](https://github.com/dzyding) | 3 |
 | [阳仔](https://github.com/YangGao1991) | 3 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 3 |
-| [pucca](undefined) | 3 |
-| [EyreFree](undefined) | 3 |
 | [BigLuo](https://github.com/Adolf-L) | 3 |
+| [pucca](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
+| [EyreFree](undefined) | 3 |
 | [DianQK](undefined) | 3 |
 | [jseanj](undefined) | 3 |
+| [雨谨](https://github.com/mobilefellow) | 3 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 3 |
 | [Sunnyyoung](https://www.sunnyyoung.net/) | 2 |
 | [钟颖Cyan](undefined) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
@@ -209,8 +205,8 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 129 |
-| [Cee](https://github.com/Cee) | 55 |
+| [numbbbbb](http://numbbbbb.com/) | 130 |
+| [Cee](https://github.com/Cee) | 56 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
@@ -264,7 +260,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 76 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |
-| [Forelax](http://forelax.space) | 34 |
+| [Forelax](http://forelax.space) | 35 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

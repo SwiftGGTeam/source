@@ -70,7 +70,7 @@
 | [SketchK](http://www.sketchk.xyz) | 17482 |
 | [riven](http://weibo.com/riven0951) | 17187 |
 | [雨谨](https://github.com/mobilefellow) | 16272 |
-| [JackAlan](http://ijack.pw/) | 16062 |
+| [JackAlan](http://alanmelody.com/) | 16062 |
 | [jseanj](undefined) | 15628 |
 | [zltunes](http://zltunes.com) | 15439 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 15232 |
@@ -148,7 +148,7 @@
 | [SergioChan](https://github.com/SergioChan) | 5 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 5 |
 | [zltunes](http://zltunes.com) | 5 |
-| [JackAlan](http://ijack.pw/) | 5 |
+| [JackAlan](http://alanmelody.com/) | 5 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
 | [智多芯](http://hulizhen.me) | 4 |
 | [jojotov](https://dingtz.com/) | 4 |

@@ -9,7 +9,7 @@ description: 怎么在 Swift 中进行错误处理，这是一个问题，本文
 
 ---
 > 作者：Olivier Halligon，[原文链接](http://alisoftware.github.io/swift/error/2015/12/17/let-it-throw/)，原文日期：2015-12-17
-> 译者：[JackAlan](http://ijack.pw/)；校对：[靛青K](http://blog.dianqk.org/)；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
+> 译者：[JackAlan](http://alanmelody.com/)；校对：[靛青K](http://blog.dianqk.org/)；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
   
 
 

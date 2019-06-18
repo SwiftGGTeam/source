@@ -6,7 +6,7 @@ permalink: app-thinning-appcoda
 
 ---
 > 作者：gregg mojica，[原文链接](http://www.appcoda.com/app-thinning/)，原文日期：2015-10-11
-> 译者：[JackAlan](http://ijack.pw/)；校对：[lfb_CD](http://weibo.com/lfbWb)；定稿：[numbbbbb](http://numbbbbb.com/)
+> 译者：[JackAlan](http://alanmelody.com/)；校对：[lfb_CD](http://weibo.com/lfbWb)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

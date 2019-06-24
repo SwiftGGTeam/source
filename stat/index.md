@@ -9,14 +9,14 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-
+| [WAMaker](https://github.com/WAMaker) | 3775 |
 
 
 # 2019 年 6 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-
+| [WAMaker](https://github.com/WAMaker) | 1 |
 
 
 # 翻译字数统计
@@ -86,6 +86,7 @@
 | [Lou](undefined) | 9554 |
 | [Damonwong](https://github.com/Damonvvong) | 9553 |
 | [littledogboy](undefined) | 9199 |
+| [WAMaker](https://github.com/WAMaker) | 8784 |
 | [Doye](undefined) | 8471 |
 | [DianQK](undefined) | 8333 |
 | [pucca](undefined) | 8236 |
@@ -99,7 +100,6 @@
 | [Forelax](http://forelax.space) | 5483 |
 | [haolloyin](https://github.com/haolloyin) | 5298 |
 | [Roc Zhang](undefined) | 5214 |
-| [WAMaker](https://github.com/WAMaker) | 5009 |
 | [赵磊](undefined) | 4716 |
 | [石榴](https://github.com/alejx) | 4373 |
 | [Tony Han](undefined) | 4032 |
@@ -186,8 +186,8 @@
 | [haolloyin](https://github.com/haolloyin) | 2 |
 | [Doye](undefined) | 2 |
 | [郑一一](https://www.jianshu.com/u/076cc5e18bb8) | 2 |
+| [WAMaker](https://github.com/WAMaker) | 2 |
 | [Tony Han](undefined) | 1 |
-| [imiem](https://imiem.github.io) | 1 |
 | [Khala-wan](http://khala-wan.com) | 1 |
 | [Lou](undefined) | 1 |
 | [ray](undefined) | 1 |
@@ -196,8 +196,8 @@
 | [&nbsp](https://github.com/initiOSJava) | 1 |
 | [X140yu](undefined) | 1 |
 | [Tuccuay](undefined) | 1 |
-| [WAMaker](https://github.com/WAMaker) | 1 |
 | [Forelax](http://forelax.space) | 1 |
+| [imiem](https://imiem.github.io) | 1 |
 | [石榴](https://github.com/alejx) | 1 |
 | [RocZhang](https://www.roczhang.com/) | 1 |
 | [Roc Zhang](undefined) | 1 |
@@ -207,7 +207,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 132 |
+| [numbbbbb](http://numbbbbb.com/) | 133 |
 | [Cee](https://github.com/Cee) | 56 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
@@ -223,35 +223,35 @@
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
 | [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 7 |
-| [冬瓜](http://www.desgard.com/) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
+| [冬瓜](http://www.desgard.com/) | 7 |
 | [way](undefined) | 6 |
 | [Forelax](http://forelax.space) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
-| [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
 | [Firecrest](undefined) | 5 |
+| [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
 | [bestswifter](http://bestswifter.com) | 4 |
 | [Lision](https://lision.me/) | 4 |
+| [BigNerdCoding](https://bignerdcoding.com/) | 3 |
+| [wongzigii](https://github.com/wongzigii) | 3 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
-| [wongzigii](https://github.com/wongzigii) | 3 |
+| [Darren](https://github.com/Harman-darrenchen) | 2 |
+| [littledogboy](undefined) | 2 |
+| [&nbsp](https://github.com/initiOSJava) | 2 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [智多芯](http://hulizhen.me) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
-| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
-| [BigNerdCoding](https://bignerdcoding.com/) | 2 |
-| [&nbsp](https://github.com/initiOSJava) | 2 |
-| [littledogboy](undefined) | 2 |
-| [Darren](https://github.com/Harman-darrenchen) | 2 |
 | [Lefex](https://weibo.com/u/5953150140) | 1 |
 | [DianQK](undefined) | 1 |
-| [ mmoaay](undefined) | 1 |
-| [梁杰](undefined) | 1 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
-| [100mango](undefined) | 1 |
+| [梁杰](undefined) | 1 |
 | [小袋子](http://daizi.me) | 1 |
+| [100mango](undefined) | 1 |
+| [pucca601](http://weibo.com/601pucca) | 1 |
 | [muhlenXi](http://muhlenxi.com/) | 1 |
 | [liberalisman](http://xiaolu520.com/) | 1 |
-| [pucca601](http://weibo.com/601pucca) | 1 |
+| [ mmoaay](undefined) | 1 |
 
 
 # 定稿篇数统计
@@ -262,7 +262,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 76 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |
-| [Forelax](http://forelax.space) | 37 |
+| [Forelax](http://forelax.space) | 38 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

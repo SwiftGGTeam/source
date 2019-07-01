@@ -5,18 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2019 年 6 月字数排行
+# 2019 年 7 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [WAMaker](https://github.com/WAMaker) | 3775 |
+| [张弛](https://github.com/zhangchi25806) | 2304 |
 
 
-# 2019 年 6 月篇数排行
+# 2019 年 7 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [WAMaker](https://github.com/WAMaker) | 1 |
+| [张弛](https://github.com/zhangchi25806) | 1 |
 
 
 # 翻译字数统计
@@ -109,6 +109,7 @@
 | [Cyan](undefined) | 2704 |
 | [RocZhang](https://www.roczhang.com/) | 2667 |
 | [Tuccuay](undefined) | 2547 |
+| [张弛](https://github.com/zhangchi25806) | 2304 |
 
 
 # 翻译篇数统计
@@ -201,29 +202,30 @@
 | [石榴](https://github.com/alejx) | 1 |
 | [RocZhang](https://www.roczhang.com/) | 1 |
 | [Roc Zhang](undefined) | 1 |
+| [张弛](https://github.com/zhangchi25806) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 133 |
+| [numbbbbb](http://numbbbbb.com/) | 134 |
 | [Cee](https://github.com/Cee) | 56 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 27 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 25 |
+| [Yousanflics](http://blog.yousanflics.com.cn) | 20 |
 | [saitjr](http://www.saitjr.com) | 20 |
-| [Yousanflics](http://blog.yousanflics.com.cn) | 19 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
-| [小锅](http://www.swiftyper.com) | 15 |
 | [Cwift](http://weibo.com/277195544) | 15 |
+| [小锅](http://www.swiftyper.com) | 15 |
 | [小铁匠Linus](http://linusling.com) | 12 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
-| [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
+| [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 7 |
 | [冬瓜](http://www.desgard.com/) | 7 |
 | [way](undefined) | 6 |
 | [Forelax](http://forelax.space) | 6 |
@@ -262,7 +264,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 76 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |
-| [Forelax](http://forelax.space) | 38 |
+| [Forelax](http://forelax.space) | 39 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

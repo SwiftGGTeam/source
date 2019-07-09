@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [rsenjoyer](https://github.com/rsenjoyer) | 3031 |
 | [张弛](https://github.com/zhangchi25806) | 2304 |
 
 
@@ -17,6 +18,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [张弛](https://github.com/zhangchi25806) | 1 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 1 |
 
 
 # 翻译字数统计
@@ -60,8 +62,8 @@
 | [BigLuo](https://github.com/Adolf-L) | 26696 |
 | [郑一一](https://www.jianshu.com/u/076cc5e18bb8) | 25375 |
 | [BigNerdCoding](https://bignerdcoding.com/) | 25225 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 24974 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 21943 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 18919 |
@@ -152,25 +154,25 @@
 | [JackAlan](http://alanmelody.com/) | 5 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
 | [智多芯](http://hulizhen.me) | 4 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 4 |
 | [jojotov](https://dingtz.com/) | 4 |
 | [BigNerdCoding](https://bignerdcoding.com/) | 4 |
-| [Hale](http://wuqiuhao.github.io) | 4 |
 | [littledogboy](undefined) | 4 |
-| [灰s](https://github.com/dzyding) | 4 |
+| [Hale](http://wuqiuhao.github.io) | 4 |
 | [X140Yu](undefined) | 4 |
 | [ckitakishi](undefined) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
+| [灰s](https://github.com/dzyding) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
-| [ahfepj](undefined) | 3 |
-| [EyreFree](undefined) | 3 |
+| [muhlenXi](http://muhlenxi.com/) | 3 |
 | [阳仔](https://github.com/YangGao1991) | 3 |
+| [EyreFree](undefined) | 3 |
 | [DianQK](undefined) | 3 |
 | [jseanj](undefined) | 3 |
-| [muhlenXi](http://muhlenxi.com/) | 3 |
 | [BigLuo](https://github.com/Adolf-L) | 3 |
 | [雨谨](https://github.com/mobilefellow) | 3 |
+| [ahfepj](undefined) | 3 |
 | [pucca](undefined) | 3 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 3 |
 | [Nemocdz](https://nemocdz.github.io/) | 3 |
 | [zhongWJ](https://github.com/zhongWJ) | 2 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
@@ -209,13 +211,13 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 134 |
+| [numbbbbb](http://numbbbbb.com/) | 135 |
 | [Cee](https://github.com/Cee) | 56 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 27 |
-| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 25 |
+| [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 26 |
 | [Yousanflics](http://blog.yousanflics.com.cn) | 20 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
@@ -264,7 +266,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 76 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |
-| [Forelax](http://forelax.space) | 39 |
+| [Forelax](http://forelax.space) | 40 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

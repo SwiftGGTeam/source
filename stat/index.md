@@ -9,7 +9,8 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [rsenjoyer](https://github.com/rsenjoyer) | 3031 |
+| [WAMaker](https://github.com/WAMaker) | 4673 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 3028 |
 | [张弛](https://github.com/zhangchi25806) | 2304 |
 
 
@@ -19,6 +20,7 @@
 | :------------: | :------------: |
 | [张弛](https://github.com/zhangchi25806) | 1 |
 | [rsenjoyer](https://github.com/rsenjoyer) | 1 |
+| [WAMaker](https://github.com/WAMaker) | 1 |
 
 
 # 翻译字数统计
@@ -62,7 +64,7 @@
 | [BigLuo](https://github.com/Adolf-L) | 26696 |
 | [郑一一](https://www.jianshu.com/u/076cc5e18bb8) | 25375 |
 | [BigNerdCoding](https://bignerdcoding.com/) | 25225 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 24974 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 24971 |
 | [SergioChan](https://github.com/SergioChan) | 22048 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21074 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
@@ -79,6 +81,7 @@
 | [zhongWJ](https://github.com/zhongWJ) | 14752 |
 | [钟颖](https://github.com/cyanzhong) | 14394 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
+| [WAMaker](https://github.com/WAMaker) | 13457 |
 | [Darren](https://github.com/Harman-darrenchen) | 13451 |
 | [&nbsp](https://github.com/initiOSJava) | 13383 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 12335 |
@@ -88,7 +91,6 @@
 | [Lou](undefined) | 9554 |
 | [Damonwong](https://github.com/Damonvvong) | 9553 |
 | [littledogboy](undefined) | 9199 |
-| [WAMaker](https://github.com/WAMaker) | 8784 |
 | [Doye](undefined) | 8471 |
 | [DianQK](undefined) | 8333 |
 | [pucca](undefined) | 8236 |
@@ -164,17 +166,17 @@
 | [SketchK](http://www.sketchk.xyz) | 4 |
 | [灰s](https://github.com/dzyding) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
+| [BigLuo](https://github.com/Adolf-L) | 3 |
 | [muhlenXi](http://muhlenxi.com/) | 3 |
-| [阳仔](https://github.com/YangGao1991) | 3 |
 | [EyreFree](undefined) | 3 |
 | [DianQK](undefined) | 3 |
 | [jseanj](undefined) | 3 |
-| [BigLuo](https://github.com/Adolf-L) | 3 |
+| [阳仔](https://github.com/YangGao1991) | 3 |
 | [雨谨](https://github.com/mobilefellow) | 3 |
 | [ahfepj](undefined) | 3 |
 | [pucca](undefined) | 3 |
 | [Nemocdz](https://nemocdz.github.io/) | 3 |
-| [zhongWJ](https://github.com/zhongWJ) | 2 |
+| [WAMaker](https://github.com/WAMaker) | 3 |
 | [钟颖](https://github.com/cyanzhong) | 2 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
@@ -189,7 +191,7 @@
 | [haolloyin](https://github.com/haolloyin) | 2 |
 | [Doye](undefined) | 2 |
 | [郑一一](https://www.jianshu.com/u/076cc5e18bb8) | 2 |
-| [WAMaker](https://github.com/WAMaker) | 2 |
+| [zhongWJ](https://github.com/zhongWJ) | 2 |
 | [Tony Han](undefined) | 1 |
 | [Khala-wan](http://khala-wan.com) | 1 |
 | [Lou](undefined) | 1 |
@@ -211,51 +213,51 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 135 |
+| [numbbbbb](http://numbbbbb.com/) | 136 |
 | [Cee](https://github.com/Cee) | 56 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 27 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 26 |
-| [Yousanflics](http://blog.yousanflics.com.cn) | 20 |
 | [saitjr](http://www.saitjr.com) | 20 |
+| [Yousanflics](http://blog.yousanflics.com.cn) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [Cwift](http://weibo.com/277195544) | 15 |
 | [小锅](http://www.swiftyper.com) | 15 |
 | [小铁匠Linus](http://linusling.com) | 12 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
-| [靛青K](http://blog.dianqk.org/) | 7 |
 | [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 7 |
+| [靛青K](http://blog.dianqk.org/) | 7 |
 | [冬瓜](http://www.desgard.com/) | 7 |
-| [way](undefined) | 6 |
 | [Forelax](http://forelax.space) | 6 |
+| [way](undefined) | 6 |
 | [Prayer](http://www.futantan.com) | 5 |
 | [Firecrest](undefined) | 5 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
 | [bestswifter](http://bestswifter.com) | 4 |
 | [Lision](https://lision.me/) | 4 |
-| [BigNerdCoding](https://bignerdcoding.com/) | 3 |
-| [wongzigii](https://github.com/wongzigii) | 3 |
+| [BigNerdCoding](https://bignerdcoding.com/) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
-| [Darren](https://github.com/Harman-darrenchen) | 2 |
+| [wongzigii](https://github.com/wongzigii) | 3 |
+| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [littledogboy](undefined) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
-| [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
-| [智多芯](http://hulizhen.me) | 2 |
+| [Darren](https://github.com/Harman-darrenchen) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
-| [Lefex](https://weibo.com/u/5953150140) | 1 |
+| [智多芯](http://hulizhen.me) | 2 |
 | [DianQK](undefined) | 1 |
-| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
-| [梁杰](undefined) | 1 |
 | [小袋子](http://daizi.me) | 1 |
+| [ mmoaay](undefined) | 1 |
+| [梁杰](undefined) | 1 |
 | [100mango](undefined) | 1 |
 | [pucca601](http://weibo.com/601pucca) | 1 |
+| [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 1 |
 | [muhlenXi](http://muhlenxi.com/) | 1 |
 | [liberalisman](http://xiaolu520.com/) | 1 |
-| [ mmoaay](undefined) | 1 |
+| [Lefex](https://weibo.com/u/5953150140) | 1 |
 
 
 # 定稿篇数统计
@@ -266,7 +268,7 @@
 | [numbbbbb](http://numbbbbb.com/) | 76 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 61 |
 | [shanks](http://codebuild.me/) | 58 |
-| [Forelax](http://forelax.space) | 40 |
+| [Forelax](http://forelax.space) | 41 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |

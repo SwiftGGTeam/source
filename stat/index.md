@@ -9,7 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Joeytat](https://github.com/joeytat) | 13875 |
+| [Joeytat](https://github.com/joeytat) | 13964 |
 
 
 # 2019 年 8 月篇数排行
@@ -76,7 +76,7 @@
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 15232 |
 | [zhongWJ](https://github.com/zhongWJ) | 14752 |
 | [钟颖](https://github.com/cyanzhong) | 14394 |
-| [Joeytat](https://github.com/joeytat) | 13875 |
+| [Joeytat](https://github.com/joeytat) | 13964 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 13873 |
 | [WAMaker](https://github.com/WAMaker) | 13525 |
 | [Darren](https://github.com/Harman-darrenchen) | 13451 |

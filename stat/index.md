@@ -9,6 +9,7 @@
 
 | 译者 | 字数 |
 | :------------: | :------------: |
+| [Ji4n1ng](https://github.com/Ji4n1ng) | 15947 |
 | [灰s](https://github.com/dzyding) | 13942 |
 
 
@@ -17,6 +18,7 @@
 | 译者 | 篇数 |
 | :------------: | :------------: |
 | [灰s](https://github.com/dzyding) | 1 |
+| [Ji4n1ng](https://github.com/Ji4n1ng) | 1 |
 
 
 # 翻译字数统计
@@ -71,6 +73,7 @@
 | [riven](http://weibo.com/riven0951) | 17203 |
 | [雨谨](https://github.com/mobilefellow) | 16169 |
 | [JackAlan](http://alanmelody.com/) | 16062 |
+| [Ji4n1ng](https://github.com/Ji4n1ng) | 15947 |
 | [jseanj](undefined) | 15531 |
 | [zltunes](http://zltunes.com) | 15422 |
 | [粉红星云](http://www.jianshu.com/users/f4d4f97d8b90/latest_articles) | 15255 |
@@ -189,7 +192,7 @@
 | [Doye](undefined) | 2 |
 | [赵磊](undefined) | 2 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 2 |
-| [Tuccuay](undefined) | 1 |
+| [Forelax](http://forelax.space) | 1 |
 | [Khala-wan](http://khala-wan.com) | 1 |
 | [ray](undefined) | 1 |
 | [&nbsp](https://github.com/initiOSJava) | 1 |
@@ -197,21 +200,22 @@
 | [Lefe_x](undefined) | 1 |
 | [Lou](undefined) | 1 |
 | [Tony Han](undefined) | 1 |
+| [Tuccuay](undefined) | 1 |
 | [X140yu](undefined) | 1 |
-| [Forelax](http://forelax.space) | 1 |
 | [imiem](https://imiem.github.io) | 1 |
 | [石榴](https://github.com/alejx) | 1 |
 | [RocZhang](https://www.roczhang.com/) | 1 |
 | [Roc Zhang](undefined) | 1 |
 | [张弛](https://github.com/zhangchi25806) | 1 |
 | [Joeytat](https://github.com/joeytat) | 1 |
+| [Ji4n1ng](https://github.com/Ji4n1ng) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 139 |
+| [numbbbbb](http://numbbbbb.com/) | 140 |
 | [Cee](https://github.com/Cee) | 56 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
@@ -238,10 +242,10 @@
 | [Lision](https://lision.me/) | 4 |
 | [BigNerdCoding](https://bignerdcoding.com/) | 4 |
 | [CMB](https://github.com/chenmingbiao) | 3 |
-| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
+| [WAMaker](https://github.com/WAMaker) | 3 |
 | [wongzigii](https://github.com/wongzigii) | 3 |
+| [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
 | [Darren](https://github.com/Harman-darrenchen) | 2 |
-| [WAMaker](https://github.com/WAMaker) | 2 |
 | [Yake](http://blog.csdn.net/yake_099) | 2 |
 | [智多芯](http://hulizhen.me) | 2 |
 | [&nbsp](https://github.com/initiOSJava) | 2 |
@@ -271,8 +275,8 @@
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
+| [Pancf](https://github.com/Pancf) | 4 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
-| [Pancf](https://github.com/Pancf) | 3 |
 | [littledogboy](undefined) | 2 |
 | [小铁匠Linus](http://linusling.com) | 2 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 2 |

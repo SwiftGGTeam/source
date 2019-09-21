@@ -6,7 +6,7 @@ permalink: objective-c-pointers-and-swift
 
 ---
 > 作者：Jameson Quave，[原文链接](http://jamesonquave.com/blog/objective-c-pointers-and-swift)，原文日期：2015-08-23
-> 译者：[mmoaay](http://mmoaay.photo/)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[shanks](http://codebuild.me/)
+> 译者：[mmoaay](http://www.jianshu.com/u/2d46948e84e3)；校对：[numbbbbb](http://numbbbbb.com/)；定稿：[shanks](http://codebuild.me/)
   
 
 

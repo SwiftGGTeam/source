@@ -6,7 +6,7 @@ permalink: help-yourself-to-some-swift
 
 ---
 > 作者：Jacob Bandes-Storch，[原文链接](http://bandes-stor.ch/blog/2015/11/28/help-yourself-to-some-swift/)，原文日期：2015-11-28
-> 译者：[mmoaay](http://mmoaay.photo/)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[shanks](http://codebuild.me/)
+> 译者：[mmoaay](http://www.jianshu.com/u/2d46948e84e3)；校对：[千叶知风](http://weibo.com/xiaoxxiao)；定稿：[shanks](http://codebuild.me/)
   
 
 
@@ -226,7 +226,7 @@ object.center = CGPoint(x: touchPos.x + objectOffset.x, y: touchPos.y + objectOf
 
 `objectOffset` 代表触摸位置和对象位置的距离。描述这种距离最好的方式并不是 `CGPoint`，而是不那么为人所知的 [CGVector](https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CGGeometry/#//apple_ref/c/tdef/CGVector)， 它不使用 `x` 和 `y`，而是用 `dx` 和 `dy` 来表示距离或者 “deltas“。
 
-![这里写图片描述](/img/articles/help-yourself-to-some-swift/201512151428497511452821418.99237)
+![这里写图片描述](https://swift.gg/img/articles/help-yourself-to-some-swift/201512151428497511452821418.99237)
 
 所以两个点相减得到一个向量就比较符合逻辑了，这样一来我们就得到了 `-` 操作符的一个重载：
 

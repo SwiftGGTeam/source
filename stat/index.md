@@ -11,6 +11,7 @@
 | :------------: | :------------: |
 | [Ji4n1ng](https://github.com/Ji4n1ng) | 15947 |
 | [灰s](https://github.com/dzyding) | 13942 |
+| [雨谨](https://github.com/mobilefellow) | 4500 |
 | [WAMaker](https://github.com/WAMaker) | 2920 |
 
 
@@ -21,6 +22,7 @@
 | [灰s](https://github.com/dzyding) | 1 |
 | [Ji4n1ng](https://github.com/Ji4n1ng) | 1 |
 | [WAMaker](https://github.com/WAMaker) | 1 |
+| [雨谨](https://github.com/mobilefellow) | 1 |
 
 
 # 翻译字数统计
@@ -67,6 +69,7 @@
 | [rsenjoyer](https://github.com/rsenjoyer) | 25003 |
 | [SergioChan](https://github.com/SergioChan) | 22096 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 21090 |
+| [雨谨](https://github.com/mobilefellow) | 20669 |
 | [与狼同行](http://www.jianshu.com/users/1c22b0c065ec/latest_articles) | 20401 |
 | [wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles) | 18957 |
 | [Hale](http://wuqiuhao.github.io) | 18857 |
@@ -74,7 +77,6 @@
 | [SketchK](http://www.sketchk.xyz) | 17482 |
 | [riven](http://weibo.com/riven0951) | 17203 |
 | [WAMaker](https://github.com/WAMaker) | 16377 |
-| [雨谨](https://github.com/mobilefellow) | 16169 |
 | [JackAlan](http://alanmelody.com/) | 16062 |
 | [Ji4n1ng](https://github.com/Ji4n1ng) | 15947 |
 | [jseanj](undefined) | 15531 |
@@ -162,19 +164,19 @@
 | [rsenjoyer](https://github.com/rsenjoyer) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 4 |
 | [jojotov](https://dingtz.com/) | 4 |
-| [BigNerdCoding](https://bignerdcoding.com/) | 4 |
+| [雨谨](https://github.com/mobilefellow) | 4 |
 | [littledogboy](undefined) | 4 |
 | [X140Yu](undefined) | 4 |
 | [ckitakishi](undefined) | 4 |
-| [Hale](http://wuqiuhao.github.io) | 4 |
+| [BigNerdCoding](https://bignerdcoding.com/) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
 | [pucca601](http://weibo.com/601pucca) | 4 |
-| [雨谨](https://github.com/mobilefellow) | 3 |
+| [Hale](http://wuqiuhao.github.io) | 4 |
+| [阳仔](https://github.com/YangGao1991) | 3 |
 | [muhlenXi](http://muhlenxi.com/) | 3 |
 | [DianQK](undefined) | 3 |
-| [jseanj](undefined) | 3 |
 | [BigLuo](https://github.com/Adolf-L) | 3 |
-| [阳仔](https://github.com/YangGao1991) | 3 |
+| [jseanj](undefined) | 3 |
 | [ahfepj](undefined) | 3 |
 | [pucca](undefined) | 3 |
 | [Nemocdz](https://nemocdz.github.io/) | 3 |
@@ -217,14 +219,14 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 141 |
+| [numbbbbb](http://numbbbbb.com/) | 142 |
 | [Cee](https://github.com/Cee) | 56 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
 | [千叶知风](http://weibo.com/xiaoxxiao) | 28 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 27 |
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 27 |
-| [Yousanflics](http://blog.yousanflics.com.cn) | 20 |
+| [Yousanflics](http://blog.yousanflics.com.cn) | 21 |
 | [saitjr](http://www.saitjr.com) | 20 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 19 |
 | [Cwift](http://weibo.com/277195544) | 15 |
@@ -277,7 +279,7 @@
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
-| [Pancf](https://github.com/Pancf) | 5 |
+| [Pancf](https://github.com/Pancf) | 6 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [littledogboy](undefined) | 2 |
 | [小铁匠Linus](http://linusling.com) | 2 |

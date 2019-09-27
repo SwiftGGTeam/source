@@ -9,7 +9,7 @@ description: 重新实现隐式解包的原因，会碰到问题。
 
 ---
 > 作者：Mark Lacey，[原文链接](https://swift.org/blog/iuo/)，原文日期：2018-04-26
-> 译者：[灰s](https://github.com/dzyding)；校对：[numbbbbb](http://numbbbbb.com/)，[ mmoaay](undefined)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：[灰s](https://github.com/dzyding)；校对：[numbbbbb](http://numbbbbb.com/)， mmoaay；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

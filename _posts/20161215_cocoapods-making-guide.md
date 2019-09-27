@@ -9,7 +9,7 @@ description: CocoaPods 使用教程来了，对于 Swift CocoaPods 操作还不�
 
 ---
 > 作者：AppCoda，[原文链接](https://www.appcoda.com/cocoapods-making-guide/)，原文日期：2016-09-16
-> 译者：[ckitakishi](undefined)；校对：[mmoaay](http://www.jianshu.com/u/2d46948e84e3)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：ckitakishi；校对：[mmoaay](http://www.jianshu.com/u/2d46948e84e3)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

@@ -9,7 +9,7 @@ description: Xcode 7.3.1, Swift 2.2
 
 ---
 > 作者：Nick Hanan，[原文链接](http://www.codingexplorer.com/error-handling-swift/)，原文日期：2016/05/05
-> 译者：[TonyHan](undefined)；校对：[Yousanflics](http://blog.yousanflics.com.cn)；定稿：[Forelax](http://forelax.space)
+> 译者：TonyHan；校对：[Yousanflics](http://blog.yousanflics.com.cn)；定稿：[Forelax](http://forelax.space)
   
 
 

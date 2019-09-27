@@ -9,7 +9,7 @@ description: 在 Swift 中怎么使用 OC 中很有名 method swizzling 呢，�
 
 ---
 > 作者：uraimo，[原文链接](https://www.uraimo.com/2015/10/23/effective-method-swizzling-with-swift/)，原文日期：2015-10-23
-> 译者：[小铁匠Linus](http://linusling.com)；校对：[100mango](undefined)；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
+> 译者：[小铁匠Linus](http://linusling.com)；校对：100mango；定稿：[Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles)
   
 
 

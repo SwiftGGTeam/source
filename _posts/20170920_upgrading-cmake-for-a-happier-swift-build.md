@@ -9,7 +9,7 @@ description:
 
 ---
 > 作者：Joe，[原文链接](http://dev.iachieved.it/iachievedit/upgrading-cmake-for-a-happier-swift-build/)，原文日期：2016/06/30
-> 译者：[EyreFree](undefined)；校对：[walkingway](http://chengway.in/)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：EyreFree；校对：[walkingway](http://chengway.in/)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

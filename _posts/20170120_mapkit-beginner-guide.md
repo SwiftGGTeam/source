@@ -9,7 +9,7 @@ description: 文本介绍如何使用 MapKit
 
 ---
 > 作者：PRANJAL SATIJA，[原文链接](http://www.appcoda.com/mapkit-beginner-guide/)，原文日期：2016-11-13
-> 译者：[TonyHan](undefined)；校对：[Cwift](http://weibo.com/277195544)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：TonyHan；校对：[Cwift](http://weibo.com/277195544)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

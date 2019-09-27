@@ -6,7 +6,7 @@ permalink: how-to-test-uialertcontroller-in-swift
 
 ---
 > 作者：Dominik Hauser，[原文链接](http://swiftandpainless.com/how-to-test-uialertcontroller-in-swift/)，原文日期：2015-09-18
-> 译者：[DianQK](undefined)；校对：[小铁匠Linus](http://linusling.com)；定稿：[小锅](http://www.swiftyper.com)
+> 译者：DianQK；校对：[小铁匠Linus](http://linusling.com)；定稿：[小锅](http://www.swiftyper.com)
   
 
 

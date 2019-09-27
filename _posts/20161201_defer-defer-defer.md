@@ -9,7 +9,7 @@ description: defer 译为延缓、推迟之意，那么 defer 这个语法声明
 
 ---
 > 作者：Erica Sadun，[原文链接](http://ericasadun.com/2016/11/14/defer-defer-defer/)，原文日期：2016-11-14
-> 译者：[Cyan](undefined)；校对：[小铁匠Linus](http://linusling.com)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：Cyan；校对：[小铁匠Linus](http://linusling.com)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

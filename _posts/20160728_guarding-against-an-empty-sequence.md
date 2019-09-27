@@ -9,7 +9,7 @@ description: 很多人都疑问要怎么防止序列（sequence）为空呢，�
 
 ---
 > 作者：Erica Sadun，[原文链接](http://ericasadun.com/2016/05/11/guarding-against-an-empty-sequence/)，原文日期：2016-05-11
-> 译者：[pucca](undefined)；校对：[wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：pucca；校对：[wiilen](http://www.jianshu.com/users/b7978363eb99/latest_articles)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

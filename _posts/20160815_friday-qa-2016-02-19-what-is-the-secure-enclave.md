@@ -9,7 +9,7 @@ description: iPhone 手机使用的 iOS Secure Enclave 模块是什么呢，为�
 
 ---
 > 作者：Mike Ash，[原文链接](https://www.mikeash.com/pyblog/friday-qa-2016-02-19-what-is-the-secure-enclave.html)，原文日期：2016-02-19
-> 译者：[littledogboy](undefined)；校对：[Cwift](http://weibo.com/277195544)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：littledogboy；校对：[Cwift](http://weibo.com/277195544)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

@@ -9,7 +9,7 @@ description:
 
 ---
 > 作者：MATTHIJS HOLLEMANS，[原文链接](http://machinethink.net/blog/using-types-to-keep-yourself-honest/)，原文日期：2016-03-25
-> 译者：[TonyHan](undefined)；校对：[Yousanflics](http://blog.yousanflics.com.cn)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：TonyHan；校对：[Yousanflics](http://blog.yousanflics.com.cn)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

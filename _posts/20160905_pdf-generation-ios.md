@@ -9,7 +9,7 @@ description: iOS 如何生成 PDF 文件你知道要怎么做吗，不会的来�
 
 ---
 > 作者：GABRIEL THEODOROPOULOS，[原文链接](http://www.appcoda.com/pdf-generation-ios/)，原文日期：2016-7-10
-> 译者：[X140Yu](undefined)；校对：[saitjr](http://www.saitjr.com)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：X140Yu；校对：[saitjr](http://www.saitjr.com)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

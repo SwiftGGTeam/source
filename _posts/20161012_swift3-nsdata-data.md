@@ -9,7 +9,7 @@ description: Swift 3 中有个变化是 Foundation 引用类型添加值类型�
 
 ---
 > 作者：Terhechte，[原文链接](http://appventure.me/2016/07/15/swift3-nsdata-data/)，原文日期：2016/07/15
-> 译者：[BigbigChai](https://github.com/chaiyixiao)；校对：[way](undefined)；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
+> 译者：[BigbigChai](https://github.com/chaiyixiao)；校对：way；定稿：[千叶知风](http://weibo.com/xiaoxxiao)
   
 
 

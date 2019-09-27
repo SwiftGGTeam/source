@@ -9,7 +9,7 @@ description:
 
 ---
 > 作者：Andyy Hope，[原文链接](https://medium.com/swift-programming/uistoryboard-safer-with-enums-protocol-extensions-and-generics-7aad3883b44d#.78boguiqy)，原文日期：2016-01-24
-> 译者：[jseanj](undefined)；校对：[saitjr](http://www.saitjr.com)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：jseanj；校对：[saitjr](http://www.saitjr.com)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

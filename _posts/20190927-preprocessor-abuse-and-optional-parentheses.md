@@ -8,7 +8,7 @@ description: Objective-C 中 C 语言宏定义扩展
 
 ---
 > 作者：Mike Ash，[原文链接](https://www.mikeash.com/pyblog/friday-qa-2015-03-20-preprocessor-abuse-and-optional-parentheses.html)，原文日期：2015-03-20
-> 译者：[俊东](undefined)；校对：[numbbbbb](http://numbbbbb.com/)，[Nemocdz](https://nemocdz.github.io/)；定稿：[Pancf](https://github.com/Pancf)
+> 译者：俊东；校对：[numbbbbb](http://numbbbbb.com/)，[Nemocdz](https://nemocdz.github.io/)；定稿：[Pancf](https://github.com/Pancf)
   
 
 

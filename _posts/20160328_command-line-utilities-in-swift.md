@@ -9,7 +9,7 @@ description: 对于用 Swift 写 Linux 命令行程序相信还有很多人不�
 
 ---
 > 作者：Joe，[原文链接](http://dev.iachieved.it/iachievedit/command-line-utilities-in-swift/)，原文日期：2015-12-28
-> 译者：[aaaron7](http://www.jianshu.com/users/9efd08855d3a/)；校对：[Cee](https://github.com/Cee)；定稿：[littledogboy](undefined)
+> 译者：[aaaron7](http://www.jianshu.com/users/9efd08855d3a/)；校对：[Cee](https://github.com/Cee)；定稿：littledogboy
   
 
 

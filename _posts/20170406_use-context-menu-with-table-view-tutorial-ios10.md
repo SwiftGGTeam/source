@@ -9,7 +9,7 @@ description:
 
 ---
 > 作者：Arthur Knopper，[原文链接](https://www.ioscreator.com/tutorials/use-context-menu-with-table-view-tutorial-ios10)，原文日期：2017-01-09
-> 译者：[钟颖Cyan](undefined)；校对：[Cwift](http://weibo.com/277195544)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：钟颖Cyan；校对：[Cwift](http://weibo.com/277195544)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

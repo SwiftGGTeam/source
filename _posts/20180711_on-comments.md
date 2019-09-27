@@ -9,7 +9,7 @@ description:
 
 ---
 > 作者：Soroush Khanlou，[原文链接](http://khanlou.com/2017/03/on-comments/)，原文日期：2017-03-22
-> 译者：[TonyHan](undefined)；校对：[liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6)，[Firecrest](undefined)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：TonyHan；校对：[liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6)，Firecrest；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

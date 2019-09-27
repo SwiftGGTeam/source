@@ -9,7 +9,7 @@ description: 很多人喜欢使用GitHub，但是你尝试过在GitHub上创建S
 
 ---
 > 作者：Erica Sadun，[原文链接](http://ericasadun.com/2015/12/27/creating-a-swift-package-on-github-not-as-easy-as-i-thought/)，原文日期：2015-12-27
-> 译者：[DianQK](undefined)；校对：[Cee](https://github.com/Cee)；定稿：[numbbbbb](http://numbbbbb.com/)
+> 译者：DianQK；校对：[Cee](https://github.com/Cee)；定稿：[numbbbbb](http://numbbbbb.com/)
   
 
 

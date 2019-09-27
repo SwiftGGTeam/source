@@ -9,7 +9,7 @@ description: 在 Linux 上怎么用 Swift 来写脚本呢，本文就来举例�
 
 ---
 > 作者：Joe，[原文链接](http://dev.iachieved.it/iachievedit/an-example-of-scripting-with-swift-on-linux/?utm_source=rss&utm_medium=rss)，原文日期：2016/06/27
-> 译者：[ahfepj](undefined)；校对：[saitjr](http://www.saitjr.com)；定稿：[Cee](https://github.com/Cee)
+> 译者：ahfepj；校对：[saitjr](http://www.saitjr.com)；定稿：[Cee](https://github.com/Cee)
   
 
 

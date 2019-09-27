@@ -9,7 +9,7 @@ description:
 
 ---
 > 作者：IOSCREATER，[原文链接](https://www.ioscreator.com/tutorials/multiple-outlets-tutorial)，原文日期：2016/02/08
-> 译者：[EyreFree](undefined)；校对：[DianQK](undefined)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：EyreFree；校对：DianQK；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

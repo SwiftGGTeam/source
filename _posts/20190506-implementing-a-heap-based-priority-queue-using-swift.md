@@ -9,7 +9,7 @@ description: "本文解释了优先级队列、堆等相关概念，并展示了
 
 ---
 > 作者：APPCODA EDITORIAL TEAM，[原文链接](https://appcoda.com/swift-algorithm/)，原文日期：2019-01-07
-> 译者：[Roc Zhang](undefined)；校对：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)，[numbbbbb](http://numbbbbb.com/)；定稿：[Forelax](http://forelax.space)
+> 译者：Roc Zhang；校对：[pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles)，[numbbbbb](http://numbbbbb.com/)；定稿：[Forelax](http://forelax.space)
   
 
 

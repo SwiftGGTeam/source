@@ -9,7 +9,7 @@ description:
 
 ---
 > 作者：Mike Ash，[原文链接](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)，原文日期：2015-07-17
-> 译者：[muhlenXi](http://muhlenxi.com/)；校对：[Firecrest](undefined)，[numbbbbb](http://numbbbbb.com/)，[Cee](https://github.com/Cee)；定稿：[CMB](https://github.com/chenmingbiao)
+> 译者：[muhlenXi](http://muhlenxi.com/)；校对：Firecrest，[numbbbbb](http://numbbbbb.com/)，[Cee](https://github.com/Cee)；定稿：[CMB](https://github.com/chenmingbiao)
   
 
 

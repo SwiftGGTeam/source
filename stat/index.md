@@ -5,26 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2019 年 9 月字数排行
+# 2019 年 10 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [Ji4n1ng](https://github.com/Ji4n1ng) | 15947 |
-| [灰s](https://github.com/dzyding) | 13942 |
-| [俊东](undefined) | 5142 |
-| [雨谨](https://github.com/mobilefellow) | 4500 |
-| [WAMaker](https://github.com/WAMaker) | 2920 |
+| [Nemocdz](https://nemocdz.github.io/) | 8199 |
 
 
-# 2019 年 9 月篇数排行
+# 2019 年 10 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [灰s](https://github.com/dzyding) | 1 |
-| [Ji4n1ng](https://github.com/Ji4n1ng) | 1 |
-| [WAMaker](https://github.com/WAMaker) | 1 |
-| [雨谨](https://github.com/mobilefellow) | 1 |
-| [俊东](undefined) | 1 |
+| [Nemocdz](https://nemocdz.github.io/) | 1 |
 
 
 # 翻译字数统计
@@ -60,12 +52,12 @@
 | [bestswifter](http://bestswifter.com) | 36630 |
 | [智多芯](http://hulizhen.me) | 36537 |
 | [阳仔](https://github.com/YangGao1991) | 35865 |
+| [Nemocdz](https://nemocdz.github.io/) | 35577 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 35553 |
 | [四娘](https://kemchenj.github.io) | 35056 |
 | [X140Yu](undefined) | 31496 |
 | [ckitakishi](undefined) | 30390 |
 | [东莞大唐和尚](https://weibo.com/u/5029986118) | 28126 |
-| [Nemocdz](https://nemocdz.github.io/) | 27378 |
 | [BigLuo](https://github.com/Adolf-L) | 26712 |
 | [BigNerdCoding](https://bignerdcoding.com/) | 25225 |
 | [rsenjoyer](https://github.com/rsenjoyer) | 25003 |
@@ -173,10 +165,10 @@
 | [pucca601](http://weibo.com/601pucca) | 4 |
 | [SketchK](http://www.sketchk.xyz) | 4 |
 | [littledogboy](undefined) | 4 |
-| [rsenjoyer](https://github.com/rsenjoyer) | 4 |
+| [Nemocdz](https://nemocdz.github.io/) | 4 |
 | [智多芯](http://hulizhen.me) | 4 |
+| [rsenjoyer](https://github.com/rsenjoyer) | 4 |
 | [EyreFree](undefined) | 3 |
-| [Nemocdz](https://nemocdz.github.io/) | 3 |
 | [jseanj](undefined) | 3 |
 | [pucca](undefined) | 3 |
 | [muhlenXi](http://muhlenxi.com/) | 3 |
@@ -223,7 +215,7 @@
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 143 |
+| [numbbbbb](http://numbbbbb.com/) | 144 |
 | [Cee](https://github.com/Cee) | 56 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
@@ -238,21 +230,21 @@
 | [小铁匠Linus](http://linusling.com) | 12 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
+| [靛青K](http://blog.dianqk.org/) | 7 |
 | [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 7 |
 | [冬瓜](http://www.desgard.com/) | 7 |
-| [靛青K](http://blog.dianqk.org/) | 7 |
 | [way](undefined) | 6 |
 | [Forelax](http://forelax.space) | 6 |
 | [mmoaay](http://www.jianshu.com/u/2d46948e84e3) | 5 |
+| [Firecrest](undefined) | 5 |
 | [BigNerdCoding](https://bignerdcoding.com/) | 5 |
 | [Prayer](http://www.futantan.com) | 5 |
-| [Firecrest](undefined) | 5 |
-| [Lision](https://lision.me/) | 4 |
 | [bestswifter](http://bestswifter.com) | 4 |
-| [wongzigii](https://github.com/wongzigii) | 3 |
-| [WAMaker](https://github.com/WAMaker) | 3 |
-| [CMB](https://github.com/chenmingbiao) | 3 |
+| [Lision](https://lision.me/) | 4 |
+| [WAMaker](https://github.com/WAMaker) | 4 |
 | [aaaron7](http://www.jianshu.com/users/9efd08855d3a/) | 3 |
+| [wongzigii](https://github.com/wongzigii) | 3 |
+| [CMB](https://github.com/chenmingbiao) | 3 |
 | [Joy](http://www.jianshu.com/users/9c51a213b02e/latest_articles) | 2 |
 | [Darren](https://github.com/Harman-darrenchen) | 2 |
 | [littledogboy](undefined) | 2 |
@@ -284,7 +276,7 @@
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
-| [Pancf](https://github.com/Pancf) | 7 |
+| [Pancf](https://github.com/Pancf) | 8 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [littledogboy](undefined) | 2 |
 | [小铁匠Linus](http://linusling.com) | 2 |

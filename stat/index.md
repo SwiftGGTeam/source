@@ -12,6 +12,7 @@
 | [Nemocdz](https://nemocdz.github.io/) | 16273 |
 | [jojotov](https://dingtz.com/) | 13603 |
 | [雨谨](https://github.com/mobilefellow) | 6537 |
+| [俊东](undefined) | 1216 |
 
 
 # 2019 年 10 月篇数排行
@@ -21,6 +22,7 @@
 | [Nemocdz](https://nemocdz.github.io/) | 2 |
 | [jojotov](https://dingtz.com/) | 1 |
 | [雨谨](https://github.com/mobilefellow) | 1 |
+| [俊东](undefined) | 1 |
 
 
 # 翻译字数统计
@@ -101,12 +103,12 @@
 | [钟颖Cyan](undefined) | 7534 |
 | [我偏笑](http://blog.csdn.net/nsnirvana) | 7012 |
 | [Sunnyyoung](https://www.sunnyyoung.net/) | 6672 |
+| [俊东](undefined) | 6358 |
 | [ray](undefined) | 6101 |
 | [Forelax](http://forelax.space) | 5579 |
 | [EyreFree](undefined) | 5572 |
 | [haolloyin](https://github.com/haolloyin) | 5336 |
 | [Roc Zhang](undefined) | 5214 |
-| [俊东](undefined) | 5142 |
 | [赵磊](undefined) | 4716 |
 | [石榴](https://github.com/alejx) | 4373 |
 | [imiem](https://imiem.github.io) | 4172 |
@@ -193,9 +195,9 @@
 | [Sunnyyoung](https://www.sunnyyoung.net/) | 2 |
 | [BridgeQ](http://wxgbridgeq.github.io/) | 2 |
 | [钟颖Cyan](undefined) | 2 |
-| [钟颖](https://github.com/cyanzhong) | 2 |
+| [俊东](undefined) | 2 |
 | [riven](http://weibo.com/riven0951) | 2 |
-| [&nbsp](https://github.com/initiOSJava) | 1 |
+| [钟颖](https://github.com/cyanzhong) | 2 |
 | [Lefe_x](undefined) | 1 |
 | [ennisk](https://weibo.com/u/1771329710) | 1 |
 | [imiem](https://imiem.github.io) | 1 |
@@ -212,14 +214,14 @@
 | [张弛](https://github.com/zhangchi25806) | 1 |
 | [Joeytat](https://github.com/joeytat) | 1 |
 | [Ji4n1ng](https://github.com/Ji4n1ng) | 1 |
-| [俊东](undefined) | 1 |
+| [&nbsp](https://github.com/initiOSJava) | 1 |
 
 
 # 校对篇数统计
 
 | 校对者 | 篇数 |
 | :------------: | :------------: |
-| [numbbbbb](http://numbbbbb.com/) | 147 |
+| [numbbbbb](http://numbbbbb.com/) | 148 |
 | [Cee](https://github.com/Cee) | 56 |
 | [walkingway](http://chengway.in/) | 43 |
 | [shanks](http://codebuild.me/) | 36 |
@@ -233,8 +235,8 @@
 | [小锅](http://www.swiftyper.com) | 15 |
 | [小铁匠Linus](http://linusling.com) | 12 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 11 |
+| [WAMaker](https://github.com/WAMaker) | 8 |
 | [lfb_CD](http://weibo.com/lfbWb) | 8 |
-| [WAMaker](https://github.com/WAMaker) | 7 |
 | [靛青K](http://blog.dianqk.org/) | 7 |
 | [liberalism](https://weibo.com/1743643682/profile?topnav=1&wvr=6) | 7 |
 | [冬瓜](http://www.desgard.com/) | 7 |
@@ -279,7 +281,7 @@
 | [Forelax](http://forelax.space) | 41 |
 | [Cee](https://github.com/Cee) | 28 |
 | [小锅](http://www.swiftyper.com) | 23 |
-| [Pancf](https://github.com/Pancf) | 11 |
+| [Pancf](https://github.com/Pancf) | 12 |
 | [Channe](http://www.jianshu.com/users/7a07113a6597/latest_articles) | 11 |
 | [星夜暮晨](http://www.jianshu.com/users/ef1058d2d851) | 3 |
 | [littledogboy](undefined) | 2 |

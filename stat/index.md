@@ -5,18 +5,18 @@
 
 你的付出，全世界都看得到 :]。
 
-# 2020 年 5 月字数排行
+# 2020 年 6 月字数排行
 
 | 译者 | 字数 |
 | :------------: | :------------: |
-| [ericchuhong](undefined) | 15148 |
 
 
-# 2020 年 5 月篇数排行
+
+# 2020 年 6 月篇数排行
 
 | 译者 | 篇数 |
 | :------------: | :------------: |
-| [ericchuhong](undefined) | 1 |
+
 
 
 # 翻译字数统计
@@ -26,7 +26,7 @@
 | [pmst](http://www.jianshu.com/users/596f2ba91ce9/latest_articles) | 173762 |
 | [小铁匠Linus](http://linusling.com) | 162543 |
 | [小锅](http://www.swiftyper.com) | 142700 |
-| [Cwift](http://weibo.com/277195544) | 138715 |
+| [Cwift](http://weibo.com/277195544) | 138718 |
 | [shanks](http://codebuild.me/) | 125187 |
 | [Crystal Sun](http://www.jianshu.com/users/7a2d2cc38444/latest_articles) | 123617 |
 | [ray16897188](http://www.jianshu.com/users/97c49dfd1f9f/latest_articles) | 107260 |
